@@ -1,6 +1,7 @@
 import pathlib
 
-from cldfbench import Dataset as BaseDataset
+from pylexibank import Dataset as BaseDataset
+from pylexibank import FormSpec
 
 
 class Dataset(BaseDataset):
@@ -17,6 +18,14 @@ class Dataset(BaseDataset):
 
         >>> args.writer.objects['LanguageTable'].append(...)
         """
+        # add bib
+        #args.writer.add_sources()
+        #args.log.info("added sources")
+
+        # add language
+        #args.writer.add_languages()
+        #args.log.info("added languages")
+        
         from csvw.dsv_dialects import Dialect
         currentid = 0
         for row in self.raw_dir.read_csv(
@@ -27,7 +36,11 @@ class Dataset(BaseDataset):
 
             args.writer.objects['FormTable'].append({
                 'ID': currentid,
-                'Form': row["form"],
-                'Gloss': row["sense"],
-                'Language_ID': 0})
+                'Language_ID': 0,
+                'Parameter_ID': currentid,
+                'Value': row["form"],})
+
+            args.writer.objects['ParameterTable'].append({
+                'ID': currentid,
+                'Name': row["sense"],})
             currentid+=1
