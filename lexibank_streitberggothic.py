@@ -6,8 +6,9 @@ from pylexibank import Language
 from pylexibank import FormSpec
 import attr
 
+@attr.s
 class CustomLanguage(Language):
-    pass
+    attr.ib(default=None)
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -18,21 +19,30 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(separators=",", first_form_only=True)
 
     def cmd_makecldf(self, args):
+    
         # add bib
         args.writer.add_sources()
         args.log.info("added sources")
 
         # add concept
-        concepts = {}
         for i, concept in enumerate(self.concepts):
-            idx = f"{i}_{slug(concept['sense'])}"
-            concepts[concept["sense"]] = idx
             args.writer.add_concept(
-                    ID=idx,
+                    ID=i,
                     Name=concept["sense"]
                     )
         args.log.info("added concepts")
-        
-        # add language
-        args.writer.add_languages()
             
+        args.writer.add_languages()
+        args.log.info("added languages")
+        
+        df = self.raw_dir.read_csv(
+            "Streitberg-1910-3659.tsv", delimiter="\t", 
+        )
+
+        for idx, row in enumerate(df[1:]):
+            args.writer.add_forms_from_value(
+                ID=idx,
+                Language_ID = "goth1244",
+                Parameter_ID = f"{idx}",
+                Value = row[0]
+                )
