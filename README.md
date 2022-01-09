@@ -20,19 +20,13 @@ Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 [![CLDF validation](https://github.com/martino-vic/streitberggothic/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/streitberggothic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 1
 - **Concepts:** 3,645
 - **Lexemes:** 3,645
-- **Sources:** 0
+- **Sources:** 1
 - **Synonymy:** 1.00
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 3645/3645 (100.00%)
 
 # Contributors
 

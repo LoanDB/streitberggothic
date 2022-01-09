@@ -6,9 +6,10 @@ from pylexibank import Language
 from pylexibank import FormSpec
 import attr
 
-@attr.s
+#@attr.s
 class CustomLanguage(Language):
-    attr.ib(default=None)
+    pass
+    #attr.ib(default=None)
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -31,18 +32,18 @@ class Dataset(BaseDataset):
                     Name=concept["sense"]
                     )
         args.log.info("added concepts")
-            
+        
+        # add languages
         args.writer.add_languages()
         args.log.info("added languages")
-        
-        df = self.raw_dir.read_csv(
-            "Streitberg-1910-3659.tsv", delimiter="\t", 
-        )
 
-        for idx, row in enumerate(df[1:]):
+        # add forms
+        for idx, row in enumerate(self.raw_dir.read_csv(
+                "Streitberg-1910-3659.tsv", delimiter="\t")[1:]):
             args.writer.add_forms_from_value(
                 ID=idx,
-                Language_ID = "goth1244",
-                Parameter_ID = f"{idx}",
-                Value = row[0]
+                Language_ID = str(0),
+                Parameter_ID = str(idx),
+                Value = row[0],
+                Source = "Streitberg1910"
                 )
