@@ -1,0 +1,57 @@
+{
+    "title": "Gothic",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Wilhelm Streitberg"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Jozef Van Loon",
+            "type": "Other"
+        },
+        {
+            "name": "Tom De Herdt",
+            "type": "Other"
+        },
+        {
+            "name": "Frank Kinnaer",
+            "type": "Other"
+        },
+        {
+            "name": "David Landau",
+            "type": "Other"
+        },
+        {
+            "name": "Robert Tannert",
+            "type": "Other"
+        },
+        {
+            "name": "Steven Van Assche",
+            "type": "Other"
+        },
+        {
+            "name": "Viktor Martinovi\u00c4\u2021",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Streitberg1910</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
