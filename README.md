@@ -5,6 +5,8 @@
 If you use these data please cite
 - the original source
   > Wilhelm Streitberg: Die Gotische Bibel \[The Gothic bible\] (1910)
+- the xml-version
+  > Jozef Van Loon et al.: Project Wulfila (2004)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
