@@ -62,10 +62,9 @@ def main():
     dfgot["sense"] = [i if only_roman_chars(i) else None for i in dfgot["sense"]]
     dfgot["sense"].fillna(value=dfgot["form"], inplace=True)
     
-    # only one form per row #pylexibank takes care of this
-    #dfgot["form"] = [i.split(", ") for i in dfgot["form"]]
-    #dfgot = dfgot.explode("form")
-
+    # remove brackets and their content
+    dfgot["sense"] = [re.sub("\(.*\)","", i) for i in dfgot["sense"]]
+    
     # write tsv
     dfgot.to_csv("Streitberg-1910-3659.tsv", index=False, encoding="utf-8", sep="\t")
 

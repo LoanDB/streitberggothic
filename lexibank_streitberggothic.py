@@ -6,6 +6,8 @@ from pylexibank import Language
 from pylexibank import FormSpec
 import attr
 
+REP = [(x, "") for x in "†*[]~?;+"] + [(" ", "_"), (",_", ", ")]
+
 #@attr.s
 class CustomLanguage(Language):
     pass
@@ -17,7 +19,8 @@ class Dataset(BaseDataset):
     
     language_class = CustomLanguage
     
-    form_spec = FormSpec(separators=",", first_form_only=True)
+    form_spec = FormSpec(separators=",", first_form_only=True,
+        replacements=REP)
 
     def cmd_makecldf(self, args):
     
