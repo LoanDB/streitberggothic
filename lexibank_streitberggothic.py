@@ -6,12 +6,10 @@ from pylexibank import Language
 from pylexibank import FormSpec
 import attr
 
-REP = [(x, "") for x in "†*[]~?;+"] + [(" ", "_"), (",_", ", ")]
+REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")]
 
-#@attr.s
 class CustomLanguage(Language):
     pass
-    #attr.ib(default=None)
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -50,3 +48,4 @@ class Dataset(BaseDataset):
                 Value = row[0],
                 Source = "Streitberg1910"
                 )
+                
