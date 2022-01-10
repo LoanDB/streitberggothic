@@ -1,21 +1,13 @@
 import pathlib
 
-from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
-from pylexibank import Language
 from pylexibank import FormSpec
-import attr
 
 REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")]
-
-class CustomLanguage(Language):
-    pass
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "streitberggothic"
-    
-    language_class = CustomLanguage
     
     form_spec = FormSpec(separators=",", first_form_only=True,
         replacements=REP)
@@ -48,4 +40,5 @@ class Dataset(BaseDataset):
                 Value = row[0],
                 Source = "Streitberg1910"
                 )
-                
+        args.log.info("added forms")
+        
