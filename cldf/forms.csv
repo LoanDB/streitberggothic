@@ -1160,7 +1160,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1158-1,,0,1158,giba,giba,g i β a,,557564,,,^ g iba $,default,ɡɪβa
 0-1159-1,,0,1159,giban,giban,g i β a n,,557564,,,^ g iba n $,default,ɡɪβan
 0-1160-1,,0,1160,gibands,gibands,g i β a n d s,,557564,,,^ g iba n d s $,default,ɡɪβands
-0-1161-1,,0,1161,af-giban sik,afgiban_sik,a ɸ g i β a n + s ɪ k,,557564,,,^ a f g iba n _ s i k $,default,aɸɡɪβan_sɪk
+0-1161-1,,0,1161,af-giban sik,afgiban_sik,a ɸ g i β a n s ɪ k,,557564,,,^ a f g iba n _ s i k $,default,aɸɡɪβan_sɪk
 0-1162-1,,0,1162,at-giban,atgiban,a t g i β a n,,557564,,,^ a t g iba n $,default,atɡɪβan
 0-1163-1,,0,1163,fra-giban,fragiban,ɸ r a ɣ i b a n,,557564,,,^ f r agi b a n $,default,ɸraɣɪβan
 0-1164-1,,0,1164,us-giban,usgiban,u s g i β a n,,557564,,,^ u s g iba n $,default,usɡɪβan
@@ -1595,7 +1595,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1593-1,,0,1593,Ioreim,ioreim,ɪ o r i m,,557564,,,^ i o r ei m $,default,ɪorim
 0-1594-1,,0,1594,Iosef,iosef,ɪ o s e ɸ,,557564,,,^ i o s e f $,default,ɪoseɸ
 0-1595-1,,0,1595,Iosezis,iosezis,ɪ o s e z ɪ s,,557564,,,^ i o s e z i s $,default,ɪosezɪs
-0-1596-1,,0,1596,"is M, si F, ita N",is_m,ɪ s + m,,557564,,,^ i s _ m $,default,ɪs_m
+0-1596-1,,0,1596,"is M, si F, ita N",is_m,ɪ s m,,557564,,,^ i s _ m $,default,ɪs_m
 0-1597-1,,0,1597,Isak,isak,ɪ s a k,,557564,,,^ i s a k $,default,ɪsak
 0-1598-1,,0,1598,Iskariotes,iskariotes,ɪ s k a r ɪ o t e s,,557564,,,^ i s k a r i o t e s $,default,ɪskarɪotes
 0-1599-1,,0,1599,Israel,israel,ɪ s r a e l,,557564,,,^ i s r a e l $,default,ɪsrael
@@ -2009,7 +2009,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2007-1,,0,2007,ga-manwjan,gamanwjan,g a m a n w j a n,,557564,,,^ g a m a n w j a n $,default,ɡamanwjan
 0-2008-1,,0,2008,faura-gamanwjan,fauragamanwjan,ɸ ɔ r a ɣ a m a n w j a n,,557564,,,^ f au r aga m a n w j a n $,default,ɸɔraɣamanwjan
 0-2009-1,,0,2009,manwus,manwus,m a n w u s,,557564,,,^ m a n w u s $,default,manwus
-0-2010-1,,0,2010,maran aþa,maran_aþa,m a r a n + a θ a,,557564,,,^ m a r a n _ a þ a $,default,maran_aθa
+0-2010-1,,0,2010,maran aþa,maran_aþa,m a r a n a θ a,,557564,,,^ m a r a n _ a þ a $,default,maran_aθa
 0-2011-1,,0,2011,marei,marei,m a r i,,557564,,,^ m a r ei $,default,mari
 0-2012-1,,0,2012,Maria,maria,m a r ɪ a,,557564,,,^ m a r i a $,default,marɪa
 0-2013-1,,0,2013,marikreitum,marikreitum,m a r ɪ k r i t u m,,557564,,,^ m a r i k r ei t u m $,default,marɪkritum

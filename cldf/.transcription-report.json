@@ -6,9 +6,6 @@
             ],
             "general_errors": 6,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -176,7 +173,6 @@
                 "\u00fe"
             ],
             "segments": {
-                "+": 3,
                 "a": 4175,
                 "b": 333,
                 "b\u02d0": 6,
@@ -287,11 +283,8 @@
         "general_errors": 6,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 56.0,
+        "inventory_size": 55.0,
         "replacements": {
-            "+": [
-                "+"
-            ],
             "a": [
                 "a"
             ],
@@ -459,7 +452,6 @@
             "\u00fe"
         ],
         "segments": {
-            "+": 3,
             "a": 4175,
             "b": 333,
             "b\u02d0": 6,

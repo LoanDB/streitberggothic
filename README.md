@@ -30,9 +30,9 @@ Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 25,021
-- **Segments:** 56 (1 BIPA errors, 1 CTLS sound class errors, 55 CLTS modified)
-- **Inventory size (avg):** 56.00
+- **Tokens:** 25,018
+- **Segments:** 55 (1 BIPA errors, 1 CTLS sound class errors, 54 CLTS modified)
+- **Inventory size (avg):** 55.00
 
 # Contributors
 
