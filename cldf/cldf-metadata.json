@@ -1,20 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Streitberg1910",
+    "dc:bibliographicCitation": "Streitberg 1910, Van Loon 2004",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://www.wulfila.be/lib/streitberg/1910/text/html/",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Gothic",
+    "dc:title": "CLDF dataset derived from Streitberg's 'Die Gotische Bibel [The Gothic bible]' from 1910",
     "dcat:accessURL": "https://github.com/martino-vic/streitberggothic",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/martino-vic/streitberggothic",
             "rdf:type": "prov:Entity",
-            "dc:created": "b5c5b19",
+            "dc:created": "8fe12c3",
             "dc:title": "Repository"
         },
         {

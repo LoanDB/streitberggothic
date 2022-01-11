@@ -1,10 +1,10 @@
-# Gothic
+# CLDF dataset derived from Streitberg's 'Die Gotische Bibel [The Gothic bible]' from 1910
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Streitberg1910
+  > Streitberg 1910, Van Loon 2004
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
