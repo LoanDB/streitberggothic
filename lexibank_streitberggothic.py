@@ -3,7 +3,8 @@ import pathlib
 from pylexibank import Dataset as BaseDataset
 from pylexibank import FormSpec
 
-REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")]
+REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")] +\
+      [(x, x.lower()) for x in 'ABDEFGHIJKLMNOPQRSTUWXZÞ']
 
 
 class Dataset(BaseDataset):
@@ -39,6 +40,6 @@ class Dataset(BaseDataset):
                 Language_ID=str(0),
                 Parameter_ID=str(idx),
                 Value=row[0],
-                Source="557564"
-                )
+                Source="557564")
+                
         args.log.info("added forms")

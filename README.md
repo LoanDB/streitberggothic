@@ -1,12 +1,10 @@
-# CLDF dataset derived from Streitberg's "Die Gotische Bibel \[The Gothic bible\]" from 1910
+# Gothic
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Wilhelm Streitberg: Die Gotische Bibel \[The Gothic bible\] (1910)
-- the xml-version
-  > Jozef Van Loon et al.: Project Wulfila (2004)
+  > Streitberg1910
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -23,12 +21,18 @@ Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 22%](https://img.shields.io/badge/BIPA-22%25-red.svg "BIPA: 22%")
+![CLTS SoundClass: 22%](https://img.shields.io/badge/CLTS%20SoundClass-22%25-red.svg "CLTS SoundClass: 22%")
 
 - **Varieties:** 1
 - **Concepts:** 3,645
 - **Lexemes:** 3,645
 - **Sources:** 1
 - **Synonymy:** 1.00
+- **Invalid lexemes:** 0
+- **Tokens:** 23,571
+- **Segments:** 183 (143 BIPA errors, 143 CTLS sound class errors, 40 CLTS modified)
+- **Inventory size (avg):** 183.00
 
 # Contributors
 

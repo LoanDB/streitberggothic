@@ -17,7 +17,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `True`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
-- `replacements`: `[('†', ''), ('*', ''), ('[', ''), (']', ''), ('~', ''), ('?', ''), (';', ''), ('+', ''), ('-', ''), (' ', '_'), (',_', ', ')]`
+- `replacements`: `[('†', ''), ('*', ''), ('[', ''), (']', ''), ('~', ''), ('?', ''), (';', ''), ('+', ''), ('-', ''), (' ', '_'), (',_', ', '), ('A', 'a'), ('B', 'b'), ('D', 'd'), ('E', 'e'), ('F', 'f'), ('G', 'g'), ('H', 'h'), ('I', 'i'), ('J', 'j'), ('K', 'k'), ('L', 'l'), ('M', 'm'), ('N', 'n'), ('O', 'o'), ('P', 'p'), ('Q', 'q'), ('R', 'r'), ('S', 's'), ('T', 't'), ('U', 'u'), ('W', 'w'), ('X', 'x'), ('Z', 'z'), ('Þ', 'þ')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
 - `first_form_only`: `True`
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.

@@ -7,7 +7,7 @@ i	ɪ
 í	i	
 ì	i	
 ī	i	
-ei	iː	
+ei	i	
 e	eː	
 ē	eː	
 o	oː	
@@ -244,7 +244,6 @@ abm	aβm
 abn	aβn	
 abp	aβp	
 abf	aβf	
-abb	aβb	
 abk	aβk	
 abx	aβx	
 abq	aβq	
@@ -286,7 +285,6 @@ adh	aðh
 adg	aðg	
 adt	aðt	
 adþ	aðþ	
-add	aðd	
 ads	aðs	
 adz	aðz	
 aga	aɣa	
@@ -346,7 +344,6 @@ agz	aɣz
 ábn	áβn	
 ábp	áβp	
 ábf	áβf	
-ább	áβb	
 ábk	áβk	
 ábx	áβx	
 ábq	áβq	
@@ -388,7 +385,6 @@ agz	aɣz
 ádg	áðg	
 ádt	áðt	
 ádþ	áðþ	
-ádd	áðd	
 áds	áðs	
 ádz	áðz	
 ága	áɣa	
@@ -448,7 +444,6 @@ agz	aɣz
 àbn	àβn	
 àbp	àβp	
 àbf	àβf	
-àbb	àβb	
 àbk	àβk	
 àbx	àβx	
 àbq	àβq	
@@ -490,7 +485,6 @@ agz	aɣz
 àdg	àðg	
 àdt	àðt	
 àdþ	àðþ	
-àdd	àðd	
 àds	àðs	
 àdz	àðz	
 àga	àɣa	
@@ -550,7 +544,6 @@ agz	aɣz
 ābn	āβn	
 ābp	āβp	
 ābf	āβf	
-ābb	āβb	
 ābk	āβk	
 ābx	āβx	
 ābq	āβq	
@@ -592,7 +585,6 @@ agz	aɣz
 ādg	āðg	
 ādt	āðt	
 ādþ	āðþ	
-ādd	āðd	
 āds	āðs	
 ādz	āðz	
 āga	āɣa	
@@ -652,7 +644,6 @@ ibm	iβm
 ibn	iβn	
 ibp	iβp	
 ibf	iβf	
-ibb	iβb	
 ibk	iβk	
 ibx	iβx	
 ibq	iβq	
@@ -694,7 +685,6 @@ idh	iðh
 idg	iðg	
 idt	iðt	
 idþ	iðþ	
-idd	iðd	
 ids	iðs	
 idz	iðz	
 iga	iɣa	
@@ -754,7 +744,6 @@ igz	iɣz
 íbn	íβn	
 íbp	íβp	
 íbf	íβf	
-íbb	íβb	
 íbk	íβk	
 íbx	íβx	
 íbq	íβq	
@@ -796,7 +785,6 @@ igz	iɣz
 ídg	íðg	
 ídt	íðt	
 ídþ	íðþ	
-ídd	íðd	
 íds	íðs	
 ídz	íðz	
 íga	íɣa	
@@ -856,7 +844,6 @@ igz	iɣz
 ìbn	ìβn	
 ìbp	ìβp	
 ìbf	ìβf	
-ìbb	ìβb	
 ìbk	ìβk	
 ìbx	ìβx	
 ìbq	ìβq	
@@ -898,7 +885,6 @@ igz	iɣz
 ìdg	ìðg	
 ìdt	ìðt	
 ìdþ	ìðþ	
-ìdd	ìðd	
 ìds	ìðs	
 ìdz	ìðz	
 ìga	ìɣa	
@@ -958,7 +944,6 @@ igz	iɣz
 ībn	īβn	
 ībp	īβp	
 ībf	īβf	
-ībb	īβb	
 ībk	īβk	
 ībx	īβx	
 ībq	īβq	
@@ -1000,7 +985,6 @@ igz	iɣz
 īdg	īðg	
 īdt	īðt	
 īdþ	īðþ	
-īdd	īðd	
 īds	īðs	
 īdz	īðz	
 īga	īɣa	
@@ -1060,7 +1044,6 @@ ebm	eβm
 ebn	eβn	
 ebp	eβp	
 ebf	eβf	
-ebb	eβb	
 ebk	eβk	
 ebx	eβx	
 ebq	eβq	
@@ -1102,7 +1085,6 @@ edh	eðh
 edg	eðg	
 edt	eðt	
 edþ	eðþ	
-edd	eðd	
 eds	eðs	
 edz	eðz	
 ega	eɣa	
@@ -1162,7 +1144,6 @@ egz	eɣz
 ēbn	ēβn	
 ēbp	ēβp	
 ēbf	ēβf	
-ēbb	ēβb	
 ēbk	ēβk	
 ēbx	ēβx	
 ēbq	ēβq	
@@ -1204,7 +1185,6 @@ egz	eɣz
 ēdg	ēðg	
 ēdt	ēðt	
 ēdþ	ēðþ	
-ēdd	ēðd	
 ēds	ēðs	
 ēdz	ēðz	
 ēga	ēɣa	
@@ -1264,7 +1244,6 @@ obm	oβm
 obn	oβn	
 obp	oβp	
 obf	oβf	
-obb	oβb	
 obk	oβk	
 obx	oβx	
 obq	oβq	
@@ -1306,7 +1285,6 @@ odh	oðh
 odg	oðg	
 odt	oðt	
 odþ	oðþ	
-odd	oðd	
 ods	oðs	
 odz	oðz	
 oga	oɣa	
@@ -1366,7 +1344,6 @@ ogz	oɣz
 ōbn	ōβn	
 ōbp	ōβp	
 ōbf	ōβf	
-ōbb	ōβb	
 ōbk	ōβk	
 ōbx	ōβx	
 ōbq	ōβq	
@@ -1408,7 +1385,6 @@ ogz	oɣz
 ōdg	ōðg	
 ōdt	ōðt	
 ōdþ	ōðþ	
-ōdd	ōðd	
 ōds	ōðs	
 ōdz	ōðz	
 ōga	ōɣa	
@@ -1468,7 +1444,6 @@ ubm	uβm
 ubn	uβn	
 ubp	uβp	
 ubf	uβf	
-ubb	uβb	
 ubk	uβk	
 ubx	uβx	
 ubq	uβq	
@@ -1510,7 +1485,6 @@ udh	uðh
 udg	uðg	
 udt	uðt	
 udþ	uðþ	
-udd	uðd	
 uds	uðs	
 udz	uðz	
 uga	uɣa	
@@ -1570,7 +1544,6 @@ ugz	uɣz
 ūbn	ūβn	
 ūbp	ūβp	
 ūbf	ūβf	
-ūbb	ūβb	
 ūbk	ūβk	
 ūbx	ūβx	
 ūbq	ūβq	
@@ -1612,7 +1585,6 @@ ugz	uɣz
 ūdg	ūðg	
 ūdt	ūðt	
 ūdþ	ūðþ	
-ūdd	ūðd	
 ūds	ūðs	
 ūdz	ūðz	
 ūga	ūɣa	
