@@ -21,8 +21,8 @@ Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 96%](https://img.shields.io/badge/BIPA-96%25-green.svg "BIPA: 96%")
-![CLTS SoundClass: 96%](https://img.shields.io/badge/CLTS%20SoundClass-96%25-green.svg "CLTS SoundClass: 96%")
+![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
+![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
 
 - **Varieties:** 1
 - **Concepts:** 3,645
@@ -30,9 +30,9 @@ Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 25,053
-- **Segments:** 54 (2 BIPA errors, 2 CTLS sound class errors, 52 CLTS modified)
-- **Inventory size (avg):** 54.00
+- **Tokens:** 25,018
+- **Segments:** 55 (1 BIPA errors, 1 CTLS sound class errors, 54 CLTS modified)
+- **Inventory size (avg):** 55.00
 
 # Contributors
 

@@ -77,12 +77,12 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-75-1,,0,75,aƕa,aƕa,a ʍ a,,557564,,,^ a ƕ a $,default,aʍa
 0-76-1,,0,76,[Aia],aia,ɛ a,,557564,,,^ ai a $,default,ɛa
 0-77-1,,0,77,Aibair,aibair,ɛ b ɛ r,,557564,,,^ ai b ai r $,default,ɛβɛr
-0-78-1,,0,78,†aibr,aibr,ɛ b r̥ $,,557564,,,^ ai br$,default,ɛβr̥
+0-78-1,,0,78,†aibr,aibr,ɛ b r̥,,557564,,,^ ai br$,default,ɛβr̥
 0-79-1,,0,79,Aiddua,aiddua,ɛ dː u a,,557564,,,^ ai dd u a $,default,ɛdːua
 0-80-1,,0,80,Aieira,aieira,ɛ i r a,,557564,,,^ ai ei r a $,default,ɛira
 0-81-1,,0,81,Aifaisius*,aifaisius,ɛ ɸ ɛ s i u s,,557564,,,^ ai f ai s iu s $,default,ɛɸɛsɪus
 0-82-1,,0,82,Aifaiso*,aifaiso,ɛ ɸ ɛ s o,,557564,,,^ ai f ai s o $,default,ɛɸɛso
-0-83-1,,0,83,aiffaþa,aiffaþa,ɛ ɸ ɸ a θ a,,557564,,,^ ai f f a þ a $,default,ɛɸːaθa
+0-83-1,,0,83,aiffaþa,aiffaþa,ɛ ɸː a θ a,,557564,,,^ ai ff a þ a $,default,ɛɸːaθa
 0-84-1,,0,84,aigan*,aigan,ɛ g a n,,557564,,,^ ai g a n $,default,ɛɣan
 0-85-1,,0,85,fair-aihan,fairaihan,ɸ ɛ r ɛ h a n,,557564,,,^ f ai r ai h a n $,default,ɸɛrɛhan
 0-86-1,,0,86,aigin,aigin,ɛ g ɪ n,,557564,,,^ ai g i n $,default,ɛɣɪn
@@ -267,7 +267,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-265-1,,0,265,andawairþi,andawairþi,a n d a w ɛ r θ ɪ,,557564,,,^ a n d a w ai r þ i $,default,andawɛrθɪ
 0-266-1,,0,266,andawaurdi,andawaurdi,a n d a w ɔ r d ɪ,,557564,,,^ a n d a w au r d i $,default,andawɔrdɪ
 0-267-1,,0,267,andawizns,andawizns,a n d a w ɪ z n̥ s,,557564,,,^ a n d a w i zns $,default,andawɪzn̥s
-0-268-1,,0,268,andawleizn*,andawleizn,a n d a w l i z n̥ $,,557564,,,^ a n d a w l ei zn$,default,andawlizn̥
+0-268-1,,0,268,andawleizn*,andawleizn,a n d a w l i z n̥,,557564,,,^ a n d a w l ei zn$,default,andawlizn̥
 0-269-1,,0,269,andbahti,andbahti,a n d b a h t ɪ,,557564,,,^ a n d b a h t i $,default,andbahtɪ
 0-270-1,,0,270,andbahtjan,andbahtjan,a n d b a h t j a n,,557564,,,^ a n d b a h t j a n $,default,andbahtjan
 0-271-1,,0,271,andbahts,andbahts,a n d b a h t s,,557564,,,^ a n d b a h t s $,default,andbahts
@@ -389,7 +389,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-387-1,,0,387,aweþi,aweþi,a w e θ ɪ,,557564,,,^ a w e þ i $,default,aweθɪ
 0-388-1,,0,388,awiliudon,awiliudon,a w ɪ l i u d o n,,557564,,,^ a w i l iu d o n $,default,awɪlɪuðon
 0-389-1,,0,389,awiliuþ,awiliuþ,a w ɪ l i u θ,,557564,,,^ a w i l iu þ $,default,awɪlɪuθ
-0-390-1,,0,390,awistr*,awistr,a w ɪ s t r̥ $,,557564,,,^ a w i s tr$,default,awɪstr̥
+0-390-1,,0,390,awistr*,awistr,a w ɪ s t r̥,,557564,,,^ a w i s tr$,default,awɪstr̥
 0-391-1,,0,391,awo,awo,a w o,,557564,,,^ a w o $,default,awo
 0-392-1,,0,392,Axaïa,axaïa,a χ a i a,,557564,,,^ a x a ï a $,default,aχɛ̈a
 0-393-1,,0,393,azetjam,azetjam,a z e t j a m,,557564,,,^ a z e t j a m $,default,azetjam
@@ -455,7 +455,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-453-1,,0,453,barbarus,barbarus,b a r b a r u s,,557564,,,^ b a r b a r u s $,default,barbarus
 0-454-1,,0,454,barizeins,barizeins,b a r ɪ z i n s,,557564,,,^ b a r i z ei n s $,default,barɪzins
 0-455-1,,0,455,barms,barms,b a r m̥ s,,557564,,,^ b a rms $,default,barm̥s
-0-456-1,,0,456,barn,barn,b a r n̥ $,,557564,,,^ b a rn$,default,barn̥
+0-456-1,,0,456,barn,barn,b a r n̥,,557564,,,^ b a rn$,default,barn̥
 0-457-1,,0,457,Barnabas,barnabas,b a r n a β a s,,557564,,,^ b a r n aba s $,default,barnaβas
 0-458-1,,0,458,barnilo,barnilo,b a r n ɪ l o,,557564,,,^ b a r n i l o $,default,barnɪlo
 0-459-1,,0,459,barniskei,barniskei,b a r n ɪ s k i,,557564,,,^ b a r n i s k ei $,default,barnɪski
@@ -711,7 +711,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-709-1,,0,709,ei,ei,i,,557564,,,^ ei $,default,i
 0-710-1,,0,710,Eiaireiko,eiaireiko,i ɛ r i k o,,557564,,,^ ei ai r ei k o $,default,iɛriko
 0-711-1,,0,711,Eikaunion,eikaunion,i k ɔ n ɪ o n,,557564,,,^ ei k au n i o n $,default,ikɔnɪon
-0-712-1,,0,712,eisarn,eisarn,i s a r n̥ $,,557564,,,^ ei s a rn$,default,isarn̥
+0-712-1,,0,712,eisarn,eisarn,i s a r n̥,,557564,,,^ ei s a rn$,default,isarn̥
 0-713-1,,0,713,eisarnabandi,eisarnabandi,i s a r n a β a n d ɪ,,557564,,,^ ei s a r n aba n d i $,default,isarnaβandɪ
 0-714-1,,0,714,eisarneins,eisarneins,i s a r n i n s,,557564,,,^ ei s a r n ei n s $,default,isarnins
 0-715-1,,0,715,eiþan,eiþan,i θ a n,,557564,,,^ ei þ a n $,default,iθan
@@ -752,7 +752,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-750-1,,0,750,fairns*,fairns,ɸ ɛ r n̥ s,,557564,,,^ f ai rns $,default,ɸɛrn̥s
 0-751-1,,0,751,fairra,fairra,ɸ ɛ rː a,,557564,,,^ f ai rr a $,default,ɸɛrːa
 0-752-1,,0,752,fairraþro,fairraþro,ɸ ɛ rː a θ r o,,557564,,,^ f ai rr a þ r o $,default,ɸɛrːaθro
-0-753-1,,0,753,fairweitl,fairweitl,ɸ ɛ r w i t l̥ $,,557564,,,^ f ai r w ei tl$,default,ɸɛrwitl̥
+0-753-1,,0,753,fairweitl,fairweitl,ɸ ɛ r w i t l̥,,557564,,,^ f ai r w ei tl$,default,ɸɛrwitl̥
 0-754-1,,0,754,fairzna,fairzna,ɸ ɛ r z n a,,557564,,,^ f ai r z n a $,default,ɸɛrzna
 0-755-1,,0,755,Falaig,falaig,ɸ a l ɛ g,,557564,,,^ f a l ai g $,default,ɸalɛɣ
 0-756-1,,0,756,†Fallasur,fallasur,ɸ a lː a s u r,,557564,,,^ f a ll a s u r $,default,ɸalːasur
@@ -814,7 +814,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-812-1,,0,812,filegri,filegri,ɸ ɪ l e ɣ r ɪ,,557564,,,^ f i l egr i $,default,ɸɪleɣrɪ
 0-813-1,,0,813,Filetus,filetus,ɸ ɪ l e t u s,,557564,,,^ f i l e t u s $,default,ɸɪletus
 0-814-1,,0,814,filhan,filhan,ɸ ɪ l h a n,,557564,,,^ f i l h a n $,default,ɸɪlhan
-0-815-1,,0,815,af-filhan,affilhan,a ɸ ɸ ɪ l h a n,,557564,,,^ a f f i l h a n $,default,aɸːɪlhan
+0-815-1,,0,815,af-filhan,affilhan,a ɸː ɪ l h a n,,557564,,,^ a ff i l h a n $,default,aɸːɪlhan
 0-816-1,,0,816,ana-filhan,anafilhan,a n a ɸ ɪ l h a n,,557564,,,^ a n a f i l h a n $,default,anaɸɪlhan
 0-817-1,,0,817,ga-filhan,gafilhan,g a ɸ ɪ l h a n,,557564,,,^ g a f i l h a n $,default,ɡaɸɪlhan
 0-818-1,,0,818,us-filhan,usfilhan,u s ɸ ɪ l h a n,,557564,,,^ u s f i l h a n $,default,usɸɪlhan
@@ -1168,7 +1168,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1166-1,,0,1166,gild,gild,g ɪ l d,,557564,,,^ g i l d $,default,ɡɪld
 0-1167-1,,0,1167,fra-gildan,fragildan,ɸ r a ɣ i l d a n,,557564,,,^ f r agi l d a n $,default,ɸraɣɪldan
 0-1168-1,,0,1168,us-gildan,usgildan,u s g ɪ l d a n,,557564,,,^ u s g i l d a n $,default,usɡɪldan
-0-1169-1,,0,1169,gilstr,gilstr,g ɪ l s t r̥ $,,557564,,,^ g i l s tr$,default,ɡɪlstr̥
+0-1169-1,,0,1169,gilstr,gilstr,g ɪ l s t r̥,,557564,,,^ g i l s tr$,default,ɡɪlstr̥
 0-1170-1,,0,1170,gilstrameleins,gilstrameleins,g ɪ l s t r a m e l i n s,,557564,,,^ g i l s t r a m e l ei n s $,default,ɡɪlstramelins
 0-1171-1,,0,1171,gilþa,gilþa,g ɪ l θ a,,557564,,,^ g i l þ a $,default,ɡɪlθa
 0-1172-1,,0,1172,du-ginnan,duginnan,d u ɣ i nː a n,,557564,,,^ d ugi nn a n $,default,duɣɪnːan
@@ -1316,8 +1316,8 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1314-1,,0,1314,haubiþ,haubiþ,h ɔ b ɪ θ,,557564,,,^ h au b i þ $,default,hɔβɪθ
 0-1315-1,,0,1315,hauhei,hauhei,h ɔ h i,,557564,,,^ h au h ei $,default,hɔhi
 0-1316-1,,0,1316,hauheins,hauheins,h ɔ h i n s,,557564,,,^ h au h ei n s $,default,hɔhins
-0-1317-1,,0,1317,hauhhairtei,hauhhairtei,h ɔ h h ɛ r t i,,557564,,,^ h au h h ai r t ei $,default,hɔhhɛrti
-0-1318-1,,0,1318,hauhhairts,hauhhairts,h ɔ h h ɛ r t s,,557564,,,^ h au h h ai r t s $,default,hɔhhɛrts
+0-1317-1,,0,1317,hauhhairtei,hauhhairtei,h ɔ hː ɛ r t i,,557564,,,^ h au hh ai r t ei $,default,hɔhhɛrti
+0-1318-1,,0,1318,hauhhairts,hauhhairts,h ɔ hː ɛ r t s,,557564,,,^ h au hh ai r t s $,default,hɔhhɛrts
 0-1319-1,,0,1319,hauhisti*,hauhisti,h ɔ h ɪ s t ɪ,,557564,,,^ h au h i s t i $,default,hɔhɪstɪ
 0-1320-1,,0,1320,hauhiþa,hauhiþa,h ɔ h ɪ θ a,,557564,,,^ h au h i þ a $,default,hɔhɪθa
 0-1321-1,,0,1321,hauhjan,hauhjan,h ɔ h j a n,,557564,,,^ h au h j a n $,default,hɔhjan
@@ -1336,7 +1336,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1334-1,,0,1334,hauns,hauns,h ɔ n s,,557564,,,^ h au n s $,default,hɔns
 0-1335-1,,0,1335,haurds,haurds,h ɔ r d s,,557564,,,^ h au r d s $,default,hɔrds
 0-1336-1,,0,1336,hauri,hauri,h ɔ r ɪ,,557564,,,^ h au r i $,default,hɔrɪ
-0-1337-1,,0,1337,haurn,haurn,h ɔ r n̥ $,,557564,,,^ h au rn$,default,hɔrn̥
+0-1337-1,,0,1337,haurn,haurn,h ɔ r n̥,,557564,,,^ h au rn$,default,hɔrn̥
 0-1338-1,,0,1338,haurnja,haurnja,h ɔ r n j a,,557564,,,^ h au r n j a $,default,hɔrnja
 0-1339-1,,0,1339,haurnjan,haurnjan,h ɔ r n j a n,,557564,,,^ h au r n j a n $,default,hɔrnjan
 0-1340-1,,0,1340,hauseins,hauseins,h ɔ s i n s,,557564,,,^ h au s ei n s $,default,hɔsins
@@ -1458,7 +1458,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1456-1,,0,1456,hugs*,hugs,h u ɣ s,,557564,,,^ h ugs $,default,huɣs
 0-1457-1,,0,1457,huhjan,huhjan,h u h j a n,,557564,,,^ h u h j a n $,default,huhjan
 0-1458-1,,0,1458,huhrus,huhrus,h u h r u s,,557564,,,^ h u h r u s $,default,huhrus
-0-1459-1,,0,1459,hulistr,hulistr,h u l ɪ s t r̥ $,,557564,,,^ h u l i s tr$,default,hulɪstr̥
+0-1459-1,,0,1459,hulistr,hulistr,h u l ɪ s t r̥,,557564,,,^ h u l i s tr$,default,hulɪstr̥
 0-1460-1,,0,1460,huljan,huljan,h u l j a n,,557564,,,^ h u l j a n $,default,huljan
 0-1461-1,,0,1461,and-huljan,andhuljan,a n d h u l j a n,,557564,,,^ a n d h u l j a n $,default,andhuljan
 0-1462-1,,0,1462,dis-huljan,dishuljan,d ɪ s h u l j a n,,557564,,,^ d i s h u l j a n $,default,dɪshuljan
@@ -1470,7 +1470,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1468-1,,0,1468,hunda,hunda,h u n d a,,557564,,,^ h u n d a $,default,hunda
 0-1469-1,,0,1469,hundafaþs,hundafaþs,h u n d a ɸ a θ s,,557564,,,^ h u n d a f a þ s $,default,hundaɸaθs
 0-1470-1,,0,1470,hunds,hunds,h u n d s,,557564,,,^ h u n d s $,default,hunds
-0-1471-1,,0,1471,hunsl,hunsl,h u n s l̥ $,,557564,,,^ h u n sl$,default,hunsl̥
+0-1471-1,,0,1471,hunsl,hunsl,h u n s l̥,,557564,,,^ h u n sl$,default,hunsl̥
 0-1472-1,,0,1472,hunslastaþs,hunslastaþs,h u n s l a s t a θ s,,557564,,,^ h u n s l a s t a þ s $,default,hunslastaθs
 0-1473-1,,0,1473,hunsljan,hunsljan,h u n s l j a n,,557564,,,^ h u n s l j a n $,default,hunsljan
 0-1474-1,,0,1474,hunþs*,hunþs,h u n θ s,,557564,,,^ h u n þ s $,default,hunθs
@@ -1572,7 +1572,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1570-1,,0,1570,inkilþo,inkilþo,ɪ n k ɪ l θ o,,557564,,,^ i n k i l þ o $,default,ɪnkɪlθo
 0-1571-1,,0,1571,inkunja*,inkunja,ɪ n k u n j a,,557564,,,^ i n k u n j a $,default,ɪnkunja
 0-1572-1,,0,1572,inmaideins,inmaideins,ɪ n m ɛ d i n s,,557564,,,^ i n m ai d ei n s $,default,ɪnmɛðins
-0-1573-1,,0,1573,inn,inn,ɪ n n̥ $,,557564,,,^ i nn$,default,ɪnː
+0-1573-1,,0,1573,inn,inn,ɪ n n̥,,557564,,,^ i nn$,default,ɪnː
 0-1574-1,,0,1574,inna,inna,ɪ nː a,,557564,,,^ i nn a $,default,ɪnːa
 0-1575-1,,0,1575,innakunds,innakunds,ɪ nː a k u n d s,,557564,,,^ i nn a k u n d s $,default,ɪnːakunds
 0-1576-1,,0,1576,innana,innana,ɪ nː a n a,,557564,,,^ i nn a n a $,default,ɪnːana
@@ -1672,7 +1672,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1670-1,,0,1670,kalkinassus,kalkinassus,k a l k ɪ n a sː u s,,557564,,,^ k a l k i n a ss u s $,default,kalkɪnasːus
 0-1671-1,,0,1671,kalkjom,kalkjom,k a l k j o m,,557564,,,^ k a l k j o m $,default,kalkjom
 0-1672-1,,0,1672,Kananeites*,kananeites,k a n a n i t e s,,557564,,,^ k a n a n ei t e s $,default,kananites
-0-1673-1,,0,1673,kann,kann,k a n n̥ $,,557564,,,^ k a nn$,default,kanː
+0-1673-1,,0,1673,kann,kann,k a n n̥,,557564,,,^ k a nn$,default,kanː
 0-1674-1,,0,1674,kannjan,kannjan,k a nː j a n,,557564,,,^ k a nn j a n $,default,kanːjan
 0-1675-1,,0,1675,ga-kannjan,gakannjan,g a k a nː j a n,,557564,,,^ g a k a nn j a n $,default,ɡakanːjan
 0-1676-1,,0,1676,us-kannjan,uskannjan,u s k a nː j a n,,557564,,,^ u s k a nn j a n $,default,uskanːjan
@@ -1700,7 +1700,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1698-1,,0,1698,ana-kaurjan,anakaurjan,a n a k ɔ r j a n,,557564,,,^ a n a k au r j a n $,default,anakɔrjan
 0-1699-1,,0,1699,miþ-kaurjan,miþkaurjan,m ɪ θ k ɔ r j a n,,557564,,,^ m i þ k au r j a n $,default,mɪθkɔrjan
 0-1700-1,,0,1700,kaurjos,kaurjos,k ɔ r j o s,,557564,,,^ k au r j o s $,default,kɔrjos
-0-1701-1,,0,1701,kaurn,kaurn,k ɔ r n̥ $,,557564,,,^ k au rn$,default,kɔrn̥
+0-1701-1,,0,1701,kaurn,kaurn,k ɔ r n̥,,557564,,,^ k au rn$,default,kɔrn̥
 0-1702-1,,0,1702,kaurno,kaurno,k ɔ r n o,,557564,,,^ k au r n o $,default,kɔrno
 0-1703-1,,0,1703,kausjan,kausjan,k ɔ s j a n,,557564,,,^ k au s j a n $,default,kɔsjan
 0-1704-1,,0,1704,ga-kausjan,gakausjan,g a k ɔ s j a n,,557564,,,^ g a k au s j a n $,default,ɡakɔsjan
@@ -1709,7 +1709,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1707-1,,0,1707,keinan,keinan,k i n a n,,557564,,,^ k ei n a n $,default,kinan
 0-1708-1,,0,1708,us-keinan,uskeinan,u s k i n a n,,557564,,,^ u s k ei n a n $,default,uskinan
 0-1709-1,,0,1709,miþ-uskeinan,miþuskeinan,m ɪ θ u s k i n a n,,557564,,,^ m i þ u s k ei n a n $,default,mɪθuskinan
-0-1710-1,,0,1710,kelikn,kelikn,k e l ɪ k n̥ $,,557564,,,^ k e l i kn$,default,kelɪkn̥
+0-1710-1,,0,1710,kelikn,kelikn,k e l ɪ k n̥,,557564,,,^ k e l i kn$,default,kelɪkn̥
 0-1711-1,,0,1711,Kileikia*,kileikia,k ɪ l i k ɪ a,,557564,,,^ k i l ei k i a $,default,kɪlikɪa
 0-1712-1,,0,1712,kilþei,kilþei,k ɪ l θ i,,557564,,,^ k i l þ ei $,default,kɪlθi
 0-1713-1,,0,1713,kindins,kindins,k ɪ n d ɪ n s,,557564,,,^ k i n d i n s $,default,kɪndɪns
@@ -1897,7 +1897,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1895-1,,0,1895,liugan,liugan,l i u g a n,,557564,,,^ l iu g a n $,default,lɪuɣan
 0-1896-1,,0,1896,ga-liugan,galiugan,g a l i u g a n,,557564,,,^ g a l iu g a n $,default,ɡalɪuɣan
 0-1897-1,,0,1897,liugan,liugan,l i u g a n,,557564,,,^ l iu g a n $,default,lɪuɣan
-0-1898-1,,0,1898,liugn,liugn,l i u g n̥ $,,557564,,,^ l iu gn$,default,lɪuɣn̥
+0-1898-1,,0,1898,liugn,liugn,l i u g n̥,,557564,,,^ l iu gn$,default,lɪuɣn̥
 0-1899-1,,0,1899,liugnapraufetus*,liugnapraufetus,l i u g n a p r ɔ ɸ e t u s,,557564,,,^ l iu g n a p r au f e t u s $,default,lɪuɣnaprɔɸetus
 0-1900-1,,0,1900,liugnawaurds,liugnawaurds,l i u g n a w ɔ r d s,,557564,,,^ l iu g n a w au r d s $,default,lɪuɣnawɔrds
 0-1901-1,,0,1901,liugnja,liugnja,l i u g n j a,,557564,,,^ l iu g n j a $,default,lɪuɣnja
@@ -1922,7 +1922,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-1920-1,,0,1920,luftu,luftu,l u ɸ t u,,557564,,,^ l u f t u $,default,luɸtu
 0-1921-1,,0,1921,ga-lūkan,galūkan,g a l u k a n,,557564,,,^ g a l ū k a n $,default,ɡalukan
 0-1922-1,,0,1922,us-lukan,uslukan,u s l u k a n,,557564,,,^ u s l u k a n $,default,uslukan
-0-1923-1,,0,1923,lukarn,lukarn,l u k a r n̥ $,,557564,,,^ l u k a rn$,default,lukarn̥
+0-1923-1,,0,1923,lukarn,lukarn,l u k a r n̥,,557564,,,^ l u k a rn$,default,lukarn̥
 0-1924-1,,0,1924,lukarnastaþa,lukarnastaþa,l u k a r n a s t a θ a,,557564,,,^ l u k a r n a s t a þ a $,default,lukarnastaθa
 0-1925-1,,0,1925,Lukas,lukas,l u k a s,,557564,,,^ l u k a s $,default,lukas
 0-1926-1,,0,1926,Lukius,lukius,l u k i u s,,557564,,,^ l u k iu s $,default,lukɪus
@@ -2034,7 +2034,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2032-1,,0,2032,Matþaius*,matþaius,m a t θ ɛ u s,,557564,,,^ m a t þ ai u s $,default,matθɛus
 0-2033-1,,0,2033,Matþat,matþat,m a t θ a t,,557564,,,^ m a t þ a t $,default,matθat
 0-2034-1,,0,2034,maþa,maþa,m a θ a,,557564,,,^ m a þ a $,default,maθa
-0-2035-1,,0,2035,maþl*,maþl,m a þ l̥ $,,557564,,,^ m a þl$,default,maθl̥
+0-2035-1,,0,2035,maþl*,maþl,m a þ l̥,,557564,,,^ m a þl$,default,maθl̥
 0-2036-1,,0,2036,maþlein,maþlein,m a θ l i n,,557564,,,^ m a þ l ei n $,default,maθlin
 0-2037-1,,0,2037,maþljan,maþljan,m a θ l j a n,,557564,,,^ m a þ l j a n $,default,maθljan
 0-2038-1,,0,2038,Maþusalis,maþusalis,m a θ u s a l ɪ s,,557564,,,^ m a þ u s a l i s $,default,maθusalɪs
@@ -2043,7 +2043,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2041-1,,0,2041,maurgins,maurgins,m ɔ r g ɪ n s,,557564,,,^ m au r g i n s $,default,mɔrɡɪns
 0-2042-1,,0,2042,ga-maurgjan,gamaurgjan,g a m ɔ r g j a n,,557564,,,^ g a m au r g j a n $,default,ɡamɔrɡjan
 0-2043-1,,0,2043,maurnan,maurnan,m ɔ r n a n,,557564,,,^ m au r n a n $,default,mɔrnan
-0-2044-1,,0,2044,maurþr,maurþr,m ɔ r þ r̥ $,,557564,,,^ m au r þr$,default,mɔrθr̥
+0-2044-1,,0,2044,maurþr,maurþr,m ɔ r þ r̥,,557564,,,^ m au r þr$,default,mɔrθr̥
 0-2045-1,,0,2045,maurþrjan,maurþrjan,m ɔ r θ r j a n,,557564,,,^ m au r þ r j a n $,default,mɔrθrjan
 0-2046-1,,0,2046,mawi,mawi,m a w ɪ,,557564,,,^ m a w i $,default,mawɪ
 0-2047-1,,0,2047,mawilo,mawilo,m a w ɪ l o,,557564,,,^ m a w i l o $,default,mawɪlo
@@ -2357,7 +2357,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2355-1,,0,2355,raus,raus,r ɔ s,,557564,,,^ r au s $,default,rɔs
 0-2356-1,,0,2356,rauþs*,rauþs,r ɔ θ s,,557564,,,^ r au þ s $,default,rɔθs
 0-2357-1,,0,2357,razda,razda,r a z d a,,557564,,,^ r a z d a $,default,razda
-0-2358-1,,0,2358,razn,razn,r a z n̥ $,,557564,,,^ r a zn$,default,razn̥
+0-2358-1,,0,2358,razn,razn,r a z n̥,,557564,,,^ r a zn$,default,razn̥
 0-2359-1,,0,2359,ga-redan,garedan,g a r e ð a n,,557564,,,^ g a r eda n $,default,ɡareðan
 0-2360-1,,0,2360,faura-garedan,fauragaredan,ɸ ɔ r a ɣ a r e ð a n,,557564,,,^ f au r aga r eda n $,default,ɸɔraɣareðan
 0-2361-1,,0,2361,und-redan,undredan,u n d r e ð a n,,557564,,,^ u n d r eda n $,default,undreðan
@@ -2635,7 +2635,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2633-1,,0,2633,skip,skip,s k ɪ p,,557564,,,^ s k i p $,default,skɪp
 0-2634-1,,0,2634,af-skiuban,afskiuban,a ɸ s k i u b a n,,557564,,,^ a f s k iu b a n $,default,aɸskɪuβan
 0-2635-1,,0,2635,skohs,skohs,s k o h s,,557564,,,^ s k o h s $,default,skohs
-0-2636-1,,0,2636,skohsl,skohsl,s k o h s l̥ $,,557564,,,^ s k o h sl$,default,skohsl̥
+0-2636-1,,0,2636,skohsl,skohsl,s k o h s l̥,,557564,,,^ s k o h sl$,default,skohsl̥
 0-2637-1,,0,2637,dis-skreitan,disskreitan,d ɪ sː k r i t a n,,557564,,,^ d i ss k r ei t a n $,default,dɪsːkritan
 0-2638-1,,0,2638,dis-skritnan,disskritnan,d ɪ sː k r ɪ t n a n,,557564,,,^ d i ss k r i t n a n $,default,dɪsːkrɪtnan
 0-2639-1,,0,2639,skufta,skufta,s k u ɸ t a,,557564,,,^ s k u f t a $,default,skuɸta
@@ -2668,7 +2668,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2666-1,,0,2666,fra-slindan,fraslindan,ɸ r a s l ɪ n d a n,,557564,,,^ f r a s l i n d a n $,default,ɸraslɪndan
 0-2667-1,,0,2667,sliupan,sliupan,s l i u p a n,,557564,,,^ s l iu p a n $,default,slɪupan
 0-2668-1,,0,2668,uf-sliupan,ufsliupan,u ɸ s l i u p a n,,557564,,,^ u f s l iu p a n $,default,uɸslɪupan
-0-2669-1,,0,2669,smairþr*,smairþr,s m ɛ r þ r̥ $,,557564,,,^ s m ai r þr$,default,smɛrθr̥
+0-2669-1,,0,2669,smairþr*,smairþr,s m ɛ r þ r̥,,557564,,,^ s m ai r þr$,default,smɛrθr̥
 0-2670-1,,0,2670,smakka,smakka,s m a k k a,,557564,,,^ s m a k k a $,default,smakːa
 0-2671-1,,0,2671,smakkabagms,smakkabagms,s m a k k a β a g m̥ s,,557564,,,^ s m a k k aba gms $,default,smakːaβaɣm̥s
 0-2672-1,,0,2672,smalista,smalista,s m a l ɪ s t a,,557564,,,^ s m a l i s t a $,default,smalɪsta
@@ -2676,7 +2676,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2674-1,,0,2674,bi-smeitan,bismeitan,b ɪ s m i t a n,,557564,,,^ b i s m ei t a n $,default,bɪsmitan
 0-2675-1,,0,2675,ga-smeitan,gasmeitan,g a s m i t a n,,557564,,,^ g a s m ei t a n $,default,ɡasmitan
 0-2676-1,,0,2676,ga-smiþon,gasmiþon,g a s m ɪ θ o n,,557564,,,^ g a s m i þ o n $,default,ɡasmɪθon
-0-2677-1,,0,2677,smwrn*,smwrn,s m w r n̥ $,,557564,,,^ s m w rn$,default,smwrn̥
+0-2677-1,,0,2677,smwrn*,smwrn,s m w r n̥,,557564,,,^ s m w rn$,default,smwrn̥
 0-2678-1,,0,2678,snaga,snaga,s n a ɣ a,,557564,,,^ s n aga $,default,snaɣa
 0-2679-1,,0,2679,snaiws,snaiws,s n ɛ w s,,557564,,,^ s n ai w s $,default,snɛws
 0-2680-1,,0,2680,at-snarpjan,atsnarpjan,a t s n a r p j a n,,557564,,,^ a t s n a r p j a n $,default,atsnarpjan
@@ -2719,7 +2719,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2717-1,,0,2717,spedists,spedists,s p e ð i s t s,,557564,,,^ s p edi s t s $,default,speðɪsts
 0-2718-1,,0,2718,spedumists,spedumists,s p e ð u m ɪ s t s,,557564,,,^ s p edu m i s t s $,default,speðumɪsts
 0-2719-1,,0,2719,spilda,spilda,s p ɪ l d a,,557564,,,^ s p i l d a $,default,spɪlda
-0-2720-1,,0,2720,spill,spill,s p ɪ l l̥ $,,557564,,,^ s p i ll$,default,spɪlː
+0-2720-1,,0,2720,spill,spill,s p ɪ l l̥,,557564,,,^ s p i ll$,default,spɪlː
 0-2721-1,,0,2721,spilla,spilla,s p ɪ lː a,,557564,,,^ s p i ll a $,default,spɪlːa
 0-2722-1,,0,2722,spillon,spillon,s p ɪ lː o n,,557564,,,^ s p i ll o n $,default,spɪlːon
 0-2723-1,,0,2723,ga-spillon,gaspillon,g a s p ɪ lː o n,,557564,,,^ g a s p i ll o n $,default,ɡaspɪlːon
@@ -2825,7 +2825,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2823-1,,0,2823,bi-swairban,biswairban,b ɪ s w ɛ r b a n,,557564,,,^ b i s w ai r b a n $,default,bɪswɛrban
 0-2824-1,,0,2824,swalauþs,swalauþs,s w a l ɔ θ s,,557564,,,^ s w a l au þ s $,default,swalɔθs
 0-2825-1,,0,2825,swaleiks,swaleiks,s w a l i k s,,557564,,,^ s w a l ei k s $,default,swaliks
-0-2826-1,,0,2826,swamm,swamm,s w a m m̥ $,,557564,,,^ s w a mm$,default,swamː
+0-2826-1,,0,2826,swamm,swamm,s w a m m̥,,557564,,,^ s w a mm$,default,swamː
 0-2827-1,,0,2827,swaran,swaran,s w a r a n,,557564,,,^ s w a r a n $,default,swaran
 0-2828-1,,0,2828,bi-swaran,biswaran,b ɪ s w a r a n,,557564,,,^ b i s w a r a n $,default,bɪswaran
 0-2829-1,,0,2829,ufar-swaran,ufarswaran,u ɸ a r s w a r a n,,557564,,,^ u f a r s w a r a n $,default,uɸarswaran
@@ -2878,7 +2878,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2876-1,,0,2876,uf-swogjan,ufswogjan,u ɸ s w o ɣ j a n,,557564,,,^ u f s w ogj a n $,default,uɸswoɣjan
 0-2877-1,,0,2877,Swria*,swria,s w r ɪ a,,557564,,,^ s w r i a $,default,swrɪa
 0-2878-1,,0,2878,swultawairþja,swultawairþja,s w u l t a w ɛ r θ j a,,557564,,,^ s w u l t a w ai r þ j a $,default,swultawɛrθja
-0-2879-1,,0,2879,swumfsl,swumfsl,s w u m ɸ s l̥ $,,557564,,,^ s w u m f sl$,default,swumɸsl̥
+0-2879-1,,0,2879,swumfsl,swumfsl,s w u m ɸ s l̥,,557564,,,^ s w u m f sl$,default,swumɸsl̥
 0-2880-1,,0,2880,tagl,tagl,t a ɣ l,,557564,,,^ t agl $,default,taɣl̥
 0-2881-1,,0,2881,tagr,tagr,t a ɣ r,,557564,,,^ t agr $,default,taɣr̥
 0-2882-1,,0,2882,tagrjan,tagrjan,t a ɣ r j a n,,557564,,,^ t agr j a n $,default,taɣrjan
@@ -2891,7 +2891,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2889-1,,0,2889,taihuntaihundfalþs,taihuntaihundfalþs,t ɛ h u n t ɛ h u n d ɸ a l θ s,,557564,,,^ t ai h u n t ai h u n d f a l þ s $,default,tɛhuntɛhundɸalθs
 0-2890-1,,0,2890,taihuntehund,taihuntehund,t ɛ h u n t e h u n d,,557564,,,^ t ai h u n t e h u n d $,default,tɛhuntehund
 0-2891-1,,0,2891,taihunteweis*,taihunteweis,t ɛ h u n t e w i s,,557564,,,^ t ai h u n t e w ei s $,default,tɛhuntewis
-0-2892-1,,0,2892,taikn,taikn,t ɛ k n̥ $,,557564,,,^ t ai kn$,default,tɛkn̥
+0-2892-1,,0,2892,taikn,taikn,t ɛ k n̥,,557564,,,^ t ai kn$,default,tɛkn̥
 0-2893-1,,0,2893,taiknjan,taiknjan,t ɛ k n j a n,,557564,,,^ t ai k n j a n $,default,tɛknjan
 0-2894-1,,0,2894,ga-taiknjan,gataiknjan,g a t ɛ k n j a n,,557564,,,^ g a t ai k n j a n $,default,ɡatɛknjan
 0-2895-1,,0,2895,us-taiknjan,ustaiknjan,u s t ɛ k n j a n,,557564,,,^ u s t ai k n j a n $,default,ustɛknjan
@@ -2987,7 +2987,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-2985-1,,0,2985,twalif,twalif,t w a l ɪ ɸ,,557564,,,^ t w a l i f $,default,twalɪɸ
 0-2986-1,,0,2986,tweifleins,tweifleins,t w i ɸ l i n s,,557564,,,^ t w ei f l ei n s $,default,twiɸlins
 0-2987-1,,0,2987,tweifljan,tweifljan,t w i ɸ l j a n,,557564,,,^ t w ei f l j a n $,default,twiɸljan
-0-2988-1,,0,2988,tweifl,tweifl,t w i f l̥ $,,557564,,,^ t w ei fl$,default,twiɸl̥
+0-2988-1,,0,2988,tweifl,tweifl,t w i f l̥,,557564,,,^ t w ei fl$,default,twiɸl̥
 0-2989-1,,0,2989,tweihnai,tweihnai,t w i h n ɛ,,557564,,,^ t w ei h n ai $,default,twihnɛ
 0-2990-1,,0,2990,twisstass,twisstass,t w ɪ sː t a sː,,557564,,,^ t w i ss t a ss $,default,twɪsːtasː
 0-2991-1,,0,2991,Twkeikus,twkeikus,t w k i k u s,,557564,,,^ t w k ei k u s $,default,twkikus
@@ -3107,14 +3107,14 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-3105-1,,0,3105,þrasabalþei*,þrasabalþei,θ r a s a β a l θ i,,557564,,,^ þ r a s aba l þ ei $,default,θrasaβalθi
 0-3106-1,,0,3106,þreihan,þreihan,θ r i h a n,,557564,,,^ þ r ei h a n $,default,θrihan
 0-3107-1,,0,3107,ga-þreihan,gaþreihan,g a θ r i h a n,,557564,,,^ g a þ r ei h a n $,default,ɡaθrihan
-0-3108-1,,0,3108,þreihsl,þreihsl,θ r i h s l̥ $,,557564,,,^ þ r ei h sl$,default,θrihsl̥
+0-3108-1,,0,3108,þreihsl,þreihsl,θ r i h s l̥,,557564,,,^ þ r ei h sl$,default,θrihsl̥
 0-3109-1,,0,3109,þreis*,þreis,θ r i s,,557564,,,^ þ r ei s $,default,θris
 0-3110-1,,0,3110,þridja,þridja,θ r i ð j a,,557564,,,^ þ r idj a $,default,θrɪðja
 0-3111-1,,0,3111,þriskan,þriskan,θ r ɪ s k a n,,557564,,,^ þ r i s k a n $,default,θrɪskan
 0-3112-1,,0,3112,us-þriutan,usþriutan,u s θ r i u t a n,,557564,,,^ u s þ r iu t a n $,default,usθrɪutan
 0-3113-1,,0,3113,þroþjan,þroþjan,θ r o θ j a n,,557564,,,^ þ r o þ j a n $,default,θroθjan
 0-3114-1,,0,3114,us-þroþjan,usþroþjan,u s θ r o θ j a n,,557564,,,^ u s þ r o þ j a n $,default,usθroθjan
-0-3115-1,,0,3115,þrūtsfill,þrūtsfill,θ r u t s ɸ ɪ l l̥ $,,557564,,,^ þ r ū t s f i ll$,default,θrutsɸɪlː
+0-3115-1,,0,3115,þrūtsfill,þrūtsfill,θ r u t s ɸ ɪ l l̥,,557564,,,^ þ r ū t s f i ll$,default,θrutsɸɪlː
 0-3116-1,,0,3116,þrutsfills,þrutsfills,θ r u t s ɸ ɪ l l̥ s,,557564,,,^ þ r u t s f i lls $,default,θrutsɸɪlːs
 0-3117-1,,0,3117,þu,þu,θ u,,557564,,,^ þ u $,default,θu
 0-3118-1,,0,3118,þuei,þuei,θ u i,,557564,,,^ þ u ei $,default,θui
@@ -3126,13 +3126,13 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 0-3124-1,,0,3124,us-þulan,usþulan,u s θ u l a n,,557564,,,^ u s þ u l a n $,default,usθulan
 0-3125-1,,0,3125,þūsundi,þūsundi,θ u s u n d ɪ,,557564,,,^ þ ū s u n d i $,default,θusundɪ
 0-3126-1,,0,3126,þusundifaþs,þusundifaþs,θ u s u n d ɪ ɸ a θ s,,557564,,,^ þ u s u n d i f a þ s $,default,θusundɪɸaθs
-0-3127-1,,0,3127,þuthaurn,þuthaurn,θ u t h ɔ r n̥ $,,557564,,,^ þ u t h au rn$,default,θuthɔrn̥
+0-3127-1,,0,3127,þuthaurn,þuthaurn,θ u t h ɔ r n̥,,557564,,,^ þ u t h au rn$,default,θuthɔrn̥
 0-3128-1,,0,3128,þuthaurnjan,þuthaurnjan,θ u t h ɔ r n j a n,,557564,,,^ þ u t h au r n j a n $,default,θuthɔrnjan
 0-3129-1,,0,3129,þwahan,þwahan,θ w a h a n,,557564,,,^ þ w a h a n $,default,θwahan
 0-3130-1,,0,3130,af-þwahan,afþwahan,a ɸ θ w a h a n,,557564,,,^ a f þ w a h a n $,default,aɸθwahan
 0-3131-1,,0,3131,bi-þwahan,biþwahan,b ɪ θ w a h a n,,557564,,,^ b i þ w a h a n $,default,bɪθwahan
 0-3132-1,,0,3132,us-þwahan,usþwahan,u s θ w a h a n,,557564,,,^ u s þ w a h a n $,default,usθwahan
-0-3133-1,,0,3133,þwahl,þwahl,θ w a h l̥ $,,557564,,,^ þ w a hl$,default,θwahl̥
+0-3133-1,,0,3133,þwahl,þwahl,θ w a h l̥,,557564,,,^ þ w a hl$,default,θwahl̥
 0-3134-1,,0,3134,þwairhei,þwairhei,θ w ɛ r h i,,557564,,,^ þ w ai r h ei $,default,θwɛrhi
 0-3135-1,,0,3135,þwairhs,þwairhs,θ w ɛ r h s,,557564,,,^ þ w ai r h s $,default,θwɛrhs
 0-3136-1,,0,3136,þwastiþa,þwastiþa,θ w a s t ɪ θ a,,557564,,,^ þ w a s t i þ a $,default,θwastɪθa
