@@ -3,8 +3,8 @@ import pathlib
 from pylexibank import Dataset as BaseDataset
 from pylexibank import FormSpec
 
-REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")] +\
-      [(x, x.lower()) for x in 'ABDEFGHIJKLMNOPQRSTUWXZÞ']
+REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")]# +\
+      #[(x, x.lower()) for x in 'ABDEFGHIJKLMNOPQRSTUWXZÞ']
 
 
 class Dataset(BaseDataset):
