@@ -1,21 +1,21 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
 0,†Aai,,
-1,Ehemann,,
-2,Vater,,
+1,Ehemann,1200,HUSBAND
+2,Vater,1217,FATHER
 3,Abeileni,,
 4,Abia*,,
 5,Abiaþar,,
 6,Abraham,,
 7,"vor Furcht, Staunen außer sich geraten über",,
-8,"stark, heftig",,
-9,sehr,,
-10,"von, von __ weg, von __ her",,
+8,"stark, heftig",785,STRONG
+9,sehr,1311,VERY
+10,"von, von __ weg, von __ her",693,FROM
 11,Adam,,
 12,Addei*,,
 13,Addin,,
 14,Adoneikam*,,
-15,"von, von __ weg, von __ her",,
-16,nachher,,
+15,"von, von __ weg, von __ her",693,FROM
+16,nachher,1685,AFTER
 17,Nachkomme,,
 18,der folgende Tag,,
 19,des Nachsabbats d.h. des ersten Wochentags,,
@@ -30,22 +30,22 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 28,"Ablegung, Erlaß",,
 29,Erlaß,,
 30,Betrug,,
-31,ermüdet,,
+31,ermüdet,1757,TIRED
 32,Absetzung,,
 33,Abfall,,
 34,hinten,,
 35,von hinten,,
 36,von hinten,,
-37,wieder,,
+37,wieder,204,AGAIN
 38,"Wiederanfang, Wiedererneuerung",,
-39,letzter,,
-40,letzter,,
+39,letzter,1529,LAST (FINAL)
+40,letzter,1529,LAST (FINAL)
 41,furchtlos,,
 42,Agar,,
 43,"Engel, Bote",,
-44,Bedrängnis (Enge),,
+44,Bedrängnis ,,
 45,bedrängen,,
-46,eng,,
+46,eng,1267,NARROW
 47,"Furcht, Schrecken",,
 48,ängstigen,,
 49,einen anfahren,,
@@ -55,24 +55,24 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 53,Unzucht,,
 54,Schandrede,,
 55,Drangsal,,
-56,(ins Gesicht schlagen) bedrängen,,
+56, bedrängen,,
 57,Drangsal,,
 58,schimpflich,,
-59,schwierig,,
+59,schwierig,584,DIFFICULT
 60,agluba,,
 61,Agustus,,
-62,"Sinn, Verstand",,
-63,zahme (weiße) Taube,,
+62,"Sinn, Verstand",1562,MIND
+63,zahme  Taube,,
 64,Spreu,,
 65,Aharon,,
 66,meinen,,
-67,Geist,,
+67,Geist,53,SPIRIT
 68,Inspiration,,
 69,"geistig, geistlich",,
-70,Ähre,,
-71,acht,,
+70,Ähre,3244,EAR (OF GRAIN)
+71,acht,1705,EIGHT
 72,achttägig,,
-73,achtzig,,
+73,achtzig,1722,EIGHTY
 74,der achte,,
 75,"Fluß, Gewässer",,
 76,[Aia],,
@@ -83,16 +83,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 81,Aifaisius*,,
 82,Aifaiso*,,
 83,öffne dich,,
-84,haben,,
+84,haben,773,HAVE
 85,teilhaben an,,
 86,Eigentum,,
 87,In Besitz nehmen,,
-88,betteln; für sich verlangen,,
+88,betteln; für sich verlangen,3534,BEG
 89,Gebet,,
 90,Eigentum,,
 91,Dornstrauch,,
-92,leugnen,,
-93,"Gemeinde, Kirche; Gotteshaus",,
+92,leugnen,755,DENY
+93,"Gemeinde, Kirche; Gotteshaus",1349,CHURCH
 94,Ailam,,
 95,Aileiaizair,,
 96,Aileiakeim,,
@@ -104,34 +104,34 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 102,einzig,,
 103,"vereinzelt, alleinstehend",,
 104,"Einheit, Einmütigkeit",,
-105,"vereinzeln, trennen",,
+105,"vereinzeln, trennen",1359,SEPARATE
 106,Einfalt,,
-107,einfach,,
+107,einfach,686,EASY
 108,einfältig,,
 109,ein jeder,,
 110,jeder von beiden,,
-111,elf,,
+111,elf,1706,ELEVEN
 112,Ainnaa,,
 113,Ainok,,
 114,Ainos,,
 115,ains,,
-116,"niemand, keiner",,
+116,"niemand, keiner",3887,NOBODY
 117,Aiodia,,
 118,Aipafras,,
 119,Aipafraudeitus,,
 120,Bischofsamt,,
 121,Bischof,,
-122,Brief,,
-123,früh,,
+122,Brief,1612,LETTER
+123,früh,672,EARLY
 124,"längst, eher",,
 125,Airastus,,
 126,"Gesandter sein, unterhandeln",,
 127,Vorfahren,,
-128,heilig,,
+128,heilig,1702,HOLY
 129,"Lauterkeit, Echtheit",,
 130,Airmodam,,
 131,Airmogaineis,,
-132,"Erde, Land",,
+132,"Erde, Land",1228,EARTH (SOIL)
 133,von irdischer Abkunft,,
 134,irdisch,,
 135,Bote,,
@@ -142,9 +142,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 140,irre machen,,
 141,sich scheuen vor,,
 142,sich scheuen vor,,
-143,Mutter,,
+143,Mutter,1216,MOTHER
 144,Eid,,
-145,oder,,
+145,oder,1014,OR
 146,Evangelium,,
 147,aiwaggelista,,
 148,das Evangelium verkünden,,
@@ -154,12 +154,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 152,schändlich handeln,,
 153,"beschämen, beschimpfen",,
 154,sich anstrengen,,
-155,Segen (Spende),,
+155,Segen ,,
 156,Aiwneikai,,
-157,"Zeit, Ewigkeit",,
+157,"Zeit, Ewigkeit",892,TIME
 158,Aiwwa,,
 159,Dank,,
-160,Erz(münze),,
+160,Erz,,
 161,Aizaikeia,,
 162,Erzschmied,,
 163,Aizleim,,
@@ -169,11 +169,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 167,Akaja,,
 168,Akajus*,,
 169,Akaïkus,,
-170,aber,,
+170,aber,3843,BUT
 171,Essig,,
-172,Frucht,,
+172,Frucht,1507,FRUIT
 173,unfruchtbar,,
-174,Acker,,
+174,Acker,212,FIELD
 175,Akwla,,
 176,Salbenbüchse aus Alabaster,,
 177,Brandopfer,,
@@ -182,20 +182,20 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 180,Gesamtheit der Menschen,,
 181,alamannans*,,
 182,Alamod,,
-183,wachsen,,
+183,wachsen,479,GROW
 184,an allem Mangel leidend,,
-185,Alter,,
-186,"Menschenalter, Zeit",,
+185,Alter,1789,AGE
+186,"Menschenalter, Zeit",892,TIME
 187,Elle,,
-188,Öl,,
+188,Öl,1484,OIL (ORGANIC SUBSTANCE)
 189,Ölbaum,,
-190,Öl,,
+190,Öl,1484,OIL (ORGANIC SUBSTANCE)
 191,Alfaius,,
 192,Tempel,,
 193,außer,,
 194,anderswoher stammend,,
-195,anders,,
-196,anders,,
+195,anders,2504,DIFFERENT
+196,anders,2504,DIFFERENT
 197,"anders gebildet, allegorisch",,
 198,mästen,,
 199,Eifer,,
@@ -210,22 +210,22 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 208,vollkommen,,
 209,Redlichkeit,,
 210,überhaupt,,
-211,"all, jeder, ganz",,
+211,"all, jeder, ganz",2277,WHOLE
 212,Allmächtiger,,
 213,alt werden,,
-214,alt,,
+214,alt,1229,OLD
 215,[Alul],,
 216,Ameinadab*,,
 217,amen,,
 218,Ammo*,,
-219,Schulter,,
+219,Schulter,1482,SHOULDER
 220,amsa*,,
 221,"denn, nun",,
 222,"darauf, außerdem",,
 223,Gebot,,
 224,"Empfehlung, Überlieferung",,
 225,in der Heimat befindlich,,
-226,plötzlich,,
+226,plötzlich,2920,SUDDENLY
 227,Lesung,,
 228,Auflegung,,
 229,Verborgenheit,,
@@ -237,10 +237,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 235,Ananias*,,
 236,Ananeias*,,
 237,Erneuerung,,
-238,Ruhe,,
+238,Ruhe,3458,SILENCE
 239,Lästerung,,
 240,sichtbar,,
-241,Anfang,,
+241,Anfang,1557,BEGINNING
 242,anaþaima,,
 243,Anaþoþ,,
 244,zukünftig,,
@@ -251,9 +251,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 249,Antwort; Verteidigung,,
 250,Bekenntnis,,
 251,Gegenlohn; Vergeltung,,
-252,Abend,,
+252,Abend,1629,EVENING
 253,feindlich,,
-254,das Empfangen,,
+254,das Empfangen,694,GET
 255,festhaltend,,
 256,angenehm,,
 257,"Aufnahme, Annahme; Erhebung",,
@@ -261,23 +261,23 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 259,Widersacher,,
 260,Gegner vor Gericht,,
 261,"nüchtern, verständig",,
-262,Antlitz,,
-263,"freimütig, offen",,
-264,offen,,
-265,Preis,,
+262,Antlitz,1560,FACE
+263,"freimütig, offen",3235,OPEN (STATE)
+264,offen,3235,OPEN (STATE)
+265,Preis,657,PRICE
 266,Antwort,,
 267,Sold; Notdurft,,
 268,Angesicht,,
-269,"Amt, Dienst",,
-270,etwas (Akk.) leisten,,
+269,"Amt, Dienst",2430,OFFICE
+270,etwas  leisten,,
 271,Diener,,
-272,Ende,,
+272,Ende,742,END (OF SPACE)
 273,"Enthüllung, Offenbarung",,
 274,endlos,,
-275,"anders, sonst",,
+275,"anders, sonst",2504,DIFFERENT
 276,Andraias,,
 277,"Darbietung, Beistand",,
-278,"Gegenwart, Angesicht, Person",,
+278,"Gegenwart, Angesicht, Person",683,PERSON
 279,gegenwärtig,,
 280,Anna,,
 281,Annas,,
@@ -285,24 +285,24 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 283,Ano*,,
 284,Balken,,
 285,gnädig,,
-286,"Freude; Dank; Gnade, Gunst",,
+286,"Freude; Dank; Gnade, Gunst",2524,JOY
 287,"Antiaukia*, Antiokia*",,
-288,"anderer, zweiter",,
+288,"anderer, zweiter",1384,SECOND
 289,Verschiedenheit,,
-290,anders,,
+290,anders,2504,DIFFERENT
 291,Appaullo*,,
 292,Apostolat,,
 293,Apostel,,
-294,Axt,,
+294,Axt,677,AXE
 295,Aar,,
 296,Arabia,,
 297,Araita*,,
 298,Aram,,
-299,arbeiten; dulden,,
+299,arbeiten; dulden,1086,WORK (ACTIVITY)
 300,"seine Ehre setzen in, trachten nach",,
 301,mit Jem. arbeiten; mit Jem. leiden,,
 302,dúrcharbeiten,,
-303,"Arbeit, Drangsal",,
+303,"Arbeit, Drangsal",984,WORK (LABOUR)
 304,das Erbe,,
 305,der Erbe,,
 306,der Erbe,,
@@ -310,9 +310,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 308,Areimaþaia,,
 309,Areistarkus,,
 310,Arfaksad*,,
-311,Pfeil,,
-312,pflügen,,
-313,"hölzerner Kasten, Arche; Futteral, Beutel",,
+311,Pfeil,977,ARROW
+312,pflügen,1921,PLOUGH
+313,"hölzerner Kasten, Arche; Futteral, Beutel",2951,POUCH
 314,Erzengel,,
 315,Arkippus,,
 316,Barmherzigkeit,,
@@ -321,32 +321,32 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 319,Barmherzigkeit,,
 320,sich eines erbarmen,,
 321,sich eines erbarmen,,
-322,"arm, beklagenswert",,
-323,Arm,,
+322,"arm, beklagenswert",1674,POOR
+323,Arm,1673,ARM
 324,sicher,,
 325,aromata,,
 326,[Artaksairksus],,
 327,umsonst,,
 328,Asaf*,,
-329,Sommer,,
+329,Sommer,1342,SUMMER
 330,Aser*,,
 331,Asgad*,,
 332,Asia,,
 333,Eselsmühle,,
-334,Esel,,
+334,Esel,1862,DONKEY
 335,Asmoþ,,
 336,"Mietling, Tagelöhner",,
 337,"Aß, Pfennig",,
 338,Assaum,,
 339,Sicherheit,,
-340,Ast,,
-341,von,,
-342,Jahr,,
+340,Ast,1531,BRANCH
+341,von,693,FROM
+342,Jahr,1226,YEAR
 343,"Ater*, Ateir*",,
 344,Zugang,,
-345,Saat,,
+345,Saat,714,SEED
 346,zum Essen austeilen,,
-347,Vater,,
+347,Vater,1217,FATHER
 348,das Beobachten,,
 349,Aþeinim,,
 350,Jahre,,
@@ -355,14 +355,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 353,selig preisen,,
 354,selig,,
 355,beglückt,,
-356,allerdings; wohl; vielleicht,,
-357,Fenster,,
-358,zeigen,,
-359,einem (Dat.) etwas (Akk.) zeigen,,
-360,Auge,,
-361,Lärm,,
-362,lärmen,,
-363,Ofen,,
+356,allerdings; wohl; vielleicht,2278,PERHAPS
+357,Fenster,1375,WINDOW
+358,zeigen,1039,SHOW
+359,einem  zeigen,,
+360,Auge,1248,EYE
+361,Lärm,1182,NOISE
+362,lärmen,2895,MAKE NOISE
+363,Ofen,859,STOVE
 364,Ochse,,
 365,Ochse,,
 366,höher,,
@@ -370,92 +370,92 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 368,"denn, nämlich",,
 369,sich mehren,,
 370,hinzufügen zu,,
-371,hinzufügen,,
-372,"sich vermehren, zunehmen",,
+371,hinzufügen,2882,ADD
+372,"sich vermehren, zunehmen",1041,INCREASE
 373,sich mehren,,
-374,"sich vermehren, zunehmen",,
+374,"sich vermehren, zunehmen",1041,INCREASE
 375,Auneiseifaurus,,
 376,Aunisimus,,
 377,"Grabdenkmäler, Gräber",,
 378,Schweißtuch,,
-379,Krug,,
+379,Krug,270,JUG
 380,aurkeis*,,
-381,Garten,,
+381,Garten,586,GARDEN
 382,"Landmann, Winzer",,
-383,Ohr,,
-384,Wüste,,
+383,Ohr,1247,EAR
+384,Wüste,3687,DESERT
 385,öde,,
 386,auþs*,,
 387,Schafherde,,
-388,einem (Dat.) danken,,
+388,einem  danken,,
 389,Dank,,
 390,Schafstall,,
-391,Großmutter,,
+391,Großmutter,1496,GRANDMOTHER
 392,Axaïa,,
 393,üppig lebend,,
-394,leicht,,
-395,Asche,,
+394,leicht,1052,LIGHT (WEIGHT)
+395,Asche,646,ASH
 396,am Tage der ungesäuerten Brode,,
 397,wenn,,
 398,Babawis,,
-399,Bett,,
+399,Bett,1663,BED
 400,Bagauis,,
-401,Baum,,
+401,Baum,906,TREE
 402,beide,,
 403,Baiailzaibul,,
-404,einen (Akk.) zwingen,,
-405,einen (Akk.) zwingen,,
+404,einen  zwingen,,
+405,einen  zwingen,,
 406,Baidsaiïdan,,
 407,Bailiam,,
 408,Bainiamein,,
 409,Maulbeerbaum,,
-410,tragen (leiden),,
-411,bringen,,
+410,tragen ,700,CARRY
+411,bringen,692,BRING
 412,hineinbringen,,
 413,vertragen,,
-414,vergleichen,,
+414,vergleichen,3429,COMPARE
 415,hindurchtragen,,
-416,hinaustragen; hervorbringen; vorbringen d.i. antworten; ertragen,,
+416,hinaustragen; hervorbringen; vorbringen d.i. antworten; ertragen,833,ENDURE
 417,hinaustragen,,
 418,Beroia in Thrakien,,
 419,Gebirgsgegend,,
-420,"einen bergen, bewahren",,
-421,"einen bergen, bewahren",,
+420,"einen bergen, bewahren",1997,PRESERVE
+421,"einen bergen, bewahren",1997,PRESERVE
 422,Helle,,
 423,offenbaren,,
 424,offenbaren,,
-425,"hell, offenbar",,
-426,offen,,
+425,"hell, offenbar",679,BRIGHT
+426,offen,3235,OPEN (STATE)
 427,Bitterkeit,,
-428,bitter,,
+428,bitter,887,BITTER
 429,Baiþil,,
 430,[Baiþlaem],,
 431,Baiþsaïdan,,
 432,beide,,
 433,Schlauch,,
-434,"Hals, Nacken",,
-435,Salbe,,
+434,"Hals, Nacken",1333,NECK
+435,Salbe,1926,OINTMENT
 436,"kühn, freimütig",,
 437,"Kühnheit, Freimut",,
-438,"kühn sein, wagen",,
+438,"kühn sein, wagen",1779,DARE
 439,Bosheit,,
 440,Pein; Strafe; Folter,,
 441,martern,,
 442,Banauis,,
-443,"Band, Fessel",,
-444,Gefangener,,
-445,Zeichen,,
-446,"ein Zeichen, einen Wink geben, andeuten",,
+443,"Band, Fessel",2969,RIBBON
+444,Gefangener,1072,PRISONER
+445,Zeichen,1720,SIGN
+446,"ein Zeichen, einen Wink geben, andeuten",1720,SIGN
 447,durch Winke andeuten,,
-448,Zeichen,,
-449,"Schlag, Wunde",,
+448,Zeichen,1720,SIGN
+449,"Schlag, Wunde",1109,WOUND
 450,Scheuer,,
-451,Barabba(s),,
+451,Barabba,,
 452,Barakeias*,,
-453,Nicht,,
+453,Nicht,1240,NOT
 454,von Gerste bereitet,,
-455,"Busen, Schoß",,
-456,Kind,,
+455,"Busen, Schoß",1402,BREAST
+456,Kind,2099,CHILD
 457,Barnabas,,
 458,Kindlein,,
 459,kindliches Wesen,,
@@ -470,37 +470,37 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 468,Vorteil erlangen,,
 469,Batwins*,,
 470,Wohnung,,
-471,"wohnen, bewohnen",,
+471,"wohnen, bewohnen",363,"DWELL (LIVE, RESIDE)"
 472,Wohnung aufschlagen,,
 473,Bauanairgais,,
 474,Bauauz*,,
 475,ausfegen,,
 476,aufblasen,,
 477,der Geborene,,
-478,Bürger,,
-479,"Turm, Burg; Stadt",,
+478,Bürger,1032,CITIZEN
+479,"Turm, Burg; Stadt",1391,TOWN
 480,Stadtmauer,,
 481,Bürde,,
-482,stumm,,
+482,stumm,1492,DUMB
 483,auf etwas warten,,
-484,"ausharren, ertragen",,
+484,"ausharren, ertragen",833,ENDURE
 485,erwarten,,
 486,Sauerteig,,
 487,durchsäuern,,
-488,beißen,,
-489,"schelten, bedrohen",,
+488,beißen,1403,BITE
+489,"schelten, bedrohen",1192,THREATEN
 490,Beroþ,,
-491,Eltern,,
+491,Eltern,505,PARENTS
 492,Beþania,,
 493,Beþlaihaim,,
 494,Beþsaeida,,
 495,Beþsfagei,,
-496,"bei, um",,
-497,Lager,,
+496,"bei, um",1461,AT
+497,Lager,1105,CAMP
 498,"Bitte, Gebet; Anliegen, Aufforderung",,
 499,Bettler,,
-500,"bitten, beten, betteln",,
-501,"beten, bitten",,
+500,"bitten, beten, betteln",1828,ASK (REQUEST)
+501,"beten, bitten",1828,ASK (REQUEST)
 502,erbitten,,
 503,Übervorteilung,,
 504,Übervorteilung,,
@@ -509,26 +509,26 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 507,woran,,
 508,zugleich aber rüste auch,,
 509,Beschneidung,,
-510,einen mit etwas (Dat.) binden,,
-511,"lösen; auflösen, erklären; entbinden von",,
-512,umbinden mit (Dat.),,
-513,binden,,
-514,Gefahr,,
+510,einen mit etwas  binden,,
+511,"lösen; auflösen, erklären; entbinden von",352,UNTIE
+512,umbinden mit ,,
+513,binden,1917,TIE
+514,Gefahr,1810,DANGER
 515,in Gefahr kommen,,
 516,Murren; Verleumdungen,,
 517,"Nachstellung, Anschlag",,
-518,Eltern,,
+518,Eltern,505,PARENTS
 519,Befleckung,,
 520,Anstoß,,
 521,ringsum,,
-522,"nachher, später",,
-523,"entbieten, befehlen",,
-524,verbieten,,
+522,"nachher, später",1685,AFTER
+523,"entbieten, befehlen",1998,COMMAND
+524,verbieten,83,FORBID
 525,beugen; sich beugen,,
 526,beugen,,
 527,Gewohnheit,,
 528,gewohnt,,
-529,Tisch,,
+529,Tisch,1775,TABLE
 530,sich vermischen mit,,
 531,abschaffen,,
 532,abschaffen,,
@@ -537,69 +537,69 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 535,sich erbarmen,,
 536,barmherzig; dem Guten zugetan,,
 537,aufblasen,,
-538,schlagen,,
+538,schlagen,2133,STRIKE OR BEAT
 539,durchbleuen,,
 540,verblenden,,
 541,erblinden,,
-542,blind,,
-543,Blume,,
-544,verehren,,
+542,blind,1653,BLIND
+543,Blume,239,FLOWER
+544,verehren,257,WORSHIP
 545,Verehrung,,
-546,Blut,,
+546,Blut,946,BLOOD
 547,blutflüssig,,
-548,"reiben, zerreiben",,
-549,Buchstabe,,
+548,"reiben, zerreiben",1449,RUB
+549,Buchstabe,1024,CHARACTER
 550,Schriftgelehrter; Schreiber,,
-551,Nutzen,,
+551,Nutzen,2929,BENEFIT
 552,"nützen, bessern",,
-553,"verbessern, herstellen",,
+553,"verbessern, herstellen",2886,PRODUCE
 554,im Augenblick,,
-555,Breite,,
+555,Breite,2536,BREADTH
 556,ausbreiten nach,,
-557,breit,,
+557,breit,1243,WIDE
 558,"Ringen, Ringkampf",,
-559,verbrennen,,
+559,verbrennen,141,BURN (SOMETHING)
 560,in Brand stecken,,
-561,bringen,,
-562,brechen; zerstören,,
-563,zerbrechen,,
-564,"verwerfen, verachten",,
-565,brennen,,
-566,verbrennen,,
-567,Fieber,,
-568,Bruder,,
+561,bringen,692,BRING
+562,brechen; zerstören,681,DESTROY
+563,zerbrechen,2558,BREAK (CLEAVE)
+564,"verwerfen, verachten",2715,DESPISE
+565,brennen,1428,BURNING
+566,verbrennen,141,BURN (SOMETHING)
+567,Fieber,1534,FEVER
+568,Bruder,1262,BROTHER
 569,Brüder,,
 570,Bruderliebe,,
 571,gebrauchen,,
 572,ausgebrochen werden,,
 573,brauchbar,,
 574,Brustharnisch,,
-575,Brunnen,,
-576,Brust,,
-577,Bräutigam,,
-578,"Neuvermählte, Schwiegertochter",,
-579,kaufen,,
+575,Brunnen,954,WELL
+576,Brust,1592,CHEST
+577,Bräutigam,3282,GROOM
+578,"Neuvermählte, Schwiegertochter",1057,DAUGHTER-IN-LAW
+579,kaufen,1869,BUY
 580,verkaufen für,,
 581,erkaufen,,
 582,entbunden werden,,
 583,feines Linnen,,
 584,was ihm bevorstand,,
-585,säugen,,
-586,Tag,,
+585,säugen,2472,"SUCKLE (BREASTFEED, NURSE)"
+586,Tag,1225,DAY (NOT NIGHT)
 587,Teig,,
 588,Daikapaulis*,,
 589,"Teilnahme, Gemeinschaft",,
-590,"teilen, zuteilen, mitteilen",,
-591,"abteilen, einen Teil abgeben (Akk.)",,
+590,"teilen, zuteilen, mitteilen",1119,DIVIDE
+591,"abteilen, einen Teil abgeben ",,
 592,"verteilen, zerteilen",,
-593,verteilen unter (Dat.),,
+593,verteilen unter ,,
 594,"zuteilen, zerteilen",,
-595,Teil,,
+595,Teil,779,PART
 596,Besessener,,
-597,"Grube; Schlucht, Tal",,
-598,"zu Tal, abwärts, nieder; auf die Erde",,
-599,unten,,
-600,"von unten, unten",,
+597,"Grube; Schlucht, Tal",2539,PIT (POTHOLE)
+598,"zu Tal, abwärts, nieder; auf die Erde",1326,DOWN
+599,unten,721,LOW
+600,"von unten, unten",721,LOW
 601,Dalmatia,,
 602,Damaskon,,
 603,"verdämmen, versperren",,
@@ -608,31 +608,31 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 606,verstocken,,
 607,"ertauben, verstockt werden",,
 608,sich beeifern,,
-609,"taub, verstockt",,
-610,Tochter,,
+609,"taub, verstockt",996,DEAF
+610,Tochter,1357,DAUGHTER
 611,Bewirtung,,
 612,"geschunden, geplagt",,
-613,Geruch,,
+613,Geruch,3704,ODOR (SMELL)
 614,Abwaschung,,
 615,taufen,,
 616,taufen,,
 617,Täufer,,
-618,(einflügeliges) Tor,,
+618, Tor,2940,GATE
 619,Türhüterin,,
 620,Türhüterin,,
 621,Türhüter,,
 622,Dauriþaius*,,
-623,"(zweiflügeliges) Tor, Tür",,
-624,"sich erkühnen, wagen",,
+623," Tor, Tür",2940,GATE
+624,"sich erkühnen, wagen",1779,DARE
 625,das Absterben,,
-626,töten,,
-627,töten,,
-628,"Tod bringen, töten",,
-629,sterben,,
+626,töten,1417,KILL
+627,töten,1417,KILL
+628,"Tod bringen, töten",1417,KILL
+629,sterben,1494,DIE
 630,mit sterben,,
-631,tot,,
+631,tot,1625,DEAD
 632,zum Tode bestimmt,,
-633,Tod,,
+633,Tod,910,DEATH
 634,Daweid,,
 635,Demas,,
 636,Verleumderin,,
@@ -640,31 +640,31 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 638,diabulus,,
 639,Diakon,,
 640,Didimus,,
-641,"kneten, aus Ton bilden",,
-642,"kneten, aus Ton bilden",,
+641,"kneten, aus Ton bilden",274,KNEAD
+642,"kneten, aus Ton bilden",274,KNEAD
 643,Fülle,,
 644,Zerstreuung,,
 645,"Auflösung d.i. Abmarsch, das Scheiden",,
-646,Tiefe,,
-647,Tiefe,,
+646,Tiefe,2534,DEPTH
+647,Tiefe,2534,DEPTH
 648,vertiefen,,
-649,tief,,
+649,tief,1593,DEEP
 650,wildes Tier,,
-651,sterben,,
+651,sterben,1494,DIE
 652,af-dobnan,,
 653,geplagt,,
-654,"urteilen, beurteilen",,
-655,"beurteilen, verurteilen",,
-656,verurteilen,,
-657,"urteilen, entscheiden",,
+654,"urteilen, beurteilen",1818,ADJUDICATE
+655,"beurteilen, verurteilen",484,CONDEMN
+656,verurteilen,484,CONDEMN
+657,"urteilen, entscheiden",685,DECIDE
 658,Ruhm,,
 659,aushauen,,
-660,tragen,,
+660,tragen,700,CARRY
 661,zusammentragen,,
-662,Trank,,
+662,Trank,731,BEVERAGE
 663,tränken mit,,
 664,tränken,,
-665,treiben; plagen,,
+665,treiben; plagen,2868,DRIVE (CATTLE)
 666,Drachme,,
 667,Brocken; Brosamen,,
 668,Feldzug,,
@@ -673,18 +673,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 671,hinabstürzen,,
 672,hinabstürzen,,
 673,Brocken; Brosamen,,
-674,treiben,,
+674,treiben,2868,DRIVE (CATTLE)
 675,"austreiben, vertreiben",,
 676,etwas trinken,,
 677,"sich antrinken, betrinken",,
-678,trinken,,
+678,trinken,1401,DRINK
 679,zu Felde ziehen,,
-680,fallen,,
+680,fallen,1280,FALL
 681,fallen in,,
-682,einen (Akk.) befallen,,
-683,hinfallen,,
+682,einen  befallen,,
+683,hinfallen,2894,TUMBLE (FALL DOWN)
 684,herausfallen,,
-685,Abhang,,
+685,Abhang,3076,SLOPE
 686,trüben; irre machen; aufwiegeln,,
 687,Aufruhr,,
 688,unruhig werden,,
@@ -693,43 +693,43 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 691,Trunkenheit,,
 692,Schall,,
 693,Fall,,
-694,du,,
+694,du,1215,THOU
 695,taugen,,
 696,wozu,,
 697,Gläubiger,,
-698,Schuld,,
+698,Schuld,134,FAULT
 699,ein Fest feiern,,
-700,Fest,,
+700,Fest,131,FESTIVAL
 701,verstummen,,
-702,stumm,,
+702,stumm,1492,DUMB
 703,"deshalb, deswegen, dazu",,
 704,Torenrede,,
 705,Torheit,,
 706,rasen,,
 707,töricht,,
 708,Eeiram,,
-709,da,,
+709,da,1937,THERE
 710,Eiaireiko,,
 711,Eikaunion,,
-712,Eisen,,
-713,"Eisenband, Kette",,
+712,Eisen,621,IRON
+713,"Eisenband, Kette",1627,CHAIN
 714,eisern,,
 715,daher somit,,
 716,†eiþau,,
 717,Esaïas,,
 718,Esaw,,
-719,Vater,,
+719,Vater,1217,FATHER
 720,[Faddasur],,
-721,"Abkunft, Geschlecht, Stamm",,
+721,"Abkunft, Geschlecht, Stamm",344,TREE TRUNK
 722,Geschlecht,,
 723,sich freuen über,,
 724,sich mitfreuen,,
-725,"geschickt, geeignet",,
-726,"fangen, greifen",,
-727,"ergreifen, erfassen (auch geistig), ertappen",,
+725,"geschickt, geeignet",1824,DEXTEROUS
+726,"fangen, greifen",702,CATCH
+727,"ergreifen, erfassen , ertappen",855,SEIZE
 728,Freude über,,
 729,Genüge leisten,,
-730,zubereiten,,
+730,zubereiten,1100,COOK (SOMETHING)
 731,tadeln,,
 732,übervorteilen,,
 733,übervorteilen,,
@@ -742,39 +742,39 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 740,Habsucht,,
 741,Schuldner,,
 742,faihuþraihna,,
-743,Berg,,
+743,Berg,639,MOUNTAIN
 744,wehklagen,,
-745,Welt,,
-746,Schuld; Grund; Vorwurf,,
+745,Welt,965,WORLD
+746,Schuld; Grund; Vorwurf,2968,REASON
 747,tadeln,,
-748,alt,,
-749,Alter,,
+748,alt,1229,OLD
+749,Alter,1789,AGE
 750,vorjährig,,
-751,fern,,
+751,fern,1406,FAR
 752,von fern,,
 753,Schauspiel,,
-754,Ferse,,
+754,Ferse,980,HEEL
 755,Falaig,,
 756,†Fallasur,,
-757,"falten, zusammenrollen",,
+757,"falten, zusammenrollen",1470,FOLD
 758,Stück Zeug,,
-759,Schlamm,,
+759,Schlamm,640,MUD
 760,Fanuel,,
 761,Farais*,,
-762,"wandern, ziehen",,
+762,"wandern, ziehen",1455,PULL
 763,Farao*,,
 764,Fareisaius,,
-765,fahren,,
-766,"einlaufen, landen",,
+765,fahren,741,DRIVE
+766,"einlaufen, landen",1922,LAND (DESCEND)
 767,Binde,,
-768,"halten, festhalten; beobachten, bewachen",,
-769,"behalten, bewahren",,
-770,"das Halten, der Dienst",,
-771,Zaun,,
-772,Fuchs,,
+768,"halten, festhalten; beobachten, bewachen",1448,HOLD
+769,"behalten, bewahren",1997,PRESERVE
+770,"das Halten, der Dienst",1448,HOLD
+771,Zaun,1690,FENCE
+772,Fuchs,1312,FOX
 773,sie vorzulegen,,
-774,vor,,
-775,Straße,,
+774,vor,1883,IN FRONT OF
+775,Straße,667,ROAD
 776,Vorhaut,,
 777,Hausverwalter,,
 778,Verwaltung,,
@@ -787,38 +787,38 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 785,Vorurteil,,
 786,Vorhang,,
 787,Furcht,,
-788,sich fürchten,,
+788,sich fürchten,1419,FEAR (BE AFRAID)
 789,furchtsam,,
 790,Vorlegung,,
 791,Vorsteher,,
 792,Faurtunatus,,
-793,"zuvor, früher",,
+793,"zuvor, früher",1882,BEFORE
 794,bevor,,
-795,wenige,,
+795,wenige,1242,FEW
 796,sich erbarmen,,
-797,"Seite, Gegend",,
+797,"Seite, Gegend",2980,AREA
 798,Aufpasser,,
-799,schmücken,,
+799,schmücken,1739,DECORATE
 800,"hasse, verabscheuen",,
 801,viertägig,,
 802,vierfältig,,
 803,das Amt des Vierfürsten,,
-804,vier,,
-805,vierzehn,,
+804,vier,1500,FOUR
+805,vierzehn,2451,FOURTEEN
 806,Fingerring,,
-807,Finger,,
+807,Finger,1303,FINGER
 808,"hasse, verabscheuen",,
-809,Feind,,
+809,Feind,1358,ENEMY
 810,Feindschaft,,
-811,"um vieles, viel",,
-812,Höhle,,
+811,"um vieles, viel",1198,MANY
+812,Höhle,1155,CAVE
 813,Filetus,,
-814,verbergen,,
+814,verbergen,602,HIDE (CONCEAL)
 815,verbergen vor,,
 816,"übergeben, überliefern; verpachten; empfehlen",,
-817,begraben,,
-818,begraben,,
-819,Höhle,,
+817,begraben,1719,BURY
+818,begraben,1719,BURY
+819,Höhle,1155,CAVE
 820,Filippai,,
 821,Einwohner von Philippi,,
 822,Filippus,,
@@ -827,45 +827,45 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 825,Arglist,,
 826,sehr bunt,,
 827,sehr wertvoll,,
-828,"Vielheit, Menge; Übermaß",,
+828,"Vielheit, Menge; Übermaß",2987,AMOUNT
 829,vieles Reden,,
 830,viel Worte machen,,
-831,fünf,,
+831,fünf,493,FIVE
 832,fimftaihun,,
 833,fünfzehnter,,
-834,"erkennen, erfahren",,
-835,Fischer,,
-836,fischen,,
-837,Fisch,,
-838,"kreißen, gebären",,
+834,"erkennen, erfahren",2870,RECOGNIZE (SOMEBODY)
+835,Fischer,1858,FISHERMAN
+836,fischen,2638,FISHING
+837,Fisch,227,FISH
+838,"kreißen, gebären",1195,GIVE BIRTH
 839,den Flechten,,
 840,umgetrieben,,
-841,prahlen,,
+841,prahlen,101,BOAST
 842,"von eitler Ruhmsucht, prahlerisch",,
-843,"Strom, Flut",,
+843,"Strom, Flut",666,RIVER
 844,betrauern,,
-845,Nahrung,,
+845,Nahrung,256,FOOD
 846,"nähren, aufziehn",,
 847,Scheide,,
-848,Feuer,,
+848,Feuer,221,FIRE
 849,Fußfessel,,
 850,"Fußbank, Schemel",,
-851,Fuß,,
+851,Fuß,1301,FOOT
 852,Verkaufsurkunde,,
-853,fragen,,
+853,fragen,1309,ASK (INQUIRE)
 854,verlobt,,
-855,fragen,,
+855,fragen,1309,ASK (INQUIRE)
 856,erfragen,,
-857,versuchen,,
-858,versuchen,,
+857,versuchen,1812,TRY
+858,versuchen,1812,TRY
 859,Versuchung,,
-860,Same,,
+860,Same,714,SEED
 861,Erlaß,,
 862,Freigelassener,,
-863,Verderben,,
+863,Verderben,92,SPOIL (SOMEBODY OR SOMETHING)
 864,weiter,,
 865,im Alter vorgeschritten,,
-866,fremd; einer Sache,,
+866,fremd; einer Sache,109,FOREIGN
 867,entfremden,,
 868,Fortschritt,,
 869,weiter,,
@@ -873,67 +873,67 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 871,fortwährend,,
 872,"Verderb, Vergeudung",,
 873,Kindschaft,,
-874,Kind,,
+874,Kind,2099,CHILD
 875,klug machen,,
-876,"Verstand, Sinn",,
+876,"Verstand, Sinn",1562,MIND
 877,Verstandestäuschung,,
-878,denken,,
-879,bei (vollem) Verstand sein,,
-880,Herr,,
+878,denken,1415,THINK (REFLECT)
+879,bei  Verstand sein,,
+880,Herr,3153,LORD
 881,Herrschaft,,
 882,herrschen über,,
 883,unterjochen,,
-884,Herrscher,,
-885,Verderben,,
+884,Herrscher,3377,EMPEROR
+885,Verderben,92,SPOIL (SOMEBODY OR SOMETHING)
 886,sündig,,
-887,Sünde,,
+887,Sünde,2971,SIN
 888,Strafe,,
 889,einen schonen,,
 890,Freiheit,,
 891,frei von,,
 892,zärtlich liebend,,
-893,Liebe,,
+893,Liebe,923,LOVE
 894,Freiheit,,
-895,lieben,,
+895,lieben,923,LOVE
 896,Freundin,,
-897,Freund,,
+897,Freund,1325,FRIEND
 898,Kuß,,
 899,abbilden,,
 900,ein Abbild werden,,
-901,Bild,,
+901,Bild,3303,PICTURE (PAINTING)
 902,Friedrich,,
 903,versöhnen mit,,
-904,Frost,,
-905,"Klugheit, Verstand",,
-906,"klug, verständig",,
+904,Frost,2034,FROST
+905,"Klugheit, Verstand",1562,MIND
+906,"klug, verständig",1310,CLEVER
 907,fruma,,
 908,Erstgeborener,,
 909,Vorrang,,
-910,Anfang,,
+910,Anfang,1557,BEGINNING
 911,frumists,,
-912,zuerst,,
-913,Vogel,,
-914,Füllen,,
+912,zuerst,2915,AT FIRST
+913,Vogel,937,BIRD
+914,Füllen,2006,FILL
 915,verborgen,,
 916,fulhsni,,
 917,P040.02,,
 918,P040.03,,
 919,vollkommen,,
-920,vollkommen (weise),,
+920,vollkommen ,,
 921,überreden,,
-922,volkommen (an Wissen),,
+922,volkommen ,,
 923,des Neumonds,,
-924,füllen,,
+924,füllen,2006,FILL
 925,mit etw,,
 926,überfüllen,,
 927,"erfüllen, vollenden, ersetzen",,
 928,voll werden von,,
 929,erfüllt werden von,,
 930,erfüllt werden von,,
-931,"Fülle, Füllung (was füllt); Flicken",,
+931,"Fülle, Füllung ; Flicken",,
 932,voll von,,
-933,faul,,
-934,Feuer,,
+933,faul,1564,LAZY
+934,Feuer,221,FIRE
 935,feurig,,
 936,Fwgailus,,
 937,phönikisch,,
@@ -946,21 +946,21 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 944,Festgelage,,
 945,Mitbürger,,
 946,gern,,
-947,Lust,,
+947,Lust,2960,LONGING (WISH)
 948,Geschlechtsregister,,
-949,Geburt,,
-950,Reichtum,,
+949,Geburt,2805,BIRTH (ACCOUCHEMENT)
+950,Reichtum,2996,WEALTH
 951,reich an,,
 952,reich machen,,
 953,reich sein,,
 954,reich an,,
 955,reichlich,,
-956,Band,,
-957,Band,,
+956,Band,2969,RIBBON
+957,Band,2969,RIBBON
 958,Erbarmen,,
 959,Gabriel,,
 960,Brocken,,
-961,Band,,
+961,Band,2969,RIBBON
 962,"Teilnehmer, Genosse",,
 963,Hausgenosse,,
 964,Gaddarenus*,,
@@ -968,24 +968,24 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 966,Gebilde,,
 967,Vetter,,
 968,es schickt sich für,,
-969,Soldat,,
+969,Soldat,1941,SOLDIER
 970,Fang,,
 971,"Versammlung, hoher Rat",,
 972,"ehrbar; nüchtern, besonnen",,
 973,anständig,,
-974,Kleidung,,
+974,Kleidung,1895,CLOTHES
 975,Begräbnis,,
 976,"Klugheit, Besonnenheit",,
 977,"Erhaltung, Bewahrung",,
 978,Kuß,,
 979,Versöhnung,,
 980,verborgen vor,,
-981,"Weg, Straße",,
-982,gehen,,
+981,"Weg, Straße",2252,PATH
+982,gehen,1443,WALK
 983,weggehn von,,
-984,"nachgehn, folgen",,
-985,kommen,,
-986,"hinzugehen, kommen",,
+984,"nachgehn, folgen",1085,FOLLOW
+985,kommen,1446,COME
+986,"hinzugehen, kommen",1446,COME
 987,hinzukommen zu,,
 988,hineinkommen,,
 989,vorübergehn,,
@@ -996,9 +996,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 994,mitgehn mit,,
 995,"hindurchgehn, vorübergehn",,
 996,etw. übertreten,,
-997,"ausgehn, hinausgehn",,
-998,"hinausgehn, ausgehn",,
-999,entgegengehn,,
+997,"ausgehn, hinausgehn",1107,GO OUT
+998,"hinausgehn, ausgehn",1107,GO OUT
+999,entgegengehn,1778,APPROACH
 1000,"Beschluß, Verordnung",,
 1001,Frömmigkeit,,
 1002,"anständig, ehrbar",,
@@ -1006,33 +1006,33 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1004,"im Zusammenhang, der Reihe nach",,
 1005,ganz unversehrt,,
 1006,Verheißung,,
-1007,"Gehör, (Gehörtes d.i.) Predigt",,
+1007,"Gehör,  Predigt",2518,HEARING (AURAL SENSE)
 1008,Genosse,,
 1009,Genosse,,
 1010,[ga-hnipnan],,
 1011,Enthaltsamkeit,,
 1012,Reinigung,,
-1013,Gesinnung; Sinn; Gewissen,,
+1013,Gesinnung; Sinn; Gewissen,2950,MEANING
 1014,"fügsam, getreu",,
-1015,"Verweilen, Ruhe",,
+1015,"Verweilen, Ruhe",3458,SILENCE
 1016,gaiainna,,
 1017,Mangel,,
 1018,fröhlich machen,,
 1019,Gainnesaraiþ,,
-1020,Gürtel,,
+1020,Gürtel,772,BELT
 1021,umgürten,,
 1022,umgürten,,
 1023,Gairgaisainus*,,
-1024,"Verlangen, Wunsch",,
-1025,"begehren, verlangen nach; bedürfen",,
+1024,"Verlangen, Wunsch",2117,DESIRE
+1025,"begehren, verlangen nach; bedürfen",2339,NEED (SOMETHING)
 1026,Leidenschaft,,
-1027,erschrecken,,
+1027,erschrecken,252,FRIGHTEN
 1028,Böcklein,,
-1029,Ziege,,
+1029,Ziege,1502,GOAT
 1030,Gaïus,,
-1031,(Gespann) Paar,,
+1031, Paar,,
 1032,Genosse,,
-1033,"(Zusammenjochung, Zusammenstellung) Gleichnis",,
+1033, Gleichnis,,
 1034,Überredung,,
 1035,gakunþs,,
 1036,Probe,,
@@ -1041,23 +1041,23 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1039,Galatia*,,
 1040,gläubig,,
 1041,Glaube,,
-1042,wertvoll,,
+1042,wertvoll,3002,PRECIOUS
 1043,eines Leibes,,
 1044,Abbild,,
-1045,ähnlich,,
-1046,gleich,,
+1045,ähnlich,1558,SIMILAR
+1046,gleich,2276,IDENTICAL
 1047,Galeilaia,,
 1048,Galeilaius,,
-1049,"Pfahl, Kreuz",,
+1049,"Pfahl, Kreuz",1367,CROSS
 1050,Beilager,,
-1051,Lüge,,
+1051,Lüge,2826,LIE (FALSEHOOD)
 1052,falscher Apostel,,
 1053,falscher Bruder,,
 1054,Götze,,
 1055,falscher Prophet,,
 1056,falscher Zeuge,,
 1057,falscher Christus,,
-1058,wertvoll,,
+1058,wertvoll,3002,PRECIOUS
 1059,Gemeinschaft,,
 1060,Gemeinschaft,,
 1061,Teilnehmer,,
@@ -1070,13 +1070,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1068,Ärgernis,,
 1069,Erinnerung,,
 1070,Schrift; Buchstabenschrift,,
-1071,"Gedächtnis, Erinnerung",,
-1072,Gedanke,,
-1073,"Andenken, Gedächtnis",,
+1071,"Gedächtnis, Erinnerung",1018,MEMORY
+1072,Gedanke,2975,THOUGHT
+1073,"Andenken, Gedächtnis",1018,MEMORY
 1074,"Genüge, genügendes Auskommen; Genügsamkeit",,
 1075,"Rettung, Heil",,
 1076,Verwandter,,
-1077,"genug, viel",,
+1077,"genug, viel",1198,MANY
 1078,verursachen,,
 1079,übereinstimmend,,
 1080,Verabredung,,
@@ -1087,11 +1087,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1085,Gerechtigkeit,,
 1086,gerecht,,
 1087,angeordnet,,
-1088,Nachbar,,
+1088,Nachbar,1332,NEIGHBOUR
 1089,Nachbarin,,
-1090,(Hürde) Viehhof,,
+1090, Viehhof,,
 1091,Hausherr,,
-1092,"Haus, Hauswesen, Familie",,
+1092,"Haus, Hauswesen, Familie",1252,HOUSE
 1093,anständig,,
 1094,bestimmte Zeit,,
 1095,Schamhaftigkeit,,
@@ -1099,7 +1099,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1097,ehrbar,,
 1098,Beratung,,
 1099,Flut,,
-1100,Markt; Straße,,
+1100,Markt; Straße,633,MARKET
 1101,Vorwurf,,
 1102,Grundlegung,,
 1103,Gefährte,,
@@ -1112,14 +1112,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1110,beschuht,,
 1111,Gastfreundschaft,,
 1112,gastfrei,,
-1113,Fremdling (Gast),,
+1113,Fremdling ,,
 1114,Riß,,
 1115,Zerstörung,,
 1116,geziemend,,
 1117,passend; geschickt zu,,
 1118,"zur rechten Zeit, passend",,
 1119,Erbauung,,
-1120,Gebäude,,
+1120,Gebäude,3396,BUILDING
 1121,Gasse,,
 1122,Bedacht,,
 1123,enthaltsam,,
@@ -1130,81 +1130,81 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1128,Gaulgauþa,,
 1129,Gaumaurra,,
 1130,Gaumaurjam,,
-1131,bemerken,,
+1131,bemerken,2893,NOTICE (SOMETHING)
 1132,klagen; Totenklage anstimmen,,
 1133,Klage,,
 1134,Betrübnis,,
 1135,Betrübnis,,
 1136,einen kränken,,
-1137,"betrübt, traurig",,
+1137,"betrübt, traurig",699,SAD
 1138,friedfertig,,
-1139,Friede,,
+1139,Friede,1338,PEACE
 1140,Erwählung,,
 1141,gemein d.i. unrein,,
 1142,Bekehrung,,
 1143,Verurteilung,,
 1144,Bekleidung,,
-1145,Gespräch,,
-1146,Geschäft; Erwerb; Gewinn,,
+1145,Gespräch,2933,CONVERSATION
+1146,Geschäft; Erwerb; Gewinn,2931,BUSINESS
 1147,Mitarbeiter,,
 1148,eingewurzelt,,
 1149,Gau,,
 1150,einmütig,,
-1151,"Verbindung, Band (der Gelenke)",,
+1151,"Verbindung, Band ",2969,RIBBON
 1152,voll Mitfreude,,
 1153,Schatzhaus,,
-1154,Stachel,,
+1154,Stachel,3798,STINGER
 1155,begehren,,
 1156,gewinnen,,
 1157,"sich entsetzen, erstaunen",,
-1158,"Gabe, Geschenk",,
-1159,geben,,
+1158,"Gabe, Geschenk",2982,GIFT
+1159,geben,1447,GIVE
 1160,Geber,,
 1161,sich wegbegeben,,
 1162,"hingeben, übergeben",,
-1163,"vergeben, verleihn, schenken",,
-1164,"erstatten, bezahlen",,
+1163,"vergeben, verleihn, schenken",196,DONATE
+1164,"erstatten, bezahlen",718,PAY
 1165,Giebel,,
 1166,Steuer,,
 1167,vergelten,,
 1168,vergelten,,
 1169,Steuer,,
 1170,Eintragung in die Steuerliste,,
-1171,Sichel,,
+1171,Sichel,341,SICKLE
 1172,beginnen,,
-1173,morgen,,
-1174,finden,,
-1175,gießen,,
+1173,morgen,1329,TOMORROW
+1174,finden,719,FIND
+1175,gießen,3078,IRRIGATE
 1176,übergießen d.i. übervoll gießen,,
 1177,sorgsam,,
-1178,genau,,
-1179,genau,,
+1178,genau,1466,EXACT
+1179,genau,1466,EXACT
 1180,glänzen,,
 1181,"von guter, edler Abkunft",,
 1182,Tugend,,
 1183,Gruß,,
 1184,grüßen,,
-1185,gut,,
-1186,Graben,,
-1187,graben,,
+1185,gut,1035,GOOD
+1186,Graben,1418,DIG
+1187,graben,1418,DIG
 1188,mit einem Graben umgeben,,
 1189,"nachgraben, unterwühlen",,
 1190,ausgraben,,
 1191,erzürnen,,
 1192,erbittern,,
 1193,Holzsplitter,,
-1194,"Gras, Kraut",,
-1195,hungrig,,
-1196,hungern,,
-1197,Hunger,,
-1198,greifen,,
-1199,ergreifen,,
-1200,ergreifen,,
-1201,"weinen, klagen",,
-1202,das Weinen,,
+1194,"Gras, Kraut",606,GRASS
+1195,hungrig,1533,BE HUNGRY
+1196,hungern,1533,BE HUNGRY
+1197,Hunger,1864,HUNGER
+1198,greifen,855,SEIZE
+1199,ergreifen,855,SEIZE
+1200,ergreifen,855,SEIZE
+1201,"weinen, klagen",1839,CRY
+1202,das Weinen,1839,CRY
 1203,kleinmütig,,
 1204,Schritt,,
-1205,"Grube, Höhle",,
+1205,"Grube, Höhle",1155,CAVE
 1206,Grundmauer,,
 1207,gottesfürchtig,,
 1208,gottlos,,
@@ -1213,63 +1213,63 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1211,Gotteshaus,,
 1212,Gudilub,,
 1213,göttlich,,
-1214,Priester,,
+1214,Priester,852,PRIEST
 1215,Priestertum,,
 1216,"Priester sein, des Priesteramts pflegen",,
-1217,Gold,,
+1217,Gold,1369,GOLD
 1218,golden,,
-1219,Mann,,
+1219,Mann,1554,MAN
 1220,männlichen Geschlechts,,
 1221,Männchen,,
 1222,Krebsgeschwür,,
 1223,verschüttet werden,,
 1224,Gotenvolk,,
-1225,Gott,,
-1226,"haben, besitzen",,
+1225,Gott,1944,GOD
+1226,"haben, besitzen",684,OWN
 1227,sich einer Sache enthalten,,
-1228,besitzen,,
-1229,sich nähern,,
-1230,ergreifen,,
-1231,ergreifen,,
-1232,aufheben,,
-1233,heben,,
-1234,"erwidern, antworten",,
+1228,besitzen,684,OWN
+1229,sich nähern,1778,APPROACH
+1230,ergreifen,855,SEIZE
+1231,ergreifen,855,SEIZE
+1232,aufheben,371,PICK UP
+1233,heben,501,LIFT
+1234,"erwidern, antworten",1275,ANSWER
 1235,herabnehmen,,
 1236,sich überheben,,
 1237,"erheben, wegnehmen",,
 1238,sich überheben,,
 1239,"sich heften, hängen an",,
 1240,"sich heften, hängen an",,
-1241,"zusammenheften, verbinden",,
+1241,"zusammenheften, verbinden",2862,CONNECT
 1242,anhangen,,
 1243,behaftet mit,,
-1244,"hängen, in der Schwebe lassen",,
+1244,"hängen, in der Schwebe lassen",2884,HANG
 1245,"hinabhängen, hinablassen",,
 1246,sich erhängen,,
 1247,hangen,,
 1248,Haibraius,,
 1249,Art u. Weise,,
-1250,streiten,,
+1250,streiten,3302,QUARREL (VERB)
 1251,Streit,,
 1252,einäugig,,
 1253,Haileias*,,
 1254,Haileisaius,,
-1255,einen (Akk.) oder etwas (Akk.) heilen,,
-1256,herstellen,,
+1255,einen  heilen,,
+1256,herstellen,2886,PRODUCE
 1257,hergestellt werden,,
-1258,"heil, gesund",,
+1258,"heil, gesund",1364,HEALTHY
 1259,Grundbesitz,,
-1260,Stadt,,
+1260,Stadt,1391,TOWN
 1261,Parteien,,
-1262,Herde,,
-1263,Hirt,,
+1262,Herde,2939,FLOCK (OF ANIMALS)
+1263,Hirt,2544,SHEPHERD
 1264,Hairmaugaineis,,
 1265,Hairodia*,,
-1266,Herz,,
-1267,"Eingeweide, Herz",,
+1266,Herz,1223,HEART
+1267,"Eingeweide, Herz",1223,HEART
 1268,Schwert,,
 1269,Fakkeln,,
-1270,"heißen, nennen",,
+1270,"heißen, nennen",180,CALL BY NAME
 1271,anrufen,,
 1272,"einen, etw. bekennen; sich bekennen zu; etw. bekennen",,
 1273,herzurufen,,
@@ -1279,53 +1279,53 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1277,herausfordern,,
 1278,Geheiß,,
 1279,"Heide, Steppe",,
-1280,wild,,
+1280,wild,2230,UNTAMED OR WILD
 1281,Heidin,,
-1282,Mantel,,
-1283,"Hälfte, Seite",,
-1284,halb,,
-1285,"hüten, weiden",,
-1286,mehr,,
-1287,"kaum je, kaum",,
+1282,Mantel,603,COAT
+1283,"Hälfte, Seite",816,HALF
+1284,halb,3836,HALF (HALF OF)
+1285,"hüten, weiden",2885,HERD (SOMETHING)
+1286,mehr,1992,MORE
+1287,"kaum je, kaum",2926,HARDLY
 1288,Hölle,,
-1289,"leer, umsonst; dürftig, armselig",,
-1290,Fels,,
-1291,Hals,,
-1292,"Hals, Nacken",,
-1293,lahm,,
+1289,"leer, umsonst; dürftig, armselig",1624,EMPTY
+1290,Fels,668,ROCK
+1291,Hals,1333,NECK
+1292,"Hals, Nacken",1333,NECK
+1293,lahm,320,LAME
 1294,verstümmelt,,
 1295,"die Bekleidung ablegen, ausziehn",,
 1296,"die Bekleidung anlegen, anziehn",,
 1297,sich einer Sache entkleiden,,
 1298,sich bekleiden mit,,
 1299,"überziehn, sich mit etwas überkleiden",,
-1300,Hahn,,
+1300,Hahn,1511,ROOSTER
 1301,Weisheit,,
-1302,"weise, klug",,
-1303,Hand,,
+1302,"weise, klug",1310,CLEVER
+1303,Hand,1277,HAND
 1304,mit der Hand gemacht,,
 1305,Schar; Manipel; Kohorte,,
 1306,verhärten,,
 1307,Hartherzigkeit,,
-1308,"hart, streng",,
+1308,"hart, streng",1884,HARD
 1309,Heer,,
-1310,hassen,,
+1310,hassen,1607,HATE
 1311,"Haß, Zorn",,
-1312,zürnen,,
-1313,hassen,,
+1312,zürnen,2223,BE ANGRY
+1313,hassen,1607,HATE
 1314,Haupt,,
-1315,Höhe,,
-1316,"Preis, Ehre",,
+1315,Höhe,2985,HEIGHT
+1316,"Preis, Ehre",657,PRICE
 1317,Hochmut,,
 1318,hochmütig,,
 1319,höchste Höhe,,
-1320,Höhe,,
+1320,Höhe,2985,HEIGHT
 1321,hoch machen; preisen,,
 1322,verblenden,,
 1323,erhöhn,,
 1324,verherrlicht werden,,
-1325,hoch,,
-1326,der Höchste (d.i. Gott),,
+1325,hoch,1265,HIGH
+1326,der Höchste ,,
 1327,hauhaba,,
 1328,höher,,
 1329,"hochmütig, verblendet",,
@@ -1333,42 +1333,42 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1331,Demut,,
 1332,niedrig machen,,
 1333,erniedrigen,,
-1334,"niedrig, demütig",,
-1335,(geflochtene) Tür,,
-1336,Kohle,,
+1334,"niedrig, demütig",3348,LOW (POSITION OR HEIGHT)
+1335, Tür,1567,DOOR
+1336,Kohle,2658,COAL
 1337,das hornförmig gebogene Johannisbrot,,
 1338,Hornist,,
 1339,das Horn blasen,,
 1340,Gehör d.i. Ohr,,
-1341,hören,,
-1342,gehorchen,,
+1341,hören,1408,HEAR
+1342,gehorchen,1635,OBEY
 1343,das Gehör bekommen,,
-1344,gehorchen,,
-1345,hören,,
-1346,Heu,,
+1344,gehorchen,1635,OBEY
+1345,hören,1408,HEAR
+1346,Heu,342,HAY
 1347,"Lob, Loblied",,
-1348,"loben, preisen wegen",,
-1349,Fieber,,
+1348,"loben, preisen wegen",3455,COMMEND
+1349,Fieber,1534,FEVER
 1350,Hausherr,,
 1351,helei,,
 1352,Helei*,,
 1353,Helias,,
-1354,Her,,
-1355,"hier, her",,
+1354,Her,2925,HITHER (HERE TO)
+1355,"hier, her",136,HERE
 1356,Herodes,,
 1357,Herodia,,
 1358,Herodianus*,,
 1359,Kammer,,
-1360,dieser,,
+1360,dieser,1214,THIS
 1361,hierher,,
-1362,Helm,,
+1362,Helm,1680,HELMET
 1363,einem helfen,,
-1364,helfen,,
+1364,helfen,1897,HELP
 1365,von himmlischer Abkunft,,
-1366,Himmel,,
-1367,dieser,,
-1368,"hinter, jenseits",,
-1369,"hinter, jenseits",,
+1366,Himmel,1732,SKY
+1367,dieser,1214,THIS
+1368,"hinter, jenseits",1686,BEHIND
+1369,"hinter, jenseits",1686,BEHIND
 1370,hinterlistig,,
 1371,Hinterlist,,
 1372,der hinterste,,
@@ -1376,18 +1376,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1374,mitgefangen nehmen,,
 1375,erbeuten,,
 1376,"komm her, hierher",,
-1377,dieser,,
+1377,dieser,1214,THIS
 1378,"wehklagen, Klagelieder singen",,
-1379,"Haufe, Menge",,
+1379,"Haufe, Menge",2987,AMOUNT
 1380,"Gestalt, Aussehn",,
-1381,lachen,,
+1381,lachen,1355,LAUGH
 1382,verlachen,,
-1383,Brot; Brotbissen,,
-1384,Hügel,,
-1385,Grab,,
+1383,Brot; Brotbissen,1368,BREAD
+1384,Hügel,614,HILL
+1385,Grab,1773,GRAVE
 1386,Gräber,,
-1387,Schlinge,,
-1388,heiter,,
+1387,Schlinge,2604,NOOSE
+1388,heiter,1495,HAPPY
 1389,sorgenfreier,,
 1390,Heiterkeit,,
 1391,beladen,,
@@ -1395,128 +1395,128 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1393,"Los; Anteil, Erbschaft",,
 1394,sich annehmen,,
 1395,link,,
-1396,"Zelt, Hütte",,
+1396,"Zelt, Hütte",1316,TENT
 1397,ein Zelt über mir aufschlage,,
 1398,"das Zeltaufschlagen, Laubhüttenfest",,
-1399,stehlen,,
-1400,Dieb,,
+1399,stehlen,713,STEAL
+1400,Dieb,1160,THIEF
 1401,"Hütten, Zelte",,
-1402,Gehör,,
+1402,Gehör,2518,HEARING (AURAL SENSE)
 1403,auflachen machen,,
 1404,Lauterkeit,,
 1405,Lauterkeit,,
-1406,"lauter, rein",,
+1406,"lauter, rein",704,CLEAN
 1407,"Erniedrigung, Demut",,
 1408,niedrig machen,,
 1409,niederlegen,,
 1410,erniedrigen,,
-1411,einen unterwerfen unter (Dat.),,
-1412,"niedrig, demütig",,
-1413,"weich, weichlich",,
+1411,einen unterwerfen unter ,,
+1412,"niedrig, demütig",3348,LOW (POSITION OR HEIGHT)
+1413,"weich, weichlich",1856,SOFT
 1414,sich neigen,,
 1415,sich niederbeugen,,
 1416,sich betrüben,,
-1417,zerreißen,,
-1418,zerreißen,,
+1417,zerreißen,1735,TEAR (SHRED)
+1418,zerreißen,1735,TEAR (SHRED)
 1419,spitzer Pfahl,,
-1420,Pflug,,
+1420,Pflug,2154,PLOUGH (INSTRUMENT)
 1421,"durch Betrug schädigen, schikanieren",,
 1422,übervorteilen,,
-1423,Ehebruch; Hurerei,,
+1423,Ehebruch; Hurerei,902,ADULTERY
 1424,"huren, Ehebruch treiben",,
 1425,Ehebruch begehn,,
 1426,"Hurer, Ehebrecher",,
 1427,"Reinheit, wohl auch Reinigung",,
 1428,Reinigung,,
 1429,reinen Herzens,,
-1430,reinigen,,
+1430,reinigen,2235,CLEAN (SOMETHING)
 1431,etwas Verunreinigendes tilgen,,
-1432,reinigen,,
+1432,reinigen,2235,CLEAN (SOMETHING)
 1433,ausfegen,,
-1434,"rein, ehrbar",,
+1434,"rein, ehrbar",704,CLEAN
 1435,Turteltaube,,
 1436,kreuzigen,,
 1437,kreuzigen,,
 1438,abschütteln,,
 1439,abschütteln,,
-1440,rufen,,
+1440,rufen,1084,CALL
 1441,"aufschreien, ausrufen",,
-1442,"Ruf, Geschrei",,
-1443,"Dach, Haus",,
+1442,"Ruf, Geschrei",2944,CALL (APPEAL)
+1443,"Dach, Haus",1252,HOUSE
 1444,siegreich,,
 1445,Stab,,
 1446,krähen,,
 1447,das Krähen,,
-1448,nachforschen,,
-1449,hungern,,
-1450,"denken, meinen",,
+1448,nachforschen,2010,INVESTIGATE
+1449,hungern,1533,BE HUNGRY
+1450,"denken, meinen",1415,THINK (REFLECT)
 1451,bezaubern,,
 1452,†and-hugjan,,
 1453,sich vornehmen,,
 1454,sich überheben,,
-1455,Verstand,,
-1456,"Landgut, Feld",,
-1457,"häufen, sammeln",,
-1458,"Hunger, Hungersnot",,
+1455,Verstand,1562,MIND
+1456,"Landgut, Feld",212,FIELD
+1457,"häufen, sammeln",7,GATHER
+1458,"Hunger, Hungersnot",1864,HUNGER
 1459,Hülle,,
 1460,"hüllen, verhüllen",,
 1461,enthüllen,,
 1462,verhüllen,,
 1463,verhüllen,,
-1464,aushöhlen,,
+1464,aushöhlen,46,HOLLOW OUT
 1465,hold,,
-1466,Höhle,,
+1466,Höhle,1155,CAVE
 1467,-hun,,
 1468,Hunderte,,
 1469,Centurio,,
-1470,Hund,,
-1471,Opfer,,
+1470,Hund,2009,DOG
+1471,Opfer,1103,SACRIFICE
 1472,"Opferstätte, Altar",,
 1473,opfern,,
 1474,"Fang, Beute",,
-1475,Hüfte,,
+1475,Hüfte,1745,HIP
 1476,"Hort, Schatz",,
 1477,Schätze sammeln,,
 1478,Hwmainaius,,
 1479,hwssopon,,
-1480,wohin,,
-1481,wohin,,
+1480,wohin,2928,WHITHER (WHERE TO)
+1481,wohin,2928,WHITHER (WHERE TO)
 1482,jeder,,
 1483,wandeln,,
 1484,umdrängen,,
-1485,Schädel,,
+1485,Schädel,1605,SKULL
 1486,Weizen,,
-1487,wie,,
-1488,wann,,
+1487,wie,1239,HOW
+1488,wann,1238,WHEN
 1489,jemals,,
-1490,"ersticken, auslöschen",,
-1491,"ersticken, erlöschen",,
-1492,wo,,
+1490,"ersticken, auslöschen",129,CHOKE
+1491,"ersticken, erlöschen",129,CHOKE
+1492,wo,1237,WHERE
 1493,wandeln,,
-1494,wer,,
+1494,wer,1235,WHO
 1495,jeder,,
-1496,wer?,,
-1497,jemand,,
-1498,"scharf, streng",,
+1496,wer?,1235,WHO
+1497,jemand,2422,SOMEONE
+1498,"scharf, streng",1396,SHARP
 1499,"Schärfe, Strenge",,
 1500,[gaƕatjan],,
-1501,wohin,,
+1501,wohin,2928,WHITHER (WHERE TO)
 1502,wer von beiden,,
 1503,jeder von beiden,,
 1504,schäumen,,
-1505,Schaum,,
+1505,Schaum,1768,FOAM
 1506,woher,,
 1507,jeder,,
-1508,"wem, mit wem, womit",,
-1509,"jedenfalls, nur",,
-1510,"Weile, Zeit, Stunde",,
+1508,"wem, mit wem, womit",1235,WHO
+1509,"jedenfalls, nur",1580,ONLY
+1510,"Weile, Zeit, Stunde",892,TIME
 1511,"nur eine Zeitlang dauernd, vergänglich",,
-1512,aufhören,,
+1512,aufhören,3351,STOP DOING
 1513,"beruhigen, erquicken",,
-1514,"zur Ruhe kommen, aufhören",,
+1514,"zur Ruhe kommen, aufhören",3351,STOP DOING
 1515,nicht eine Stunde lang,,
 1516,weißen,,
-1517,weiß,,
+1517,weiß,1335,WHITE
 1518,wie groß,,
 1519,wie beschaffen?,,
 1520,"Totenkiste, Sarg",,
@@ -1524,7 +1524,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1522,jeder,,
 1523,sich einer Sache rühmen,,
 1524,Drohung,,
-1525,drohen,,
+1525,drohen,1192,THREATEN
 1526,einen bedrohn,,
 1527,Iaeirus,,
 1528,Iairaimias*,,
@@ -1543,13 +1543,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1541,Iaurdanus*,,
 1542,doch nicht?,,
 1543,Berglehne,,
-1544,gleich,,
+1544,gleich,2276,IDENTICAL
 1545,gleichen Körpers,,
 1546,gleichschön,,
 1547,~skauneis*,,
 1548,Gleichheit,,
 1549,gleich machen,,
-1550,"eben, flach",,
+1550,"eben, flach",1633,FLAT
 1551,rückwärts gewandt,,
 1552,iddja,,
 1553,Buße,,
@@ -1562,14 +1562,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1560,am folgenden Tage,,
 1561,euch beiden gehörig,,
 1562,igqis,,
-1563,ich,,
-1564,der ich,,
-1565,"in, auf, an, unter",,
+1563,ich,1209,I
+1564,der ich,1209,I
+1565,"in, auf, an, unter",1485,BELOW OR UNDER
 1566,"Besonnenheit, Selbstbeherrschung",,
 1567,verständig,,
 1568,Hausgenosse,,
 1569,Entschuldigung,,
-1570,schwanger,,
+1570,schwanger,1123,PREGNANT
 1571,"Stammesgenosse, Landsmann",,
 1572,Vertauschung,,
 1573,hinein,,
@@ -1580,9 +1580,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1578,von innen,,
 1579,Erneuerung,,
 1580,der innere,,
-1581,"Erzählung, Aussage, Zeugnis",,
-1582,"ohne, außer",,
-1583,"in, auf, an, unter",,
+1581,"Erzählung, Aussage, Zeugnis",2060,STORY
+1582,"ohne, außer",1478,WITHOUT
+1583,"in, auf, an, unter",1485,BELOW OR UNDER
 1584,Ungerechtigkeit,,
 1585,ungerecht,,
 1586,innerhalb des Gesetzes stehend,,
@@ -1595,15 +1595,15 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1593,Ioreim,,
 1594,Iosef,,
 1595,Iosezis,,
-1596,"er, der",,
+1596,"er, der",1211,HE
 1597,Isak,,
 1598,Iskariotes,,
 1599,Israel,,
 1600,Israeleites,,
-1601,essen,,
+1601,essen,1336,EAT
 1602,"etw. verzehren, fressen",,
 1603,Ituraia,,
-1604,aber,,
+1604,aber,3843,BUT
 1605,Iudaia,,
 1606,Iudaialand,,
 1607,Iudaius,,
@@ -1612,8 +1612,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1610,jüdisch leben,,
 1611,Iudas,,
 1612,Haufe,,
-1613,aufwärts,,
-1614,oben,,
+1613,aufwärts,1591,UP
+1614,oben,1265,HIGH
 1615,von oben,,
 1616,von oben her,,
 1617,Iuse,,
@@ -1621,18 +1621,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1619,vorzüglicher,,
 1620,izei,,
 1621,ize,,
-1622,euer,,
-1623,der du,,
-1624,ja,,
+1622,euer,2274,YOUR (PLURAL)
+1623,der du,1215,THOU
+1624,ja,1268,YES
 1625,ob,,
 1626,Jaeirus,,
-1627,"und, und zwar, auch",,
-1628,"ja, wahrlich, fürwahr",,
-1629,"an jenem Ort, dort",,
-1630,dorthin,,
-1631,dorthin,,
+1627,"und, und zwar, auch",1577,AND
+1628,"ja, wahrlich, fürwahr",1268,YES
+1629,"an jenem Ort, dort",1937,THERE
+1630,dorthin,2923,THITHER (THERE TO)
+1631,dorthin,2923,THITHER (THERE TO)
 1632,dorthin gewandt,,
-1633,jener,,
+1633,jener,78,THAT
 1634,dorther,,
 1635,P072.07,,
 1636,Janna,,
@@ -1640,23 +1640,23 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1638,und wenn,,
 1639,ob,,
 1640,Jaurdanau,,
-1641,Jahr,,
+1641,Jahr,1226,YEAR
 1642,Zornausbrüche; Streitereien,,
-1643,kämpfen; obsiegen,,
-1644,besiegen,,
+1643,kämpfen; obsiegen,1423,FIGHT
+1644,besiegen,782,DEFEAT
 1645,Julmonat,,
 1646,jota,,
-1647,schon,,
+1647,schon,2576,ALREADY
 1648,jüdisch,,
 1649,Judaius,,
 1650,Judas,,
-1651,jung; jugendlich,,
+1651,jung; jugendlich,1207,YOUNG
 1652,Gespann,,
-1653,Joch,,
+1653,Joch,14,YOKE
 1654,Jugend,,
-1655,ihr,,
+1655,ihr,1213,YOU
 1656,Justus,,
-1657,schon,,
+1657,schon,2576,ALREADY
 1658,jūzei,,
 1659,Kaballarja,,
 1660,Kaeinan,,
@@ -1667,17 +1667,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1665,"Census, Steuer",,
 1666,Kaisaria,,
 1667,Kajafa,,
-1668,"Kalbe (weibliches Kalb von mehr als einem Jahr, das noch nicht gekalbt hat)",,
-1669,kalt,,
+1668,Kalbe ,,
+1669,kalt,1287,COLD
 1670,Hurerei,,
-1671,Hure,,
+1671,Hure,1610,PROSTITUTE
 1672,Kananeites*,,
-1673,"kennen, wissen",,
-1674,einem (D.) etw. (A.) kund tun,,
+1673,"kennen, wissen",1410,KNOW (SOMETHING)
+1674,einem  kund tun,,
 1675,verkünden,,
 1676,verkünden,,
 1677,das Haar abschneiden,,
-1678,Sorge,,
+1678,Sorge,1668,GRIEF
 1679,[Kareiaþiareim],,
 1680,Kerker,,
 1681,sich kümmern,,
@@ -1685,24 +1685,24 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1683,Karpus,,
 1684,Gefäß,,
 1685,Töpfer,,
-1686,Kessel,,
+1686,Kessel,854,KETTLE
 1687,den Kolossern,,
 1688,ohrfeigen,,
-1689,"Geschäfte machen, Handel treiben",,
+1689,"Geschäfte machen, Handel treiben",2135,TRADE OR BARTER
 1690,Kaurazein,,
 1691,"Gabe, fromme Stiftung",,
 1692,Tempelschatz,,
 1693,"Schwere, Fülle",,
 1694,Kaurinþius,,
 1695,Kaurinþon,,
-1696,Last,,
-1697,"drücken, belästigen",,
+1696,Last,1679,LOAD
+1697,"drücken, belästigen",1913,PRESS
 1698,beschweren,,
 1699,mitbelastet mit,,
-1700,"schwer, lästig",,
-1701,Getreide,,
-1702,Korn,,
-1703,"kosten, kennen lernen",,
+1700,"schwer, lästig",1210,HEAVY
+1701,Getreide,605,GRAIN
+1702,Korn,605,GRAIN
+1703,"kosten, kennen lernen",21,TASTE (SOMETHING)
 1704,erproben,,
 1705,kawtsjo,,
 1706,Kefas,,
@@ -1713,132 +1713,132 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1711,Kileikia*,,
 1712,Mutterleib,,
 1713,Statthalter,,
-1714,Wange,,
+1714,Wange,1730,CHEEK
 1715,Heller,,
-1716,etwas (A.) prüfen,,
+1716,etwas  prüfen,,
 1717,erproben,,
 1718,erproben,,
 1719,Klemaintau,,
 1720,Klaimaintau,,
 1721,gellen,,
 1722,Becken,,
-1723,Knie,,
+1723,Knie,1371,KNEE
 1724,Geschlecht,,
 1725,niederfallen,,
 1726,Kosam,,
-1727,Grieche (Heide),,
+1727,Grieche ,,
 1728,[Kreskus],,
 1729,Kretai,,
 1730,Kretes,,
 1731,Krispus,,
 1732,knirschen,,
-1733,"zerbrechen, zerschellen",,
+1733,"zerbrechen, zerschellen",2558,BREAK (CLEAVE)
 1734,Knirschen,,
 1735,"Tischgesellschaft, Gruppe",,
 1736,einen küssen,,
 1737,mit Küssen bedecken,,
-1738,"sich niederlegen, zu Tische legen",,
+1738,"sich niederlegen, zu Tische legen",215,LIE DOWN
 1739,kumei,,
 1740,Fessel,,
-1741,"Geschlecht, Stamm",,
-1742,"kennen, wissen",,
-1743,verachten,,
-1744,"sich unterordnen, gehorchen",,
+1741,"Geschlecht, Stamm",344,TREE TRUNK
+1742,"kennen, wissen",1410,KNOW (SOMETHING)
+1743,verachten,2715,DESPISE
+1744,"sich unterordnen, gehorchen",1635,OBEY
 1745,-kunnan,,
 1746,etw. lesen,,
 1747,gewähren,,
-1748,"kennen lernen, erfahren",,
-1749,erkennen,,
+1748,"kennen lernen, erfahren",2218,EXPERIENCED
+1749,erkennen,2870,RECOGNIZE (SOMEBODY)
 1750,"Kunde, Kenntnis",,
-1751,"kund, bekannt",,
+1751,"kund, bekannt",3005,FAMILIAR
 1752,Kusa,,
 1753,Kustanteinus,,
 1754,Prüfung,,
 1755,Quirinius,,
 1756,Einwohner von Kyrene,,
 1757,Langmut,,
-1758,Länge,,
-1759,lang,,
-1760,"legen, auflegen, hinlegen",,
+1758,Länge,2537,LENGTH
+1759,lang,1203,LONG
+1760,"legen, auflegen, hinlegen",2071,LAY (VERB)
 1761,etwas ablegen,,
-1762,einem (D.)  etw. (A.) auflegen,,
-1763,"hinlegen, auflegen",,
-1764,einem (D.) etw. vorlegen,,
-1765,hinlegen,,
+1762,einem  auflegen,,
+1763,"hinlegen, auflegen",998,PUT
+1764,einem  etw. vorlegen,,
+1765,hinlegen,998,PUT
 1766,überdecken,,
 1767,us-lagjan,,
 1768,schmähn,,
 1769,lauan*,,
 1770,Überbleibsel,,
 1771,übrig lassen,,
-1772,bleiben,,
+1772,bleiben,987,REMAIN
 1773,Legion,,
 1774,etw. belecken,,
-1775,"hüpfen, springen",,
-1776,einen (A.) verspotten,,
+1775,"hüpfen, springen",1829,JUMP
+1776,einen  verspotten,,
 1777,Tanz,,
 1778,Leseabschnitt,,
-1779,(ich) weiß,,
-1780,Lehrer,,
+1779, weiß,1335,WHITE
+1780,Lehrer,1038,TEACHER
 1781,zum Lehren befähigt,,
 1782,Lehre,,
-1783,lehren,,
-1784,lehren,,
+1783,lehren,709,TEACH
+1784,lehren,709,TEACH
 1785,belehren,,
 1786,"einem folgen, nachstreben",,
-1787,"einem nachfolgen, nachstreben; nachgehn (beobachtend verfolgen)",,
+1787,"einem nachfolgen, nachstreben; nachgehn ",,
 1788,Gastfreundschaft pflegend,,
-1789,Spur,,
+1789,Spur,318,FOOTPRINT
 1790,Laiwweis,,
 1791,Laiwweiteis,,
 1792,Lamaik,,
-1793,"Lamm, Schaf",,
-1794,Land; Gegend,,
-1795,schwach,,
+1793,"Lamm, Schaf",1331,SHEEP
+1794,Land; Gegend,1300,COUNTRY
+1795,schwach,1601,WEAK
 1796,Lässigkeit,,
 1797,aufhalten,,
-1798,verhindern; ihr bekommt keine Gelegenheit,,
-1799,verhindern,,
-1800,"lässig, faul",,
+1798,verhindern; ihr bekommt keine Gelegenheit,1550,PREVENT
+1799,verhindern,1550,PREVENT
+1800,"lässig, faul",1564,LAZY
 1801,gern,,
-1802,(ein)laden,,
+1802,laden,3669,LOAD (SOMETHING)
 1803,berufen,,
-1804,"zusammenberufen, einladen",,
+1804,"zusammenberufen, einladen",1611,INVITE
 1805,"Einladung, Berufung",,
 1806,schmähn,,
-1807,glauben,,
+1807,glauben,1890,BELIEVE
 1808,einem erlauben,,
 1809,Laudeikaia*,,
 1810,Gestalt,,
-1811,"Laub, Blatt",,
-1812,leugnen,,
+1811,"Laub, Blatt",628,LEAF
+1812,leugnen,755,DENY
 1813,verborgen bleiben,,
 1814,blitzen,,
-1815,Blitz,,
+1815,Blitz,1654,LIGHTNING
 1816,Lauidjai,,
-1817,Lohn,,
+1817,Lohn,1122,WAGES
 1818,undankbar,,
-1819,"los, leer",,
+1819,"los, leer",1624,EMPTY
 1820,leeres Gerede,,
 1821,leeres Gerede,,
 1822,hohle Schwätzer,,
 1823,mit leeren Händen,,
-1824,lösen,,
+1824,lösen,352,UNTIE
 1825,"erlösen, befreien",,
 1826,entwurzele dich,,
-1827,Fasten,,
+1827,Fasten,303,ABSTAIN FROM FOOD
 1828,"leeren Magens, nüchtern",,
 1829,Lazarus,,
-1830,bleiben,,
-1831,leicht,,
-1832,leihen; sich borgen von,,
-1833,"Körper, Leib",,
+1830,bleiben,987,REMAIN
+1831,leicht,1052,LIGHT (WEIGHT)
+1832,leihen; sich borgen von,582,LEND
+1833,"Körper, Leib",1480,BODY
 1834,Gefallen,,
 1835,"einem gefallen, zu Gefallen sein",,
 1836,gefallen,,
 1837,vorhergefallen,,
 1838,"leiblich, fleischlich",,
-1839,Arzt,,
+1839,Arzt,597,PHYSICIAN
 1840,"anstaunen, bewundern",,
 1841,meine Nachahmer,,
 1842,"sich verwandeln, eine Gestalt annehmen",,
@@ -1846,65 +1846,65 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1844,mitnachahmen,,
 1845,þairh-gáleikon,,
 1846,Leinwand,,
-1847,lassen,,
-1848,"klein, wenig",,
-1849,"weggehn, entweichen, verreisen",,
-1850,"verlassen, zurücklassen",,
-1851,"kommen, gehn",,
+1847,lassen,2896,CAUSE TO (LET)
+1848,"klein, wenig",1246,SMALL
+1849,"weggehn, entweichen, verreisen",1752,LEAVE
+1850,"verlassen, zurücklassen",1752,LEAVE
+1851,"kommen, gehn",1446,COME
 1852,hineingehn,,
 1853,mithineingehn,,
 1854,hinzukommen,,
 1855,hindurchgehn,,
-1856,übersetzen,,
-1857,"hinausgehn, weggehn; verreisen",,
+1856,übersetzen,2906,TRANSLATE
+1857,"hinausgehn, weggehn; verreisen",1752,LEAVE
 1858,Obstwein,,
-1859,Arzt,,
+1859,Arzt,597,PHYSICIAN
 1860,Heilung,,
-1861,heilen,,
-1862,herstellen,,
-1863,lassen,,
-1864,entlassen,,
-1865,"lassen; frei lassen, entlassen; unterlassen; zulassen, erlauben; erlassen, vergeben; herablassen",,
+1861,heilen,499,CURE
+1862,herstellen,2886,PRODUCE
+1863,lassen,2896,CAUSE TO (LET)
+1864,entlassen,1095,LET GO OR SET FREE
+1865,"lassen; frei lassen, entlassen; unterlassen; zulassen, erlauben; erlassen, vergeben; herablassen",2896,CAUSE TO (LET)
 1866,ausschließen,,
 1867,scheiden,,
 1868,"Gelegenheit, Veranlassung",,
-1869,verraten,,
-1870,verraten,,
+1869,verraten,1902,BETRAY
+1870,verraten,1902,BETRAY
 1871,"hingeben, überlassen",,
-1872,Leben,,
-1873,leben,,
+1872,Leben,210,LIFE
+1873,leben,1422,BE ALIVE
 1874,mitleben,,
 1875,übrig bleiben,,
-1876,liegen,,
+1876,liegen,1411,LIE (REST)
 1877,steht in meiner Macht,,
 1878,unterliegen,,
-1879,"Lager, Bett",,
+1879,"Lager, Bett",1663,BED
 1880,lima,,
-1881,weggehn,,
-1882,"lesen, sammeln",,
+1881,weggehn,1752,LEAVE
+1882,"lesen, sammeln",724,READ
 1883,"zusammenlesen, versammeln",,
 1884,listig,,
 1885,List,,
 1886,Heuchelei,,
 1887,Bittgebet,,
 1888,heucheln mit,,
-1889,Glied,,
+1889,Glied,1222,PENIS
 1890,lieblich,,
-1891,wachsen,,
-1892,einem (Dat.) danken,,
-1893,lieb,,
-1894,"Heirat, Ehe",,
-1895,heiraten,,
+1891,wachsen,479,GROW
+1892,einem  danken,,
+1893,lieb,2470,DEAR
+1894,"Heirat, Ehe",2432,MARRIAGE
+1895,heiraten,203,MARRY
 1896,ein Weib nehmen,,
-1897,lügen,,
-1898,Lüge,,
+1897,lügen,601,LIE (MISLEAD)
+1898,Lüge,2826,LIE (FALSEHOOD)
 1899,Lügenprophet,,
 1900,Lügen redend,,
-1901,Lügner,,
+1901,Lügner,3470,LIAR
 1902,liuhadei*,,
 1903,"Helle, Glanz",,
-1904,hell,,
-1905,Licht,,
+1904,hell,679,BRIGHT
+1905,Licht,630,LIGHT (RADIATION)
 1906,leuchten,,
 1907,"etw. erleuchten, ans Licht bringen",,
 1908,erleuchten,,
@@ -1919,19 +1919,19 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1917,giftkundig,,
 1918,"Giftmischerei, Zauberei",,
 1919,Angesicht,,
-1920,Luft,,
+1920,Luft,27,AIR
 1921,verschließen,,
-1922,"erschließen, öffnen",,
-1923,"Leuchte, Licht",,
+1922,"erschließen, öffnen",1156,OPEN
+1923,"Leuchte, Licht",630,LIGHT (RADIATION)
 1924,Leuchter,,
 1925,Lukas,,
 1926,Lukius,,
 1927,sich verschließen,,
-1928,"sich erschließen, öffnen",,
+1928,"sich erschließen, öffnen",1156,OPEN
 1929,Lösegeld,,
 1930,verloren gehn,,
 1931,begehren,,
-1932,"Lust, Begierde",,
+1932,"Lust, Begierde",2960,LONGING (WISH)
 1933,ersehnt,,
 1934,taüschen,,
 1935,"verführen, irre führen",,
@@ -1939,20 +1939,20 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1937,Lwsanius*,,
 1938,Lwstrws,,
 1939,Maeinan*,,
-1940,"können, vermögen",,
+1940,"können, vermögen",972,BE ABLE
 1941,"gelten, bedeuten",,
 1942,Jungfrauschaft,,
 1943,Jungfrau,,
 1944,Magdalan,,
 1945,Magdalene,,
 1946,Knäblein,,
-1947,Knabe,,
+1947,Knabe,1366,BOY
 1948,Mahath,,
-1949,mächtig; möglich,,
-1950,"vergewaltigen; rauben; kränken, quälen; erpressen; mißhandeln",,
+1949,mächtig; möglich,3001,POWERFUL
+1950,"vergewaltigen; rauben; kränken, quälen; erpressen; mißhandeln",1952,TORTURE
 1951,mahts,,
-1952,"Macht, Kraft, Vermögen",,
-1953,tauschen,,
+1952,"Macht, Kraft, Vermögen",2526,POWER
+1953,tauschen,2509,EXCHANGE
 1954,verwandeln,,
 1955,Mist,,
 1956,Mailaian*,,
@@ -1961,7 +1961,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1959,Pergament,,
 1960,gemein machen,,
 1961,verunreinigen,,
-1962,mehr,,
+1962,mehr,1992,MORE
 1963,Maisaullam*,,
 1964,der größte,,
 1965,höchstens,,
@@ -1970,52 +1970,52 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1968,beschneiden,,
 1969,"zerschneiden, verschneiden",,
 1970,"ausschneiden, abschneiden, ausrotten",,
-1971,Geschenk,,
+1971,Geschenk,2982,GIFT
 1972,größer,,
 1973,Makeibis,,
 1974,Makidoneis,,
 1975,Makidonja,,
 1976,Makmas,,
-1977,mahlen,,
+1977,mahlen,1033,GRIND
 1978,[Malailaiel],,
 1979,Malkus,,
-1980,Sand,,
-1981,Motte,,
+1980,Sand,671,SAND
+1981,Motte,2828,MOTH
 1982,zermalmen,,
 1983,Mambres,,
-1984,Fleisch,,
+1984,Fleisch,634,MEAT
 1985,mammona*,,
 1986,verhöhnen,,
-1987,"meinen, glauben, dafür halten",,
+1987,"meinen, glauben, dafür halten",1890,BELIEVE
 1988,Fülle,,
-1989,Menge,,
+1989,Menge,2987,AMOUNT
 1990,mannigfaltig,,
 1991,etw. mehren,,
 1992,"reichlich vorhanden sein, Überfluß haben an",,
 1993,sich vermehren zu,,
-1994,"mancher, viel",,
+1994,"mancher, viel",1198,MANY
 1995,Menschenmörder,,
-1996,"Welt, Menschheit",,
+1996,"Welt, Menschheit",965,WORLD
 1997,der Gestalt nach,,
-1998,Bild,,
+1998,Bild,3303,PICTURE (PAINTING)
 1999,manna,,
-2000,"Mensch, mann",,
-2001,niemand,,
+2000,"Mensch, mann",683,PERSON
+2001,niemand,3887,NOBODY
 2002,Menschlichkeit,,
 2003,menschlich,,
 2004,Bereitschaft,,
 2005,"etw. bereitmachen, zurechtmachen",,
 2006,etw. vorbereiten,,
-2007,einem etw. (zu)bereiten zu,,
+2007,einem etw. bereiten zu,,
 2008,etw. vorher zubereiten,,
 2009,bereit,,
 2010,der Herr kommt,,
-2011,Meer,,
+2011,Meer,1474,SEA
 2012,Maria,,
-2013,Perle,,
-2014,See,,
+2013,Perle,3325,PEARL
+2014,See,624,LAKE
 2015,Marja,,
-2016,"Mark, Grenze",,
+2016,"Mark, Grenze",2546,BORDER
 2017,Marcellus von Ancyra,,
 2018,[ga-markon],,
 2019,Markus,,
@@ -2026,41 +2026,41 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2024,Ärgernis nehmen,,
 2025,Ärgernis erregen,,
 2026,"Ranzen, Speisesack",,
-2027,essen,,
-2028,essen,,
-2029,Speise,,
+2027,essen,1336,EAT
+2028,essen,1336,EAT
+2029,Speise,256,FOOD
 2030,Mattaþanis,,
 2031,Mattaþius*,,
 2032,Matþaius*,,
 2033,Matþat,,
-2034,Wurm,,
+2034,Wurm,1219,WORM
 2035,"Versammlungsort, Marktplatz",,
-2036,"Rede, Redeweise",,
-2037,reden,,
+2036,"Rede, Redeweise",1115,SPEECH
+2037,reden,2708,TALK
 2038,Maþusalis,,
 2039,einen erinnern,,
 2040,einen erinnern an,,
-2041,Morgen,,
+2041,Morgen,1339,MORNING
 2042,verkürzen,,
-2043,sorgen für (Dat.),,
-2044,Mord,,
+2043,sorgen für ,,
+2044,Mord,845,MURDER
 2045,morden,,
-2046,Mädchen,,
-2047,Mädchen,,
+2046,Mädchen,1646,GIRL
+2047,Mädchen,1646,GIRL
 2048,Eidam,,
-2049,mein,,
+2049,mein,2090,MY
 2050,Schwert,,
-2051,"Zeit, Stunde",,
+2051,"Zeit, Stunde",892,TIME
 2052,Scheffel,,
-2053,schreiben,,
+2053,schreiben,1672,WRITE
 2054,aufschreiben,,
 2055,"vorzeichnen, vormalen",,
-2056,schreiben,,
+2056,schreiben,1672,WRITE
 2057,vorher schreiben,,
 2058,unterschreiben,,
 2059,etw. überschreiben,,
-2060,Mond,,
-2061,Monat,,
+2060,Mond,1313,MOON
+2061,Monat,1370,MONTH
 2062,"Verkündigung, Predigt",,
 2063,Merila,,
 2064,"Gerücht, Kunde",,
@@ -2068,53 +2068,53 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2066,"Verkündiger, Prediger",,
 2067,verkünden,,
 2068,einem eine frohe Botschaft künden,,
-2069,lästern,,
-2070,sich (durchs Gerücht) verbreiten,,
-2071,"Tisch; Schüssel, Platte; Kelter",,
+2069,lästern,3641,SLANDER
+2070,sich  verbreiten,,
+2071,"Tisch; Schüssel, Platte; Kelter",1775,TABLE
 2072,Zwischenwand,,
 2073,"Überflutung, Sintflut",,
 2074,midjis*,,
 2075,"die bewohnte Erde, der Erdkreis",,
-2076,Mitte,,
+2076,Mitte,1093,MIDDLE
 2077,Mittler,,
-2078,Größe,,
-2079,Größe,,
+2078,Größe,2845,SIZE (OF OBJECT)
+2079,Größe,2845,SIZE (OF OBJECT)
 2080,preisen,,
 2081,preisen,,
 2082,verherrlicht werden,,
-2083,groß,,
+2083,groß,1202,BIG
 2084,hochmütig,,
 2085,Milde,,
-2086,Wolke,,
+2086,Wolke,1489,CLOUD
 2087,die Soldaten,,
-2088,Honig,,
-2089,Milch,,
+2088,Honig,942,HONEY
+2089,Milch,635,MILK
 2090,mimz,,
 2091,"der kleinste, geringste",,
 2092,"kleiner, geringer",,
 2093,"minder, weniger",,
-2094,abnehmen,,
+2094,abnehmen,2864,DECREASE
 2095,Missetat,,
-2096,verschieden,,
+2096,verschieden,2504,DIFFERENT
 2097,"Zwiespalt, Mißrede",,
 2098,Übeltäter,,
 2099,einander,,
 2100,Maß,,
-2101,messen,,
+2101,messen,1506,MEASURE
 2102,zumessen,,
-2103,"wandeln, sich benehmen, leben",,
+2103,"wandeln, sich benehmen, leben",1422,BE ALIVE
 2104,Maß,,
-2105,"ermessen, (be)denken, überlegen",,
-2106,vergessen,,
-2107,"Überlegung, Gedanke",,
-2108,"mit, bei, unter",,
+2105,"ermessen, denken, überlegen",1415,THINK (REFLECT)
+2106,vergessen,1523,FORGET
+2107,"Überlegung, Gedanke",2975,THOUGHT
+2108,"mit, bei, unter",1485,BELOW OR UNDER
 2109,Zwischenwand,,
 2110,inzwischen,,
 2111,während,,
 2112,"Bewußtsein, Gewissen",,
-2113,Lohn,,
-2114,zornig auf (Dat.),,
-2115,ermüdet,,
+2113,Lohn,1122,WAGES
+2114,zornig auf ,,
+2115,ermüdet,1757,TIRED
 2116,Moses,,
 2117,Zoll,,
 2118,Raum finden,,
@@ -2124,17 +2124,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2122,einem begegnen,,
 2123,Zorn,,
 2124,"Nachgiebigkeit, Sanftmut",,
-2125,Staub,,
+2125,Staub,2,DUST
 2126,"von Staub, irdisch",,
 2127,einem das Maul verbinden,,
-2128,"meinen, glauben, dafür halten",,
+2128,"meinen, glauben, dafür halten",1890,BELIEVE
 2129,sich einer Sache,,
-2130,"etw. zu tun gedenken, wollen",,
+2130,"etw. zu tun gedenken, wollen",1784,WANT
 2131,"einen besehn, sehen auf",,
 2132,Ziel,,
-2133,vergessen,,
-2134,"Gedanke, Meinung",,
-2135,Mund,,
+2133,vergessen,1523,FORGET
+2134,"Gedanke, Meinung",2975,THOUGHT
+2135,Mund,674,MOUTH
 2136,Nabaw*,,
 2137,Natter,,
 2138,[Naem],,
@@ -2143,115 +2143,115 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2141,"es ist erlaubt, nötig",,
 2142,es genügt einem,,
 2143,Nahasson,,
-2144,"(Hauptmahlzeit), Abendessen, Abendmahl, Gastmahl",,
-2145,Nacht,,
+2144,", Abendessen, Abendmahl, Gastmahl",,
+2145,Nacht,1233,NIGHT
 2146,Naiman,,
 2147,Lästerung,,
 2148,beschimpfen,,
 2149,Naitofaþeis,,
 2150,Nakor,,
-2151,nennen,,
-2152,benennen,,
-2153,Name,,
+2151,nennen,180,CALL BY NAME
+2152,benennen,180,CALL BY NAME
+2153,Name,1405,NAME
 2154,"Mut fassen, sich erkühnen",,
-2155,aufhören,,
+2155,aufhören,3351,STOP DOING
 2156,Nacktheit,,
-2157,nackt,,
+2157,nackt,590,NAKED
 2158,Narde,,
 2159,"Rettung, Heil",,
-2160,retten,,
+2160,retten,2008,RESCUE
 2161,Heiland,,
-2162,"erretten, herstellen",,
-2163,Netz,,
+2162,"erretten, herstellen",2886,PRODUCE
+2163,Netz,2963,NET
 2164,netzen,,
 2165,benetzen,,
 2166,Naþan,,
-2167,November,,
-2168,"Kette, Handschellen",,
+2167,November,2854,NOVEMBER
+2168,"Kette, Handschellen",1627,CHAIN
 2169,notwendig,,
 2170,Notwendigkeit,,
 2171,Nauel,,
-2172,noch,,
-2173,noch,,
-2174,noch,,
+2172,noch,2919,STILL (CONTINUING)
+2173,noch,2919,STILL (CONTINUING)
+2174,noch,2919,STILL (CONTINUING)
 2175,und sogar noch,,
 2176,Naum,,
 2177,der Tote,,
 2178,nötigen,,
 2179,durch Zwang veranlassen,,
 2180,"Not, Zwang",,
-2181,tot,,
-2182,begraben,,
-2183,"einen mit jemand (Dat., vgl. 256,2) begraben",,
+2181,tot,1625,DEAD
+2182,begraben,1719,BURY
+2183,einen mit jemand  begraben,,
 2184,Nazaraiþ,,
 2185,"Nazoräer, Nazarener",,
 2186,"Nazoräer, Nazarener",,
-2187,nein,,
-2188,nahe,,
+2187,nein,1269,NO
+2188,nahe,1942,NEAR
 2189,näher,,
-2190,nahe,,
+2190,nahe,1942,NEAR
 2191,sich einem nähern,,
 2192,herannahen,,
 2193,der Nächste,,
-2194,nicht,,
-2195,Neid,,
-2196,Ne(i)kaudemus,,
+2194,nicht,1240,NOT
+2195,Neid,40,ENVY
+2196,Nekaudemus,,
 2197,es auf jemand abgesehn haben,,
 2198,Nerins,,
-2199,Nadel,,
-2200,nicht,,
+2199,Nadel,1382,NEEDLE (FOR SEWING)
+2200,nicht,1240,NOT
 2201,doch nicht etwa?,,
 2202,"das Verzehren, der Rost",,
-2203,"und nicht, auch nicht, nicht",,
+2203,"und nicht, auch nicht, nicht",1240,NOT
 2204,Nikaudemus,,
-2205,"nehmen, annehmen, aufnehmen, empfangen, fangen",,
-2206,"abnehmen, wegnehmen",,
-2207,"annehmen, aufnehmen, empfangen",,
+2205,"nehmen, annehmen, aufnehmen, empfangen, fangen",1749,TAKE
+2206,"abnehmen, wegnehmen",2864,DECREASE
+2207,"annehmen, aufnehmen, empfangen",694,GET
 2208,aufnehmen; wohin versetzen,,
 2209,wegnehmen,,
-2210,besitzen,,
-2211,nehmen,,
+2210,besitzen,684,OWN
+2211,nehmen,1749,TAKE
 2212,mitnehmen,,
 2213,hernehmen,,
 2214,"annehmen, gelten lassen",,
 2215,"herausnehmen, wegnehmen",,
-2216,"genesen, errettet werden",,
+2216,"genesen, errettet werden",1978,RECOVER
 2217,nist,,
-2218,helfen,,
+2218,helfen,1897,HELP
 2219,Verwandter,,
 2220,die Verwandte,,
-2221,nicht,,
+2221,nicht,1240,NOT
 2222,Heimsuchung,,
 2223,"auskundschaften, ausspionieren",,
 2224,erneuern,,
-2225,"(eig. neugepflanzt) der Neubekehrte, der Neuling",,
-2226,neu,,
+2225," der Neubekehrte, der Neuling",,
+2226,neu,1231,NEW
 2227,Neuheit,,
 2228,Unverstand,,
 2229,"unmündig, kindisch",,
-2230,neun,,
+2230,neun,1483,NINE
 2231,der neunte,,
-2232,neunzig,,
-2233,"treffen, erreichen; einer Sache froh sein",,
-2234,"ergreifen, erwischen",,
+2232,neunzig,1724,NINETY
+2233,"treffen, erreichen; einer Sache froh sein",1831,MEET
+2234,"ergreifen, erwischen",855,SEIZE
 2235,die er uns reichlich gewährte,,
-2236,zur Genüge versehn sein mit (Dat.),,
+2236,zur Genüge versehn sein mit ,,
 2237,auf dem Achterdeck,,
-2238,"nun, jetzt",,
+2238,"nun, jetzt",1376,NOW
 2239,denn,,
 2240,"demnach, daher",,
-2241,"Fänger, Fischer",,
+2241,"Fänger, Fischer",1858,FISHERMAN
 2242,Nwmfan,,
 2243,"ach, pfui",,
 2244,Obeid*,,
 2245,Odueia*,,
-2246,sich fürchten vor (Akk.),,
+2246,sich fürchten vor ,,
 2247,einen schrecken,,
 2248,Zeit habend,,
 2249,Osaiin,,
 2250,osanna,,
 2251,"Leibrock, Unterkleid",,
-2252,(mit einem Leibrock) bekleiden,,
+2252, bekleiden,,
 2253,paintekuste*,,
 2254,Paitrus,,
 2255,"Presbyter, Geistlicher",,
@@ -2267,9 +2267,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2265,Palmbaum,,
 2266,Peilatus,,
 2267,unverfälschte o. flüssige Narde,,
-2268,Straße,,
+2268,Straße,667,ROAD
 2269,Flicken,,
-2270,tanzen,,
+2270,tanzen,1879,DANCE
 2271,bedrängen,,
 2272,praitoriaun,,
 2273,christlich. Gemeindebehörde,,
@@ -2282,47 +2282,47 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2280,Psalm,,
 2281,Geldbeutel,,
 2282,Pfund,,
-2283,"weinen, trauern",,
+2283,"weinen, trauern",1839,CRY
 2284,Sanftmut,,
-2285,"sanft, freundlich gegen",,
-2286,"Pfahl, Stachel",,
+2285,"sanft, freundlich gegen",1856,SOFT
+2286,"Pfahl, Stachel",3798,STINGER
 2287,Quartus,,
 2288,Eheweib,,
-2289,kommen,,
+2289,kommen,1446,COME
 2290,hinzutreten,,
 2291,einen überfallen,,
 2292,vor jemand hergehn,,
 2293,"etw. verzehren, ausgeben, vertun",,
 2294,zusammenkommen,,
 2295,mitkommen mit,,
-2296,"umbringen, den Tod geben",,
+2296,"umbringen, den Tod geben",1417,KILL
 2297,weiblichen Geschlechts,,
 2298,"Frauenzimmer, Weibsleute",,
-2299,"femina, Weib",,
-2300,Verderben,,
-2301,verderben,,
-2302,"verderben, umbringen",,
-2303,"verderben, umbringen",,
-2304,"umkommen, zugrunde gehn",,
-2305,sagen,,
+2299,"femina, Weib",962,WOMAN
+2300,Verderben,92,SPOIL (SOMEBODY OR SOMETHING)
+2301,verderben,92,SPOIL (SOMEBODY OR SOMETHING)
+2302,"verderben, umbringen",92,SPOIL (SOMEBODY OR SOMETHING)
+2303,"verderben, umbringen",92,SPOIL (SOMEBODY OR SOMETHING)
+2304,"umkommen, zugrunde gehn",2865,DIE (FROM ACCIDENT)
+2305,sagen,1458,SAY
 2306,verzichten auf,,
 2307,"verleumden, verlästern",,
-2308,Abschied nehmen (entlassen),,
+2308,Abschied nehmen ,,
 2309,sich entschuldigen,,
 2310,vorhersagen,,
-2311,"für ungültig erklären, aufheben",,
+2311,"für ungültig erklären, aufheben",371,PICK UP
 2312,"sich verabreden, übereinkommen, beschließen",,
 2313,"mitsprechen, nachsprechen",,
 2314,ein Gerede verbreiten,,
 2315,die Schwangere,,
-2316,Magen; Mutterschoß,,
+2316,Magen; Mutterschoß,819,STOMACH
 2317,beleben,,
 2318,beleben,,
 2319,mitbeleben,,
 2320,aufleben,,
-2321,lebendig,,
+2321,lebendig,1422,BE ALIVE
 2322,Feuchtigkeit,,
-2323,"das Kommen; Gegenwart, Ankunft, Wiederkunft Christi",,
+2323,"das Kommen; Gegenwart, Ankunft, Wiederkunft Christi",1446,COME
 2324,rabbaunei,,
 2325,rabbei,,
 2326,Ragaw*,,
@@ -2330,54 +2330,54 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2328,"Ratgeber, Ratsherr",,
 2329,etw. verwalten,,
 2330,einen Rat geben,,
-2331,rechnen,,
+2331,rechnen,2867,CALCULATE
 2332,einen übertreffen an,,
 2333,abschätzen,,
 2334,darreichen,,
 2335,Raibaikka,,
 2336,verordnen,,
-2337,"befehlen, verordnen, bestimmen",,
+2337,"befehlen, verordnen, bestimmen",1998,COMMAND
 2338,"nämlich, doch, etwa",,
 2339,als gerecht erweisen,,
 2340,vollends in Ordnung bringen,,
-2341,"recht, grade",,
-2342,"recht, richtig",,
+2341,"recht, grade",1062,LAW
+2342,"recht, richtig",1725,CORRECT (RIGHT)
 2343,"zum Aufstehn bringen, aufrichten, erwecken",,
 2344,raka,,
 2345,aufrecken,,
 2346,Rama,,
 2347,aufgehn lassen,,
 2348,Meile,,
-2349,zählen,,
-2350,"Abrechnung, Konto; Zahl",,
+2349,zählen,1420,COUNT
+2350,"Abrechnung, Konto; Zahl",1356,NUMBER
 2351,leichter,,
 2352,einen berauben,,
 2353,erzürnt werden,,
 2354,raufen,,
-2355,Rohr,,
-2356,rot,,
-2357,"Sprache, Sprechweise",,
-2358,Haus,,
+2355,Rohr,2956,TUBE
+2356,rot,156,RED
+2357,"Sprache, Sprechweise",1307,LANGUAGE
+2358,Haus,1252,HOUSE
 2359,Vorsorge treffen für,,
 2360,einen vorherbestimmen zu,,
 2361,"besorgen, gewähren",,
 2362,"warum lasset ihr euch Satzungen auflegen, als lebtet ihr in der Welt",,
-2363,"Reich, Herrschaft, Obrigkeit",,
+2363,"Reich, Herrschaft, Obrigkeit",712,RICH
 2364,herrschen über,,
 2365,reikeis*,,
 2366,reiks*,,
-2367,"Herrscher, Obrigkeit",,
-2368,zittern,,
+2367,"Herrscher, Obrigkeit",3377,EMPEROR
+2368,zittern,52,SHIVER
 2369,"erzittern, erbeben",,
-2370,das Zittern,,
-2371,"erstehn, sich erheben",,
+2370,das Zittern,52,SHIVER
+2371,"erstehn, sich erheben",570,STAND UP
 2372,Resa*,,
-2373,Regen,,
-2374,regnen,,
+2373,Regen,658,RAIN (PRECIPITATION)
+2374,regnen,1253,RAIN (RAINING)
 2375,häufen,,
-2376,Ruhe,,
-2377,"rennen, laufen",,
-2378,streiten,,
+2376,Ruhe,3458,SILENCE
+2377,"rennen, laufen",1519,RUN
+2378,streiten,3302,QUARREL (VERB)
 2379,hinzulaufen,,
 2380,hinzulaufen,,
 2381,einen umringen,,
@@ -2393,40 +2393,40 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2391,finster,,
 2392,finster werden,,
 2393,"Vernichtung, vom ewigen Tod gesagt",,
-2394,verderben,,
+2394,verderben,92,SPOIL (SOMEBODY OR SOMETHING)
 2395,"vergänglich, sterblich",,
 2396,riurs*,,
-2397,"sprechen, reden",,
+2397,"sprechen, reden",1623,SPEAK
 2398,"murrend reden, murren",,
 2399,mit einem reden,,
-2400,Hof,,
+2400,Hof,4,COURTYARD
 2401,Rufus,,
-2402,Raum,,
+2402,Raum,1450,ROOM
 2403,Rūma*,,
 2404,sich erweitern,,
 2405,Rūmoneis*,,
 2406,geräumig,,
 2407,Geheimnis,,
 2408,Lauf,,
-2409,"der, dieser",,
+2409,"der, dieser",1214,THIS
 2410,Sabellius,,
 2411,feine Leinwand,,
 2412,Sabaoþ,,
 2413,sabbato,,
 2414,Saddukaieis,,
-2415,satt,,
+2415,satt,106,SATIATED
 2416,der,,
 2417,senken,,
 2418,versenken,,
 2419,uf-saggqjan,,
-2420,"Untergang, Westen",,
+2420,"Untergang, Westen",1817,WEST
 2421,"Vorlesung, Rezitation",,
 2422,"der u. kein andrer, eben der",,
 2423,was auch immer,,
 2424,"ecce, sieh",,
-2425,säen,,
+2425,säen,748,SOW SEEDS
 2426,einsäen,,
-2427,sechs,,
+2427,sechs,1703,SIX
 2428,der sechste,,
 2429,sehn,,
 2430,"auf etw. sehn, es berücksichtigen",,
@@ -2439,49 +2439,49 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2437,anseilen,,
 2438,Sailaum,,
 2439,Saimaiein,,
-2440,"zögern, säumen",,
-2441,Schmerz,,
+2440,"zögern, säumen",3629,HESITATE
+2441,Schmerz,1783,PAIN
 2442,Sairok,,
-2443,Seele,,
-2444,See,,
+2443,Seele,811,SOUL
+2444,See,624,LAKE
 2445,Saixaineia,,
-2446,streiten,,
+2446,streiten,3302,QUARREL (VERB)
 2447,"widersprechen, bekämpfen",,
 2448,schelten,,
-2449,"vorstellen, anraten; eintreten für; bezeichnen",,
+2449,"vorstellen, anraten; eintreten für; bezeichnen",180,CALL BY NAME
 2450,ana-insakan,,
 2451,"erörtern, vorlegen",,
 2452,Streit,,
-2453,Sack,,
+2453,Sack,2990,SACK
 2454,streitsüchtig,,
 2455,Salamis,,
 2456,Salaþiel,,
 2457,salben,,
-2458,(be)salben,,
-2459,Salbe,,
+2458,salben,,
+2459,Salbe,1926,OINTMENT
 2460,leichtfertiges Geschwätz,,
 2461,Herberge,,
 2462,opfern,,
 2463,darbringen,,
 2464,zum Opfer bringen,,
-2465,"herbergen, bleiben",,
+2465,"herbergen, bleiben",987,REMAIN
 2466,Herberge nehmen,,
 2467,Salmon,,
 2468,Salome,,
-2469,Salz,,
+2469,Salz,1274,SALT
 2470,salzen,,
 2471,"derselbe, der nämliche",,
 2472,samafraþjis*,,
 2473,"desselben Geschlechts, verwandt",,
 2474,gleich groß,,
-2475,gleich,,
-2476,"auf gleiche Weise, gleich-, ebenfalls",,
-2477,"zusammen, zugleich",,
+2475,gleich,2276,IDENTICAL
+2476,"auf gleiche Weise, gleich-, ebenfalls",2276,IDENTICAL
+2477,"zusammen, zugleich",2482,TOGETHER
 2478,Übereinstimmung,,
 2479,Samareites,,
 2480,Samaria,,
 2481,einmütig,,
-2482,nach einem und demselben Ort hin; zusammen,,
+2482,nach einem und demselben Ort hin; zusammen,2482,TOGETHER
 2483,die den Menschen zu gefallen suchen,,
 2484,senden,,
 2485,"entsenden, geleiten",,
@@ -2494,29 +2494,29 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2492,Sarra,,
 2493,Waffen,,
 2494,Satan,,
-2495,setzen,,
-2496,"absetzen, entlassen",,
+2495,setzen,3832,PUT (IN A SITTING POSITION)
+2496,"absetzen, entlassen",1095,LET GO OR SET FREE
 2497,darstellen,,
 2498,umgeben,,
-2499,"hinsetzen, hinstellen, hinlegen",,
+2499,"hinsetzen, hinstellen, hinlegen",998,PUT
 2500,"vorstellen, darstellen",,
 2501,versetzen,,
 2502,setzten darauf,,
-2503,satt,,
+2503,satt,106,SATIATED
 2504,Saudauma,,
-2505,Krankheit,,
-2506,Sonne,,
+2505,Krankheit,1986,DISEASE
+2506,Sonne,1343,SUN
 2507,Saulaumon,,
 2508,besudeln,,
 2509,besudelt werden,,
 2510,Säule,,
 2511,Syrer,,
 2512,Saurais,,
-2513,"Sorge, Kummer",,
-2514,"sorgen, bekümmert sein",,
+2513,"Sorge, Kummer",1668,GRIEF
+2514,"sorgen, bekümmert sein",253,CARE FOR
 2515,Syrerin,,
-2516,Grund,,
-2517,Opfer,,
+2516,Grund,2968,REASON
+2517,Opfer,1103,SACRIFICE
 2518,sei,,
 2519,Seidona*,,
 2520,Seidoneis*,,
@@ -2524,36 +2524,36 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2522,Seina,,
 2523,sich,,
 2524,selbstsüchtig,,
-2525,"sein, ihr",,
+2525,"sein, ihr",1213,YOU
 2526,täglich,,
-2527,spät,,
+2527,spät,477,LATE
 2528,"Tüchtigkeit, Güte",,
-2529,"gut, gütig",,
+2529,"gut, gütig",1035,GOOD
 2530,Sem,,
 2531,Seþ*,,
 2532,sibakþanei,,
 2533,"Sippenverhältnis, Verwandtschaft",,
-2534,sich mit einem (Dat.) versöhnen,,
-2535,sieben,,
-2536,siebzig,,
+2534,sich mit einem  versöhnen,,
+2535,sieben,1704,SEVEN
+2536,siebzig,1721,SEVENTY
 2537,üben,,
-2538,"Sitte, Gewohnheit",,
-2539,"sich freuen, frohlocken",,
-2540,"singen; vorlesen, rezitieren",,
+2538,"Sitte, Gewohnheit",1747,CUSTOM
+2539,"sich freuen, frohlocken",1495,HAPPY
+2540,"singen; vorlesen, rezitieren",1261,SING
 2541,"vorlesen, rezitieren",,
-2542,Sieg,,
+2542,Sieg,783,VICTORY
 2543,Siegeslohn,,
 2544,"einen mit einem Siegel versehn, ihn siegeln",,
 2545,versiegeln,,
 2546,"besiegeln, bestätigen",,
 2547,Siegel,,
-2548,sinken,,
+2548,sinken,1088,SINK (DESCEND)
 2549,untersinken,,
-2550,"versinken, untergehn",,
+2550,"versinken, untergehn",1088,SINK (DESCEND)
 2551,†sihw,,
 2552,Sekel,,
 2553,verstummen,,
-2554,selbst,,
+2554,selbst,1993,SELF
 2555,Silvanus,,
 2556,Augenzeuge,,
 2557,freiwillig,,
@@ -2562,144 +2562,144 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2560,bewundert werden,,
 2561,"erstaunlich, wunderbar",,
 2562,Siloam,,
-2563,Silber,,
+2563,Silber,759,SILVER
 2564,silbern,,
-2565,"einst, vordem",,
+2565,"einst, vordem",2914,ONCE (IN THE PAST)
 2566,Senf,,
 2567,sineigs,,
 2568,der Älteste,,
 2569,täglich,,
-2570,"immer, allezeit",,
-2571,Gang,,
+2570,"immer, allezeit",1676,ALWAYS
+2571,Gang,2979,WALK (MANNER)
 2572,Sion,,
 2573,"Schüler, Jünger",,
 2574,jemandes Schüler sein,,
-2575,sitzen,,
+2575,sitzen,1416,SIT
 2576,"scheuen, Rücksicht nehmen",,
 2577,"herumsitzen, herumwohnen",,
-2578,Nachbar,,
-2579,ergreifen,,
+2578,Nachbar,1332,NEIGHBOUR
+2579,ergreifen,855,SEIZE
 2580,"sich niedersetzen, Platz nehmen",,
 2581,"sich aufsetzen, sich aufrichten",,
 2582,Sitz,,
-2583,nähen,,
-2584,"siechen, krank sein",,
-2585,Krankheit,,
-2586,"krank, schwach",,
-2587,"Gesicht, das Sehen, Sehkraft; Gestalt, sinnfällige Erscheinung; Augenschein; Gesicht, Vision",,
-2588,"schaben, scheren",,
-2589,"schaben, scheren",,
-2590,Schatten,,
+2583,nähen,1457,SEW
+2584,"siechen, krank sein",1847,SICK
+2585,Krankheit,1986,DISEASE
+2586,"krank, schwach",1601,WEAK
+2587,"Gesicht, das Sehen, Sehkraft; Gestalt, sinnfällige Erscheinung; Augenschein; Gesicht, Vision",1560,FACE
+2588,"schaben, scheren",1532,SHEAR
+2589,"schaben, scheren",1532,SHEAR
+2590,Schatten,1388,SHADE
 2591,überschatten,,
 2592,sich bereit machen,,
-2593,"scheiden, trennen",,
+2593,"scheiden, trennen",1359,SEPARATE
 2594,"absondern, abtrennen",,
 2595,zerteilen,,
 2596,sich zurückziehn,,
 2597,geschieden werden,,
 2598,"schuldig sein, sollen",,
 2599,Ziegel,,
-2600,"Knechtschaft, Dienst(barkeit); Gottesdienst",,
+2600,"Knechtschaft, Dienst; Gottesdienst",,
 2601,einem dienen,,
 2602,"Mitknecht sein, mitdienen",,
-2603,"Knecht, Diener",,
-2604,sich schämen,,
+2603,"Knecht, Diener",812,SLAVE
+2604,sich schämen,1894,ASHAMED
 2605,beschämt werden,,
 2606,Schande,,
 2607,erschaffen,,
 2608,Skariotau,,
 2609,"daß sie nüchtern werden, zur Besinnung kommen aus den Schlingen des Teufels",,
 2610,Wechsler,,
-2611,"Geld, Geldstück; Mine",,
+2611,"Geld, Geldstück; Mine",1559,MONEY
 2612,schädlich,,
-2613,"Schaden, Unrecht",,
-2614,schaden,,
+2613,"Schaden, Unrecht",2947,DAMAGE (INJURY)
+2614,schaden,2947,DAMAGE (INJURY)
 2615,einem Schaden zufügen in,,
 2616,schädlich,,
-2617,Riemen,,
+2617,Riemen,2973,STRAP
 2618,anmutig,,
 2619,skauneis*,,
-2620,Skorpion,,
+2620,Skorpion,1538,SCORPION
 2621,Zipfel,,
 2622,"daß sie nüchtern werden, zur Besinnung kommen aus den Schlingen des Teufels",,
 2623,Leuchte,,
-2624,"scheinen, leuchten; aufblitzen",,
+2624,"scheinen, leuchten; aufblitzen",1521,SEEM
 2625,umleuchten,,
 2626,"Auslegung, Erklärung",,
-2627,erklären,,
-2628,"klar, deutlich",,
+2627,erklären,1626,EXPLAIN
+2628,"klar, deutlich",989,CLEAR
 2629,wandern,,
-2630,Schild,,
-2631,Fleischer,,
+2630,Schild,1064,SHIELD
+2631,Fleischer,2569,BUTCHER
 2632,Schilling,,
-2633,Schiff,,
+2633,Schiff,740,SHIP
 2634,"verstoßen, von sich wegstoßen",,
-2635,Schuh,,
+2635,Schuh,1381,SHOE
 2636,"böser Geist, Dämon",,
 2637,etw. zerreißen,,
-2638,zerreißen,,
+2638,zerreißen,1735,TEAR (SHRED)
 2639,Haupthaar,,
-2640,Spiegel,,
+2640,Spiegel,1171,MIRROR
 2641,"Schuldner, der Schuldige",,
 2642,"schuldig sein, sollen",,
 2643,Schauer,,
 2644,Skwþus,,
 2645,Raufbold,,
-2646,schlagen,,
+2646,schlagen,2133,STRIKE OR BEAT
 2647,abschlagen,,
 2648,Schlag,,
-2649,"schlicht; glatt, eben",,
-2650,das Schlachten,,
+2649,"schlicht; glatt, eben",1234,SMOOTH
+2650,das Schlachten,1796,SLAUGHTER
 2651,"abstreifen, ablegen",,
 2652,in Angst versetzen,,
-2653,erschrecken,,
-2654,schweigen,,
+2653,erschrecken,252,FRIGHTEN
+2654,schweigen,48,BE SILENT
 2655,verstummen,,
 2656,verstummen,,
-2657,Schaden,,
-2658,Gefahr,,
-2659,beschädigen,,
-2660,"schlimm, gefährlich",,
+2657,Schaden,2947,DAMAGE (INJURY)
+2658,Gefahr,1810,DANGER
+2659,beschädigen,1116,DAMAGE
+2660,"schlimm, gefährlich",419,SEVERE
 2661,sleideis*,,
-2662,schlafen,,
+2662,schlafen,1585,SLEEP
 2663,"entschlummern, entschlafen",,
 2664,"entschlummern, entschlafen",,
-2665,Schlaf,,
+2665,Schlaf,2972,SLEEP (STATE)
 2666,"verschlingen, verschlucken",,
-2667,"schleichen, schlüpfen",,
+2667,"schleichen, schlüpfen",3116,HATCH (OUT)
 2668,einschleichen,,
-2669,Fett,,
-2670,Feige,,
+2669,Fett,323,FAT (ORGANIC SUBSTANCE)
+2670,Feige,322,FIG
 2671,Feigenbaum,,
 2672,der Kleinste,,
-2673,"Mist, Kot",,
+2673,"Mist, Kot",675,FAECES (EXCREMENT)
 2674,bestreichen,,
 2675,aufstreichen auf,,
-2676,(durch Schmieden) bewirken,,
+2676, bewirken,,
 2677,Myrrhe,,
-2678,"Gewand, Mantel",,
-2679,Schnee,,
+2678,"Gewand, Mantel",603,COAT
+2679,Schnee,784,SNOW
 2680,"anfassen, anrühren",,
-2681,schneiden; ernten,,
+2681,schneiden; ernten,1432,CUT
 2682,†af-sneiþan,,
-2683,schlachten,,
-2684,eilen,,
-2685,"hineilen, kommen",,
+2683,schlachten,1796,SLAUGHTER
+2684,eilen,2860,BOLT (MOVE IN HASTE)
+2685,"hineilen, kommen",1446,COME
 2686,eilends,,
 2687,eiliger,,
-2688,eilen,,
+2688,eilen,2860,BOLT (MOVE IN HASTE)
 2689,hinzueilen,,
 2690,zuvorkommen,,
 2691,vorangehn,,
 2692,vorwegnehmen,,
 2693,"ereilen, gelangen zu",,
-2694,Korb,,
+2694,Korb,1539,BASKET
 2695,Weisheit,,
-2696,weise,,
-2697,"der, dieser",,
+2696,weise,698,WISE
+2697,"der, dieser",1214,THIS
 2698,Forscher,,
-2699,das Suchen,,
-2700,suchen,,
+2699,das Suchen,1468,LOOK FOR
+2700,suchen,1468,LOOK FOR
 2701,aufsuchen,,
 2702,mitdisputieren,,
 2703,erforschen,,
@@ -2708,41 +2708,41 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2706,Sättigung,,
 2707,ersättigen,,
 2708,"Späher, Ordonnanz",,
-2709,Speichel,,
-2710,Sperling,,
+2709,Speichel,1503,SALIVA
+2710,Sperling,1854,SPARROW
 2711,Rennbahn,,
-2712,speien,,
+2712,speien,1278,VOMIT
 2713,entgegenspeien,,
 2714,bespeien,,
 2715,ausspeien,,
-2716,spät,,
+2716,spät,477,LATE
 2717,der jüngste Tag,,
 2718,spedumists,,
-2719,Tafel,,
+2719,Tafel,3084,BLACKBOARD
 2720,"Sage, Fabel",,
 2721,Verkündiger,,
 2722,künden,,
 2723,verkünden,,
 2724,"Gutes, frohe Botschaft künden",,
-2725,"verkünden, erzählen",,
-2726,"verkünden, erzählen",,
-2727,spinnen,,
-2728,"schnell, bald",,
+2725,"verkünden, erzählen",1711,TELL
+2726,"verkünden, erzählen",1711,TELL
+2727,spinnen,121,SPIN
+2728,"schnell, bald",1631,FAST
 2729,aus Binsen o. Palmblättern geflochtener Korb,,
 2730,"Grundstoffe, Elemente",,
 2731,stich aus,,
 2732,etwas anstoßen an,,
 2733,Staifanus,,
-2734,"Steig, Weg",,
+2734,"Steig, Weg",2252,PATH
 2735,steinig,,
 2736,steinern,,
 2737,steinigen,,
-2738,Stein,,
-2739,Stern,,
+2738,Stein,857,STONE
+2739,Stern,1430,STAR
 2740,die Unfruchtbare,,
 2741,"Mal, Wundmal",,
 2742,einen versehn mit,,
-2743,"erwerben, bekommen",,
+2743,"erwerben, bekommen",694,GET
 2744,"lallend, stammelnd",,
 2745,stehn,,
 2746,"abstehn, ablassen, abfallen",,
@@ -2753,95 +2753,95 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2751,"stehn bleiben, halt machen",,
 2752,daß der Tag bevorsteht,,
 2753,zusammenstehn mit,,
-2754,"sich trennen, Abschied nehmen von",,
-2755,"sich erheben, aufbrechen, auferstehn",,
-2756,"Ufer, Gestade",,
-2757,"Stätte, Ort (Stelle im Buch); Raum, Platz",,
-2758,"Gericht, Urteil, Streitsache",,
-2759,Richter,,
+2754,"sich trennen, Abschied nehmen von",1359,SEPARATE
+2755,"sich erheben, aufbrechen, auferstehn",570,STAND UP
+2756,"Ufer, Gestade",3464,SHORE OF LAKE
+2757,"Stätte, Ort ; Raum, Platz",723,PLACE (POSITION)
+2758,"Gericht, Urteil, Streitsache",1068,COURT
+2759,Richter,861,JUDGE
 2760,Richterstuhl,,
 2761,vertrocknen,,
 2762,sie bezeigten ihr Unwillen,,
 2763,stoßen an,,
-2764,steigen,,
-2765,hinabsteigen,,
+2764,steigen,1102,CLIMB
+2765,hinabsteigen,2014,GO DOWN (DESCEND)
 2766,hineinsteigen,,
 2767,darüber empor steigen,,
 2768,emporsteigen,,
-2769,Stimme,,
+2769,Stimme,1363,VOICE
 2770,stich aus,,
-2771,stoßen,,
+2771,stoßen,1452,PUSH
 2772,anstoßen an,,
 2773,anstoßen,,
-2774,"Becher, Kelch",,
+2774,"Becher, Kelch",476,CUP
 2775,"Stich, Punkt",,
-2776,stehlen,,
-2777,"Stier, Kalb",,
-2778,"aufstellen, geltend machen",,
+2776,stehlen,713,STEAL
+2777,"Stier, Kalb",1989,CALF
+2778,"aufstellen, geltend machen",3833,PUT (IN A STANDING POSITION)
 2779,"Geduld, geduldiges Ertragen",,
-2780,"anfangen, anheben",,
-2781,"anfangen, anheben",,
+2780,"anfangen, anheben",1806,BEGIN
+2781,"anfangen, anheben",1806,BEGIN
 2782,stojan,,
-2783,"ein Urteil abgeben über (Akk.), beurteilen, (ver)urteilen",,
-2784,"Stuhl, Thron",,
-2785,"Wesen, Gegenstand, Zuversicht, Erwartung",,
+2783,ein Urteil abgeben über urteilen,,
+2784,"Stuhl, Thron",1476,CHAIR
+2785,"Wesen, Gegenstand, Zuversicht, Erwartung",2981,ITEM
 2786,aufrecht erhalten,,
 2787,streuen,,
 2788,bestreuen,,
 2789,"darunterstreuen, únterbreiten",,
-2790,Strich,,
-2791,Staub,,
-2792,Sohle,,
+2790,Strich,2993,STROKE (OF PEN)
+2791,Staub,2,DUST
+2792,Sohle,2666,SOLE (FOOT)
 2793,"das Fundament legen, begründen",,
 2794,teils __ teils __ teils,,
-2795,"irgend einer, ein gewisser, jemand, einer",,
-2796,"abgesondert, besonders, allein",,
-2797,Wahrheit,,
+2795,"irgend einer, ein gewisser, jemand, einer",2422,SOMEONE
+2796,"abgesondert, besonders, allein",1964,ALONE
+2797,Wahrheit,1638,TRUTH
 2798,Sunjaifriþas,,
-2799,"wahr, wahrhaft",,
+2799,"wahr, wahrhaft",1657,TRUE
 2800,wahrhaft,,
 2801,entschuldigen,,
 2802,rechtfertigen,,
 2803,Verteidigung,,
-2804,Sonne,,
-2805,"alsbald, plötzlich, auf einmal",,
-2806,sogleich,,
+2804,Sonne,1343,SUN
+2805,"alsbald, plötzlich, auf einmal",2920,SUDDENLY
+2806,sogleich,1963,IMMEDIATELY
 2807,sobald als,,
-2808,Sohn,,
+2808,Sohn,1620,SON
 2809,würzen,,
 2810,würzen,,
 2811,wegen deines Magens,,
 2812,Susanna,,
 2813,"nachgiebig, mild",,
-2814,kitzeln,,
+2814,kitzeln,3647,TICKLE (SOMEBODY)
 2815,suþjon,,
-2816,so,,
+2816,so,2336,OF THIS KIND (SUCH)
 2817,"so daß, daher, also",,
 2818,schwankend machen,,
-2819,so (auch),,
-2820,Schwiegervater,,
-2821,Schwiegermutter,,
-2822,"abwischen, auslöschen",,
-2823,"abwischen, abtrocknen mit",,
+2819,so ,2336,OF THIS KIND (SUCH)
+2820,Schwiegervater,1055,FATHER-IN-LAW
+2821,Schwiegermutter,1050,MOTHER-IN-LAW
+2822,"abwischen, auslöschen",1454,WIPE
+2823,"abwischen, abtrocknen mit",1454,WIPE
 2824,so groß,,
 2825,"so beschaffen, ein solcher",,
 2826,Schwamm,,
-2827,schwören,,
+2827,schwören,1939,SWEAR
 2828,beschwören,,
 2829,falsch schwören,,
-2830,"ohne Grund, vergebens, umsonst",,
+2830,"ohne Grund, vergebens, umsonst",1765,IN VAIN
 2831,Tinte,,
 2832,swartizla,,
-2833,schwarz,,
-2834,"sowie, gleichwie, wie",,
+2833,schwarz,163,BLACK
+2834,"sowie, gleichwie, wie",1239,HOW
 2835,so nun,,
-2836,so,,
-2837,wie,,
+2836,so,2336,OF THIS KIND (SUCH)
+2837,wie,1239,HOW
 2838,"Jubel, Frohlocken",,
 2839,"jubeln, triumphieren",,
 2840,ablassen,,
-2841,Schwein,,
-2842,ehren,,
+2841,Schwein,1337,PIG
+2842,ehren,3628,HONOR (SOMEBODY)
 2843,verherrlichen,,
 2844,"verunehren, beschimpfen",,
 2845,Ehre,,
@@ -2849,26 +2849,26 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2847,"eigen, angehörig",,
 2848,"Eigentum, Vermögen",,
 2849,"doch zwar, wenigstens",,
-2850,Schwefel,,
+2850,Schwefel,3386,SULPHUR
 2851,Flötenspieler,,
 2852,"Flöte blasen, aufspielen",,
 2853,"Jubel, Frohlocken",,
 2854,"Reinheit, Keuschheit",,
 2855,Reinigung,,
 2856,"Reinheit, Keuschheit",,
-2857,"rein, unschuldig; unsträflich",,
+2857,"rein, unschuldig; unsträflich",704,CLEAN
 2858,etw. bekannt geben,,
-2859,"offenkundig, offenbar, bekannt",,
+2859,"offenkundig, offenbar, bekannt",3005,FAMILIAR
 2860,im Sterben liegen,,
-2861,sterben,,
+2861,sterben,1494,DIE
 2862,miþ-gaswiltan,,
-2863,"Stärke, Kraft",,
+2863,"Stärke, Kraft",202,STRENGTH
 2864,stärken,,
 2865,stärken,,
 2866,stark werden,,
 2867,erstarken,,
-2868,"stark, kräftig, gesund",,
-2869,Schwester,,
+2868,"stark, kräftig, gesund",785,STRONG
+2869,Schwester,1263,SISTER
 2870,Swmaion,,
 2871,Synagogenvorsteher,,
 2872,swnagoge*,,
@@ -2879,47 +2879,47 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2877,Swria*,,
 2878,dem Tode nahe,,
 2879,Teich,,
-2880,Haar,,
-2881,"Zähre, Träne",,
-2882,weinen,,
-2883,"reißen, zerren",,
-2884,zerstreuen,,
-2885,rechts,,
+2880,Haar,1040,HAIR
+2881,"Zähre, Träne",1651,TEAR (OF EYE)
+2882,weinen,1839,CRY
+2883,"reißen, zerren",460,BREAK (OF ROPE)
+2884,zerstreuen,3705,SCATTER
+2885,rechts,1019,RIGHT
 2886,die Rechte,,
-2887,zehn,,
+2887,zehn,1515,TEN
 2888,der zehnte,,
 2889,hundertfältig,,
-2890,(dekadisches) Hundert,,
-2891,mit fünf zehnreihigen (dekadischen) Hundert,,
+2890, Hundert,1634,HUNDRED
+2891,mit fünf zehnreihigen  Hundert,,
 2892,Anzeichnen,,
 2893,einem etwas Zeigen,,
 2894,"ein Zeichen geben, belehren",,
-2895,bezeichnen; auszeichnen; erweisen,,
-2896,"Zeichen, Wunder",,
-2897,(Weiden)korb,,
-2898,Zweig,,
-2899,zerreißen,,
-2900,"zerreißen, zerstören, aufheben",,
+2895,bezeichnen; auszeichnen; erweisen,180,CALL BY NAME
+2896,"Zeichen, Wunder",1720,SIGN
+2897,korb,1539,BASKET
+2898,Zweig,3222,TWIG
+2899,zerreißen,1735,TEAR (SHRED)
+2900,"zerreißen, zerstören, aufheben",681,DESTROY
 2901,Tairtius,,
 2902,taitrarkes,,
 2903,Mägdlein,,
 2904,"Lehre, Unterweisung",,
-2905,"lehren, ziehen, unterrichten",,
-2906,Lehrer,,
+2905,"lehren, ziehen, unterrichten",1455,PULL
+2906,Lehrer,1038,TEACHER
 2907,"belehren, erziehen",,
 2908,"bezähmen, bezwingen",,
-2909,"brennen machen, (an)zünden",,
+2909,"brennen machen, zünden",,
 2910,mit einem Brandmal versehn,,
-2911,"in Brand setzen, verbrennen",,
+2911,"in Brand setzen, verbrennen",141,BURN (SOMETHING)
 2912,kennzeichnen,,
 2913,"brich los, brich in Jubel aus",,
 2914,berauben,,
 2915,"Werk, Tat",,
-2916,"tun, machen",,
-2917,"(tun), vollbringen, bewirken",,
+2916,"tun, machen",734,MAKE
+2917,", vollbringen, bewirken",,
 2918,Übeltäter,,
-2919,abreißen,,
-2920,zerreißen,,
+2919,abreißen,1735,TEAR (SHRED)
+2920,zerreißen,1735,TEAR (SHRED)
 2921,"was zu nichte wird, das Vergängliche",,
 2922,Teibairius,,
 2923,"anzeigen, verkündigen",,
@@ -2929,7 +2929,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2927,Teimauþaius,,
 2928,Teitus,,
 2929,anrühren,,
-2930,berühren,,
+2930,berühren,1892,TOUCH
 2931,Ordnung,,
 2932,"durch Wahl bestimmt, verordnet",,
 2933,Tibairiadau,,
@@ -2939,21 +2939,21 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2937,erlangen,,
 2938,zusammenfügen,,
 2939,damit sie Gelegenheit fänden ihn anzuklagen,,
-2940,geziemen für (Dat.),,
-2941,bauen,,
+2940,geziemen für ,,
+2941,bauen,1840,BUILD
 2942,Erbauung,,
-2943,Zimmermann,,
-2944,bauen,,
+2943,Zimmermann,1042,CARPENTER
+2944,bauen,1840,BUILD
 2945,daraufbauen,,
 2946,erbauen,,
-2947,mit,,
-2948,"ziehn, (weg)führen",,
+2947,mit,1340,WITH
+2948,"ziehn, führen",43,LEAD (GUIDE)
 2949,wegziehn,,
 2950,"herbeiziehn, herbeiführen, herbeibringen",,
 2951,"hineinziehn, hineinführen",,
-2952,(mit sich) umherführen,,
+2952, umherführen,,
 2953,"wegziehn, wegführen",,
-2954,mit,,
+2954,mit,1340,WITH
 2955,"hinausführen, wegführen",,
 2956,Tobeias,,
 2957,Trakauneitidaus,,
@@ -2963,29 +2963,29 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2961,Trauadai,,
 2962,"Bündnis, Bund",,
 2963,"Bündnis, Bund",,
-2964,"treu, zuverlässig",,
+2964,"treu, zuverlässig",100,FAITHFUL
 2965,"treulich, zuverlässig",,
 2966,Trauer,,
 2967,einen bedrängen,,
-2968,"Holz, Prügel",,
+2968,"Holz, Prügel",1803,WOOD
 2969,hölzern,,
-2970,treten,,
+2970,treten,1135,KICK
 2971,zertreten,,
 2972,einpfropfen,,
 2973,überstreuen,,
 2974,Gestirn,,
-2975,Zunge,,
-2976,"Festigkeit, Sicherheit; Fundament (Grundfeste); Feste, Bollwerk",,
-2977,"festigen, stärken",,
+2975,Zunge,1205,TONGUE
+2976,"Festigkeit, Sicherheit; Fundament ; Feste, Bollwerk",,
+2977,"festigen, stärken",1094,FASTEN
 2978,"befestigen, bestärken",,
-2979,"fest, beständig",,
-2980,brennen,,
-2981,verbrennen,,
-2982,Zahn,,
+2979,"fest, beständig",3003,SOLID
+2980,brennen,1428,BURNING
+2981,verbrennen,141,BURN (SOMETHING)
+2982,Zahn,1380,TOOTH
 2983,twai,,
 2984,zwölfjährig,,
-2985,zwölf,,
-2986,das Zweifeln,,
+2985,zwölf,1707,TWELVE
+2986,das Zweifeln,3536,DOUBT (SOMETHING)
 2987,zweifeln o. Zweifel erregen,,
 2988,Zweifel,,
 2989,zwischen beiden Grenzen,,
@@ -2993,42 +2993,42 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2991,Twkeikus,,
 2992,Twra*,,
 2993,Þaddaius,,
-2994,wohin,,
+2994,wohin,2928,WHITHER (WHERE TO)
 2995,Dank,,
-2996,"denken, überlegen",,
+2996,"denken, überlegen",1415,THINK (REFLECT)
 2997,"mir fällt ein, was ich tun soll",,
 2998,etw. bedenken,,
-2999,das Schweigen,,
-3000,schweigen,,
+2999,das Schweigen,48,BE SILENT
+3000,schweigen,48,BE SILENT
 3001,verstummen,,
-3002,Lehm,,
+3002,Lehm,1399,CLAY
 3003,Þaiaufeilus,,
-3004,durch,,
-3005,"Loch, Nadelöhr",,
+3004,durch,97,THROUGH
+3005,"Loch, Nadelöhr",1667,HOLE
 3006,verdorren,,
 3007,Þaissaloneikai,,
 3008,Þaissalauneikaie,,
-3009,"dann, darauf",,
+3009,"dann, darauf",2921,THEN
 3010,"weiter, noch mehr",,
-3011,"weiter, noch",,
+3011,"weiter, noch",2919,STILL (CONTINUING)
 3012,so lange als,,
-3013,wann,,
+3013,wann,1238,WHEN
 3014,"ausdehnen, sich ausstrecken",,
 3015,Dank,,
-3016,"ja, wohl, also darum",,
+3016,"ja, wohl, also darum",1268,YES
 3017,þanuh,,
-3018,dort,,
+3018,dort,1937,THERE
 3019,Þara,,
 3020,"Mangel, Armut",,
 3021,sich enthalten,,
 3022,nötig,,
-3023,wo,,
-3024,"nötig haben, bedürfen, Mangel leiden",,
+3023,wo,1237,WHERE
+3024,"nötig haben, bedürfen, Mangel leiden",2339,NEED (SOMETHING)
 3025,ungewalkt,,
-3026,da,,
-3027,"der, dieser",,
+3026,da,1937,THERE
+3027,"der, dieser",1214,THIS
 3028,das eine,,
-3029,nur,,
+3029,nur,1580,ONLY
 3030,daß,,
 3031,"das ist, nämlich",,
 3032,"der u. kein andrer, eben der",,
@@ -3037,14 +3037,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3035,"von da, daher",,
 3036,als,,
 3037,wenn auch,,
-3038,"nötig haben, bedürfen, Mangel leiden",,
+3038,"nötig haben, bedürfen, Mangel leiden",2339,NEED (SOMETHING)
 3039,nötig,,
 3040,"Bedürfnis, Not",,
 3041,von Dornen,,
-3042,Dorn,,
-3043,"bebautes Land, Acker",,
+3042,Dorn,124,THORN
+3043,"bebautes Land, Acker",212,FIELD
 3044,mich dürstet,,
-3045,(ver)dursten,,
+3045,dursten,3474,BE THIRSTY
 3046,"verdorren, vertrocknen",,
 3047,Durst,,
 3048,dürr,,
@@ -3054,9 +3054,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3052,"gedeihn, Fortschritte machen",,
 3053,vorwärtskommen,,
 3054,übertreffen,,
-3055,Zeit,,
-3056,Donner,,
-3057,dein,,
+3055,Zeit,892,TIME
+3056,Donner,1150,THUNDER
+3057,dein,732,YOUR (SINGULAR)
 3058,Knechte,,
 3059,heranziehn,,
 3060,"meist, vorzüglich",,
@@ -3070,25 +3070,25 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3068,Königsschloss,,
 3069,herrschen,,
 3070,mitherrschen mit,,
-3071,König,,
+3071,König,1508,KING
 3072,Regierung,,
 3073,heidnisch,,
-3074,Dieb,,
-3075,Knecht,,
+3074,Dieb,1160,THIEF
+3075,Knecht,812,SLAVE
 3076,"Haussklave, Diener",,
 3077,"das Gute, die gute Sache",,
-3078,"gut, gepriesen",,
+3078,"gut, gepriesen",1035,GOOD
 3079,Güte,,
 3080,Segen,,
-3081,segnen,,
-3082,einem (Akk.) den Segen geben,,
+3081,segnen,391,BLESS
+3082,einem  den Segen geben,,
 3083,fluchen,,
 3084,Knechtschaft,,
 3085,"unterjochen, in Dienstbarkeit bringen",,
 3086,"unterjochen, in Dienstbarkeit bringen",,
 3087,Magd,,
 3088,schrecken,,
-3089,erschrecken,,
+3089,erschrecken,252,FRIGHTEN
 3090,ermahnen,,
 3091,zart,,
 3092,Flucht,,
@@ -3101,32 +3101,32 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3099,"trösten, mahnen",,
 3100,erquicken,,
 3101,ga-þrafstjan,,
-3102,laufen,,
+3102,laufen,1443,WALK
 3103,herbeilaufen,,
-3104,Heuschrecke,,
+3104,Heuschrecke,810,LOCUST
 3105,Streitsucht,,
 3106,drängen,,
 3107,bedrängen,,
 3108,Teich,,
-3109,drei,,
-3110,der dritte,,
-3111,dreschen,,
+3109,drei,492,THREE
+3110,der dritte,1859,THIRD
+3111,dreschen,285,THRESH
 3112,einem Beschwerde bringen,,
 3113,üben,,
 3114,"Übung, Stählung",,
-3115,Aussatz,,
+3115,Aussatz,3624,LEPROSY
 3116,aussätzig,,
-3117,du,,
-3118,der du,,
-3119,"glauben, meinen; gelten",,
+3117,du,1215,THOU
+3118,der du,1215,THOU
+3119,"glauben, meinen; gelten",1890,BELIEVE
 3120,Gewissen,,
 3121,"das Dulden, Leiden, die Geduld",,
 3122,dulden,,
 3123,erdulden,,
-3124,"erdulden, ertragen",,
-3125,tausend,,
+3124,"erdulden, ertragen",833,ENDURE
+3125,tausend,1843,THOUSAND
 3126,Anführer von Tausend,,
-3127,Trompete,,
+3127,Trompete,775,TRUMPET
 3128,trompeten,,
 3129,etw. waschen,,
 3130,sich abwaschen,,
@@ -3139,20 +3139,20 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3137,befestigen,,
 3138,Rauchopfer,,
 3139,-u,,
-3140,"übel, böse",,
+3140,"übel, böse",45,EVIL
 3141,übeltäterisch,,
 3142,schmähn,,
 3143,schmähsüchtig,,
 3144,Halle,,
-3145,unter,,
+3145,unter,1485,BELOW OR UNDER
 3146,"durch Eid verpflichtet, verbunden",,
-3147,über,,
+3147,über,1741,ABOVE
 3148,"überfließend, überschwänglich machen",,
 3149,"Überfluß, Übermaß",,
 3150,"Überfülle, Überfluß",,
 3151,übervoll,,
 3152,Oberpriester,,
-3153,"das Überhören, der Ungehorsam",,
+3153,"das Überhören, der Ungehorsam",3813,DISOBEDIENT
 3154,himmlisch,,
 3155,darüber hinaus,,
 3156,Vergessenheit,,
@@ -3168,17 +3168,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3166,es ist überflüssig für mich euch zu schreiben,,
 3167,Erkenntnis,,
 3168,"Aufgeblasenheit, Hochmut",,
-3169,oft,,
-3170,vielleicht,,
-3171,die verheiratete Frau,,
-3172,uns beide(n),,
-3173,"und, nun, also",,
-3174,sich fürchten vor (Akk.),,
+3169,oft,1852,OFTEN
+3170,vielleicht,2278,PERHAPS
+3171,die verheiratete Frau,426,MARRIED WOMAN
+3172,uns beide,,
+3173,"und, nun, also",1577,AND
+3174,sich fürchten vor ,,
 3175,Zeit habend,,
 3176,zur rechten Zeit,,
 3177,gelegen,,
 3178,Morgendämmerung,,
-3179,Kamel,,
+3179,Kamel,1871,CAMEL
 3180,furchtlos,,
 3181,furchtlos,,
 3182,"unheilig, gottlos",,
@@ -3202,8 +3202,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3200,unter etw,,
 3201,das Innere,,
 3202,der Allergeringste,,
-3203,unter,,
-3204,Frühstück,,
+3203,unter,1485,BELOW OR UNDER
+3204,Frühstück,1322,BREAKFAST
 3205,Unsterblichkeit,,
 3206,"unpassend, undankbar",,
 3207,tadellos,,
@@ -3219,20 +3219,20 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3217,tadellos,,
 3218,"zügellos, sich nicht beherrschend",,
 3219,"Unmäßigkeit, Unenthaltsamkeit",,
-3220,"unfügsam, ungehorsam",,
+3220,"unfügsam, ungehorsam",3813,DISOBEDIENT
 3221,"nicht probehaltig, verwerflich",,
-3222,"Unglaube, Ungehorsam",,
-3223,"ungläubig, ungehorsam",,
+3222,"Unglaube, Ungehorsam",3813,DISOBEDIENT
+3223,"ungläubig, ungehorsam",3813,DISOBEDIENT
 3224,wertlos,,
 3225,"Gesetzlosigkeit, Ungerechtigkeit",,
 3226,"ungesehn, unsichtbar",,
 3227,"ohne festen Stand, ohne bleibende Stätte",,
 3228,"ungeordnet, zügellos",,
 3229,ungeordnet,,
-3230,"unbewegt, unbeweglich",,
+3230,"unbewegt, unbeweglich",1636,MOTIONLESS
 3231,nicht habend,,
-3232,"Schwäche, Krankheit",,
-3233,krank,,
+3232,"Schwäche, Krankheit",1986,DISEASE
+3233,krank,1847,SICK
 3234,nicht mit der Hand gemacht,,
 3235,ungeheuchelt,,
 3236,Unreinigkeit,,
@@ -3246,19 +3246,19 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3244,sorglos,,
 3245,unkaureins*,,
 3246,Unze,,
-3247,"nicht kennend, unwissend",,
+3247,"nicht kennend, unwissend",2651,BE IGNORANT
 3248,Unkunde,,
 3249,unbekannt,,
 3250,Armut,,
-3251,arm,,
+3251,arm,1674,POOR
 3252,"ungeliebt, unlieb",,
 3253,unverheiratet,,
 3254,nicht lügend,,
 3255,"ungeheuchelt, ohne Falsch",,
 3256,Unlust,,
-3257,"ohnmächtig, schwach",,
-3258,"Ohnmacht, Schwäche, Krankheit",,
-3259,"ungezähmt, wild oder unfreundlich, barsch",,
+3257,"ohnmächtig, schwach",1601,WEAK
+3258,"Ohnmacht, Schwäche, Krankheit",1986,DISEASE
+3259,"ungezähmt, wild oder unfreundlich, barsch",2966,PERCH (FISH)
 3260,unvorbereitet,,
 3261,lieblos,,
 3262,"unnütz, töricht",,
@@ -3267,13 +3267,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3265,Unvergänglichkeit,,
 3266,unvergänglich,,
 3267,unriurs*,,
-3268,"nicht redend, stumm",,
+3268,"nicht redend, stumm",1666,MUTE
 3269,unbestritten,,
 3270,nicht sehend,,
 3271,ungesalzen,,
-3272,unser,,
+3272,unser,780,OUR
 3273,"Bosheit, Schlechtigkeit",,
-3274,"übel, böse",,
+3274,"übel, böse",45,EVIL
 3275,"ungesetzlich, gottlos",,
 3276,laßt uns nüchtern sein,,
 3277,Aufstand,,
@@ -3282,12 +3282,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3280,Unehre,,
 3281,"nicht geachtet, verachtet",,
 3282,unbekannter,,
-3283,"unfügsam, unbotmäßig, ungehorsam",,
+3283,"unfügsam, unbotmäßig, ungehorsam",3813,DISOBEDIENT
 3284,"bis, so lange als",,
 3285,"voreilig, unbesonnen",,
 3286,untreu,,
-3287,"Unvolk, Nicht",,
-3288,das Böse,,
+3287,"Unvolk, Nicht",1240,NOT
+3288,das Böse,45,EVIL
 3289,ungewaschen,,
 3290,unanstößig,,
 3291,zur Unzeit,,
@@ -3298,23 +3298,23 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3296,Unbeflecktheit,,
 3297,"fleckenlos, tadellos",,
 3298,"untätig, müßig",,
-3299,"ungebildet, unwissend",,
-3300,"unerwartet, plötzlich",,
+3299,"ungebildet, unwissend",2651,BE IGNORANT
+3300,"unerwartet, plötzlich",2920,SUDDENLY
 3301,Unwille,,
 3302,"ungewiß, ins ungewisse",,
 3303,"Unwissender, Unverständiger",,
-3304,unwissend,,
+3304,unwissend,2651,BE IGNORANT
 3305,"Unwissenheit, Unverstand",,
 3306,"beängstigt, bekümmert",,
-3307,"aus, von ( __ her)",,
+3307,"aus, von ",693,FROM
 3308,Auferstehung,,
 3309,verworfen,,
 3310,Abtritt,,
 3311,Ausgang,,
-3312,"aus, von ( __ her)",,
+3312,"aus, von ",693,FROM
 3313,Frechheit; fortwährende Zänkerei,,
 3314,"Geduld, Langmut",,
-3315,"geduldig, langmütig",,
+3315,"geduldig, langmütig",3884,PATIENT
 3316,"Erwartung; Geduld, Langmut",,
 3317,"Bitte, Flehn",,
 3318,Ausdauer; Eifer,,
@@ -3327,14 +3327,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3325,Begräbnis,,
 3326,sie entsetzten sich über,,
 3327,Entsetzen,,
-3328,Nahrung,,
+3328,Nahrung,256,FOOD
 3329,Erfüllung,,
 3330,mutlos,,
 3331,Mangel leidend,,
-3332,"bekannt, offenbar",,
+3332,"bekannt, offenbar",3005,FAMILIAR
 3333,Erlösung,,
 3334,"gichtbrüchig, Gichtbrüchiger",,
-3335,"erschließen, öffnen",,
+3335,"erschließen, öffnen",1156,OPEN
 3336,"Eröffnung, Öffnung",,
 3337,Erlösung,,
 3338,Lebensführung; Lebenswandel,,
@@ -3346,7 +3346,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3344,"Zügellosigkeit, Lüderlichkeit",,
 3345,zügellos,,
 3346,"Auszeichnung, Bezeichnung; Bekanntmachung; Anzeichen, Beweis",,
-3347,"Vollendung, Vervollkommnung; Ende; Erfüllung",,
+3347,"Vollendung, Vervollkommnung; Ende; Erfüllung",742,END (OF SPACE)
 3348,"Übung, Stählung",,
 3349,Geduld,,
 3350,erwachsen,,
@@ -3361,36 +3361,36 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3359,losgebunden,,
 3360,"Leichtfertigkeit, Eitelkeit",,
 3361,"hinaus, heraus",,
-3362,"außerhalb, draußen",,
+3362,"außerhalb, draußen",762,OUTSIDE
 3363,"von außen, außen",,
 3364,von außen,,
 3365,Krippe,,
-3366,"aus, von ( __ her)",,
+3366,"aus, von ",693,FROM
 3367,Pfand,,
 3368,"Handschein, Schuldschein",,
 3369,"zusammenfügen, verloben",,
 3370,Kopfkissen,,
 3371,Paradies,,
-3372,schütteln,,
-3373,"bewegen, abbringen",,
+3372,schütteln,1909,SHAKE
+3373,"bewegen, abbringen",765,MOVE
 3374,einen in Bewegung setzen,,
 3375,"erregen, aufwiegeln",,
 3376,erregen,,
-3377,wachsen,,
+3377,wachsen,479,GROW
 3378,"überaus wachsen, sich stark vermehren",,
 3379,erwachsen,,
-3380,Wuchs,,
-3381,Wache,,
+3380,Wuchs,2528,SIZE (OF PERSON)
+3381,Wache,1940,GUARD
 3382,wehe,,
 3383,wehn,,
 3384,"umwinden, umgeben, umkleiden",,
 3385,"Übeltäter, Räuber",,
 3386,Kampf,,
-3387,"Winkel, Ecke",,
+3387,"Winkel, Ecke",192,CORNER
 3388,Eckstein,,
-3389,nichts,,
-3390,"Ding, Sache, Etwas",,
-3391,"wohl, gut",,
+3389,nichts,687,NOTHING
+3390,"Ding, Sache, Etwas",738,THING
+3391,"wohl, gut",1035,GOOD
 3392,Wohltat,,
 3393,guter Ruf,,
 3394,Verkündigung,,
@@ -3399,42 +3399,42 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3397,"victus, gute Nahrung",,
 3398,"elend, geplagt",,
 3399,"daß doch, wenn doch",,
-3400,verbinden,,
+3400,verbinden,2862,CONNECT
 3401,Kranz,,
-3402,Mann,,
+3402,Mann,1554,MAN
 3403,männlich,,
 3404,"Gastfreund, Hauswirt",,
-3405,Lippe,,
-3406,werfen,,
+3405,Lippe,478,LIP
+3406,werfen,1456,THROW
 3407,etw. wegwerfen,,
 3408,hinwerfen,,
-3409,"verwerfen, zerstreuen",,
+3409,"verwerfen, zerstreuen",3705,SCATTER
 3410,hinwerfen,,
 3411,hineinwerfen,,
-3412,"hinauswerfen, wegwerfen, austreiben",,
+3412,"hinauswerfen, wegwerfen, austreiben",3696,THROW AWAY
 3413,schlimmer,,
 3414,schlimmer,,
-3415,Preis,,
-3416,werden,,
-3417,verderben,,
+3415,Preis,657,PRICE
+3416,werden,1990,BECOME
+3417,verderben,92,SPOIL (SOMEBODY OR SOMETHING)
 3418,"Tüchtigkeit, Fähigkeit",,
 3419,versöhnen mit,,
 3420,sich versöhnen mit,,
 3421,schätzen,,
 3422,"wert, würdig, tauglich",,
-3423,"auf etw. sehn, acht geben, es bewachen, hüten, etw. halten",,
-3424,"vielleicht, etwa",,
+3423,"auf etw. sehn, acht geben, es bewachen, hüten, etw. halten",2885,HERD (SOMETHING)
+3424,"vielleicht, etwa",2278,PERHAPS
 3425,schlechter Ruf,,
 3426,Lästerung,,
 3427,wachen,,
 3428,durchwachen,,
 3429,erwecken,,
-3430,erwachen,,
+3430,erwachen,1602,WAKE UP
 3431,walten,,
 3432,"sich der Herrschaft bemächtigen, einen vergewaltigen",,
-3433,"Gewalt, Macht über",,
+3433,"Gewalt, Macht über",2976,VIOLENCE
 3434,"echt, lauter",,
-3435,wählen,,
+3435,wählen,1750,CHOOSE
 3436,erwählen,,
 3437,sich wälzen,,
 3438,"etw. umwälzen, umstürzen",,
@@ -3444,63 +3444,63 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3442,wegwälzen,,
 3443,hinzuwälzen,,
 3444,vorwälzen,,
-3445,"Bauch, Schoß",,
+3445,"Bauch, Schoß",1251,BELLY
 3446,Fleck,,
 3447,beflecken,,
 3448,Mangel,,
 3449,Mangel,,
-3450,wenden,,
+3450,wenden,1445,TURN (SOMETHING)
 3451,abwenden,,
 3452,zuwenden,,
 3453,vermeiden,,
-3454,(hin)wenden,,
+3454,wenden,1445,TURN (SOMETHING)
 3455,verdrehn,,
 3456,sich wegwenden,,
 3457,Rute,,
 3458,Mangel,,
 3459,"mangelhaft, fehlend",,
 3460,Wächter,,
-3461,verderben,,
+3461,verderben,92,SPOIL (SOMEBODY OR SOMETHING)
 3462,"Tücke, Verschlagenheit",,
 3463,"Verdammungsurteil, Verurteilung",,
-3464,einen verurteilen zu (Dat.),,
-3465,wehren,,
+3464,einen verurteilen zu ,,
+3465,wehren,1330,DEFEND
 3466,wärmen,,
 3467,"behutsam, nüchtern",,
 3468,einen kleiden,,
 3469,entkleiden,,
 3470,bekleiden mit,,
-3471,Kleid,,
-3472,Wasser,,
-3473,Wort,,
+3471,Kleid,474,DRESS
+3472,Wasser,948,WATER
+3473,Wort,1599,WORD
 3474,seiner vernünftigen Natur gemäß,,
 3475,Wortstreit,,
 3476,widersprechen,,
 3477,viel Worte machen,,
 3478,schmähn,,
-3479,"machen, wirken",,
+3479,"machen, wirken",734,MAKE
 3480,etw. erwirken,,
 3481,eine Sünde begehen,,
 3482,"bewirken, erwirken, bereiten",,
 3483,"ausführen, vollbringen",,
-3484,"Wurm, Schlange",,
+3484,"Wurm, Schlange",730,SNAKE
 3485,"Werk, Tat; Wirksamkeit",,
-3486,Arbeiter,,
-3487,das Tun,,
+3486,Arbeiter,2977,WORKER
+3487,das Tun,813,DO
 3488,wirksam,,
-3489,Arbeiter,,
-3490,Wurzel,,
-3491,"Erschütterung, Sturm; Wellenschlag, Brandung",,
-3492,Priester,,
-3493,kämpfen,,
+3489,Arbeiter,2977,WORKER
+3490,Wurzel,670,ROOT
+3491,"Erschütterung, Sturm; Wellenschlag, Brandung",858,STORM
+3492,Priester,852,PRIEST
+3493,kämpfen,1423,FIGHT
 3494,widerstreiten,,
 3495,"weihen, heiligen",,
 3496,"weihen, heiligen",,
 3497,"Weihe, Heiligung, Heiligkeit",,
 3498,heilig werden,,
-3499,heilig,,
-3500,"Dorf, Weiler",,
-3501,Wein,,
+3499,heilig,1702,HOLY
+3500,"Dorf, Weiler",930,VILLAGE
+3501,Wein,1524,WINE
 3502,Weinbeere,,
 3503,"Weingarten, Weinberg",,
 3504,Weinrebe,,
@@ -3508,10 +3508,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3506,"Weintrinker, Säufer",,
 3507,"trunken, Trunkenbold",,
 3508,"kränzen, krönen",,
-3509,wir,,
+3509,wir,1212,WE
 3510,überreden,,
 3511,vollenden oder beglaubigen,,
-3512,"heimsuchen, besuchen, besorgen",,
+3512,"heimsuchen, besuchen, besorgen",1377,VISIT
 3513,"einem Recht verschaffen, ihn rächen an",,
 3514,"die Proskynesis, Verehrung erweisen, begrüßen",,
 3515,gespannt hinblicken auf,,
@@ -3520,77 +3520,77 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3518,"Zeugnisablegung, Zeugnis",,
 3519,Zeugnis,,
 3520,"Zeugnisablegung, Zeugnis",,
-3521,"zeugen, bezeugen",,
+3521,"zeugen, bezeugen",1152,BEGET
 3522,mitzeugen,,
 3523,Zeuge,,
-3524,"warten, hoffen auf (Akk.)",,
+3524,"warten, hoffen auf ",1590,WAIT (FOR)
 3525,auf einen vorher hoffen,,
 3526,"erwarten, annehmen",,
 3527,Hoffnung,,
 3528,Waffen,,
 3529,Wereka,,
-3530,zweifeln,,
-3531,"unwillig sein, zürnen",,
-3532,"zusammenbinden, verbinden",,
+3530,zweifeln,3536,DOUBT (SOMETHING)
+3531,"unwillig sein, zürnen",2223,BE ANGRY
+3532,"zusammenbinden, verbinden",2862,CONNECT
 3533,verleugnen,,
-3534,Waise,,
-3535,Witwe,,
+3534,Waise,1149,ORPHAN
+3535,Witwe,1756,WIDOW
 3536,Dornpflanzen,,
-3537,bewegen,,
+3537,bewegen,765,MOVE
 3538,zum Kriege,,
-3539,Weg,,
+3539,Weg,2252,PATH
 3540,"in der Reihenfolge seiner Tagesklasse, da seine Tagesklasse an der Reihe war",,
 3541,Wille,,
 3542,Parteilichkeit,,
-3543,wollen,,
+3543,wollen,1784,WANT
 3544,Wiljariþ,,
-3545,wild,,
+3545,wild,2230,UNTAMED OR WILD
 3546,"räuberisch, Räuber",,
 3547,rauben,,
 3548,"ausplündern, berauben",,
 3549,fortreißen,,
 3550,umwinden,,
 3551,du-gawindan,,
-3552,flechten,,
-3553,Wind,,
-3554,Weide,,
+3552,flechten,3294,BRAID (VERB) OR WEAVE (BASKET)
+3553,Wind,960,WIND
+3554,Weide,649,PASTURE
 3555,Leiden,,
 3556,leiden,,
 3557,erleiden,,
 3558,Leiden,,
-3559,Jahr,,
+3559,Jahr,1226,YEAR
 3560,Worfschaufel,,
 3561,zermalmen,,
 3562,Kranz,,
 3563,Meeresstille,,
-3564,"sein, dasein, existieren",,
+3564,"sein, dasein, existieren",2473,HIS (GENITIVE OF HE)
 3565,da sein,,
 3566,vorhanden ist,,
-3567,"verbrauchen, vergeuden",,
+3567,"verbrauchen, vergeuden",2787,CONSUME (DRINK OR EAT)
 3568,als der Sabbat vorüber war,,
 3569,"beistehn, zu Hilfe kommen",,
 3570,überragend sein,,
-3571,"sich freuen, schwelgen, schmausen",,
-3572,"sich freuen, schwelgen, schmausen",,
-3573,"weilen, bleiben",,
+3571,"sich freuen, schwelgen, schmausen",1495,HAPPY
+3572,"sich freuen, schwelgen, schmausen",1495,HAPPY
+3573,"weilen, bleiben",987,REMAIN
 3574,"verweilen, verbleiben",,
 3575,mit einem zusammen verweilen,,
-3576,"verbleiben, verharren",,
-3577,"Wesen, Natur",,
+3576,"verbleiben, verharren",987,REMAIN
+3577,"Wesen, Natur",3897,NATURE
 3578,wit,,
-3579,wissen,,
+3579,wissen,1410,KNOW (SOMETHING)
 3580,ich bin mir nichts bewußt,,
-3581,"auf etw. sehn, acht geben, es bewachen, hüten, etw. halten",,
+3581,"auf etw. sehn, acht geben, es bewachen, hüten, etw. halten",2885,HERD (SOMETHING)
 3582,Gesetzeskundiger,,
 3583,Gesetzeslehrer,,
 3584,gesetzlos,,
 3585,gesetzlich,,
-3586,Gesetz,,
+3586,Gesetz,1062,LAW
 3587,"Kenntnis, Erkenntnis",,
-3588,schütteln,,
-3589,"wider, gegen",,
+3588,schütteln,1909,SHAKE
+3589,"wider, gegen",2469,AGAINST
 3590,"gegenüberliegend, entgegengesetzt",,
-3591,(Widder) Lamm,,
+3591, Lamm,,
 3592,die Schwelgende,,
 3593,sich umsehn,,
 3594,"Angesicht; Ansehn, Gestalt",,
@@ -3598,33 +3598,33 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3596,Wmainaius,,
 3597,das Wachen,,
 3598,Zins,,
-3599,rufen,,
+3599,rufen,1084,CALL
 3600,herbeirufen,,
 3601,"aufschreien, ausrufen",,
 3602,angenehm,,
-3603,"wütend, besessen",,
-3604,krumm,,
+3603,"wütend, besessen",2223,BE ANGRY
+3604,krumm,297,CROOKED
 3605,Verfolgung,,
 3606,Verfolgung,,
-3607,verfolgen,,
+3607,verfolgen,1047,PURSUE
 3608,Verfolger,,
-3609,Reise,,
+3609,Reise,2393,JOURNEY
 3610,reisen,,
 3611,Verfolgung,,
-3612,Herde,,
-3613,verfolgen,,
-3614,verfolgen,,
-3615,"bestrafen, Rache nehmen an (Akk.)",,
+3612,Herde,2939,FLOCK (OF ANIMALS)
+3613,verfolgen,1047,PURSUE
+3614,verfolgen,1047,PURSUE
+3615,"bestrafen, Rache nehmen an ",,
 3616,Frucht bringen,,
-3617,Strich,,
-3618,Herde,,
-3619,"anklagen, beschuldigen",,
-3620,"verklagen, verdächtigen",,
+3617,Strich,2993,STROKE (OF PEN)
+3618,Herde,2939,FLOCK (OF ANIMALS)
+3619,"anklagen, beschuldigen",1814,ACCUSE
+3620,"verklagen, verdächtigen",1841,SUSPECT
 3621,"Klage, Anklage gegen",,
-3622,Schlinge,,
-3623,"wallen, sieden",,
-3624,Wolf,,
-3625,Wolle,,
+3622,Schlinge,2604,NOOSE
+3623,"wallen, sieden",792,BOIL (OF LIQUID)
+3624,Wolf,522,WOLF
+3625,Wolle,964,WOOL
 3626,Tuchwalker,,
 3627,"herrlich, wunderbar",,
 3628,wertvoller,,

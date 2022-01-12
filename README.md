@@ -19,7 +19,7 @@ Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 
 [![CLDF validation](https://github.com/martino-vic/streitberggothic/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/streitberggothic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 31%](https://img.shields.io/badge/Concepticon-31%25-red.svg "Concepticon: 31%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
 ![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")

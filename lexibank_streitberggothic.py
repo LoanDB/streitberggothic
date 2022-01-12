@@ -24,7 +24,9 @@ class Dataset(BaseDataset):
         for i, concept in enumerate(self.concepts):
             args.writer.add_concept(
                     ID=i,
-                    Name=concept["sense"]
+                    Name=concept["sense"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]                  
                     )
         args.log.info("added concepts")
 
