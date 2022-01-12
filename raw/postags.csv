@@ -1,0 +1,48 @@
+ID,Name,Unnamed: 2
+1,"Noun, proper",
+2,"Noun, common",Generic (unspecified subcategory).
+3,"Noun, common, masculine",
+4,"Noun, common, feminine",
+5,"Noun, common, neuter",
+6,Adjective,
+7,"Adjective, Comparative",
+8,"Adjective, Superlative",
+9,Verb,
+10,"Participle, present",
+11,"Participle, past",
+12,Adverb,
+13,"Adverb, Comparative",
+14,"Adverb, Superlative",
+15,"Adverb, manner",
+16,"Adverb, locative",
+17,"Adverb, directional",
+18,"Adverb, temporal",
+19,Preposition,Generic (unspecified subcategory).
+20,"Preposition, +A",
+21,"Preposition, +D",
+22,"Preposition, +G",
+23,"Preposition, +AD",
+24,"Preposition, +DG",
+25,"Preposition, +ADG",
+26,Pronoun,Generic (unspecified subcategory).
+27,"Pronoun, personal",
+28,"Pronoun, personal, reflexive",
+29,"Pronoun, personal, relative",
+30,"Pronoun, possesive",
+31,"Pronoun, possesive, reflexive",
+32,"Pronoun, demonstrative",
+33,"Pronoun, relative",
+34,"Pronoun, interrogative",
+35,"Pronoun, indefinite",
+36,"Numeral, cardinal",
+37,"Numeral, ordinal",
+38,"Numeral, other","Kollektives Zahlwort, distributives Zahlwort, ...?"
+39,Conjunction,
+40,"Conjunction, enclitic",
+41,Particle,
+42,"Particle, enclitic",
+43,Interjection,
+44,Foreign word,
+45,Multiple functions,"Temporary tag: the lemma can have different functions and should be split (e.g. ""nu"": adverb or conjunction)."
+46,Unassigned,Temporary tag: the lemma is problematic (or unique as in EAGLES unique/unassigned).
+47,<none>,"Not applicable, e.g. when the entry is a link to another lemma."
