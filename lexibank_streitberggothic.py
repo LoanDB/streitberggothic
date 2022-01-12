@@ -3,8 +3,7 @@ import pathlib
 from pylexibank import Dataset as BaseDataset
 from pylexibank import FormSpec
 
-REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")]# +\
-      #[(x, x.lower()) for x in 'ABDEFGHIJKLMNOPQRSTUWXZÞ']
+REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")]
 
 
 class Dataset(BaseDataset):
@@ -26,7 +25,7 @@ class Dataset(BaseDataset):
                     ID=i,
                     Name=concept["sense"],
                     Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]                  
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
                     )
         args.log.info("added concepts")
 
@@ -43,5 +42,5 @@ class Dataset(BaseDataset):
                 Parameter_ID=str(idx),
                 Value=row[0],
                 Source="557564")
-                
+
         args.log.info("added forms")

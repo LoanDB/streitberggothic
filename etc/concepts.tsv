@@ -61,7 +61,7 @@ schimpflich	Adjective
 schwierig	Adjective	584	DIFFICULT
 agluba	Adverb, Comparative		
 Agustus	Noun, proper		
-Sinn, Verstand	Noun, common, masculine	1562	MIND
+Sinn, Verstand	Noun, common, masculine	2950	MEANING
 zahme  Taube	Noun, common		
 Spreu	Noun, common, feminine		
 Aharon	Noun, proper		
@@ -271,7 +271,7 @@ Angesicht	Noun, common, neuter
 Amt, Dienst	Noun, common, neuter	2430	OFFICE
 etwas  leisten	Verb		
 Diener	Noun, common, masculine		
-Ende	Noun, common, masculine	742	END (OF SPACE)
+Ende	Noun, common, masculine	743	END (OF TIME)
 Enthüllung, Offenbarung	Noun, common, feminine		
 endlos	Adjective		
 anders, sonst	Conjunction	2504	DIFFERENT
@@ -622,7 +622,7 @@ Türhüterin	Noun, common, feminine
 Türhüterin	Noun, common, feminine		
 Türhüter	Noun, common, masculine		
 Dauriþaius*	Noun, proper		
- Tor, Tür	Noun, common, feminine	2940	GATE
+ Tor, Tür	Noun, common, feminine	1567	DOOR
 sich erkühnen, wagen	Verb	1779	DARE
 das Absterben	Noun, common, feminine		
 töten	Verb	1417	KILL
@@ -699,7 +699,7 @@ wozu	Adverb
 Gläubiger	Noun, common, masculine		
 Schuld	Noun, common	134	FAULT
 ein Fest feiern	Verb		
-Fest	Noun, common, feminine	131	FESTIVAL
+Fest	Noun, common, feminine	3003	SOLID
 verstummen	Verb		
 stumm	Adjective	1492	DUMB
 deshalb, deswegen, dazu	Unassigned		
@@ -875,7 +875,7 @@ Verderb, Vergeudung	Noun, common, feminine
 Kindschaft	Noun, common, feminine		
 Kind	Noun, common	2099	CHILD
 klug machen	Verb		
-Verstand, Sinn	Noun, common, neuter	1562	MIND
+Verstand, Sinn	Noun, common, neuter	2950	MEANING
 Verstandestäuschung	Noun, common, feminine		
 denken	Verb	1415	THINK (REFLECT)
 bei  Verstand sein	Verb		
@@ -1185,7 +1185,7 @@ Tugend	Noun, common, feminine
 Gruß	Noun, common, feminine		
 grüßen	Verb		
 gut	Adjective	1035	GOOD
-Graben	Noun, common, feminine	1418	DIG
+Graben	Noun, common, feminine	2538	TRENCH (FOSSE)
 graben	Verb	1418	DIG
 mit einem Graben umgeben	Verb		
 nachgraben, unterwühlen	Verb		
@@ -1224,7 +1224,7 @@ Männchen	Noun, common, neuter
 Krebsgeschwür	Noun, common, neuter		
 verschüttet werden	Verb		
 Gotenvolk	Noun, common, feminine		
-Gott	Noun, common, masculine	1944	GOD
+Gott	Noun, common, masculine	3231	DEITY
 haben, besitzen	Verb	684	OWN
 sich einer Sache enthalten	Verb		
 besitzen	Verb	684	OWN
@@ -1387,7 +1387,7 @@ Hügel	Noun, common	614	HILL
 Grab	Noun, common, neuter	1773	GRAVE
 Gräber	Noun, common, feminine		
 Schlinge	Noun, common, feminine	2604	NOOSE
-heiter	Adjective	1495	HAPPY
+heiter	Adjective	1976	MERRY
 sorgenfreier	Adjective, Comparative		
 Heiterkeit	Noun, common, feminine		
 beladen	Verb		
@@ -1489,7 +1489,7 @@ Weizen	Noun, common, masculine
 wie	Adverb	1239	HOW
 wann	Adverb	1238	WHEN
 jemals	Adverb		
-ersticken, auslöschen	Verb	129	CHOKE
+ersticken, auslöschen	Verb	127	EXTINGUISH
 ersticken, erlöschen	Verb	129	CHOKE
 wo	Adverb	1237	WHERE
 wandeln	Verb		
@@ -1507,13 +1507,13 @@ schäumen	Verb
 Schaum	Noun, common, feminine	1768	FOAM
 woher	Adverb, directional		
 jeder	Pronoun, indefinite		
-wem, mit wem, womit	Adverb	1235	WHO
+wem, mit wem, womit	Adverb	1236	WHAT
 jedenfalls, nur	Unassigned	1580	ONLY
 Weile, Zeit, Stunde	Noun, common, feminine	892	TIME
 nur eine Zeitlang dauernd, vergänglich	Adjective		
 aufhören	Verb	3351	STOP DOING
 beruhigen, erquicken	Verb		
-zur Ruhe kommen, aufhören	Verb	3351	STOP DOING
+zur Ruhe kommen, aufhören	Verb	1928	CEASE
 nicht eine Stunde lang	Unassigned		
 weißen	Verb		
 weiß	Adjective	1335	WHITE
@@ -1856,7 +1856,7 @@ mithineingehn	Verb
 hinzukommen	Verb		
 hindurchgehn	Verb		
 übersetzen	Verb	2906	TRANSLATE
-hinausgehn, weggehn; verreisen	Verb	1752	LEAVE
+hinausgehn, weggehn; verreisen	Verb	1107	GO OUT
 Obstwein	Noun, common		
 Arzt	Noun, common, masculine	597	PHYSICIAN
 Heilung	Noun, common, masculine		
@@ -2028,7 +2028,7 @@ einen ärgern, ihm zum Ärgernis sein	Verb
 Ranzen, Speisesack	Noun, common, masculine		
 essen	Verb	1336	EAT
 essen	Verb	1336	EAT
-Speise	Noun, common, masculine	256	FOOD
+Speise	Noun, common, masculine	481	DISH
 Mattaþanis	Noun, proper		
 Mattaþius*	Noun, proper		
 Matþaius*	Noun, proper		
@@ -2284,7 +2284,7 @@ Geldbeutel	Noun, common
 Pfund	Noun, common		
 weinen, trauern	Verb	1839	CRY
 Sanftmut	Noun, common, feminine		
-sanft, freundlich gegen	Adjective	1856	SOFT
+sanft, freundlich gegen	Adjective	1954	GENTLE
 Pfahl, Stachel	Noun, common, neuter	3798	STINGER
 Quartus	Noun, proper		
 Eheweib	Noun, common, feminine		
@@ -2882,7 +2882,7 @@ Teich	Noun, common, neuter
 Haar	Noun, common, neuter	1040	HAIR
 Zähre, Träne	Noun, common, neuter	1651	TEAR (OF EYE)
 weinen	Verb	1839	CRY
-reißen, zerren	Verb	460	BREAK (OF ROPE)
+reißen, zerren	Verb	1735	TEAR (SHRED)
 zerstreuen	Verb	3705	SCATTER
 rechts	Adjective	1019	RIGHT
 die Rechte	Noun, common, feminine		
@@ -3101,7 +3101,7 @@ Tröstung	Noun, common, feminine
 trösten, mahnen	Verb		
 erquicken	Verb		
 ga-þrafstjan	Verb		
-laufen	Verb	1443	WALK
+laufen	Verb	1519	RUN
 herbeilaufen	Verb		
 Heuschrecke	Noun, common, feminine	810	LOCUST
 Streitsucht	Noun, common, feminine		
@@ -3346,7 +3346,7 @@ Auferstehung	Noun, common, feminine
 Zügellosigkeit, Lüderlichkeit	Noun, common, feminine		
 zügellos	Adverb		
 Auszeichnung, Bezeichnung; Bekanntmachung; Anzeichen, Beweis	Noun, common, feminine		
-Vollendung, Vervollkommnung; Ende; Erfüllung	Noun, common, feminine	742	END (OF SPACE)
+Vollendung, Vervollkommnung; Ende; Erfüllung	Noun, common, feminine	743	END (OF TIME)
 Übung, Stählung	Noun, common, feminine		
 Geduld	Noun, common, feminine		
 erwachsen	Participle, past		
@@ -3563,7 +3563,7 @@ Worfschaufel	Noun, common, feminine
 zermalmen	Verb		
 Kranz	Noun, common, feminine		
 Meeresstille	Noun, common, neuter		
-sein, dasein, existieren	Verb	2473	HIS (GENITIVE OF HE)
+sein, dasein, existieren	Verb	1579	BE
 da sein	Verb		
 vorhanden ist	Verb		
 verbrauchen, vergeuden	Verb	2787	CONSUME (DRINK OR EAT)

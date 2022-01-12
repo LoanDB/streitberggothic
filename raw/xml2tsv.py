@@ -1,4 +1,4 @@
-"""open terminal, cd into folder `raw`, run `python xml2csv.py` """
+"""open terminal, cd into folder `raw`, run `python xml2tsv.py` """
 
 import re
 
