@@ -1,1634 +1,3646 @@
-Grapheme	IPA	Notes
-a	a	
-á	a	
-à	a	
-ā	a	
-i	ɪ	
-í	i	
-ì	i	
-ī	i	
-ï	i	
-ei	i	
-e	e	
-ē	e	
-o	o	
-ō	o	
-u	u	
-ū	u	
-ai	ɛ	
-aí	ɛ	
-aì	ɛ	
-ái	ɛ	
-au	ɔ	
-aú	ɔ	
-áu	ɔ	
-aū	ɔ	
-iu	i u	
-w	w	
-ww	wː	
-j	j	
-jj	jː	
-y	j	
-yy	jː	
-l	l	
-ll	lː	
-r	r	
-rr	rː	
-m	m	
-mm	mː	
-n	n	
-nn	nː	
-p	p	
-pp	pː	
-f	ɸ	
-ff	ɸː	
-b	b	
-bb	bː	
-k	k	
-x	χ	
-xx	χː	
-q	kʷ	
-qq	kːʷ	
-h	h	
-hh	hː	
-ƕ	ʍ	
-ƕƕ	ʍː	
-g	g	
-gg	ŋ g	
-ggw	gː w	ggw may also represent ŋ w, manual correction necessary
-gk	ŋ k	
-gq	ŋ kʷ	
-t	t	
-tt	tː	
-þ	θ	
-þþ	θː	
-d	d	
-dd	dː	
-s	s	
-ss	sː	
-z	z	
-zz	zː	
-^	NULL	
-$	NULL	
--	+	
-_	 	
-wls	w l̥ s	Braune2004 p. 47. (https://github.com/orthograpy/orthograpy-profiles/issues/1) generated with https://digling.org/calc/profiler/ with this rule: [1 w j y l r m n p f b k x q h g t þ d s z][2 l m n r][3 s $] > [1 w j y l r m n p f b k x q h g t þ d s z][2 l̥ m̥ n̥ r̥][3 s $]
-wl$	w l̥	
-wms	w m̥ s	
-wm$	w m̥	
-wns	w n̥ s	
-wn$	w n̥	
-wrs	w r̥ s	
-wr$	w r̥	
-jls	j l̥ s	
-jl$	j l̥	
-jms	j m̥ s	
-jm$	j m̥	
-jns	j n̥ s	
-jn$	j n̥	
-jrs	j r̥ s	
-jr$	j r̥	
-yls	y l̥ s	
-yl$	y l̥	
-yms	y m̥ s	
-ym$	y m̥	
-yns	y n̥ s	
-yn$	y n̥	
-yrs	y r̥ s	
-yr$	y r̥	
-lls	l l̥ s	
-ll$	l l̥	
-lms	l m̥ s	
-lm$	l m̥	
-lns	l n̥ s	
-ln$	l n̥	
-lrs	l r̥ s	
-lr$	l r̥	
-rls	r l̥ s	
-rl$	r l̥	
-rms	r m̥ s	
-rm$	r m̥	
-rns	r n̥ s	
-rn$	r n̥	
-rrs	r r̥ s	
-rr$	r r̥	
-mls	m l̥ s	
-ml$	m l̥	
-mms	m m̥ s	
-mm$	m m̥	
-mns	m n̥ s	
-mn$	m n̥	
-mrs	m r̥ s	
-mr$	m r̥	
-nls	n l̥ s	
-nl$	n l̥	
-nms	n m̥ s	
-nm$	n m̥	
-nns	n n̥ s	
-nn$	n n̥	
-nrs	n r̥ s	
-nr$	n r̥	
-pls	p l̥ s	
-pl$	p l̥	
-pms	p m̥ s	
-pm$	p m̥	
-pns	p n̥ s	
-pn$	p n̥	
-prs	p r̥ s	
-pr$	p r̥	
-fls	f l̥ s	
-fl$	f l̥	
-fms	f m̥ s	
-fm$	f m̥	
-fns	f n̥ s	
-fn$	f n̥	
-frs	f r̥ s	
-fr$	f r̥	
-bls	b l̥ s	
-bl$	b l̥	
-bms	b m̥ s	
-bm$	b m̥	
-bns	b n̥ s	
-bn$	b n̥	
-brs	b r̥ s	
-br$	b r̥	
-kls	k l̥ s	
-kl$	k l̥	
-kms	k m̥ s	
-km$	k m̥	
-kns	k n̥ s	
-kn$	k n̥	
-krs	k r̥ s	
-kr$	k r̥	
-xls	x l̥ s	
-xl$	x l̥	
-xms	x m̥ s	
-xm$	x m̥	
-xns	x n̥ s	
-xn$	x n̥	
-xrs	x r̥ s	
-xr$	x r̥	
-qls	q l̥ s	
-ql$	q l̥	
-qms	q m̥ s	
-qm$	q m̥	
-qns	q n̥ s	
-qn$	q n̥	
-qrs	q r̥ s	
-qr$	q r̥	
-hls	h l̥ s	
-hl$	h l̥	
-hms	h m̥ s	
-hm$	h m̥	
-hns	h n̥ s	
-hn$	h n̥	
-hrs	h r̥ s	
-hr$	h r̥	
-gls	g l̥ s	
-gl$	g l̥	
-gms	g m̥ s	
-gm$	g m̥	
-gns	g n̥ s	
-gn$	g n̥	
-grs	g r̥ s	
-gr$	g r̥	
-tls	t l̥ s	
-tl$	t l̥	
-tms	t m̥ s	
-tm$	t m̥	
-tns	t n̥ s	
-tn$	t n̥	
-trs	t r̥ s	
-tr$	t r̥	
-þls	þ l̥ s	
-þl$	þ l̥	
-þms	þ m̥ s	
-þm$	þ m̥	
-þns	þ n̥ s	
-þn$	þ n̥	
-þrs	þ r̥ s	
-þr$	þ r̥	
-dls	d l̥ s	
-dl$	d l̥	
-dms	d m̥ s	
-dm$	d m̥	
-dns	d n̥ s	
-dn$	d n̥	
-drs	d r̥ s	
-dr$	d r̥	
-sls	s l̥ s	
-sl$	s l̥	
-sms	s m̥ s	
-sm$	s m̥	
-sns	s n̥ s	
-sn$	s n̥	
-srs	s r̥ s	
-sr$	s r̥	
-zls	z l̥ s	
-zl$	z l̥	
-zms	z m̥ s	
-zm$	z m̥	
-zns	z n̥ s	
-zn$	z n̥	
-zrs	z r̥ s	
-zr$	z r̥	
-aba	a β a	Braune2004 p.63 (https://github.com/orthograpy/orthograpy-profiles/issues/1) generated with https://digling.org/calc/profiler/ with this rule: [1 a á à ā i í ì ī e ē o ō u ū][2 b d g][3 a á à ā i í ì ī e ē o ō u ū w j y l r m n p f b k x q h g t þ d s z] > [1 a á à ā i í ì ī e ē o ō u ū][2 β ð ɣ][3 a á à ā i í ì ī e ē o ō u ū w j y l r m n p f b k x q h g t þ d s z]
-abá	a β á	
-abà	a β à	
-abā	a β ā	
-abi	a β i	
-abí	a β í	
-abì	a β ì	
-abī	a β ī	
-abe	a β e	
-abē	a β ē	
-abo	a β o	
-abō	a β ō	
-abu	a β u	
-abū	a β ū	
-abw	a β w	
-abj	a β j	
-aby	a β y	
-abl	a β l	
-abr	a β r	
-abm	a β m	
-abn	a β n	
-abp	a β p	
-abf	a β f	
-abk	a β k	
-abx	a β x	
-abq	a β q	
-abh	a β h	
-abg	a β g	
-abt	a β t	
-abþ	a β þ	
-abd	a β d	
-abs	a β s	
-abz	a β z	
-ada	a ð a	
-adá	a ð á	
-adà	a ð à	
-adā	a ð ā	
-adi	a ð i	
-adí	a ð í	
-adì	a ð ì	
-adī	a ð ī	
-ade	a ð e	
-adē	a ð ē	
-ado	a ð o	
-adō	a ð ō	
-adu	a ð u	
-adū	a ð ū	
-adw	a ð w	
-adj	a ð j	
-ady	a ð y	
-adl	a ð l	
-adr	a ð r	
-adm	a ð m	
-adn	a ð n	
-adp	a ð p	
-adf	a ð f	
-adb	a ð b	
-adk	a ð k	
-adx	a ð x	
-adq	a ð q	
-adh	a ð h	
-adg	a ð g	
-adt	a ð t	
-adþ	a ð þ	
-ads	a ð s	
-adz	a ð z	
-aga	a ɣ a	
-agá	a ɣ á	
-agà	a ɣ à	
-agā	a ɣ ā	
-agi	a ɣ i	
-agí	a ɣ í	
-agì	a ɣ ì	
-agī	a ɣ ī	
-age	a ɣ e	
-agē	a ɣ ē	
-ago	a ɣ o	
-agō	a ɣ ō	
-agu	a ɣ u	
-agū	a ɣ ū	
-agw	a ɣ w	
-agj	a ɣ j	
-agy	a ɣ y	
-agl	a ɣ l	
-agr	a ɣ r	
-agm	a ɣ m	
-agn	a ɣ n	
-agp	a ɣ p	
-agf	a ɣ f	
-agb	a ɣ b	
-agk	a ɣ k	
-agx	a ɣ x	
-agq	a ɣ q	
-agh	a ɣ h	
-agg	a ɣ g	
-agt	a ɣ t	
-agþ	a ɣ þ	
-agd	a ɣ d	
-ags	a ɣ s	
-agz	a ɣ z	
-ába	á β a	
-ábá	á β á	
-ábà	á β à	
-ábā	á β ā	
-ábi	á β i	
-ábí	á β í	
-ábì	á β ì	
-ábī	á β ī	
-ábe	á β e	
-ábē	á β ē	
-ábo	á β o	
-ábō	á β ō	
-ábu	á β u	
-ábū	á β ū	
-ábw	á β w	
-ábj	á β j	
-áby	á β y	
-ábl	á β l	
-ábr	á β r	
-ábm	á β m	
-ábn	á β n	
-ábp	á β p	
-ábf	á β f	
-ábk	á β k	
-ábx	á β x	
-ábq	á β q	
-ábh	á β h	
-ábg	á β g	
-ábt	á β t	
-ábþ	á β þ	
-ábd	á β d	
-ábs	á β s	
-ábz	á β z	
-áda	á ð a	
-ádá	á ð á	
-ádà	á ð à	
-ádā	á ð ā	
-ádi	á ð i	
-ádí	á ð í	
-ádì	á ð ì	
-ádī	á ð ī	
-áde	á ð e	
-ádē	á ð ē	
-ádo	á ð o	
-ádō	á ð ō	
-ádu	á ð u	
-ádū	á ð ū	
-ádw	á ð w	
-ádj	á ð j	
-ády	á ð y	
-ádl	á ð l	
-ádr	á ð r	
-ádm	á ð m	
-ádn	á ð n	
-ádp	á ð p	
-ádf	á ð f	
-ádb	á ð b	
-ádk	á ð k	
-ádx	á ð x	
-ádq	á ð q	
-ádh	á ð h	
-ádg	á ð g	
-ádt	á ð t	
-ádþ	á ð þ	
-áds	á ð s	
-ádz	á ð z	
-ága	á ɣ a	
-ágá	á ɣ á	
-ágà	á ɣ à	
-ágā	á ɣ ā	
-ági	á ɣ i	
-ágí	á ɣ í	
-ágì	á ɣ ì	
-ágī	á ɣ ī	
-áge	á ɣ e	
-ágē	á ɣ ē	
-ágo	á ɣ o	
-ágō	á ɣ ō	
-águ	á ɣ u	
-ágū	á ɣ ū	
-ágw	á ɣ w	
-ágj	á ɣ j	
-ágy	á ɣ y	
-ágl	á ɣ l	
-ágr	á ɣ r	
-ágm	á ɣ m	
-ágn	á ɣ n	
-ágp	á ɣ p	
-ágf	á ɣ f	
-ágb	á ɣ b	
-ágk	á ɣ k	
-ágx	á ɣ x	
-ágq	á ɣ q	
-ágh	á ɣ h	
-ágg	á ɣ g	
-ágt	á ɣ t	
-ágþ	á ɣ þ	
-ágd	á ɣ d	
-ágs	á ɣ s	
-ágz	á ɣ z	
-àba	à β a	
-àbá	à β á	
-àbà	à β à	
-àbā	à β ā	
-àbi	à β i	
-àbí	à β í	
-àbì	à β ì	
-àbī	à β ī	
-àbe	à β e	
-àbē	à β ē	
-àbo	à β o	
-àbō	à β ō	
-àbu	à β u	
-àbū	à β ū	
-àbw	à β w	
-àbj	à β j	
-àby	à β y	
-àbl	à β l	
-àbr	à β r	
-àbm	à β m	
-àbn	à β n	
-àbp	à β p	
-àbf	à β f	
-àbk	à β k	
-àbx	à β x	
-àbq	à β q	
-àbh	à β h	
-àbg	à β g	
-àbt	à β t	
-àbþ	à β þ	
-àbd	à β d	
-àbs	à β s	
-àbz	à β z	
-àda	à ð a	
-àdá	à ð á	
-àdà	à ð à	
-àdā	à ð ā	
-àdi	à ð i	
-àdí	à ð í	
-àdì	à ð ì	
-àdī	à ð ī	
-àde	à ð e	
-àdē	à ð ē	
-àdo	à ð o	
-àdō	à ð ō	
-àdu	à ð u	
-àdū	à ð ū	
-àdw	à ð w	
-àdj	à ð j	
-àdy	à ð y	
-àdl	à ð l	
-àdr	à ð r	
-àdm	à ð m	
-àdn	à ð n	
-àdp	à ð p	
-àdf	à ð f	
-àdb	à ð b	
-àdk	à ð k	
-àdx	à ð x	
-àdq	à ð q	
-àdh	à ð h	
-àdg	à ð g	
-àdt	à ð t	
-àdþ	à ð þ	
-àds	à ð s	
-àdz	à ð z	
-àga	à ɣ a	
-àgá	à ɣ á	
-àgà	à ɣ à	
-àgā	à ɣ ā	
-àgi	à ɣ i	
-àgí	à ɣ í	
-àgì	à ɣ ì	
-àgī	à ɣ ī	
-àge	à ɣ e	
-àgē	à ɣ ē	
-àgo	à ɣ o	
-àgō	à ɣ ō	
-àgu	à ɣ u	
-àgū	à ɣ ū	
-àgw	à ɣ w	
-àgj	à ɣ j	
-àgy	à ɣ y	
-àgl	à ɣ l	
-àgr	à ɣ r	
-àgm	à ɣ m	
-àgn	à ɣ n	
-àgp	à ɣ p	
-àgf	à ɣ f	
-àgb	à ɣ b	
-àgk	à ɣ k	
-àgx	à ɣ x	
-àgq	à ɣ q	
-àgh	à ɣ h	
-àgg	à ɣ g	
-àgt	à ɣ t	
-àgþ	à ɣ þ	
-àgd	à ɣ d	
-àgs	à ɣ s	
-àgz	à ɣ z	
-āba	ā β a	
-ābá	ā β á	
-ābà	ā β à	
-ābā	ā β ā	
-ābi	ā β i	
-ābí	ā β í	
-ābì	ā β ì	
-ābī	ā β ī	
-ābe	ā β e	
-ābē	ā β ē	
-ābo	ā β o	
-ābō	ā β ō	
-ābu	ā β u	
-ābū	ā β ū	
-ābw	ā β w	
-ābj	ā β j	
-āby	ā β y	
-ābl	ā β l	
-ābr	ā β r	
-ābm	ā β m	
-ābn	ā β n	
-ābp	ā β p	
-ābf	ā β f	
-ābk	ā β k	
-ābx	ā β x	
-ābq	ā β q	
-ābh	ā β h	
-ābg	ā β g	
-ābt	ā β t	
-ābþ	ā β þ	
-ābd	ā β d	
-ābs	ā β s	
-ābz	ā β z	
-āda	ā ð a	
-ādá	ā ð á	
-ādà	ā ð à	
-ādā	ā ð ā	
-ādi	ā ð i	
-ādí	ā ð í	
-ādì	ā ð ì	
-ādī	ā ð ī	
-āde	ā ð e	
-ādē	ā ð ē	
-ādo	ā ð o	
-ādō	ā ð ō	
-ādu	ā ð u	
-ādū	ā ð ū	
-ādw	ā ð w	
-ādj	ā ð j	
-ādy	ā ð y	
-ādl	ā ð l	
-ādr	ā ð r	
-ādm	ā ð m	
-ādn	ā ð n	
-ādp	ā ð p	
-ādf	ā ð f	
-ādb	ā ð b	
-ādk	ā ð k	
-ādx	ā ð x	
-ādq	ā ð q	
-ādh	ā ð h	
-ādg	ā ð g	
-ādt	ā ð t	
-ādþ	ā ð þ	
-āds	ā ð s	
-ādz	ā ð z	
-āga	ā ɣ a	
-āgá	ā ɣ á	
-āgà	ā ɣ à	
-āgā	ā ɣ ā	
-āgi	ā ɣ i	
-āgí	ā ɣ í	
-āgì	ā ɣ ì	
-āgī	ā ɣ ī	
-āge	ā ɣ e	
-āgē	ā ɣ ē	
-āgo	ā ɣ o	
-āgō	ā ɣ ō	
-āgu	ā ɣ u	
-āgū	ā ɣ ū	
-āgw	ā ɣ w	
-āgj	ā ɣ j	
-āgy	ā ɣ y	
-āgl	ā ɣ l	
-āgr	ā ɣ r	
-āgm	ā ɣ m	
-āgn	ā ɣ n	
-āgp	ā ɣ p	
-āgf	ā ɣ f	
-āgb	ā ɣ b	
-āgk	ā ɣ k	
-āgx	ā ɣ x	
-āgq	ā ɣ q	
-āgh	ā ɣ h	
-āgg	ā ɣ g	
-āgt	ā ɣ t	
-āgþ	ā ɣ þ	
-āgd	ā ɣ d	
-āgs	ā ɣ s	
-āgz	ā ɣ z	
-iba	i β a	
-ibá	i β á	
-ibà	i β à	
-ibā	i β ā	
-ibi	i β i	
-ibí	i β í	
-ibì	i β ì	
-ibī	i β ī	
-ibe	i β e	
-ibē	i β ē	
-ibo	i β o	
-ibō	i β ō	
-ibu	i β u	
-ibū	i β ū	
-ibw	i β w	
-ibj	i β j	
-iby	i β y	
-ibl	i β l	
-ibr	i β r	
-ibm	i β m	
-ibn	i β n	
-ibp	i β p	
-ibf	i β f	
-ibk	i β k	
-ibx	i β x	
-ibq	i β q	
-ibh	i β h	
-ibg	i β g	
-ibt	i β t	
-ibþ	i β þ	
-ibd	i β d	
-ibs	i β s	
-ibz	i β z	
-ida	i ð a	
-idá	i ð á	
-idà	i ð à	
-idā	i ð ā	
-idi	i ð i	
-idí	i ð í	
-idì	i ð ì	
-idī	i ð ī	
-ide	i ð e	
-idē	i ð ē	
-ido	i ð o	
-idō	i ð ō	
-idu	i ð u	
-idū	i ð ū	
-idw	i ð w	
-idj	i ð j	
-idy	i ð y	
-idl	i ð l	
-idr	i ð r	
-idm	i ð m	
-idn	i ð n	
-idp	i ð p	
-idf	i ð f	
-idb	i ð b	
-idk	i ð k	
-idx	i ð x	
-idq	i ð q	
-idh	i ð h	
-idg	i ð g	
-idt	i ð t	
-idþ	i ð þ	
-ids	i ð s	
-idz	i ð z	
-iga	i ɣ a	
-igá	i ɣ á	
-igà	i ɣ à	
-igā	i ɣ ā	
-igi	i ɣ i	
-igí	i ɣ í	
-igì	i ɣ ì	
-igī	i ɣ ī	
-ige	i ɣ e	
-igē	i ɣ ē	
-igo	i ɣ o	
-igō	i ɣ ō	
-igu	i ɣ u	
-igū	i ɣ ū	
-igw	i ɣ w	
-igj	i ɣ j	
-igy	i ɣ y	
-igl	i ɣ l	
-igr	i ɣ r	
-igm	i ɣ m	
-ign	i ɣ n	
-igp	i ɣ p	
-igf	i ɣ f	
-igb	i ɣ b	
-igk	i ɣ k	
-igx	i ɣ x	
-igq	i ɣ q	
-igh	i ɣ h	
-igg	i ɣ g	
-igt	i ɣ t	
-igþ	i ɣ þ	
-igd	i ɣ d	
-igs	i ɣ s	
-igz	i ɣ z	
-íba	í β a	
-íbá	í β á	
-íbà	í β à	
-íbā	í β ā	
-íbi	í β i	
-íbí	í β í	
-íbì	í β ì	
-íbī	í β ī	
-íbe	í β e	
-íbē	í β ē	
-íbo	í β o	
-íbō	í β ō	
-íbu	í β u	
-íbū	í β ū	
-íbw	í β w	
-íbj	í β j	
-íby	í β y	
-íbl	í β l	
-íbr	í β r	
-íbm	í β m	
-íbn	í β n	
-íbp	í β p	
-íbf	í β f	
-íbk	í β k	
-íbx	í β x	
-íbq	í β q	
-íbh	í β h	
-íbg	í β g	
-íbt	í β t	
-íbþ	í β þ	
-íbd	í β d	
-íbs	í β s	
-íbz	í β z	
-ída	í ð a	
-ídá	í ð á	
-ídà	í ð à	
-ídā	í ð ā	
-ídi	í ð i	
-ídí	í ð í	
-ídì	í ð ì	
-ídī	í ð ī	
-íde	í ð e	
-ídē	í ð ē	
-ído	í ð o	
-ídō	í ð ō	
-ídu	í ð u	
-ídū	í ð ū	
-ídw	í ð w	
-ídj	í ð j	
-ídy	í ð y	
-ídl	í ð l	
-ídr	í ð r	
-ídm	í ð m	
-ídn	í ð n	
-ídp	í ð p	
-ídf	í ð f	
-ídb	í ð b	
-ídk	í ð k	
-ídx	í ð x	
-ídq	í ð q	
-ídh	í ð h	
-ídg	í ð g	
-ídt	í ð t	
-ídþ	í ð þ	
-íds	í ð s	
-ídz	í ð z	
-íga	í ɣ a	
-ígá	í ɣ á	
-ígà	í ɣ à	
-ígā	í ɣ ā	
-ígi	í ɣ i	
-ígí	í ɣ í	
-ígì	í ɣ ì	
-ígī	í ɣ ī	
-íge	í ɣ e	
-ígē	í ɣ ē	
-ígo	í ɣ o	
-ígō	í ɣ ō	
-ígu	í ɣ u	
-ígū	í ɣ ū	
-ígw	í ɣ w	
-ígj	í ɣ j	
-így	í ɣ y	
-ígl	í ɣ l	
-ígr	í ɣ r	
-ígm	í ɣ m	
-ígn	í ɣ n	
-ígp	í ɣ p	
-ígf	í ɣ f	
-ígb	í ɣ b	
-ígk	í ɣ k	
-ígx	í ɣ x	
-ígq	í ɣ q	
-ígh	í ɣ h	
-ígg	í ɣ g	
-ígt	í ɣ t	
-ígþ	í ɣ þ	
-ígd	í ɣ d	
-ígs	í ɣ s	
-ígz	í ɣ z	
-ìba	ì β a	
-ìbá	ì β á	
-ìbà	ì β à	
-ìbā	ì β ā	
-ìbi	ì β i	
-ìbí	ì β í	
-ìbì	ì β ì	
-ìbī	ì β ī	
-ìbe	ì β e	
-ìbē	ì β ē	
-ìbo	ì β o	
-ìbō	ì β ō	
-ìbu	ì β u	
-ìbū	ì β ū	
-ìbw	ì β w	
-ìbj	ì β j	
-ìby	ì β y	
-ìbl	ì β l	
-ìbr	ì β r	
-ìbm	ì β m	
-ìbn	ì β n	
-ìbp	ì β p	
-ìbf	ì β f	
-ìbk	ì β k	
-ìbx	ì β x	
-ìbq	ì β q	
-ìbh	ì β h	
-ìbg	ì β g	
-ìbt	ì β t	
-ìbþ	ì β þ	
-ìbd	ì β d	
-ìbs	ì β s	
-ìbz	ì β z	
-ìda	ì ð a	
-ìdá	ì ð á	
-ìdà	ì ð à	
-ìdā	ì ð ā	
-ìdi	ì ð i	
-ìdí	ì ð í	
-ìdì	ì ð ì	
-ìdī	ì ð ī	
-ìde	ì ð e	
-ìdē	ì ð ē	
-ìdo	ì ð o	
-ìdō	ì ð ō	
-ìdu	ì ð u	
-ìdū	ì ð ū	
-ìdw	ì ð w	
-ìdj	ì ð j	
-ìdy	ì ð y	
-ìdl	ì ð l	
-ìdr	ì ð r	
-ìdm	ì ð m	
-ìdn	ì ð n	
-ìdp	ì ð p	
-ìdf	ì ð f	
-ìdb	ì ð b	
-ìdk	ì ð k	
-ìdx	ì ð x	
-ìdq	ì ð q	
-ìdh	ì ð h	
-ìdg	ì ð g	
-ìdt	ì ð t	
-ìdþ	ì ð þ	
-ìds	ì ð s	
-ìdz	ì ð z	
-ìga	ì ɣ a	
-ìgá	ì ɣ á	
-ìgà	ì ɣ à	
-ìgā	ì ɣ ā	
-ìgi	ì ɣ i	
-ìgí	ì ɣ í	
-ìgì	ì ɣ ì	
-ìgī	ì ɣ ī	
-ìge	ì ɣ e	
-ìgē	ì ɣ ē	
-ìgo	ì ɣ o	
-ìgō	ì ɣ ō	
-ìgu	ì ɣ u	
-ìgū	ì ɣ ū	
-ìgw	ì ɣ w	
-ìgj	ì ɣ j	
-ìgy	ì ɣ y	
-ìgl	ì ɣ l	
-ìgr	ì ɣ r	
-ìgm	ì ɣ m	
-ìgn	ì ɣ n	
-ìgp	ì ɣ p	
-ìgf	ì ɣ f	
-ìgb	ì ɣ b	
-ìgk	ì ɣ k	
-ìgx	ì ɣ x	
-ìgq	ì ɣ q	
-ìgh	ì ɣ h	
-ìgg	ì ɣ g	
-ìgt	ì ɣ t	
-ìgþ	ì ɣ þ	
-ìgd	ì ɣ d	
-ìgs	ì ɣ s	
-ìgz	ì ɣ z	
-ība	ī β a	
-ībá	ī β á	
-ībà	ī β à	
-ībā	ī β ā	
-ībi	ī β i	
-ībí	ī β í	
-ībì	ī β ì	
-ībī	ī β ī	
-ībe	ī β e	
-ībē	ī β ē	
-ībo	ī β o	
-ībō	ī β ō	
-ību	ī β u	
-ībū	ī β ū	
-ībw	ī β w	
-ībj	ī β j	
-īby	ī β y	
-ībl	ī β l	
-ībr	ī β r	
-ībm	ī β m	
-ībn	ī β n	
-ībp	ī β p	
-ībf	ī β f	
-ībk	ī β k	
-ībx	ī β x	
-ībq	ī β q	
-ībh	ī β h	
-ībg	ī β g	
-ībt	ī β t	
-ībþ	ī β þ	
-ībd	ī β d	
-ībs	ī β s	
-ībz	ī β z	
-īda	ī ð a	
-īdá	ī ð á	
-īdà	ī ð à	
-īdā	ī ð ā	
-īdi	ī ð i	
-īdí	ī ð í	
-īdì	ī ð ì	
-īdī	ī ð ī	
-īde	ī ð e	
-īdē	ī ð ē	
-īdo	ī ð o	
-īdō	ī ð ō	
-īdu	ī ð u	
-īdū	ī ð ū	
-īdw	ī ð w	
-īdj	ī ð j	
-īdy	ī ð y	
-īdl	ī ð l	
-īdr	ī ð r	
-īdm	ī ð m	
-īdn	ī ð n	
-īdp	ī ð p	
-īdf	ī ð f	
-īdb	ī ð b	
-īdk	ī ð k	
-īdx	ī ð x	
-īdq	ī ð q	
-īdh	ī ð h	
-īdg	ī ð g	
-īdt	ī ð t	
-īdþ	ī ð þ	
-īds	ī ð s	
-īdz	ī ð z	
-īga	ī ɣ a	
-īgá	ī ɣ á	
-īgà	ī ɣ à	
-īgā	ī ɣ ā	
-īgi	ī ɣ i	
-īgí	ī ɣ í	
-īgì	ī ɣ ì	
-īgī	ī ɣ ī	
-īge	ī ɣ e	
-īgē	ī ɣ ē	
-īgo	ī ɣ o	
-īgō	ī ɣ ō	
-īgu	ī ɣ u	
-īgū	ī ɣ ū	
-īgw	ī ɣ w	
-īgj	ī ɣ j	
-īgy	ī ɣ y	
-īgl	ī ɣ l	
-īgr	ī ɣ r	
-īgm	ī ɣ m	
-īgn	ī ɣ n	
-īgp	ī ɣ p	
-īgf	ī ɣ f	
-īgb	ī ɣ b	
-īgk	ī ɣ k	
-īgx	ī ɣ x	
-īgq	ī ɣ q	
-īgh	ī ɣ h	
-īgg	ī ɣ g	
-īgt	ī ɣ t	
-īgþ	ī ɣ þ	
-īgd	ī ɣ d	
-īgs	ī ɣ s	
-īgz	ī ɣ z	
-eba	e β a	
-ebá	e β á	
-ebà	e β à	
-ebā	e β ā	
-ebi	e β i	
-ebí	e β í	
-ebì	e β ì	
-ebī	e β ī	
-ebe	e β e	
-ebē	e β ē	
-ebo	e β o	
-ebō	e β ō	
-ebu	e β u	
-ebū	e β ū	
-ebw	e β w	
-ebj	e β j	
-eby	e β y	
-ebl	e β l	
-ebr	e β r	
-ebm	e β m	
-ebn	e β n	
-ebp	e β p	
-ebf	e β f	
-ebk	e β k	
-ebx	e β x	
-ebq	e β q	
-ebh	e β h	
-ebg	e β g	
-ebt	e β t	
-ebþ	e β þ	
-ebd	e β d	
-ebs	e β s	
-ebz	e β z	
-eda	e ð a	
-edá	e ð á	
-edà	e ð à	
-edā	e ð ā	
-edi	e ð i	
-edí	e ð í	
-edì	e ð ì	
-edī	e ð ī	
-ede	e ð e	
-edē	e ð ē	
-edo	e ð o	
-edō	e ð ō	
-edu	e ð u	
-edū	e ð ū	
-edw	e ð w	
-edj	e ð j	
-edy	e ð y	
-edl	e ð l	
-edr	e ð r	
-edm	e ð m	
-edn	e ð n	
-edp	e ð p	
-edf	e ð f	
-edb	e ð b	
-edk	e ð k	
-edx	e ð x	
-edq	e ð q	
-edh	e ð h	
-edg	e ð g	
-edt	e ð t	
-edþ	e ð þ	
-eds	e ð s	
-edz	e ð z	
-ega	e ɣ a	
-egá	e ɣ á	
-egà	e ɣ à	
-egā	e ɣ ā	
-egi	e ɣ i	
-egí	e ɣ í	
-egì	e ɣ ì	
-egī	e ɣ ī	
-ege	e ɣ e	
-egē	e ɣ ē	
-ego	e ɣ o	
-egō	e ɣ ō	
-egu	e ɣ u	
-egū	e ɣ ū	
-egw	e ɣ w	
-egj	e ɣ j	
-egy	e ɣ y	
-egl	e ɣ l	
-egr	e ɣ r	
-egm	e ɣ m	
-egn	e ɣ n	
-egp	e ɣ p	
-egf	e ɣ f	
-egb	e ɣ b	
-egk	e ɣ k	
-egx	e ɣ x	
-egq	e ɣ q	
-egh	e ɣ h	
-egg	e ɣ g	
-egt	e ɣ t	
-egþ	e ɣ þ	
-egd	e ɣ d	
-egs	e ɣ s	
-egz	e ɣ z	
-ēba	ē β a	
-ēbá	ē β á	
-ēbà	ē β à	
-ēbā	ē β ā	
-ēbi	ē β i	
-ēbí	ē β í	
-ēbì	ē β ì	
-ēbī	ē β ī	
-ēbe	ē β e	
-ēbē	ē β ē	
-ēbo	ē β o	
-ēbō	ē β ō	
-ēbu	ē β u	
-ēbū	ē β ū	
-ēbw	ē β w	
-ēbj	ē β j	
-ēby	ē β y	
-ēbl	ē β l	
-ēbr	ē β r	
-ēbm	ē β m	
-ēbn	ē β n	
-ēbp	ē β p	
-ēbf	ē β f	
-ēbk	ē β k	
-ēbx	ē β x	
-ēbq	ē β q	
-ēbh	ē β h	
-ēbg	ē β g	
-ēbt	ē β t	
-ēbþ	ē β þ	
-ēbd	ē β d	
-ēbs	ē β s	
-ēbz	ē β z	
-ēda	ē ð a	
-ēdá	ē ð á	
-ēdà	ē ð à	
-ēdā	ē ð ā	
-ēdi	ē ð i	
-ēdí	ē ð í	
-ēdì	ē ð ì	
-ēdī	ē ð ī	
-ēde	ē ð e	
-ēdē	ē ð ē	
-ēdo	ē ð o	
-ēdō	ē ð ō	
-ēdu	ē ð u	
-ēdū	ē ð ū	
-ēdw	ē ð w	
-ēdj	ē ð j	
-ēdy	ē ð y	
-ēdl	ē ð l	
-ēdr	ē ð r	
-ēdm	ē ð m	
-ēdn	ē ð n	
-ēdp	ē ð p	
-ēdf	ē ð f	
-ēdb	ē ð b	
-ēdk	ē ð k	
-ēdx	ē ð x	
-ēdq	ē ð q	
-ēdh	ē ð h	
-ēdg	ē ð g	
-ēdt	ē ð t	
-ēdþ	ē ð þ	
-ēds	ē ð s	
-ēdz	ē ð z	
-ēga	ē ɣ a	
-ēgá	ē ɣ á	
-ēgà	ē ɣ à	
-ēgā	ē ɣ ā	
-ēgi	ē ɣ i	
-ēgí	ē ɣ í	
-ēgì	ē ɣ ì	
-ēgī	ē ɣ ī	
-ēge	ē ɣ e	
-ēgē	ē ɣ ē	
-ēgo	ē ɣ o	
-ēgō	ē ɣ ō	
-ēgu	ē ɣ u	
-ēgū	ē ɣ ū	
-ēgw	ē ɣ w	
-ēgj	ē ɣ j	
-ēgy	ē ɣ y	
-ēgl	ē ɣ l	
-ēgr	ē ɣ r	
-ēgm	ē ɣ m	
-ēgn	ē ɣ n	
-ēgp	ē ɣ p	
-ēgf	ē ɣ f	
-ēgb	ē ɣ b	
-ēgk	ē ɣ k	
-ēgx	ē ɣ x	
-ēgq	ē ɣ q	
-ēgh	ē ɣ h	
-ēgg	ē ɣ g	
-ēgt	ē ɣ t	
-ēgþ	ē ɣ þ	
-ēgd	ē ɣ d	
-ēgs	ē ɣ s	
-ēgz	ē ɣ z	
-oba	o β a	
-obá	o β á	
-obà	o β à	
-obā	o β ā	
-obi	o β i	
-obí	o β í	
-obì	o β ì	
-obī	o β ī	
-obe	o β e	
-obē	o β ē	
-obo	o β o	
-obō	o β ō	
-obu	o β u	
-obū	o β ū	
-obw	o β w	
-obj	o β j	
-oby	o β y	
-obl	o β l	
-obr	o β r	
-obm	o β m	
-obn	o β n	
-obp	o β p	
-obf	o β f	
-obk	o β k	
-obx	o β x	
-obq	o β q	
-obh	o β h	
-obg	o β g	
-obt	o β t	
-obþ	o β þ	
-obd	o β d	
-obs	o β s	
-obz	o β z	
-oda	o ð a	
-odá	o ð á	
-odà	o ð à	
-odā	o ð ā	
-odi	o ð i	
-odí	o ð í	
-odì	o ð ì	
-odī	o ð ī	
-ode	o ð e	
-odē	o ð ē	
-odo	o ð o	
-odō	o ð ō	
-odu	o ð u	
-odū	o ð ū	
-odw	o ð w	
-odj	o ð j	
-ody	o ð y	
-odl	o ð l	
-odr	o ð r	
-odm	o ð m	
-odn	o ð n	
-odp	o ð p	
-odf	o ð f	
-odb	o ð b	
-odk	o ð k	
-odx	o ð x	
-odq	o ð q	
-odh	o ð h	
-odg	o ð g	
-odt	o ð t	
-odþ	o ð þ	
-ods	o ð s	
-odz	o ð z	
-oga	o ɣ a	
-ogá	o ɣ á	
-ogà	o ɣ à	
-ogā	o ɣ ā	
-ogi	o ɣ i	
-ogí	o ɣ í	
-ogì	o ɣ ì	
-ogī	o ɣ ī	
-oge	o ɣ e	
-ogē	o ɣ ē	
-ogo	o ɣ o	
-ogō	o ɣ ō	
-ogu	o ɣ u	
-ogū	o ɣ ū	
-ogw	o ɣ w	
-ogj	o ɣ j	
-ogy	o ɣ y	
-ogl	o ɣ l	
-ogr	o ɣ r	
-ogm	o ɣ m	
-ogn	o ɣ n	
-ogp	o ɣ p	
-ogf	o ɣ f	
-ogb	o ɣ b	
-ogk	o ɣ k	
-ogx	o ɣ x	
-ogq	o ɣ q	
-ogh	o ɣ h	
-ogg	o ɣ g	
-ogt	o ɣ t	
-ogþ	o ɣ þ	
-ogd	o ɣ d	
-ogs	o ɣ s	
-ogz	o ɣ z	
-ōba	ō β a	
-ōbá	ō β á	
-ōbà	ō β à	
-ōbā	ō β ā	
-ōbi	ō β i	
-ōbí	ō β í	
-ōbì	ō β ì	
-ōbī	ō β ī	
-ōbe	ō β e	
-ōbē	ō β ē	
-ōbo	ō β o	
-ōbō	ō β ō	
-ōbu	ō β u	
-ōbū	ō β ū	
-ōbw	ō β w	
-ōbj	ō β j	
-ōby	ō β y	
-ōbl	ō β l	
-ōbr	ō β r	
-ōbm	ō β m	
-ōbn	ō β n	
-ōbp	ō β p	
-ōbf	ō β f	
-ōbk	ō β k	
-ōbx	ō β x	
-ōbq	ō β q	
-ōbh	ō β h	
-ōbg	ō β g	
-ōbt	ō β t	
-ōbþ	ō β þ	
-ōbd	ō β d	
-ōbs	ō β s	
-ōbz	ō β z	
-ōda	ō ð a	
-ōdá	ō ð á	
-ōdà	ō ð à	
-ōdā	ō ð ā	
-ōdi	ō ð i	
-ōdí	ō ð í	
-ōdì	ō ð ì	
-ōdī	ō ð ī	
-ōde	ō ð e	
-ōdē	ō ð ē	
-ōdo	ō ð o	
-ōdō	ō ð ō	
-ōdu	ō ð u	
-ōdū	ō ð ū	
-ōdw	ō ð w	
-ōdj	ō ð j	
-ōdy	ō ð y	
-ōdl	ō ð l	
-ōdr	ō ð r	
-ōdm	ō ð m	
-ōdn	ō ð n	
-ōdp	ō ð p	
-ōdf	ō ð f	
-ōdb	ō ð b	
-ōdk	ō ð k	
-ōdx	ō ð x	
-ōdq	ō ð q	
-ōdh	ō ð h	
-ōdg	ō ð g	
-ōdt	ō ð t	
-ōdþ	ō ð þ	
-ōds	ō ð s	
-ōdz	ō ð z	
-ōga	ō ɣ a	
-ōgá	ō ɣ á	
-ōgà	ō ɣ à	
-ōgā	ō ɣ ā	
-ōgi	ō ɣ i	
-ōgí	ō ɣ í	
-ōgì	ō ɣ ì	
-ōgī	ō ɣ ī	
-ōge	ō ɣ e	
-ōgē	ō ɣ ē	
-ōgo	ō ɣ o	
-ōgō	ō ɣ ō	
-ōgu	ō ɣ u	
-ōgū	ō ɣ ū	
-ōgw	ō ɣ w	
-ōgj	ō ɣ j	
-ōgy	ō ɣ y	
-ōgl	ō ɣ l	
-ōgr	ō ɣ r	
-ōgm	ō ɣ m	
-ōgn	ō ɣ n	
-ōgp	ō ɣ p	
-ōgf	ō ɣ f	
-ōgb	ō ɣ b	
-ōgk	ō ɣ k	
-ōgx	ō ɣ x	
-ōgq	ō ɣ q	
-ōgh	ō ɣ h	
-ōgg	ō ɣ g	
-ōgt	ō ɣ t	
-ōgþ	ō ɣ þ	
-ōgd	ō ɣ d	
-ōgs	ō ɣ s	
-ōgz	ō ɣ z	
-uba	u β a	
-ubá	u β á	
-ubà	u β à	
-ubā	u β ā	
-ubi	u β i	
-ubí	u β í	
-ubì	u β ì	
-ubī	u β ī	
-ube	u β e	
-ubē	u β ē	
-ubo	u β o	
-ubō	u β ō	
-ubu	u β u	
-ubū	u β ū	
-ubw	u β w	
-ubj	u β j	
-uby	u β y	
-ubl	u β l	
-ubr	u β r	
-ubm	u β m	
-ubn	u β n	
-ubp	u β p	
-ubf	u β f	
-ubk	u β k	
-ubx	u β x	
-ubq	u β q	
-ubh	u β h	
-ubg	u β g	
-ubt	u β t	
-ubþ	u β þ	
-ubd	u β d	
-ubs	u β s	
-ubz	u β z	
-uda	u ð a	
-udá	u ð á	
-udà	u ð à	
-udā	u ð ā	
-udi	u ð i	
-udí	u ð í	
-udì	u ð ì	
-udī	u ð ī	
-ude	u ð e	
-udē	u ð ē	
-udo	u ð o	
-udō	u ð ō	
-udu	u ð u	
-udū	u ð ū	
-udw	u ð w	
-udj	u ð j	
-udy	u ð y	
-udl	u ð l	
-udr	u ð r	
-udm	u ð m	
-udn	u ð n	
-udp	u ð p	
-udf	u ð f	
-udb	u ð b	
-udk	u ð k	
-udx	u ð x	
-udq	u ð q	
-udh	u ð h	
-udg	u ð g	
-udt	u ð t	
-udþ	u ð þ	
-uds	u ð s	
-udz	u ð z	
-uga	u ɣ a	
-ugá	u ɣ á	
-ugà	u ɣ à	
-ugā	u ɣ ā	
-ugi	u ɣ i	
-ugí	u ɣ í	
-ugì	u ɣ ì	
-ugī	u ɣ ī	
-uge	u ɣ e	
-ugē	u ɣ ē	
-ugo	u ɣ o	
-ugō	u ɣ ō	
-ugu	u ɣ u	
-ugū	u ɣ ū	
-ugw	u ɣ w	
-ugj	u ɣ j	
-ugy	u ɣ y	
-ugl	u ɣ l	
-ugr	u ɣ r	
-ugm	u ɣ m	
-ugn	u ɣ n	
-ugp	u ɣ p	
-ugf	u ɣ f	
-ugb	u ɣ b	
-ugk	u ɣ k	
-ugx	u ɣ x	
-ugq	u ɣ q	
-ugh	u ɣ h	
-ugg	u ɣ g	
-ugt	u ɣ t	
-ugþ	u ɣ þ	
-ugd	u ɣ d	
-ugs	u ɣ s	
-ugz	u ɣ z	
-ūba	ū β a	
-ūbá	ū β á	
-ūbà	ū β à	
-ūbā	ū β ā	
-ūbi	ū β i	
-ūbí	ū β í	
-ūbì	ū β ì	
-ūbī	ū β ī	
-ūbe	ū β e	
-ūbē	ū β ē	
-ūbo	ū β o	
-ūbō	ū β ō	
-ūbu	ū β u	
-ūbū	ū β ū	
-ūbw	ū β w	
-ūbj	ū β j	
-ūby	ū β y	
-ūbl	ū β l	
-ūbr	ū β r	
-ūbm	ū β m	
-ūbn	ū β n	
-ūbp	ū β p	
-ūbf	ū β f	
-ūbk	ū β k	
-ūbx	ū β x	
-ūbq	ū β q	
-ūbh	ū β h	
-ūbg	ū β g	
-ūbt	ū β t	
-ūbþ	ū β þ	
-ūbd	ū β d	
-ūbs	ū β s	
-ūbz	ū β z	
-ūda	ū ð a	
-ūdá	ū ð á	
-ūdà	ū ð à	
-ūdā	ū ð ā	
-ūdi	ū ð i	
-ūdí	ū ð í	
-ūdì	ū ð ì	
-ūdī	ū ð ī	
-ūde	ū ð e	
-ūdē	ū ð ē	
-ūdo	ū ð o	
-ūdō	ū ð ō	
-ūdu	ū ð u	
-ūdū	ū ð ū	
-ūdw	ū ð w	
-ūdj	ū ð j	
-ūdy	ū ð y	
-ūdl	ū ð l	
-ūdr	ū ð r	
-ūdm	ū ð m	
-ūdn	ū ð n	
-ūdp	ū ð p	
-ūdf	ū ð f	
-ūdb	ū ð b	
-ūdk	ū ð k	
-ūdx	ū ð x	
-ūdq	ū ð q	
-ūdh	ū ð h	
-ūdg	ū ð g	
-ūdt	ū ð t	
-ūdþ	ū ð þ	
-ūds	ū ð s	
-ūdz	ū ð z	
-ūga	ū ɣ a	
-ūgá	ū ɣ á	
-ūgà	ū ɣ à	
-ūgā	ū ɣ ā	
-ūgi	ū ɣ i	
-ūgí	ū ɣ í	
-ūgì	ū ɣ ì	
-ūgī	ū ɣ ī	
-ūge	ū ɣ e	
-ūgē	ū ɣ ē	
-ūgo	ū ɣ o	
-ūgō	ū ɣ ō	
-ūgu	ū ɣ u	
-ūgū	ū ɣ ū	
-ūgw	ū ɣ w	
-ūgj	ū ɣ j	
-ūgy	ū ɣ y	
-ūgl	ū ɣ l	
-ūgr	ū ɣ r	
-ūgm	ū ɣ m	
-ūgn	ū ɣ n	
-ūgp	ū ɣ p	
-ūgf	ū ɣ f	
-ūgb	ū ɣ b	
-ūgk	ū ɣ k	
-ūgx	ū ɣ x	
-ūgq	ū ɣ q	
-ūgh	ū ɣ h	
-ūgg	ū ɣ g	
-ūgt	ū ɣ t	
-ūgþ	ū ɣ þ	
-ūgd	ū ɣ d	
-ūgs	ū ɣ s	
-ūgz	ū ɣ z	
+Grapheme	IPA
+aai	a ɛ
+aba	a β a
+abba	a bː a
+abeileni	a β i l e n ɪ
+abia	a β ɪ a
+abiaþar	a β ɪ a θ a r
+abraham	a β r a h a m
+biabrjan	b ɪ a β r j a n
+abrs	a β r̥ s
+abraba	a β r a β a
+abu	a β u
+adam	a ð a m
+addei	a dː i
+addin	a dː ɪ n
+adoneikam	a ð o n i k a m
+af	a ɸ
+afar	a ɸ a r
+afara	a ɸ a r a
+afardags	a ɸ a r d a ɣ s
+afarsabbate	a ɸ a r s a bː a t e
+afdauiþs	a ɸ d ɔ ɪ θ s
+afdomeins	a ɸ d o m i n s
+afdrugkja	a ɸ d r u ŋ k j a
+afetja	a ɸ e t j a
+afgrundiþa	a ɸ ɡ r u n d ɪ θ a
+afgudei	a ɸ ɡ u ð i
+afguþs	a ɸ ɡ u θ s
+afhaimeis	a ɸ h ɛ m i s
+aflageins	a ɸ l a ɣ i n s
+aflet	a ɸ l e t
+afmarzeins	a ɸ m a r z i n s
+afmauiþs	a ɸ m ɔ ɪ θ s
+afsateins	a ɸ s a t i n s
+afstass	a ɸ s t a sː
+afta	a ɸ t a
+aftana	a ɸ t a n a
+aftaro	a ɸ t a r o
+aftra	a ɸ t r a
+aftraanastodeins	a ɸ t r a a n a s t o ð i n s
+aftuma	a ɸ t u m a
+aftumists	a ɸ t u m ɪ s t s
+agan	a ɣ a n
+agar	a ɣ a r
+aggilus	a ŋ ɡ ɪ l u s
+aggwiþa	a ɡ ɡ w ɪ θ a
+gaaggwjan	ɡ a a ɡ ɡ w j a n
+aggwus	a ɡ ɡ w u s
+agis	a ɣ ɪ s
+afagjan	a ɸ a ɣ j a n
+inagjan	ɪ n a ɣ j a n
+usagjan	u s a ɣ j a n
+aglaitei	a ɣ l ɛ t i
+aglaitgastalds	a ɣ l ɛ t ɡ a s t a l d s
+aglaiti	a ɣ l ɛ t ɪ
+aglaitiwaurdei	a ɣ l ɛ t ɪ w ɔ r d i
+agliþa	a ɣ l ɪ θ a
+usagljan	u s a ɣ l j a n
+aglo	a ɣ l o
+agls	a ɣ l̥ s
+aglus	a ɣ l u s
+agluba	a ɣ l u β a
+agustus	a ɣ u s t u s
+aha	a h a
+ahaks	a h a k s
+ahana	a h a n a
+aharon	a h a r o n
+ahjan	a h j a n
+ahma	a h m a
+ahmateins	a h m a t i n s
+ahmeins	a h m i n s
+ahs	a h s
+ahtau	a h t ɔ
+ahtaudogs	a h t ɔ ð o ɣ s
+ahtautehund	a h t ɔ t e h u n d
+ahtuda	a h t u ð a
+aƕa	a ʍ a
+aia	ɛ a
+aibair	ɛ β ɛ r
+aibr	ɛ β r̥
+aiddua	ɛ dː u a
+aieira	ɛ i r a
+aifaisius	ɛ ɸ ɛ s ɪ u s
+aifaiso	ɛ ɸ ɛ s o
+aiffaþa	ɛ ɸː a θ a
+aigan	ɛ ɣ a n
+fairaihan	ɸ ɛ r ɛ h a n
+aigin	ɛ ɣ ɪ n
+gaaiginon	ɡ a ɛ ɣ ɪ n o n
+aihtron	ɛ h t r o n
+aihtrons	ɛ h t r o n s
+aihts	ɛ h t s
+aiƕatundi	ɛ ʍ a t u n d ɪ
+afaikan	a ɸ ɛ k a n
+aikklesjo	ɛ kː l e s j o
+ailam	ɛ l a m
+aileiaizair	ɛ l i ɛ z ɛ r
+aileiakeim	ɛ l i a k i m
+aileisabaiþ	ɛ l i s a β ɛ θ
+ailoe	ɛ l o e
+ailul	ɛ l u l
+aimmeira	ɛ mː i r a
+ainabaur	ɛ n a β ɔ r
+ainaha	ɛ n a h a
+ainakls	ɛ n a k l̥ s
+ainamundiþa	ɛ n a m u n d ɪ θ a
+gaainan	ɡ a ɛ n a n
+ainfalþei	ɛ n ɸ a l θ i
+ainfalþs	ɛ n ɸ a l θ s
+ainfalþaba	ɛ n ɸ a l θ a β a
+ainƕarjizuh	ɛ n ʍ a r j ɪ z u h
+ainƕaþaruh	ɛ n ʍ a θ a r u h
+ainlif	ɛ n l ɪ ɸ
+ainnaa	ɛ nː a a
+ainok	ɛ n o k
+ainos	ɛ n o s
+ains	ɛ n s
+ainshun	ɛ n s h u n
+aiodia	ɛ o ð ɪ a
+aipafras	ɛ p a ɸ r a s
+aipafraudeitus	ɛ p a ɸ r ɔ ð i t u s
+aipiskaupei	ɛ p ɪ s k ɔ p i
+aipiskaupus	ɛ p ɪ s k ɔ p u s
+aipistaule	ɛ p ɪ s t ɔ l e
+áir	ɛ r
+airis	ɛ r ɪ s
+airastus	ɛ r a s t u s
+airinon	ɛ r ɪ n o n
+áirizans	ɛ r ɪ z a n s
+airkns	ɛ r k n̥ s
+airkniþa	ɛ r k n ɪ θ a
+airmodam	ɛ r m o ð a m
+airmogaineis	ɛ r m o ɣ ɛ n i s
+airþa	ɛ r θ a
+airþakunds	ɛ r θ a k u n d s
+airþeins	ɛ r θ i n s
+airus	ɛ r u s
+airzei	ɛ r z i
+airzeis	ɛ r z i s
+airziþa	ɛ r z ɪ θ a
+airzjan	ɛ r z j a n
+afairzjan	a ɸ ɛ r z j a n
+aistan	ɛ s t a n
+gaaistan	ɡ a ɛ s t a n
+aiþei	ɛ θ i
+aiþs	ɛ θ s
+aiþþau	ɛ θː ɔ
+aiwaggeli	ɛ w a ŋ ɡ e l ɪ
+aiwaggelista	ɛ w a ŋ ɡ e l ɪ s t a
+aiwaggeljan	ɛ w a ŋ ɡ e l j a n
+aiwaggeljo	ɛ w a ŋ ɡ e l j o
+aiweins	ɛ w i n s
+aiwiski	ɛ w ɪ s k ɪ
+aiwiskon	ɛ w ɪ s k o n
+gaaiwiskon	ɡ a ɛ w ɪ s k o n
+usaiwjan	u s ɛ w j a n
+aiwlaugia	ɛ w l ɔ ɣ ɪ a
+aiwneikai	ɛ w n i k ɛ
+aiws	ɛ w s
+aiwwa	ɛ wː a
+aiwxaristia	ɛ w χ a r ɪ s t ɪ a
+aiz	ɛ z
+aizaikeia	ɛ z ɛ k i a
+aizasmiþa	ɛ z a s m ɪ θ a
+aizleim	ɛ z l i m
+aizor	ɛ z o r
+ajukdūþs	a j u k d u θ s
+ak	a k
+akaja	a k a j a
+akajus	a k a j u s
+akaïkus	a k ɛ̈ k u s
+akei	a k i
+aket	a k e t
+akran	a k r a n
+akranalaus	a k r a n a l ɔ s
+akrs	a k r̥ s
+akwla	a k w l a
+alabalstraun	a l a β a l s t r ɔ n
+alabrunsts	a l a β r u n s t s
+alaiksandrus	a l ɛ k s a n d r u s
+alakjo	a l a k j o
+alamans	a l a m a n s
+alamannans	a l a m a nː a n s
+alamod	a l a m o ð
+alan	a l a n
+alaþarba	a l a θ a r b a
+aldomin	a l d o m ɪ n
+alds	a l d s
+aleina	a l i n a
+alew	a l e w
+alewabagms	a l e w a β a ɣ m̥ s
+alewja	a l e w j a
+alfaius	a l ɸ ɛ u s
+alhs	a l h s
+alja	a l j a
+aljakuns	a l j a k u n s
+aljaleiko	a l j a l i k o
+aljaleikos	a l j a l i k o s
+aljaleikoþs	a l j a l i k o θ s
+aljan	a l j a n
+aljan	a l j a n
+aljanon	a l j a n o n
+inaljanon	ɪ n a l j a n o n
+aljar	a l j a r
+aljaþ	a l j a θ
+aljaþro	a l j a θ r o
+aljis	a l j ɪ s
+allandjo	a lː a n d j o
+allaþro	a lː a θ r o
+allawaurstwa	a lː a w ɔ r s t w a
+allawerei	a lː a w e r i
+allis	a lː ɪ s
+alls	a lː s
+allwaldands	a lː w a l d a n d s
+usalþan	u s a l θ a n
+alþeis	a l θ i s
+alul	a l u l
+ameinadab	a m i n a ð a β
+amen	a m e n
+ammo	a mː o
+ams	a m s
+amsa	a m s a
+an	a n
+ana	a n a
+anabusns	a n a β u s n̥ s
+anafilh	a n a ɸ ɪ l h
+anahaimeis	a n a h ɛ m i s
+anaks	a n a k s
+anakunnains	a n a k u nː ɛ n s
+analageins	a n a l a ɣ i n s
+analaugnei	a n a l ɔ ɣ n i
+analaugns	a n a l ɔ ɣ n̥ s
+analeiko	a n a l i k o
+anamahts	a n a m a h t s
+anaminds	a n a m ɪ n d s
+uzanan	u z a n a n
+ananias	a n a n ɪ a s
+ananeias	a n a n i a s
+ananiujiþa	a n a n ɪ u j ɪ θ a
+anaqal	a n a kʷ a l
+anaqiss	a n a kʷ ɪ sː
+anasiuns	a n a s ɪ u n s
+anastodeins	a n a s t o ð i n s
+anaþaima	a n a θ ɛ m a
+anaþoþ	a n a θ o θ
+anawairþs	a n a w ɛ r θ s
+anawiljei	a n a w ɪ l j i
+and	a n d
+andabauhts	a n d a β ɔ h t s
+andabeit	a n d a β i t
+andahafts	a n d a h a ɸ t s
+andahait	a n d a h ɛ t
+andalauni	a n d a l ɔ n ɪ
+andanahti	a n d a n a h t ɪ
+andaneiþa	a n d a n i θ a
+andanem	a n d a n e m
+andanemeigs	a n d a n e m i ɣ s
+andanems	a n d a n e m s
+andanumts	a n d a n u m t s
+andasets	a n d a s e t s
+andastaþjis	a n d a s t a θ j ɪ s
+andastaua	a n d a s t ɔ a
+andaþāhts	a n d a θ a h t s
+andaugi	a n d ɔ ɣ ɪ
+andaugiba	a n d ɔ ɣ ɪ β a
+andaugjo	a n d ɔ ɣ j o
+andawairþi	a n d a w ɛ r θ ɪ
+andawaurdi	a n d a w ɔ r d ɪ
+andawizns	a n d a w ɪ z n̥ s
+andawleizn	a n d a w l i z n̥
+andbahti	a n d b a h t ɪ
+andbahtjan	a n d b a h t j a n
+andbahts	a n d b a h t s
+andeis	a n d i s
+andhuleins	a n d h u l i n s
+andilaus	a n d ɪ l ɔ s
+andizuh	a n d ɪ z u h
+andraias	a n d r ɛ a s
+andstald	a n d s t a l d
+andwairþi	a n d w ɛ r θ ɪ
+andwairþs	a n d w ɛ r θ s
+anna	a nː a
+annas	a nː a s
+anno	a nː o
+ano	a n o
+ans	a n s
+ansteigs	a n s t i ɣ s
+ansts	a n s t s
+antiaukia	a n t ɪ ɔ k ɪ a
+anþar	a n θ a r
+anþarleikei	a n θ a r l i k i
+anþarleiko	a n θ a r l i k o
+appaullo	a pː ɔ lː o
+apaustaulei	a p ɔ s t ɔ l i
+apaustaulus	a p ɔ s t ɔ l u s
+aqizi	a kʷ ɪ z ɪ
+ara	a r a
+arabia	a r a β ɪ a
+araita	a r ɛ t a
+aram	a r a m
+arbaidjan	a r b ɛ ð j a n
+biarbaidjan	b ɪ a r b ɛ ð j a n
+miþarbaidjan	m ɪ θ a r b ɛ ð j a n
+þairharbaidjan	θ ɛ r h a r b ɛ ð j a n
+arbaiþs	a r b ɛ θ s
+arbi	a r b ɪ
+arbinumja	a r b ɪ n u m j a
+arbja	a r b j a
+arbjo	a r b j o
+areimaþaia	a r i m a θ ɛ a
+areistarkus	a r i s t a r k u s
+arfaksad	a r ɸ a k s a ð
+arƕazna	a r ʍ a z n a
+arjan	a r j a n
+arka	a r k a
+arkaggilus	a r k a ŋ ɡ ɪ l u s
+arkippus	a r k ɪ pː u s
+armahairtei	a r m a h ɛ r t i
+armahairtiþa	a r m a h ɛ r t ɪ θ a
+armahairts	a r m a h ɛ r t s
+armaio	a r m ɛ o
+arman	a r m a n
+gaarman	ɡ a a r m a n
+arms	a r m̥ s
+arms	a r m̥ s
+arniba	a r n ɪ β a
+aromata	a r o m a t a
+artaksairksus	a r t a k s ɛ r k s u s
+arwjo	a r w j o
+asaf	a s a ɸ
+asans	a s a n s
+aser	a s e r
+asgad	a s ɡ a ð
+asia	a s ɪ a
+asiluqairnus	a s ɪ l u kʷ ɛ r n u s
+asilus	a s ɪ l u s
+asmoþ	a s m o θ
+asneis	a s n i s
+assarjus	a sː a r j u s
+assaum	a sː ɔ m
+astaþ	a s t a θ
+asts	a s t s
+at	a t
+ataþni	a t a θ n ɪ
+ater	a t e r
+atgagg	a t ɡ a ŋ ɡ
+atisk	a t ɪ s k
+fraatjan	ɸ r a a t j a n
+atta	a tː a
+atwitains	a t w ɪ t ɛ n s
+aþeinim	a θ i n ɪ m
+aþnam	a θ n a m
+aþþan	a θː a n
+audagei	ɔ ð a ɣ i
+audagjan	ɔ ð a ɣ j a n
+audags	ɔ ð a ɣ s
+audahafts	ɔ ð a h a ɸ t s
+aufto	ɔ ɸ t o
+augadauro	ɔ ɣ a ð ɔ r o
+augjan	ɔ ɣ j a n
+ataugjan	a t ɔ ɣ j a n
+augo	ɔ ɣ o
+auhjodus	ɔ h j o ð u s
+auhjon	ɔ h j o n
+auhns	ɔ h n̥ s
+auhsa	ɔ h s a
+auhsus	ɔ h s u s
+auhuma	ɔ h u m a
+auhumists	ɔ h u m ɪ s t s
+auk	ɔ k
+aukan	ɔ k a n
+anaaukan	a n a ɔ k a n
+biaukan	b ɪ ɔ k a n
+gaaukan	ɡ a ɔ k a n
+auknan	ɔ k n a n
+biauknan	b ɪ ɔ k n a n
+auneiseifaurus	ɔ n i s i ɸ ɔ r u s
+aunisimus	ɔ n ɪ s ɪ m u s
+aurahjom	ɔ r a h j o m
+aurali	ɔ r a l ɪ
+aurkjus	ɔ r k j u s
+aurkeis	ɔ r k i s
+aurtigards	ɔ r t ɪ ɣ a r d s
+aurtja	ɔ r t j a
+auso	ɔ s o
+auþida	ɔ θ ɪ ð a
+auþeis	ɔ θ i s
+auþs	ɔ θ s
+aweþi	a w e θ ɪ
+awiliudon	a w ɪ l ɪ u ð o n
+awiliuþ	a w ɪ l ɪ u θ
+awistr	a w ɪ s t r̥
+awo	a w o
+axaïa	a χ ɛ̈ a
+azetjam	a z e t j a m
+azets	a z e t s
+azgo	a z ɡ o
+azwme	a z w m e
+ba	b a
+babawis	b a β a w ɪ s
+badi	b a ð ɪ
+bagauis	b a ɣ ɔ ɪ s
+bagms	b a ɣ m̥ s
+bai	b ɛ
+baiailzaibul	b ɛ ɛ l z ɛ β u l
+baidjan	b ɛ ð j a n
+gabaidjan	ɡ a β ɛ ð j a n
+baidsaiïdan	b ɛ ð s ɛ ɪ̈ ð a n
+bailiam	b ɛ l ɪ a m
+bainiamein	b ɛ n ɪ a m i n
+bairabagms	b ɛ r a β a ɣ m̥ s
+bairan	b ɛ r a n
+atbairan	a t b ɛ r a n
+innatbairan	ɪ nː a t b ɛ r a n
+frabairan	ɸ r a β ɛ r a n
+gabairan	ɡ a β ɛ r a n
+þairhbairan	θ ɛ r h b ɛ r a n
+usbairan	u s b ɛ r a n
+ūtbairan	u t b ɛ r a n
+bairauja	b ɛ r ɔ j a
+bairgahei	b ɛ r ɡ a h i
+bairgan	b ɛ r ɡ a n
+gabairgan	ɡ a β ɛ r ɡ a n
+bairhtei	b ɛ r h t i
+bairhtjan	b ɛ r h t j a n
+gabairhtjan	ɡ a β ɛ r h t j a n
+bairhts	b ɛ r h t s
+bairhtaba	b ɛ r h t a β a
+baitrei	b ɛ t r i
+baitrs	b ɛ t r̥ s
+baiþil	b ɛ θ ɪ l
+baiþlaem	b ɛ θ l a e m
+baiþsaïdan	b ɛ θ s ɛ̈ ð a n
+bajoþs	b a j o θ s
+balgs	b a l ɡ s
+balsagga	b a l s a ŋ ɡ a
+balsan	b a l s a n
+balþaba	b a l θ a β a
+balþei	b a l θ i
+balþjan	b a l θ j a n
+balwawesei	b a l w a w e s i
+balweins	b a l w i n s
+balwjan	b a l w j a n
+banauis	b a n ɔ ɪ s
+bandi	b a n d ɪ
+bandja	b a n d j a
+bandwa	b a n d w a
+bandwjan	b a n d w j a n
+gabandwjan	ɡ a β a n d w j a n
+bandwo	b a n d w o
+banja	b a n j a
+bansts	b a n s t s
+barabba	b a r a bː a
+barakeias	b a r a k i a s
+barbarus	b a r b a r u s
+barizeins	b a r ɪ z i n s
+barms	b a r m̥ s
+barn	b a r n̥
+barnabas	b a r n a β a s
+barnilo	b a r n ɪ l o
+barniskei	b a r n ɪ s k i
+barniski	b a r n ɪ s k ɪ
+barnisks	b a r n ɪ s k s
+barteimaiaus	b a r t i m ɛ ɔ s
+barþaulaumaius	b a r θ ɔ l ɔ m ɛ u s
+barusnjan	b a r u s n j a n
+bassus	b a sː u s
+batiza	b a t ɪ z a
+batista	b a t ɪ s t a
+gabatnan	ɡ a β a t n a n
+batwins	b a t w ɪ n s
+bauains	b ɔ ɛ n s
+bauan	b ɔ a n
+gabauan	ɡ a β ɔ a n
+bauanairgais	b ɔ a n ɛ r ɡ ɛ s
+bauauz	b ɔ ɔ z
+usbaugjan	u s b ɔ ɣ j a n
+ufbauljan	u ɸ b ɔ l j a n
+baur	b ɔ r
+baurgja	b ɔ r ɡ j a
+baurgs	b ɔ r ɡ s
+baurgswaddjus	b ɔ r ɡ s w a dː j u s
+baurþei	b ɔ r θ i
+bauþs	b ɔ θ s
+beidan	b i ð a n
+gabeidan	ɡ a β i ð a n
+usbeidan	u s b i ð a n
+beist	b i s t
+gabeistjan	ɡ a β i s t j a n
+beitan	b i t a n
+andbeitan	a n d b i t a n
+beroþ	b e r o θ
+berusjos	b e r u s j o s
+beþania	b e θ a n ɪ a
+beþlaihaim	b e θ l ɛ h ɛ m
+beþsaeida	b e θ s a i ð a
+beþsfagei	b e θ s ɸ a ɣ i
+bi	b ɪ
+bibaurgeins	b ɪ β ɔ r ɡ i n s
+bida	b ɪ ð a
+bidagwa	b ɪ ð a ɣ w a
+bidjan	b ɪ ð j a n
+gabidjan	ɡ a β ɪ ð j a n
+usbidan	u s b ɪ ð a n
+bifaih	b ɪ ɸ ɛ h
+bifaihon	b ɪ ɸ ɛ h o n
+bihait	b ɪ h ɛ t
+bihaitja	b ɪ h ɛ t j a
+biƕe	b ɪ ʍ e
+bijands	b ɪ j a n d s
+bimait	b ɪ m ɛ t
+bindan	b ɪ n d a n
+andbindan	a n d b ɪ n d a n
+bibindan	b ɪ β ɪ n d a n
+gabindan	ɡ a β ɪ n d a n
+bireikei	b ɪ r i k i
+birekjai	b ɪ r e k j ɛ
+birodeins	b ɪ r o ð i n s
+birūnains	b ɪ r u n ɛ n s
+birusjos	b ɪ r u s j o s
+bisauleins	b ɪ s ɔ l i n s
+bistugq	b ɪ s t u ŋ kʷ
+bisunjane	b ɪ s u n j a n e
+biþe	b ɪ θ e
+anabiudan	a n a β ɪ u ð a n
+faurbiudan	ɸ ɔ r b ɪ u ð a n
+biugan	b ɪ u ɣ a n
+gabiugan	ɡ a β ɪ u ɣ a n
+biuhti	b ɪ u h t ɪ
+biuhts	b ɪ u h t s
+biuþs	b ɪ u θ s
+blandan	b l a n d a n
+blauþjan	b l ɔ θ j a n
+gablauþjan	ɡ a β l ɔ θ j a n
+bleiþei	b l i θ i
+bleiþjan	b l i θ j a n
+gableiþjan	ɡ a β l i θ j a n
+bleiþs	b l i θ s
+ufblesan	u ɸ b l e s a n
+bliggwan	b l ɪ ɡ ɡ w a n
+usbliggwan	u s b l ɪ ɡ ɡ w a n
+gablindjan	ɡ a β l ɪ n d j a n
+afblindnan	a ɸ b l ɪ n d n a n
+blinds	b l ɪ n d s
+bloma	b l o m a
+blotan	b l o t a n
+blotinassus	b l o t ɪ n a sː u s
+bloþ	b l o θ
+bloþarinnandei	b l o θ a r ɪ nː a n d i
+bnauan	b n ɔ a n
+boka	b o k a
+bokareis	b o k a r i s
+bota	b o t a
+botjan	b o t j a n
+gabotjan	ɡ a β o t j a n
+braƕa	b r a ʍ a
+braidei	b r ɛ ð i
+usbraidjan	u s b r ɛ ð j a n
+braiþs	b r ɛ θ s
+brakja	b r a k j a
+gabrannjan	ɡ a β r a nː j a n
+inbrannjan	ɪ n b r a nː j a n
+briggan	b r ɪ ŋ ɡ a n
+brikan	b r ɪ k a n
+gabrikan	ɡ a β r ɪ k a n
+ufbrikan	u ɸ b r ɪ k a n
+brinnan	b r ɪ nː a n
+ufbrinnan	u ɸ b r ɪ nː a n
+brinno	b r ɪ nː o
+broþar	b r o θ a r
+broþrahans	b r o θ r a h a n s
+broþrulubo	b r o θ r u l u β o
+brūkjan	b r u k j a n
+usbruknan	u s b r u k n a n
+brūks	b r u k s
+brunjo	b r u n j o
+brunna	b r u nː a
+brusts	b r u s t s
+brūþfaþs	b r u θ ɸ a θ s
+brūþs	b r u θ s
+bugjan	b u ɣ j a n
+frabugjan	ɸ r a β u ɣ j a n
+usbugjan	u s b u ɣ j a n
+andbundnan	a n d b u n d n a n
+bwssaun	b w sː ɔ n
+gadaban	ɡ a ð a β a n
+daddjan	d a dː j a n
+dags	d a ɣ s
+daigs	d ɛ ɣ s
+daikapaulis	d ɛ k a p ɔ l ɪ s
+daila	d ɛ l a
+dailjan	d ɛ l j a n
+afdailjan	a ɸ d ɛ l j a n
+disdailjan	d ɪ s d ɛ l j a n
+fradailjan	ɸ r a ð ɛ l j a n
+gadailjan	ɡ a ð ɛ l j a n
+dails	d ɛ l s
+daimonareis	d ɛ m o n a r i s
+dals	d a l s
+dalaþ	d a l a θ
+dalaþa	d a l a θ a
+dalaþro	d a l a θ r o
+dalmatia	d a l m a t ɪ a
+damaskon	d a m a s k o n
+faurdammjan	ɸ ɔ r d a mː j a n
+daubei	d ɔ β i
+daubiþa	d ɔ β ɪ θ a
+gadaubjan	ɡ a ð ɔ β j a n
+afdaubnan	a ɸ d ɔ β n a n
+usdaudjan	u s d ɔ ð j a n
+daufs	d ɔ ɸ s
+dauhtar	d ɔ h t a r
+dauhts	d ɔ h t s
+afdauiþs	a ɸ d ɔ ɪ θ s
+dauns	d ɔ n s
+daupeins	d ɔ p i n s
+daupjan	d ɔ p j a n
+ufdaupjan	u ɸ d ɔ p j a n
+daupjands	d ɔ p j a n d s
+daur	d ɔ r
+daurawarda	d ɔ r a w a r d a
+daurawardo	d ɔ r a w a r d o
+daurawards	d ɔ r a w a r d s
+dauriþaius	d ɔ r ɪ θ ɛ u s
+daurons	d ɔ r o n s
+gadaursan	ɡ a ð ɔ r s a n
+dauþeins	d ɔ θ i n s
+dauþjan	d ɔ θ j a n
+afdauþjan	a ɸ d ɔ θ j a n
+gadauþjan	ɡ a ð ɔ θ j a n
+gadauþnan	ɡ a ð ɔ θ n a n
+miþgadauþnan	m ɪ θ ɡ a ð ɔ θ n a n
+dauþs	d ɔ θ s
+dauþubleis	d ɔ θ u β l i s
+dauþus	d ɔ θ u s
+daweid	d a w i ð
+demas	d e m a s
+diabula	d ɪ a β u l a
+diabaulus	d ɪ a β ɔ l u s
+diabulus	d ɪ a β u l u s
+diakaunus	d ɪ a k ɔ n u s
+didimus	d ɪ ð ɪ m u s
+digan	d ɪ ɣ a n
+gadigan	ɡ a ð ɪ ɣ a n
+digrei	d ɪ ɣ r i
+distaheins	d ɪ s t a h i n s
+diswiss	d ɪ s w ɪ sː
+diupei	d ɪ u p i
+diupiþa	d ɪ u p ɪ θ a
+gadiupjan	ɡ a ð ɪ u p j a n
+diups	d ɪ u p s
+dius	d ɪ u s
+diwan	d ɪ w a n
+afdobnan	a ɸ d o β n a n
+afdojan	a ɸ d o j a n
+domjan	d o m j a n
+afdomjan	a ɸ d o m j a n
+bidomjan	b ɪ ð o m j a n
+gadomjan	ɡ a ð o m j a n
+doms	d o m s
+gadraban	ɡ a ð r a β a n
+dragan	d r a ɣ a n
+gadragan	ɡ a ð r a ɣ a n
+dragk	d r a ŋ k
+dragkjan	d r a ŋ k j a n
+gadragkjan	ɡ a ð r a ŋ k j a n
+draibjan	d r ɛ β j a n
+drakma	d r a k m a
+drauhsnos	d r ɔ h s n o s
+drauhtinassus	d r ɔ h t ɪ n a sː u s
+drauhtinon	d r ɔ h t ɪ n o n
+drauhtiwitoþ	d r ɔ h t ɪ w ɪ t o θ
+afdrausjan	a ɸ d r ɔ s j a n
+gadrausjan	ɡ a ð r ɔ s j a n
+drausnos	d r ɔ s n o s
+dreiban	d r i β a n
+usdreiban	u s d r i β a n
+drigkan	d r ɪ ŋ k a n
+anadrigkan	a n a ð r ɪ ŋ k a n
+gadrigkan	ɡ a ð r ɪ ŋ k a n
+driugan	d r ɪ u ɣ a n
+driusan	d r ɪ u s a n
+atdriusan	a t d r ɪ u s a n
+disdriusan	d ɪ s d r ɪ u s a n
+gadriusan	ɡ a ð r ɪ u s a n
+usdriusan	u s d r ɪ u s a n
+driuso	d r ɪ u s o
+drobjan	d r o β j a n
+drobna	d r o β n a
+drobnan	d r o β n a n
+gadrobnan	ɡ a ð r o β n a n
+indrobnan	ɪ n d r o β n a n
+drugkanei	d r u ŋ k a n i
+drunjus	d r u n j u s
+drus	d r u s
+du	d u
+dugan	d u ɣ a n
+duƕe	d u ʍ e
+dulgahaitja	d u l ɡ a h ɛ t j a
+dulgis	d u l ɡ ɪ s
+dulþjan	d u l θ j a n
+dulþs	d u l θ s
+afdumbnan	a ɸ d u m b n a n
+dumbs	d u m b s
+duþe	d u θ e
+dwalawaurdei	d w a l a w ɔ r d i
+dwaliþa	d w a l ɪ θ a
+dwalmon	d w a l m o n
+dwals	d w a l s
+eeiram	e i r a m
+ei	i
+eiaireiko	i ɛ r i k o
+eikaunion	i k ɔ n ɪ o n
+eisarn	i s a r n̥
+eisarnabandi	i s a r n a β a n d ɪ
+eisarneins	i s a r n i n s
+eiþan	i θ a n
+eiþau	i θ ɔ
+esaïas	e s ɛ̈ a s
+esaw	e s a w
+fadar	ɸ a ð a r
+faddasur	ɸ a dː a s u r
+fadrein	ɸ a ð r i n
+fadreins	ɸ a ð r i n s
+faginon	ɸ a ɣ ɪ n o n
+miþfaginon	m ɪ θ ɸ a ɣ ɪ n o n
+fagrs	ɸ a ɣ r̥ s
+fāhan	ɸ a h a n
+gafahan	ɡ a ɸ a h a n
+faheþs	ɸ a h e θ s
+fullafahjan	ɸ u lː a ɸ a h j a n
+gafahrjan	ɡ a ɸ a h r j a n
+faian	ɸ ɛ a n
+bifaihon	b ɪ ɸ ɛ h o n
+gafaihon	ɡ a ɸ ɛ h o n
+faihu	ɸ ɛ h u
+faihufrikei	ɸ ɛ h u ɸ r ɪ k i
+faihufriks	ɸ ɛ h u ɸ r ɪ k s
+faihugairnei	ɸ ɛ h u ɣ ɛ r n i
+faihugairns	ɸ ɛ h u ɣ ɛ r n̥ s
+faihugawaurki	ɸ ɛ h u ɣ a w ɔ r k ɪ
+faihugeiro	ɸ ɛ h u ɣ i r o
+faihuskula	ɸ ɛ h u s k u l a
+faihuþraihna	ɸ ɛ h u θ r ɛ h n a
+fairguni	ɸ ɛ r ɡ u n ɪ
+waifairƕjan	w ɛ ɸ ɛ r ʍ j a n
+fairƕus	ɸ ɛ r ʍ u s
+fairina	ɸ ɛ r ɪ n a
+fairinon	ɸ ɛ r ɪ n o n
+fairneis	ɸ ɛ r n i s
+fairniþa	ɸ ɛ r n ɪ θ a
+fairns	ɸ ɛ r n̥ s
+fairra	ɸ ɛ rː a
+fairraþro	ɸ ɛ rː a θ r o
+fairweitl	ɸ ɛ r w i t l̥
+fairzna	ɸ ɛ r z n a
+falaig	ɸ a l ɛ ɣ
+fallasur	ɸ a lː a s u r
+falþan	ɸ a l θ a n
+fana	ɸ a n a
+fani	ɸ a n ɪ
+fanuel	ɸ a n u e l
+farais	ɸ a r ɛ s
+faran	ɸ a r a n
+farao	ɸ a r a o
+fareisaius	ɸ a r i s ɛ u s
+farjan	ɸ a r j a n
+atfarjan	a t ɸ a r j a n
+fāskja	ɸ a s k j a
+fastan	ɸ a s t a n
+gafastan	ɡ a ɸ a s t a n
+fastubni	ɸ a s t u β n ɪ
+faþa	ɸ a θ a
+fauho	ɸ ɔ h o
+faur	ɸ ɔ r
+faura	ɸ ɔ r a
+fauradauri	ɸ ɔ r a ð ɔ r ɪ
+faurafilli	ɸ ɔ r a ɸ ɪ lː ɪ
+fauragagga	ɸ ɔ r a ɣ a ŋ ɡ a
+fauragaggi	ɸ ɔ r a ɣ a ŋ ɡ ɪ
+fauragaggja	ɸ ɔ r a ɣ a ŋ ɡ j a
+faurahāh	ɸ ɔ r a h a h
+fauramaþleis	ɸ ɔ r a m a θ l i s
+fauramaþli	ɸ ɔ r a m a θ l ɪ
+fauratani	ɸ ɔ r a t a n ɪ
+faurbauhts	ɸ ɔ r b ɔ h t s
+faurdomeins	ɸ ɔ r d o m i n s
+faurhāh	ɸ ɔ r h a h
+faurhtei	ɸ ɔ r h t i
+faurhtjan	ɸ ɔ r h t j a n
+faurhts	ɸ ɔ r h t s
+faurlageins	ɸ ɔ r l a ɣ i n s
+faurstasseis	ɸ ɔ r s t a sː i s
+faurtunatus	ɸ ɔ r t u n a t u s
+faurþis	ɸ ɔ r θ ɪ s
+faurþizei	ɸ ɔ r θ ɪ z i
+fawai	ɸ a w ɛ
+infeinan	ɪ n ɸ i n a n
+fera	ɸ e r a
+ferja	ɸ e r j a
+fetjan	ɸ e t j a n
+fian	ɸ ɪ a n
+fidurdogs	ɸ ɪ ð u r d o ɣ s
+fidurfalþs	ɸ ɪ ð u r ɸ a l θ s
+fidurragini	ɸ ɪ ð u rː a ɣ ɪ n ɪ
+fidwor	ɸ ɪ ð w o r
+fidwortaihun	ɸ ɪ ð w o r t ɛ h u n
+figgragulþ	ɸ ɪ ŋ ɡ r a ɣ u l θ
+figgrs	ɸ ɪ ŋ ɡ r̥ s
+fijan	ɸ ɪ j a n
+fijands	ɸ ɪ j a n d s
+fijaþwa	ɸ ɪ j a θ w a
+filaus	ɸ ɪ l ɔ s
+filegri	ɸ ɪ l e ɣ r ɪ
+filetus	ɸ ɪ l e t u s
+filhan	ɸ ɪ l h a n
+affilhan	a ɸː ɪ l h a n
+anafilhan	a n a ɸ ɪ l h a n
+gafilhan	ɡ a ɸ ɪ l h a n
+usfilhan	u s ɸ ɪ l h a n
+filigri	ɸ ɪ l ɪ ɣ r ɪ
+filippai	ɸ ɪ l ɪ pː ɛ
+filippisius	ɸ ɪ l ɪ pː ɪ s ɪ u s
+filippus	ɸ ɪ l ɪ pː u s
+filleins	ɸ ɪ lː i n s
+filu	ɸ ɪ l u
+filudeisei	ɸ ɪ l u ð i s i
+filufáihs	ɸ ɪ l u ɸ ɛ h s
+filugalaufs	ɸ ɪ l u ɣ a l ɔ ɸ s
+filusna	ɸ ɪ l u s n a
+filuwaurdei	ɸ ɪ l u w ɔ r d i
+filuwaurdjan	ɸ ɪ l u w ɔ r d j a n
+fimf	ɸ ɪ m ɸ
+fimftaihun	ɸ ɪ m ɸ t ɛ h u n
+fimftataihunda	ɸ ɪ m ɸ t a t ɛ h u n d a
+finþan	ɸ ɪ n θ a n
+fiskja	ɸ ɪ s k j a
+fiskon	ɸ ɪ s k o n
+fisks	ɸ ɪ s k s
+fitan	ɸ ɪ t a n
+flahtom	ɸ l a h t o m
+usflaugjan	u s ɸ l ɔ ɣ j a n
+flautjan	ɸ l ɔ t j a n
+flauts	ɸ l ɔ t s
+flodus	ɸ l o ð u s
+flokan	ɸ l o k a n
+fodeins	ɸ o ð i n s
+fodjan	ɸ o ð j a n
+fodr	ɸ o ð r̥
+fon	ɸ o n
+fotubandi	ɸ o t u β a n d ɪ
+fotubaurd	ɸ o t u β ɔ r d
+fotus	ɸ o t u s
+frabauhtaboka	ɸ r a β ɔ h t a β o k a
+fragan	ɸ r a ɣ a n
+fragifts	ɸ r a ɣ ɪ ɸ t s
+fraihnan	ɸ r ɛ h n a n
+gafraihnan	ɡ a ɸ r ɛ h n a n
+fraisan	ɸ r ɛ s a n
+usfraisan	u s ɸ r ɛ s a n
+fraistubni	ɸ r ɛ s t u β n ɪ
+fraiw	ɸ r ɛ w
+fralet	ɸ r a l e t
+fralets	ɸ r a l e t s
+fralusts	ɸ r a l u s t s
+fram	ɸ r a m
+framaldrs	ɸ r a m a l d r̥ s
+framaþeis	ɸ r a m a θ i s
+framaþjan	ɸ r a m a θ j a n
+framgāhts	ɸ r a m ɡ a h t s
+framis	ɸ r a m ɪ s
+framwairþis	ɸ r a m w ɛ r θ ɪ s
+framwigis	ɸ r a m w ɪ ɣ ɪ s
+fraqisteins	ɸ r a kʷ ɪ s t i n s
+frastisibja	ɸ r a s t ɪ s ɪ β j a
+frasts	ɸ r a s t s
+usfratwjan	u s ɸ r a t w j a n
+fraþi	ɸ r a θ ɪ
+fraþjamarzeins	ɸ r a θ j a m a r z i n s
+fraþjan	ɸ r a θ j a n
+fullafraþjan	ɸ u lː a ɸ r a θ j a n
+frauja	ɸ r ɔ j a
+fraujinassus	ɸ r ɔ j ɪ n a sː u s
+fraujinon	ɸ r ɔ j ɪ n o n
+gafraujinon	ɡ a ɸ r ɔ j ɪ n o n
+fraujinonds	ɸ r ɔ j ɪ n o n d s
+frawardeins	ɸ r a w a r d i n s
+frawaurhts	ɸ r a w ɔ r h t s
+frawaurhts	ɸ r a w ɔ r h t s
+fraweit	ɸ r a w i t
+freidjan	ɸ r i ð j a n
+freihals	ɸ r i h a l s
+freis	ɸ r i s
+friaþwamildjai	ɸ r ɪ a θ w a m ɪ l d j ɛ
+frijaþwa	ɸ r ɪ j a θ w a
+frijei	ɸ r ɪ j i
+frijon	ɸ r ɪ j o n
+frijondi	ɸ r ɪ j o n d ɪ
+frijonds	ɸ r ɪ j o n d s
+frijons	ɸ r ɪ j o n s
+gafrisahtjan	ɡ a ɸ r ɪ s a h t j a n
+gafrisahtnan	ɡ a ɸ r ɪ s a h t n a n
+frisahts	ɸ r ɪ s a h t s
+friþareikeis	ɸ r ɪ θ a r i k i s
+gafriþon	ɡ a ɸ r ɪ θ o n
+friusa	ɸ r ɪ u s a
+frodei	ɸ r o ð i
+froþs	ɸ r o θ s
+fruma	ɸ r u m a
+frumabaur	ɸ r u m a β ɔ r
+frumadei	ɸ r u m a ð i
+frumisti	ɸ r u m ɪ s t ɪ
+frumists	ɸ r u m ɪ s t s
+frumist	ɸ r u m ɪ s t
+fugls	ɸ u ɣ l̥ s
+fula	ɸ u l a
+fulgins	ɸ u l ɡ ɪ n s
+fulhsni	ɸ u l h s n ɪ
+fullafahjan	ɸ u lː a ɸ a h j a n
+fullafraþjan	ɸ u lː a ɸ r a θ j a n
+fullatojis	ɸ u lː a t o j ɪ s
+fullaweis	ɸ u lː a w i s
+fullaweisjan	ɸ u lː a w i s j a n
+fullawita	ɸ u lː a w ɪ t a
+fulleiþ	ɸ u lː i θ
+fulljan	ɸ u lː j a n
+gafulljan	ɡ a ɸ u lː j a n
+ufarfulljan	u ɸ a r ɸ u lː j a n
+usfulljan	u s ɸ u lː j a n
+fullnan	ɸ u lː n a n
+gafullnan	ɡ a ɸ u lː n a n
+usfullnan	u s ɸ u lː n a n
+fullo	ɸ u lː o
+fulls	ɸ u lː s
+fūls	ɸ u l s
+funins	ɸ u n ɪ n s
+funisks	ɸ u n ɪ s k s
+fwgailus	ɸ w ɡ ɛ l u s
+fwnikisks	ɸ w n ɪ k ɪ s k s
+gaaggwei	ɡ a a ɡ ɡ w i
+gaarbja	ɡ a a r b j a
+gabaa	ɡ a β a a
+gabair	ɡ a β ɛ r
+gabairhteins	ɡ a β ɛ r h t i n s
+gabaur	ɡ a β ɔ r
+gabaur	ɡ a β ɔ r
+gabaurgja	ɡ a β ɔ r ɡ j a
+gabaurjaba	ɡ a β ɔ r j a β a
+gabaurjoþus	ɡ a β ɔ r j o θ u s
+gabaurþiwaurd	ɡ a β ɔ r θ ɪ w ɔ r d
+gabaurþs	ɡ a β ɔ r θ s
+gabei	ɡ a β i
+gabeigs	ɡ a β i ɣ s
+gabigjan	ɡ a β ɪ ɣ j a n
+gabignan	ɡ a β ɪ ɣ n a n
+gabigs	ɡ a β ɪ ɣ s
+gabigaba	ɡ a β ɪ ɣ a β a
+gabinda	ɡ a β ɪ n d a
+gabindi	ɡ a β ɪ n d ɪ
+gableiþeins	ɡ a β l i θ i n s
+gabriel	ɡ a β r ɪ e l
+gabruka	ɡ a β r u k a
+gabundi	ɡ a β u n d ɪ
+gadaila	ɡ a ð ɛ l a
+gadauka	ɡ a ð ɔ k a
+gaddarenus	ɡ a dː a r e n u s
+gadeþs	ɡ a ð e θ s
+gadigis	ɡ a ð ɪ ɣ ɪ s
+gadiliggs	ɡ a ð ɪ l ɪ ŋ ɡ s
+gadofs	ɡ a ð o ɸ s
+gadrauhts	ɡ a ð r ɔ h t s
+gafāh	ɡ a ɸ a h
+gafaurds	ɡ a ɸ ɔ r d s
+gafaurs	ɡ a ɸ ɔ r s
+gafehaba	ɡ a ɸ e h a β a
+gafeteins	ɡ a ɸ e t i n s
+gafilh	ɡ a ɸ ɪ l h
+gafraþjei	ɡ a ɸ r a θ j i
+gafreideins	ɡ a ɸ r i ð i n s
+gafrijons	ɡ a ɸ r ɪ j o n s
+gafriþons	ɡ a ɸ r ɪ θ o n s
+gafulgins	ɡ a ɸ u l ɡ ɪ n s
+gagg	ɡ a ŋ ɡ
+gaggan	ɡ a ŋ ɡ a n
+afgaggan	a ɸ ɡ a ŋ ɡ a n
+afargaggan	a ɸ a r ɡ a ŋ ɡ a n
+anagaggan	a n a ɣ a ŋ ɡ a n
+atgaggan	a t ɡ a ŋ ɡ a n
+duatgaggan	d u a t ɡ a ŋ ɡ a n
+innatgaggan	ɪ nː a t ɡ a ŋ ɡ a n
+faurgaggan	ɸ ɔ r ɡ a ŋ ɡ a n
+faurbigaggan	ɸ ɔ r b ɪ ɣ a ŋ ɡ a n
+fauragaggan	ɸ ɔ r a ɣ a ŋ ɡ a n
+gagaggan	ɡ a ɣ a ŋ ɡ a n
+inngaggan	ɪ nː ɣ a ŋ ɡ a n
+miþgaggan	m ɪ θ ɡ a ŋ ɡ a n
+þairhgaggan	θ ɛ r h ɡ a ŋ ɡ a n
+ufargaggan	u ɸ a r ɡ a ŋ ɡ a n
+usgaggan	u s ɡ a ŋ ɡ a n
+ūtgaggan	u t ɡ a ŋ ɡ a n
+wiþragaggan	w ɪ θ r a ɣ a ŋ ɡ a n
+gagrefts	ɡ a ɣ r e ɸ t s
+gagudei	ɡ a ɣ u ð i
+gaguþs	ɡ a ɣ u θ s
+gagudaba	ɡ a ɣ u ð a β a
+gahāhjo	ɡ a h a h j o
+gahails	ɡ a h ɛ l s
+gahait	ɡ a h ɛ t
+gahauseins	ɡ a h ɔ s i n s
+gahlaiba	ɡ a h l ɛ β a
+gahlaifs	ɡ a h l ɛ ɸ s
+gahnipnan	ɡ a h n ɪ p n a n
+gahobains	ɡ a h o β ɛ n s
+gahraineins	ɡ a h r ɛ n i n s
+gahugds	ɡ a h u ɣ d s
+gaƕairbs	ɡ a ʍ ɛ r b s
+gaƕeilains	ɡ a ʍ i l ɛ n s
+gaiainna	ɡ ɛ ɛ nː a
+gaidw	ɡ ɛ ð w
+gailjan	ɡ ɛ l j a n
+gainnesaraiþ	ɡ ɛ nː e s a r ɛ θ
+gairda	ɡ ɛ r d a
+bigairdan	b ɪ ɣ ɛ r d a n
+ufgairdan	u ɸ ɡ ɛ r d a n
+gairgaisainus	ɡ ɛ r ɡ ɛ s ɛ n u s
+gairnei	ɡ ɛ r n i
+gairnjan	ɡ ɛ r n j a n
+gairuni	ɡ ɛ r u n ɪ
+usgaisjan	u s ɡ ɛ s j a n
+gaitein	ɡ ɛ t i n
+gaits	ɡ ɛ t s
+gaïus	ɡ ɛ̈ u s
+gajuk	ɡ a j u k
+gajuka	ɡ a j u k a
+gajuko	ɡ a j u k o
+gakunds	ɡ a k u n d s
+gakunþs	ɡ a k u n θ s
+gakusts	ɡ a k u s t s
+galaista	ɡ a l ɛ s t a
+galateis	ɡ a l a t i s
+galatia	ɡ a l a t ɪ a
+galaubeins	ɡ a l ɔ β i n s
+galaubeins	ɡ a l ɔ β i n s
+galaufs	ɡ a l ɔ ɸ s
+galeika	ɡ a l i k a
+galeiki	ɡ a l i k ɪ
+galeiks	ɡ a l i k s
+galeiko	ɡ a l i k o
+galeilaia	ɡ a l i l ɛ a
+galeilaius	ɡ a l i l ɛ u s
+galga	ɡ a l ɡ a
+galigri	ɡ a l ɪ ɣ r ɪ
+galiug	ɡ a l ɪ u ɣ
+galiugaapaustaulus	ɡ a l ɪ u ɣ a a p ɔ s t ɔ l u s
+galiugabroþar	ɡ a l ɪ u ɣ a β r o θ a r
+galiugaguþ	ɡ a l ɪ u ɣ a ɣ u θ
+galiugapraufetus	ɡ a l ɪ u ɣ a p r ɔ ɸ e t u s
+galiugaweitwoþs	ɡ a l ɪ u ɣ a w i t w o θ s
+galiugaxristus	ɡ a l ɪ u ɣ a χ r ɪ s t u s
+galubaim	ɡ a l u β ɛ m
+gamaindūþs	ɡ a m ɛ n d u θ s
+gamainei	ɡ a m ɛ n i
+gamainja	ɡ a m ɛ n j a
+gamains	ɡ a m ɛ n s
+gamainþs	ɡ a m ɛ n θ s
+gamaiþs	ɡ a m ɛ θ s
+gamalteins	ɡ a m a l t i n s
+gaman	ɡ a m a n
+gamarko	ɡ a m a r k o
+gamarzeins	ɡ a m a r z i n s
+gamaudeins	ɡ a m ɔ ð i n s
+gameleins	ɡ a m e l i n s
+gaminþi	ɡ a m ɪ n θ ɪ
+gamitons	ɡ a m ɪ t o n s
+gamunds	ɡ a m u n d s
+ganauha	ɡ a n ɔ h a
+ganists	ɡ a n ɪ s t s
+ganiþjis	ɡ a n ɪ θ j ɪ s
+ganohs	ɡ a n o h s
+gansjan	ɡ a n s j a n
+gaqiss	ɡ a kʷ ɪ sː
+gaqiss	ɡ a kʷ ɪ sː
+gaqumþs	ɡ a kʷ u m θ s
+garaideins	ɡ a r ɛ ð i n s
+garaihtei	ɡ a r ɛ h t i
+garaihteins	ɡ a r ɛ h t i n s
+garaihtiþa	ɡ a r ɛ h t ɪ θ a
+garaihts	ɡ a r ɛ h t s
+garaiþs	ɡ a r ɛ θ s
+garazna	ɡ a r a z n a
+garazno	ɡ a r a z n o
+garda	ɡ a r d a
+gardawaldands	ɡ a r d a w a l d a n d s
+gards	ɡ a r d s
+garedaba	ɡ a r e ð a β a
+garehsns	ɡ a r e h s n̥ s
+gariudei	ɡ a r ɪ u ð i
+gariudi	ɡ a r ɪ u ð ɪ
+gariuþs	ɡ a r ɪ u θ s
+garūni	ɡ a r u n ɪ
+garunjo	ɡ a r u n j o
+garuns	ɡ a r u n s
+gasahts	ɡ a s a h t s
+gasateins	ɡ a s a t i n s
+gasinþa	ɡ a s ɪ n θ a
+gasinþja	ɡ a s ɪ n θ j a
+gaskadweins	ɡ a s k a ð w i n s
+gaskafts	ɡ a s k a ɸ t s
+gaskaideins	ɡ a s k ɛ ð i n s
+gaskalki	ɡ a s k a l k ɪ
+gaskohi	ɡ a s k o h ɪ
+gaskohs	ɡ a s k o h s
+gastigodei	ɡ a s t ɪ ɣ o ð i
+gastigoþs	ɡ a s t ɪ ɣ o θ s
+gasts	ɡ a s t s
+gataura	ɡ a t ɔ r a
+gataurþs	ɡ a t ɔ r θ s
+gatemiba	ɡ a t e m ɪ β a
+gatils	ɡ a t ɪ l s
+gatilaba	ɡ a t ɪ l a β a
+gatimreins	ɡ a t ɪ m r i n s
+gatimrjo	ɡ a t ɪ m r j o
+gatwo	ɡ a t w o
+gaþagki	ɡ a θ a ŋ k ɪ
+gaþaurbs	ɡ a θ ɔ r b s
+gaþlaihts	ɡ a θ l ɛ h t s
+gaþrafsteins	ɡ a θ r a ɸ s t i n s
+gaþrask	ɡ a θ r a s k
+gauja	ɡ ɔ j a
+gaulgauþa	ɡ ɔ l ɡ ɔ θ a
+gaumaurra	ɡ ɔ m ɔ rː a
+gaumaurjam	ɡ ɔ m ɔ r j a m
+gaumjan	ɡ ɔ m j a n
+gaunon	ɡ ɔ n o n
+gaunoþus	ɡ ɔ n o θ u s
+gaurei	ɡ ɔ r i
+gauriþa	ɡ ɔ r ɪ θ a
+gaurjan	ɡ ɔ r j a n
+gáurs	ɡ ɔ r s
+gawairþeigs	ɡ a w ɛ r θ i ɣ s
+gawairþi	ɡ a w ɛ r θ ɪ
+gawaleins	ɡ a w a l i n s
+gawamms	ɡ a w a mː s
+gawandeins	ɡ a w a n d i n s
+gawargeins	ɡ a w a r ɡ i n s
+gawaseins	ɡ a w a s i n s
+gawaurdi	ɡ a w ɔ r d ɪ
+gawaurki	ɡ a w ɔ r k ɪ
+gawaurstwa	ɡ a w ɔ r s t w a
+gawaurts	ɡ a w ɔ r t s
+gawi	ɡ a w ɪ
+gawiljis	ɡ a w ɪ l j ɪ s
+gawiss	ɡ a w ɪ sː
+gawizneigs	ɡ a w ɪ z n i ɣ s
+gazaufwlakio	ɡ a z ɔ ɸ w l a k ɪ o
+gazds	ɡ a z d s
+faihugeigan	ɸ ɛ h u ɣ i ɣ a n
+gageigan	ɡ a ɣ i ɣ a n
+usgeisnan	u s ɡ i s n a n
+giba	ɡ ɪ β a
+giban	ɡ ɪ β a n
+gibands	ɡ ɪ β a n d s
+afgiban_sik	a ɸ ɡ ɪ β a n s ɪ k
+atgiban	a t ɡ ɪ β a n
+fragiban	ɸ r a ɣ ɪ β a n
+usgiban	u s ɡ ɪ β a n
+gibla	ɡ ɪ β l a
+gild	ɡ ɪ l d
+fragildan	ɸ r a ɣ ɪ l d a n
+usgildan	u s ɡ ɪ l d a n
+gilstr	ɡ ɪ l s t r̥
+gilstrameleins	ɡ ɪ l s t r a m e l i n s
+gilþa	ɡ ɪ l θ a
+duginnan	d u ɣ ɪ nː a n
+gistradagis	ɡ ɪ s t r a ð a ɣ ɪ s
+bigitan	b ɪ ɣ ɪ t a n
+giutan	ɡ ɪ u t a n
+ufargiutan	u ɸ a r ɡ ɪ u t a n
+glaggwaba	ɡ l a ɡ ɡ w a β a
+glaggwo	ɡ l a ɡ ɡ w o
+glaggwuba	ɡ l a ɡ ɡ w u β a
+glitmunjan	ɡ l ɪ t m u n j a n
+godakunds	ɡ o ð a k u n d s
+godei	ɡ o ð i
+goleins	ɡ o l i n s
+goljan	ɡ o l j a n
+goþs	ɡ o θ s
+graba	ɡ r a β a
+graban	ɡ r a β a n
+bigraban	b ɪ ɣ r a β a n
+ufgraban	u ɸ ɡ r a β a n
+usgraban	u s ɡ r a β a n
+gramjan	ɡ r a m j a n
+ingramjan	ɪ n ɡ r a m j a n
+gramsta	ɡ r a m s t a
+gras	ɡ r a s
+gredags	ɡ r e ð a ɣ s
+gredon	ɡ r e ð o n
+gredus	ɡ r e ð u s
+greipan	ɡ r i p a n
+fairgreipan	ɸ ɛ r ɡ r i p a n
+undgreipan	u n d ɡ r i p a n
+gretan	ɡ r e t a n
+grets	ɡ r e t s
+grindafraþjis	ɡ r ɪ n d a ɸ r a θ j ɪ s
+griþs	ɡ r ɪ θ s
+groba	ɡ r o β a
+grunduwaddjus	ɡ r u n d u w a dː j u s
+gudafaurhts	ɡ u ð a ɸ ɔ r h t s
+gudalaus	ɡ u ð a l ɔ s
+gudaskaunei	ɡ u ð a s k ɔ n i
+gudblostreis	ɡ u ð b l o s t r i s
+gudhūs	ɡ u ð h u s
+gudilub	ɡ u ð ɪ l u β
+gudisks	ɡ u ð ɪ s k s
+gudja	ɡ u ð j a
+gudjinassus	ɡ u ð j ɪ n a sː u s
+gudjinon	ɡ u ð j ɪ n o n
+gulþ	ɡ u l θ
+gulþeins	ɡ u l θ i n s
+guma	ɡ u m a
+gumakunds	ɡ u m a k u n d s
+gumein	ɡ u m i n
+gund	ɡ u n d
+usgutnan	u s ɡ u t n a n
+gutþiuda	ɡ u t θ ɪ u ð a
+guþ	ɡ u θ
+haban	h a β a n
+afhaban	a ɸ h a β a n
+anahaban	a n a h a β a n
+athaban	a t h a β a n
+dishaban	d ɪ s h a β a n
+gahaban	ɡ a h a β a n
+ufhaban	u ɸ h a β a n
+hafjan	h a ɸ j a n
+andhafjan	a n d h a ɸ j a n
+athafjan	a t h a ɸ j a n
+ufarhafjan	u ɸ a r h a ɸ j a n
+ushafjan	u s h a ɸ j a n
+ufarhafnan	u ɸ a r h a ɸ n a n
+haftjan	h a ɸ t j a n
+gahaftjan	ɡ a h a ɸ t j a n
+gagáhaftjan	ɡ a ɣ a h a ɸ t j a n
+gahaftnan	ɡ a h a ɸ t n a n
+hafts	h a ɸ t s
+hāhan	h a h a n
+athahan	a t h a h a n
+ushahan	u s h a h a n
+hāhan	h a h a n
+haibraius	h ɛ β r ɛ u s
+haidus	h ɛ ð u s
+haifstjan	h ɛ ɸ s t j a n
+haifsts	h ɛ ɸ s t s
+háihs	h ɛ h s
+haileias	h ɛ l i a s
+haileisaius	h ɛ l i s ɛ u s
+hailjan	h ɛ l j a n
+gahailjan	ɡ a h ɛ l j a n
+gahailnan	ɡ a h ɛ l n a n
+hails	h ɛ l s
+haimoþli	h ɛ m o θ l ɪ
+haims	h ɛ m s
+hairaiseis	h ɛ r ɛ s i s
+hairda	h ɛ r d a
+hairdeis	h ɛ r d i s
+hairmaugaineis	h ɛ r m ɔ ɣ ɛ n i s
+hairodia	h ɛ r o ð ɪ a
+hairto	h ɛ r t o
+hairþra	h ɛ r θ r a
+hairus	h ɛ r u s
+haizam	h ɛ z a m
+haitan	h ɛ t a n
+anahaitan	a n a h ɛ t a n
+andhaitan	a n d h ɛ t a n
+athaitan	a t h ɛ t a n
+fairhaitan	ɸ ɛ r h ɛ t a n
+gahaitan	ɡ a h ɛ t a n
+fauragahaitan	ɸ ɔ r a ɣ a h ɛ t a n
+ushaitan	u s h ɛ t a n
+haiti	h ɛ t ɪ
+haiþi	h ɛ θ ɪ
+haiþiwisks	h ɛ θ ɪ w ɪ s k s
+háiþno	h ɛ θ n o
+hakuls	h a k u l s
+halba	h a l b a
+halbs	h a l b s
+haldan	h a l d a n
+haldis	h a l d ɪ s
+halisaiw	h a l ɪ s ɛ w
+halja	h a l j a
+halks	h a l k s
+hallus	h a lː u s
+hals	h a l s
+halsagga	h a l s a ŋ ɡ a
+halts	h a l t s
+hamfs	h a m ɸ s
+afhamon	a ɸ h a m o n
+anahamon	a n a h a m o n
+andhamon	a n d h a m o n
+gahamon	ɡ a h a m o n
+ufarhamon	u ɸ a r h a m o n
+hana	h a n a
+handugei	h a n d u ɣ i
+handugs	h a n d u ɣ s
+handus	h a n d u s
+handuwaurhts	h a n d u w ɔ r h t s
+hansa	h a n s a
+gahardjan	ɡ a h a r d j a n
+harduhairtei	h a r d u h ɛ r t i
+hardus	h a r d u s
+harjis	h a r j ɪ s
+hatan	h a t a n
+hatis	h a t ɪ s
+hatizon	h a t ɪ z o n
+hatjan	h a t j a n
+haubiþ	h ɔ β ɪ θ
+hauhei	h ɔ h i
+hauheins	h ɔ h i n s
+hauhhairtei	h ɔ h h ɛ r t i
+hauhhairts	h ɔ h h ɛ r t s
+hauhisti	h ɔ h ɪ s t ɪ
+hauhiþa	h ɔ h ɪ θ a
+hauhjan	h ɔ h j a n
+ufarhauhjan	u ɸ a r h ɔ h j a n
+ushauhjan	u s h ɔ h j a n
+ushauhnan	u s h ɔ h n a n
+háuhs	h ɔ h s
+hauhista	h ɔ h ɪ s t a
+hauhaba	h ɔ h a β a
+hauhis	h ɔ h ɪ s
+hauhþuhts	h ɔ h θ u h t s
+hauneins	h ɔ n i n s
+hauniþa	h ɔ n ɪ θ a
+haunjan	h ɔ n j a n
+gahaunjan	ɡ a h ɔ n j a n
+hauns	h ɔ n s
+haurds	h ɔ r d s
+hauri	h ɔ r ɪ
+haurn	h ɔ r n̥
+haurnja	h ɔ r n j a
+haurnjan	h ɔ r n j a n
+hauseins	h ɔ s i n s
+hausjan	h ɔ s j a n
+andhausjan	a n d h ɔ s j a n
+gahausjan	ɡ a h ɔ s j a n
+ufhausjan	u ɸ h ɔ s j a n
+hausjon	h ɔ s j o n
+hawi	h a w ɪ
+hazeins	h a z i n s
+hazjan	h a z j a n
+heito	h i t o
+heiwafrauja	h i w a ɸ r ɔ j a
+helei	h e l i
+helei	h e l i
+helias	h e l ɪ a s
+her	h e r
+her	h e r
+herodes	h e r o ð e s
+herodia	h e r o ð ɪ a
+herodianus	h e r o ð ɪ a n u s
+heþjo	h e θ j o
+hi	h ɪ
+hidre	h ɪ ð r e
+hilms	h ɪ l m̥ s
+hilpan	h ɪ l p a n
+gahilpan	ɡ a h ɪ l p a n
+himinakunds	h ɪ m ɪ n a k u n d s
+himins	h ɪ m ɪ n s
+himma	h ɪ mː a
+hindana	h ɪ n d a n a
+hindar	h ɪ n d a r
+hindarweis	h ɪ n d a r w i s
+hindarweisei	h ɪ n d a r w i s i
+hindumists	h ɪ n d u m ɪ s t s
+frahinþan	ɸ r a h ɪ n θ a n
+miþfrahinþan	m ɪ θ ɸ r a h ɪ n θ a n
+ushinþan	u s h ɪ n θ a n
+hiri	h ɪ r ɪ
+hita	h ɪ t a
+hiufan	h ɪ u ɸ a n
+hiuhma	h ɪ u h m a
+hiwi	h ɪ w ɪ
+hlahjan	h l a h j a n
+bihlahjan	b ɪ h l a h j a n
+hlaifs	h l ɛ ɸ s
+hlaine	h l ɛ n e
+hlaiw	h l ɛ w
+hlaiwasnos	h l ɛ w a s n o s
+hlamma	h l a mː a
+hlas	h l a s
+hlasoza	h l a s o z a
+hlasei	h l a s i
+afhlaþan	a ɸ h l a θ a n
+ushlaupan	u s h l ɔ p a n
+hlauts	h l ɔ t s
+hleibjan	h l i β j a n
+hleiduma	h l i ð u m a
+hleiþra	h l i θ r a
+ufarhleiþrjan	u ɸ a r h l i θ r j a n
+hleþrastakeins	h l e θ r a s t a k i n s
+hlifan	h l ɪ ɸ a n
+hliftus	h l ɪ ɸ t u s
+hlijans	h l ɪ j a n s
+hliuma	h l ɪ u m a
+ufhlohjan	u ɸ h l o h j a n
+hlutrei	h l u t r i
+hlutriþa	h l u t r ɪ θ a
+hlūtrs	h l u t r̥ s
+hnaiweins	h n ɛ w i n s
+hnaiwjan	h n ɛ w j a n
+anahnaiwjan	a n a h n ɛ w j a n
+gahnaiwjan	ɡ a h n ɛ w j a n
+ufhnaiwjan	u ɸ h n ɛ w j a n
+hnaiws	h n ɛ w s
+hnasqjaim	h n a s kʷ j ɛ m
+hneiwan	h n i w a n
+anahneiwan	a n a h n i w a n
+gahnipnan	ɡ a h n ɪ p n a n
+dishniupan	d ɪ s h n ɪ u p a n
+dishnupnan	d ɪ s h n u p n a n
+hnuþo	h n u θ o
+hoha	h o h a
+holon	h o l o n
+afholon	a ɸ h o l o n
+horinassus	h o r ɪ n a sː u s
+horinon	h o r ɪ n o n
+gahorinon	ɡ a h o r ɪ n o n
+hors	h o r s
+hrainei	h r ɛ n i
+hraineins	h r ɛ n i n s
+hrainjahairts	h r ɛ n j a h ɛ r t s
+hrainjan	h r ɛ n j a n
+afhrainjan	a ɸ h r ɛ n j a n
+gahrainjan	ɡ a h r ɛ n j a n
+ushrainjan	u s h r ɛ n j a n
+hrains	h r ɛ n s
+hraiwadūbo	h r ɛ w a ð u β o
+hramjan	h r a m j a n
+ushramjan	u s h r a m j a n
+afhrisjan	a ɸ h r ɪ s j a n
+ushrisjan	u s h r ɪ s j a n
+hropjan	h r o p j a n
+ufhropjan	u ɸ h r o p j a n
+hrops	h r o p s
+hrot	h r o t
+hroþeigs	h r o θ i ɣ s
+hrugga	h r u ŋ ɡ a
+hrūkjan	h r u k j a n
+hruk	h r u k
+andhruskan	a n d h r u s k a n
+huggrjan	h u ŋ ɡ r j a n
+hugjan	h u ɣ j a n
+afhugjan	a ɸ h u ɣ j a n
+andhugjan	a n d h u ɣ j a n
+fauragahugjan	ɸ ɔ r a ɣ a h u ɣ j a n
+ufarhugjan	u ɸ a r h u ɣ j a n
+hugs	h u ɣ s
+hugs	h u ɣ s
+huhjan	h u h j a n
+huhrus	h u h r u s
+hulistr	h u l ɪ s t r̥
+huljan	h u l j a n
+andhuljan	a n d h u l j a n
+dishuljan	d ɪ s h u l j a n
+gahuljan	ɡ a h u l j a n
+ushulon	u s h u l o n
+hulþs	h u l θ s
+hulundi	h u l u n d ɪ
+hun	h u n
+hunda	h u n d a
+hundafaþs	h u n d a ɸ a θ s
+hunds	h u n d s
+hunsl	h u n s l̥
+hunslastaþs	h u n s l a s t a θ s
+hunsljan	h u n s l j a n
+hunþs	h u n θ s
+hups	h u p s
+huzd	h u z d
+huzdjan	h u z d j a n
+hwmainaius	h w m ɛ n ɛ u s
+hwssopon	h w sː o p o n
+ƕad	ʍ a ð
+ƕadre	ʍ a ð r e
+ƕah	ʍ a h
+ƕairban	ʍ ɛ r b a n
+biƕairban	b ɪ ʍ ɛ r b a n
+ƕairnei	ʍ ɛ r n i
+ƕaiteis	ʍ ɛ t i s
+ƕaiwa	ʍ ɛ w a
+ƕan	ʍ a n
+ƕanhun	ʍ a n h u n
+afƕapjan	a ɸ ʍ a p j a n
+afƕapnan	a ɸ ʍ a p n a n
+ƕar	ʍ a r
+ƕarbon	ʍ a r b o n
+ƕarjis	ʍ a r j ɪ s
+ƕarjizuh	ʍ a r j ɪ z u h
+ƕas	ʍ a s
+ƕashun	ʍ a s h u n
+ƕassaba	ʍ a sː a β a
+ƕassei	ʍ a sː i
+gaƕatjan	ɡ a ʍ a t j a n
+ƕaþ	ʍ a θ
+ƕaþar	ʍ a θ a r
+ƕaþaruh	ʍ a θ a r u h
+ƕaþjan	ʍ a θ j a n
+ƕaþo	ʍ a θ o
+ƕaþro	ʍ a θ r o
+ƕazuh	ʍ a z u h
+ƕe	ʍ e
+ƕeh	ʍ e h
+ƕeila	ʍ i l a
+ƕeilaƕairbs	ʍ i l a ʍ ɛ r b s
+ƕeilan	ʍ i l a n
+anaƕeilan	a n a ʍ i l a n
+gaƕeilan	ɡ a ʍ i l a n
+ƕeilohun	ʍ i l o h u n
+gaƕeitjan	ɡ a ʍ i t j a n
+ƕeits	ʍ i t s
+ƕelauþs	ʍ e l ɔ θ s
+ƕileiks	ʍ ɪ l i k s
+ƕilftrjom	ʍ ɪ l ɸ t r j o m
+ƕoftuli	ʍ o ɸ t u l ɪ
+ƕoh	ʍ o h
+ƕopan	ʍ o p a n
+ƕota	ʍ o t a
+ƕotjan	ʍ o t j a n
+gaƕotjan	ɡ a ʍ o t j a n
+iaeirus	ɪ a i r u s
+iairaimias	ɪ ɛ r ɛ m ɪ a s
+iairaupaulein	ɪ ɛ r ɔ p ɔ l i n
+iaireiko	ɪ ɛ r i k o
+iairusalem	ɪ ɛ r u s a l e m
+iairusaulwma	ɪ ɛ r u s ɔ l w m a
+iairusaulwmeis	ɪ ɛ r u s ɔ l w m i s
+iairusaulwmeite	ɪ ɛ r u s ɔ l w m i t e
+iaissaizis	ɪ ɛ sː ɛ z ɪ s
+iakob	ɪ a k o β
+iakobus	ɪ a k o β u s
+iaredis	ɪ a r e ð ɪ s
+iareim	ɪ a r i m
+iasson	ɪ a sː o n
+iaurdanus	ɪ ɔ r d a n u s
+ibai	ɪ β ɛ
+ibdaljin	ɪ β d a l j ɪ n
+ibna	ɪ β n a
+ibnaleiks	ɪ β n a l i k s
+ibnaskauns	ɪ β n a s k ɔ n s
+skauneis	s k ɔ n i s
+ibnassus	ɪ β n a sː u s
+gaïbnjan	ɡ ɛ̈ β n j a n
+ibns	ɪ β n̥ s
+ibuks	ɪ β u k s
+iddja	ɪ dː j a
+idreiga	ɪ ð r i ɣ a
+idreigon	ɪ ð r i ɣ o n
+gaïdreigon	ɡ ɛ̈ ð r i ɣ o n
+idumaia	ɪ ð u m ɛ a
+idweit	ɪ ð w i t
+idweitjan	ɪ ð w i t j a n
+iesus	ɪ e s u s
+iftuma	ɪ ɸ t u m a
+iggqar	ɪ ŋ ɡ kʷ a r
+igqis	ɪ ŋ kʷ ɪ s
+ik	ɪ k
+ikei	ɪ k i
+in	ɪ n
+inahei	ɪ n a h i
+inahs	ɪ n a h s
+ingardja	ɪ n ɡ a r d j a
+inilo	ɪ n ɪ l o
+inkilþo	ɪ n k ɪ l θ o
+inkunja	ɪ n k u n j a
+inmaideins	ɪ n m ɛ ð i n s
+inn	ɪ nː
+inna	ɪ nː a
+innakunds	ɪ nː a k u n d s
+innana	ɪ nː a n a
+innatgāhts	ɪ nː a t ɡ a h t s
+innaþro	ɪ nː a θ r o
+inniujiþa	ɪ nː ɪ u j ɪ θ a
+innuma	ɪ nː u m a
+insahts	ɪ n s a h t s
+inuh	ɪ n u h
+inuh	ɪ n u h
+inwindiþa	ɪ n w ɪ n d ɪ θ a
+inwinds	ɪ n w ɪ n d s
+inwitoþs	ɪ n w ɪ t o θ s
+ioanan	ɪ o a n a n
+ioda	ɪ o ð a
+iohanna	ɪ o h a nː a
+iohanna	ɪ o h a nː a
+iohannes	ɪ o h a nː e s
+iora	ɪ o r a
+ioreim	ɪ o r i m
+iosef	ɪ o s e ɸ
+iosezis	ɪ o s e z ɪ s
+is_m	ɪ s m
+isak	ɪ s a k
+iskariotes	ɪ s k a r ɪ o t e s
+israel	ɪ s r a e l
+israeleites	ɪ s r a e l i t e s
+itan	ɪ t a n
+fraïtan	ɸ r ɛ̈ t a n
+ituraia	ɪ t u r ɛ a
+iþ	ɪ θ
+iudaia	ɪ u ð ɛ a
+iudaialand	ɪ u ð ɛ a l a n d
+iudaius	ɪ u ð ɛ u s
+judaius	j u ð ɛ u s
+iudaiwisko	ɪ u ð ɛ w ɪ s k o
+iudaiwiskon	ɪ u ð ɛ w ɪ s k o n
+iudas	ɪ u ð a s
+iumjo	ɪ u m j o
+iup	ɪ u p
+iupa	ɪ u p a
+iupana	ɪ u p a n a
+iupaþro	ɪ u p a θ r o
+iuse	ɪ u s e
+iusila	ɪ u s ɪ l a
+iusiza	ɪ u s ɪ z a
+izei	ɪ z i
+ize	ɪ z e
+izwar	ɪ z w a r
+izwizei	ɪ z w ɪ z i
+ja	j a
+jabai	j a β ɛ
+jaeirus	j a i r u s
+jah	j a h
+jai	j ɛ
+jainar	j ɛ n a r
+jaind	j ɛ n d
+jaindre	j ɛ n d r e
+jaindwairþs	j ɛ n d w ɛ r θ s
+jains	j ɛ n s
+jainþro	j ɛ n θ r o
+jairupulai	j ɛ r u p u l ɛ
+janna	j a nː a
+jannes	j a nː e s
+jaþþe	j a θː e
+jau	j ɔ
+jaurdanau	j ɔ r d a n ɔ
+jer	j e r
+jiuka	j ɪ u k a
+jiukan	j ɪ u k a n
+gajiukan	ɡ a j ɪ u k a n
+jiuleis	j ɪ u l i s
+jota	j o t a
+ju	j u
+judaiwisks	j u ð ɛ w ɪ s k s
+judaius	j u ð ɛ u s
+judas	j u ð a s
+juggs	j u ŋ ɡ s
+juk	j u k
+jukuzi	j u k u z ɪ
+junda	j u n d a
+jūs	j u s
+justus	j u s t u s
+juþan	j u θ a n
+jūzei	j u z i
+kaballarja	k a β a lː a r j a
+kaeinan	k a i n a n
+kafarnaum	k a ɸ a r n ɔ m
+kaidmeiel	k ɛ ð m i e l
+kaidron	k ɛ ð r o n
+kaisar	k ɛ s a r
+kaisaragild	k ɛ s a r a ɣ ɪ l d
+kaisaria	k ɛ s a r ɪ a
+kajafa	k a j a ɸ a
+kalbo	k a l b o
+kalds	k a l d s
+kalkinassus	k a l k ɪ n a sː u s
+kalkjom	k a l k j o m
+kananeites	k a n a n i t e s
+kann	k a nː
+kannjan	k a nː j a n
+gakannjan	ɡ a k a nː j a n
+uskannjan	u s k a nː j a n
+kapillon	k a p ɪ lː o n
+kara	k a r a
+kareiaþiareim	k a r i a θ ɪ a r i m
+karkara	k a r k a r a
+karon	k a r o n
+gakaron	ɡ a k a r o n
+karpus	k a r p u s
+kas	k a s
+kasja	k a s j a
+katile	k a t ɪ l e
+kaulaussaium	k ɔ l ɔ sː ɛ u m
+kaupatjan	k ɔ p a t j a n
+kaupon	k ɔ p o n
+kaurazein	k ɔ r a z i n
+kaurban	k ɔ r b a n
+kaurbaunan	k ɔ r b ɔ n a n
+kaurei	k ɔ r i
+kaurinþius	k ɔ r ɪ n θ ɪ u s
+kaurinþon	k ɔ r ɪ n θ o n
+kauriþa	k ɔ r ɪ θ a
+kaurjan	k ɔ r j a n
+anakaurjan	a n a k ɔ r j a n
+miþkaurjan	m ɪ θ k ɔ r j a n
+kaurjos	k ɔ r j o s
+kaurn	k ɔ r n̥
+kaurno	k ɔ r n o
+kausjan	k ɔ s j a n
+gakausjan	ɡ a k ɔ s j a n
+kawtsjo	k a w t s j o
+kefas	k e ɸ a s
+keinan	k i n a n
+uskeinan	u s k i n a n
+miþuskeinan	m ɪ θ u s k i n a n
+kelikn	k e l ɪ k n̥
+kileikia	k ɪ l i k ɪ a
+kilþei	k ɪ l θ i
+kindins	k ɪ n d ɪ n s
+kinnus	k ɪ nː u s
+kintus	k ɪ n t u s
+kiusan	k ɪ u s a n
+gakiusan	ɡ a k ɪ u s a n
+uskiusan	u s k ɪ u s a n
+klemaintau	k l e m ɛ n t ɔ
+klaimaintau	k l ɛ m ɛ n t ɔ
+klismjan	k l ɪ s m j a n
+klismo	k l ɪ s m o
+kniu	k n ɪ u
+knodai	k n o ð ɛ
+knussjan	k n u sː j a n
+kosam	k o s a m
+kreks	k r e k s
+kreskus	k r e s k u s
+kretai	k r e t ɛ
+kretes	k r e t e s
+krispus	k r ɪ s p u s
+kriustan	k r ɪ u s t a n
+gakroton	ɡ a k r o t o n
+krusts	k r u s t s
+kubitus	k u β ɪ t u s
+kukjan	k u k j a n
+bikukjan	b ɪ k u k j a n
+anakumbjan	a n a k u m b j a n
+kumei	k u m i
+kunawida	k u n a w ɪ ð a
+kuni	k u n ɪ
+kunnan	k u nː a n
+frakunnan	ɸ r a k u nː a n
+gakunnan	ɡ a k u nː a n
+kunnan	k u nː a n
+anakunnan	a n a k u nː a n
+atkunnan	a t k u nː a n
+gakunnan	ɡ a k u nː a n
+ufkunnan	u ɸ k u nː a n
+kunþi	k u n θ ɪ
+kunþs	k u n θ s
+kusa	k u s a
+kustanteinus	k u s t a n t i n u s
+kustus	k u s t u s
+kwreinaius	k w r i n ɛ u s
+kwreinaius	k w r i n ɛ u s
+laggamodei	l a ŋ ɡ a m o ð i
+laggei	l a ŋ ɡ i
+laggs	l a ŋ ɡ s
+lagjan	l a ɣ j a n
+aflagjan	a ɸ l a ɣ j a n
+analagjan	a n a l a ɣ j a n
+atlagjan	a t l a ɣ j a n
+faurlagjan	ɸ ɔ r l a ɣ j a n
+galagjan	ɡ a l a ɣ j a n
+ufarlagjan	u ɸ a r l a ɣ j a n
+uslagjan	u s l a ɣ j a n
+laian	l ɛ a n
+lauan	l ɔ a n
+laiba	l ɛ β a
+bilaibjan	b ɪ l ɛ β j a n
+bilaif	b ɪ l ɛ ɸ
+laigaion	l ɛ ɣ ɛ o n
+bilaigon	b ɪ l ɛ ɣ o n
+laikan	l ɛ k a n
+bilaikan	b ɪ l ɛ k a n
+laiks	l ɛ k s
+laiktjo	l ɛ k t j o
+lais	l ɛ s
+laisareis	l ɛ s a r i s
+laiseigs	l ɛ s i ɣ s
+laiseins	l ɛ s i n s
+laisjan	l ɛ s j a n
+galaisjan	ɡ a l ɛ s j a n
+uslaisjan	u s l ɛ s j a n
+laistjan	l ɛ s t j a n
+afarlaistjan	a ɸ a r l ɛ s t j a n
+galaistjan	ɡ a l ɛ s t j a n
+laists	l ɛ s t s
+laiwweis	l ɛ wː i s
+laiwweiteis	l ɛ wː i t i s
+lamaik	l a m ɛ k
+lamb	l a m b
+land	l a n d
+lasiws	l a s ɪ w s
+latei	l a t i
+latjan	l a t j a n
+analatjan	a n a l a t j a n
+galatjan	ɡ a l a t j a n
+lats	l a t s
+laþaleiko	l a θ a l i k o
+laþon	l a θ o n
+atlaþon	a t l a θ o n
+galaþon	ɡ a l a θ o n
+laþons	l a θ o n s
+lauan	l ɔ a n
+galaubjan	ɡ a l ɔ β j a n
+uslaubjan	u s l ɔ β j a n
+laudeikaia	l ɔ ð i k ɛ a
+laudi	l ɔ ð ɪ
+laufs	l ɔ ɸ s
+laugnjan	l ɔ ɣ n j a n
+galaugnjan	ɡ a l ɔ ɣ n j a n
+lauhatjan	l ɔ h a t j a n
+lauhmuni	l ɔ h m u n ɪ
+lauidjai	l ɔ ɪ ð j ɛ
+laun	l ɔ n
+launawargs	l ɔ n a w a r ɡ s
+laus	l ɔ s
+lausawaurdei	l ɔ s a w ɔ r d i
+lausawaurdi	l ɔ s a w ɔ r d ɪ
+lausawaurds	l ɔ s a w ɔ r d s
+laushandja	l ɔ s h a n d j a
+lausjan	l ɔ s j a n
+galausjan	ɡ a l ɔ s j a n
+uslausjan	u s l ɔ s j a n
+lausqiþrei	l ɔ s kʷ ɪ θ r i
+lausqiþrs	l ɔ s kʷ ɪ θ r̥ s
+lazarus	l a z a r u s
+bileiban	b ɪ l i β a n
+leihts	l i h t s
+leiƕan	l i ʍ a n
+leik	l i k
+leikains	l i k ɛ n s
+leikan	l i k a n
+galeikan	ɡ a l i k a n
+fauragaleikan	ɸ ɔ r a ɣ a l i k a n
+leikeins	l i k i n s
+leikeis	l i k i s
+sildaleikjan	s ɪ l d a l i k j a n
+gáleikon	ɡ a l i k o n
+gagáleikon	ɡ a ɣ a l i k o n
+ingáleikon	ɪ n ɡ a l i k o n
+miþgáleikon	m ɪ θ ɡ a l i k o n
+þairhgáleikon	θ ɛ r h ɡ a l i k o n
+lein	l i n
+leitan	l i t a n
+leitils	l i t ɪ l s
+afleiþan	a ɸ l i θ a n
+bileiþan	b ɪ l i θ a n
+galeiþan	ɡ a l i θ a n
+inngaleiþan	ɪ nː ɣ a l i θ a n
+miþinngaleiþan	m ɪ θ ɪ nː ɣ a l i θ a n
+hindarleiþan	h ɪ n d a r l i θ a n
+þairhleiþan	θ ɛ r h l i θ a n
+ufarleiþan	u ɸ a r l i θ a n
+usleiþan	u s l i θ a n
+leiþu	l i θ u
+lekeis	l e k i s
+lekinassus	l e k ɪ n a sː u s
+lekinon	l e k ɪ n o n
+galeikinon	ɡ a l i k ɪ n o n
+letan	l e t a n
+afletan	a ɸ l e t a n
+fraletan	ɸ r a l e t a n
+usletan	u s l e t a n
+andletnan	a n d l e t n a n
+lew	l e w
+lewjan	l e w j a n
+fralewjan	ɸ r a l e w j a n
+galewjan	ɡ a l e w j a n
+libains	l ɪ β ɛ n s
+liban	l ɪ β a n
+miþliban	m ɪ θ l ɪ β a n
+aflifnan	a ɸ l ɪ ɸ n a n
+ligan	l ɪ ɣ a n
+atligan	a t l ɪ ɣ a n
+ufligan	u ɸ l ɪ ɣ a n
+ligrs	l ɪ ɣ r̥ s
+lima	l ɪ m a
+aflinnan	a ɸ l ɪ nː a n
+lisan	l ɪ s a n
+galisan	ɡ a l ɪ s a n
+listeigs	l ɪ s t i ɣ s
+lists	l ɪ s t s
+litai	l ɪ t ɛ
+liteins	l ɪ t i n s
+miþlitjan	m ɪ θ l ɪ t j a n
+liþus	l ɪ θ u s
+liubaleiks	l ɪ u β a l i k s
+liudan	l ɪ u ð a n
+awiliudon	a w ɪ l ɪ u ð o n
+liufs	l ɪ u ɸ s
+liuga	l ɪ u ɣ a
+liugan	l ɪ u ɣ a n
+galiugan	ɡ a l ɪ u ɣ a n
+liugan	l ɪ u ɣ a n
+liugn	l ɪ u ɣ n̥
+liugnapraufetus	l ɪ u ɣ n a p r ɔ ɸ e t u s
+liugnawaurds	l ɪ u ɣ n a w ɔ r d s
+liugnja	l ɪ u ɣ n j a
+liuhadei	l ɪ u h a ð i
+liuhadeins	l ɪ u h a ð i n s
+liuhadeins	l ɪ u h a ð i n s
+liuhaþ	l ɪ u h a θ
+liuhtjan	l ɪ u h t j a n
+galiuhtjan	ɡ a l ɪ u h t j a n
+inliuhtjan	ɪ n l ɪ u h t j a n
+fraliusan	ɸ r a l ɪ u s a n
+liutei	l ɪ u t i
+liuts	l ɪ u t s
+liuþareis	l ɪ u θ a r i s
+liuþon	l ɪ u θ o n
+lofa	l o ɸ a
+loþ	l o θ
+lubains	l u β ɛ n s
+lubjaleis	l u β j a l i s
+lubjaleisei	l u β j a l i s i
+ludja	l u ð j a
+luftu	l u ɸ t u
+galūkan	ɡ a l u k a n
+uslukan	u s l u k a n
+lukarn	l u k a r n̥
+lukarnastaþa	l u k a r n a s t a θ a
+lukas	l u k a s
+lukius	l u k ɪ u s
+galuknan	ɡ a l u k n a n
+usluknan	u s l u k n a n
+lun	l u n
+fralusnan	ɸ r a l u s n a n
+luston	l u s t o n
+lustus	l u s t u s
+lustusama	l u s t u s a m a
+luton	l u t o n
+usluton	u s l u t o n
+lwddomaeis	l w dː o m a i s
+lwsanius	l w s a n ɪ u s
+lwstrws	l w s t r w s
+maeinan	m a i n a n
+magan	m a ɣ a n
+gamagan	ɡ a m a ɣ a n
+magaþei	m a ɣ a θ i
+magaþs	m a ɣ a θ s
+magdalan	m a ɣ d a l a n
+magdalene	m a ɣ d a l e n e
+magula	m a ɣ u l a
+magus	m a ɣ u s
+mahaþ	m a h a θ
+mahteigs	m a h t i ɣ s
+anamahtjan	a n a m a h t j a n
+mahts	m a h t s
+mahts	m a h t s
+maidjan	m ɛ ð j a n
+inmaidjan	ɪ n m ɛ ð j a n
+maihstus	m ɛ h s t u s
+mailaian	m ɛ l ɛ a n
+maile	m ɛ l e
+mailkei	m ɛ l k i
+maimbrana	m ɛ m b r a n a
+gámainjan	ɡ a m ɛ n j a n
+gagámainjan	ɡ a ɣ a m ɛ n j a n
+mais	m ɛ s
+maisaullam	m ɛ s ɔ lː a m
+maists	m ɛ s t s
+maist	m ɛ s t
+maitan	m ɛ t a n
+afmaitan	a ɸ m ɛ t a n
+bimaitan	b ɪ m ɛ t a n
+gamaitan	ɡ a m ɛ t a n
+usmaitan	u s m ɛ t a n
+maiþms	m ɛ θ m̥ s
+maiza	m ɛ z a
+makeibis	m a k i β ɪ s
+makidoneis	m a k ɪ ð o n i s
+makidonja	m a k ɪ ð o n j a
+makmas	m a k m a s
+malan	m a l a n
+malailaiel	m a l ɛ l ɛ e l
+malkus	m a l k u s
+malma	m a l m a
+malo	m a l o
+gamalwjan	ɡ a m a l w j a n
+mambres	m a m b r e s
+mammo	m a mː o
+mammona	m a mː o n a
+bimampjan	b ɪ m a m p j a n
+man	m a n
+managdūþs	m a n a ɣ d u θ s
+managei	m a n a ɣ i
+managfalþs	m a n a ɣ ɸ a l θ s
+managjan	m a n a ɣ j a n
+managnan	m a n a ɣ n a n
+usmanagnan	u s m a n a ɣ n a n
+manags	m a n a ɣ s
+manamaurþrja	m a n a m ɔ r θ r j a
+manaseþs	m a n a s e θ s
+manaulja	m a n ɔ l j a
+manleika	m a n l i k a
+manna	m a nː a
+manna	m a nː a
+mannahun	m a nː a h u n
+manniskodus	m a nː ɪ s k o ð u s
+mannisks	m a nː ɪ s k s
+manwiþa	m a n w ɪ θ a
+manwjan	m a n w j a n
+fauramanwjan	ɸ ɔ r a m a n w j a n
+gamanwjan	ɡ a m a n w j a n
+fauragamanwjan	ɸ ɔ r a ɣ a m a n w j a n
+manwus	m a n w u s
+maran_aþa	m a r a n a θ a
+marei	m a r i
+maria	m a r ɪ a
+marikreitum	m a r ɪ k r i t u m
+marisaiws	m a r ɪ s ɛ w s
+marja	m a r j a
+marka	m a r k a
+markaillaus	m a r k ɛ lː ɔ s
+gamarkon	ɡ a m a r k o n
+markus	m a r k u s
+marwtre	m a r w t r e
+marþa	m a r θ a
+marzeins	m a r z i n s
+marzjan	m a r z j a n
+afmarzjan	a ɸ m a r z j a n
+gamarzjan	ɡ a m a r z j a n
+matibalgs	m a t ɪ β a l ɡ s
+matjan	m a t j a n
+gamatjan	ɡ a m a t j a n
+mats	m a t s
+mattaþanis	m a tː a θ a n ɪ s
+mattaþius	m a tː a θ ɪ u s
+matþaius	m a t θ ɛ u s
+matþat	m a t θ a t
+maþa	m a θ a
+maþl	m a θ l̥
+maþlein	m a θ l i n
+maþljan	m a θ l j a n
+maþusalis	m a θ u s a l ɪ s
+maudjan	m ɔ ð j a n
+gamaudjan	ɡ a m ɔ ð j a n
+maurgins	m ɔ r ɡ ɪ n s
+gamaurgjan	ɡ a m ɔ r ɡ j a n
+maurnan	m ɔ r n a n
+maurþr	m ɔ r θ r̥
+maurþrjan	m ɔ r θ r j a n
+mawi	m a w ɪ
+mawilo	m a w ɪ l o
+megs	m e ɣ s
+meins	m i n s
+meki	m e k ɪ
+mel	m e l
+mela	m e l a
+meljan	m e l j a n
+anameljan	a n a m e l j a n
+faurameljan	ɸ ɔ r a m e l j a n
+gameljan	ɡ a m e l j a n
+fauragameljan	ɸ ɔ r a ɣ a m e l j a n
+ufmeljan	u ɸ m e l j a n
+ufarmeljan	u ɸ a r m e l j a n
+mena	m e n a
+menoþs	m e n o θ s
+mereins	m e r i n s
+merila	m e r ɪ l a
+meriþa	m e r ɪ θ a
+merjan	m e r j a n
+merjands	m e r j a n d s
+usmerjan	u s m e r j a n
+wailamerjan	w ɛ l a m e r j a n
+wajamerjan	w a j a m e r j a n
+usmernan	u s m e r n a n
+mes	m e s
+midgardiwaddjus	m ɪ ð ɡ a r d ɪ w a dː j u s
+midjasweipains	m ɪ ð j a s w i p ɛ n s
+midjis	m ɪ ð j ɪ s
+midjungards	m ɪ ð j u n ɡ a r d s
+miduma	m ɪ ð u m a
+midumonds	m ɪ ð u m o n d s
+mikildūþs	m ɪ k ɪ l d u θ s
+mikilei	m ɪ k ɪ l i
+mikiljan	m ɪ k ɪ l j a n
+gamikiljan	ɡ a m ɪ k ɪ l j a n
+mikilnan	m ɪ k ɪ l n a n
+mikils	m ɪ k ɪ l s
+mikilþuhts	m ɪ k ɪ l θ u h t s
+mildiþa	m ɪ l d ɪ θ a
+milhma	m ɪ l h m a
+militon	m ɪ l ɪ t o n
+miliþ	m ɪ l ɪ θ
+miluks	m ɪ l u k s
+mimz	m ɪ m z
+minnists	m ɪ nː ɪ s t s
+minniza	m ɪ nː ɪ z a
+mins	m ɪ n s
+minznan	m ɪ n z n a n
+missadeþs	m ɪ sː a ð e θ s
+missaleiks	m ɪ sː a l i k s
+missaqiss	m ɪ sː a kʷ ɪ sː
+missataujands	m ɪ sː a t ɔ j a n d s
+misso	m ɪ sː o
+mitadjo	m ɪ t a ð j o
+mitan	m ɪ t a n
+gamitan	ɡ a m ɪ t a n
+usmitan	u s m ɪ t a n
+mitaþs	m ɪ t a θ s
+miton	m ɪ t o n
+ufarmiton	u ɸ a r m ɪ t o n
+mitons	m ɪ t o n s
+miþ	m ɪ θ
+miþgardawaddjus	m ɪ θ ɡ a r d a w a dː j u s
+miþþan	m ɪ θː a n
+miþþanei	m ɪ θː a n i
+miþwissei	m ɪ θ w ɪ sː i
+mizdo	m ɪ z d o
+modags	m o ð a ɣ s
+afmojan	a ɸ m o j a n
+moses	m o s e s
+mota	m o t a
+gamotan	ɡ a m o t a n
+motareis	m o t a r i s
+motastaþs	m o t a s t a θ s
+gamotjan	ɡ a m o t j a n
+wiþragamotjan	w ɪ θ r a ɣ a m o t j a n
+moþs	m o θ s
+mukamodei	m u k a m o ð i
+mulda	m u l d a
+muldeins	m u l d i n s
+faurmūljan	ɸ ɔ r m u l j a n
+munan	m u n a n
+gamunan	ɡ a m u n a n
+munan	m u n a n
+mundon	m u n d o n
+mundrei	m u n d r i
+ufarmunnon	u ɸ a r m u nː o n
+muns	m u n s
+munþs	m u n θ s
+nabaw	n a β a w
+nadre	n a ð r e
+naem	n a e m
+naggai	n a ŋ ɡ ɛ
+ganagljan	ɡ a n a ɣ l j a n
+binah	b ɪ n a h
+ganah	ɡ a n a h
+nahasson	n a h a sː o n
+nahtamats	n a h t a m a t s
+nahts	n a h t s
+naiman	n ɛ m a n
+naiteins	n ɛ t i n s
+ganaitjan	ɡ a n ɛ t j a n
+naitofaþeis	n ɛ t o ɸ a θ i s
+nakor	n a k o r
+namnjan	n a m n j a n
+ganamnjan	ɡ a n a m n j a n
+namo	n a m o
+anananþjan	a n a n a n θ j a n
+gananþjan	ɡ a n a n θ j a n
+naqadei	n a kʷ a ð i
+naqaþs	n a kʷ a θ s
+nardus	n a r d u s
+naseins	n a s i n s
+nasjan	n a s j a n
+nasjands	n a s j a n d s
+ganasjan	ɡ a n a s j a n
+nati	n a t ɪ
+natjan	n a t j a n
+ganatjan	ɡ a n a t j a n
+naþan	n a θ a n
+naubaimbair	n ɔ β ɛ m b ɛ r
+naudibandi	n ɔ ð ɪ β a n d ɪ
+naudiþaurfts	n ɔ ð ɪ θ ɔ r ɸ t s
+naudiþaurfts	n ɔ ð ɪ θ ɔ r ɸ t s
+nauel	n ɔ e l
+nauh	n ɔ h
+nauhþan	n ɔ h θ a n
+nauhþanuh	n ɔ h θ a n u h
+nauhuþþan	n ɔ h u θː a n
+naum	n ɔ m
+naus	n ɔ s
+nauþjan	n ɔ θ j a n
+ananauþjan	a n a n ɔ θ j a n
+nauþs	n ɔ θ s
+nawis	n a w ɪ s
+ganawistron	ɡ a n a w ɪ s t r o n
+miþganawistron	m ɪ θ ɡ a n a w ɪ s t r o n
+nazaraiþ	n a z a r ɛ θ
+nazoraius	n a z o r ɛ u s
+nazorenus	n a z o r e n u s
+ne	n e
+neƕ	n e ʍ
+neƕis	n e ʍ ɪ s
+neƕa	n e ʍ a
+neƕjan	n e ʍ j a n
+atneƕjan	a t n e ʍ j a n
+neƕundja	n e ʍ u n d j a
+nei	n i
+neiþ	n i θ
+nekaudemus	n e k ɔ ð e m u s
+neiwan	n i w a n
+nerins	n e r ɪ n s
+neþla	n e θ l a
+ni	n ɪ
+nibai	n ɪ β ɛ
+nidwa	n ɪ ð w a
+nih	n ɪ h
+nikaudemus	n ɪ k ɔ ð e m u s
+niman	n ɪ m a n
+afniman	a ɸ n ɪ m a n
+andniman	a n d n ɪ m a n
+atniman	a t n ɪ m a n
+biniman	b ɪ n ɪ m a n
+disniman	d ɪ s n ɪ m a n
+franiman	ɸ r a n ɪ m a n
+ganiman	ɡ a n ɪ m a n
+inniman	ɪ nː ɪ m a n
+miþniman	m ɪ θ n ɪ m a n
+usniman	u s n ɪ m a n
+ganisan	ɡ a n ɪ s a n
+nist	n ɪ s t
+niþan	n ɪ θ a n
+niþjis	n ɪ θ j ɪ s
+niþjo	n ɪ θ j o
+niu	n ɪ u
+niuhseins	n ɪ u h s i n s
+biniuhsjan	b ɪ n ɪ u h s j a n
+ananiujan	a n a n ɪ u j a n
+niujasatiþs	n ɪ u j a s a t ɪ θ s
+niujis	n ɪ u j ɪ s
+niujiþa	n ɪ u j ɪ θ a
+niuklahei	n ɪ u k l a h i
+niuklahs	n ɪ u k l a h s
+niun	n ɪ u n
+niunda	n ɪ u n d a
+niuntehund	n ɪ u n t e h u n d
+niutan	n ɪ u t a n
+ganiutan	ɡ a n ɪ u t a n
+ganohjan	ɡ a n o h j a n
+ganohnan	ɡ a n o h n a n
+notin	n o t ɪ n
+nu	n u
+nuh	n u h
+nunu	n u n u
+nuta	n u t a
+nwmfan	n w m ɸ a n
+o	o
+obeid	o β i ð
+odueia	o ð u i a
+ogan	o ɣ a n
+ogjan	o ɣ j a n
+ohteigo	o h t i ɣ o
+osaiin	o s ɛ ɪ n
+osanna	o s a nː a
+paida	p ɛ ð a
+gapaidon	ɡ a p ɛ ð o n
+paintekuste	p ɛ n t e k u s t e
+paitrus	p ɛ t r u s
+papan	p a p a n
+parakletus	p a r a k l e t u s
+paraskaiwe	p a r a s k ɛ w e
+paska	p a s k a
+pasxa	p a s χ a
+pauntius	p ɔ n t ɪ u s
+paurpura	p ɔ r p u r a
+paurpaura	p ɔ r p ɔ r a
+paurpuroþs	p ɔ r p u r o θ s
+pawlus	p a w l u s
+peikabagms	p i k a β a ɣ m̥ s
+peilatus	p i l a t u s
+pistikeins	p ɪ s t ɪ k i n s
+plapja	p l a p j a
+plat	p l a t
+plinsjan	p l ɪ n s j a n
+anapraggan	a n a p r a ŋ ɡ a n
+praitoriaun	p r ɛ t o r ɪ ɔ n
+praizbwtairei	p r ɛ z b w t ɛ r i
+praizbwtairi	p r ɛ z b w t ɛ r ɪ
+praufeteis	p r ɔ ɸ e t i s
+praufetes	p r ɔ ɸ e t e s
+praufetja	p r ɔ ɸ e t j a
+praufetjan	p r ɔ ɸ e t j a n
+priska	p r ɪ s k a
+psalmon	p s a l m o n
+pugg	p u ŋ ɡ
+pund	p u n d
+qainon	kʷ ɛ n o n
+qairrei	kʷ ɛ rː i
+qairrus	kʷ ɛ rː u s
+qairu	kʷ ɛ r u
+qartus	kʷ a r t u s
+qens	kʷ e n s
+qiman	kʷ ɪ m a n
+anaqiman	a n a kʷ ɪ m a n
+biqiman	b ɪ kʷ ɪ m a n
+fauraqiman	ɸ ɔ r a kʷ ɪ m a n
+fraqiman	ɸ r a kʷ ɪ m a n
+gaqiman	ɡ a kʷ ɪ m a n
+miþqiman	m ɪ θ kʷ ɪ m a n
+usqiman	u s kʷ ɪ m a n
+qinakunds	kʷ ɪ n a k u n d s
+qineins	kʷ ɪ n i n s
+qino	kʷ ɪ n o
+qisteins	kʷ ɪ s t i n s
+qistjan	kʷ ɪ s t j a n
+fraqistjan	ɸ r a kʷ ɪ s t j a n
+usqistjan	u s kʷ ɪ s t j a n
+fraqistnan	ɸ r a kʷ ɪ s t n a n
+qiþan	kʷ ɪ θ a n
+afqiþan	a ɸ kʷ ɪ θ a n
+anaqiþan	a n a kʷ ɪ θ a n
+andqiþan	a n d kʷ ɪ θ a n
+faurqiþan	ɸ ɔ r kʷ ɪ θ a n
+fauraqiþan	ɸ ɔ r a kʷ ɪ θ a n
+fraqiþan	ɸ r a kʷ ɪ θ a n
+gaqiþan	ɡ a kʷ ɪ θ a n
+miþqiþan	m ɪ θ kʷ ɪ θ a n
+usqiþan	u s kʷ ɪ θ a n
+qiþuhafto	kʷ ɪ θ u h a ɸ t o
+qiþus	kʷ ɪ θ u s
+anaqiujan	a n a kʷ ɪ u j a n
+gaqiujan	ɡ a kʷ ɪ u j a n
+miþgaqiujan	m ɪ θ ɡ a kʷ ɪ u j a n
+gaqiunan	ɡ a kʷ ɪ u n a n
+qius	kʷ ɪ u s
+qrammiþa	kʷ r a mː ɪ θ a
+qums	kʷ u m s
+rabbaunei	r a bː ɔ n i
+rabbei	r a bː i
+ragaw	r a ɣ a w
+ragin	r a ɣ ɪ n
+ragineis	r a ɣ ɪ n i s
+raginon	r a ɣ ɪ n o n
+garaginon	ɡ a r a ɣ ɪ n o n
+rahnjan	r a h n j a n
+faurarahnjan	ɸ ɔ r a r a h n j a n
+garahnjan	ɡ a r a h n j a n
+rahton	r a h t o n
+raibaikka	r ɛ β ɛ kː a
+raidjan	r ɛ ð j a n
+garaidjan	ɡ a r ɛ ð j a n
+raihtis	r ɛ h t ɪ s
+gáraihtjan	ɡ a r ɛ h t j a n
+atgáraihtjan	a t ɡ a r ɛ h t j a n
+raihts	r ɛ h t s
+raihtaba	r ɛ h t a β a
+urraisjan	u rː ɛ s j a n
+raka	r a k a
+ufrakjan	u ɸ r a k j a n
+rama	r a m a
+urrannjan	u rː a nː j a n
+rasta	r a s t a
+garaþjan	ɡ a r a θ j a n
+raþjo	r a θ j o
+raþizo	r a θ ɪ z o
+biraubon	b ɪ r ɔ β o n
+inrauhtjan	ɪ n r ɔ h t j a n
+raupjan	r ɔ p j a n
+raus	r ɔ s
+rauþs	r ɔ θ s
+razda	r a z d a
+razn	r a z n̥
+garedan	ɡ a r e ð a n
+fauragaredan	ɸ ɔ r a ɣ a r e ð a n
+undredan	u n d r e ð a n
+urredan	u rː e ð a n
+reiki	r i k ɪ
+reikinon	r i k ɪ n o n
+reikeis	r i k i s
+reiks	r i k s
+reiks	r i k s
+reiran	r i r a n
+inreiran	ɪ n r i r a n
+reiro	r i r o
+urreisan	u rː i s a n
+resa	r e s a
+rign	r ɪ ɣ n̥
+rignjan	r ɪ ɣ n j a n
+rikan	r ɪ k a n
+rimis	r ɪ m ɪ s
+rinnan	r ɪ nː a n
+andrinnan	a n d r ɪ nː a n
+atrinnan	a t r ɪ nː a n
+duatrinnan	d u a t r ɪ nː a n
+birinnan	b ɪ r ɪ nː a n
+durinnan	d u r ɪ nː a n
+fairrinnan	ɸ ɛ rː ɪ nː a n
+faurrinnan	ɸ ɔ rː ɪ nː a n
+frarinnan	ɸ r a r ɪ nː a n
+garinnan	ɡ a r ɪ nː a n
+undrinnan	u n d r ɪ nː a n
+urrinnan	u rː ɪ nː a n
+rinno	r ɪ nː o
+riqis	r ɪ kʷ ɪ s
+riqizeins	r ɪ kʷ ɪ z i n s
+riqizjan	r ɪ kʷ ɪ z j a n
+riurei	r ɪ u r i
+riurjan	r ɪ u r j a n
+riureis	r ɪ u r i s
+riurs	r ɪ u r s
+rodjan	r o ð j a n
+birodjan	b ɪ r o ð j a n
+miþrodjan	m ɪ θ r o ð j a n
+rohsns	r o h s n̥ s
+rufus	r u ɸ u s
+rūmis	r u m ɪ s
+rūma	r u m a
+urrūmnan	u rː u m n a n
+rūmoneis	r u m o n i s
+rūms	r u m s
+rūna	r u n a
+runs	r u n s
+sa	s a
+sabaillius	s a β ɛ lː ɪ u s
+saban	s a β a n
+sabaoþ	s a β a o θ
+sabbato	s a bː a t o
+saddukaieis	s a dː u k ɛ i s
+sads	s a ð s
+saei	s a i
+saggqjan	s a ŋ ɡ kʷ j a n
+ufsaggqjan	u ɸ s a ŋ ɡ kʷ j a n
+ufsaggqjan	u ɸ s a ŋ ɡ kʷ j a n
+saggqa	s a ŋ ɡ kʷ a
+saggws	s a ɡ ɡ w s
+sah	s a h
+saƕazuh	s a ʍ a z u h
+sai	s ɛ
+saian	s ɛ a n
+insaian	ɪ n s ɛ a n
+saihs	s ɛ h s
+saihsta	s ɛ h s t a
+saiƕan	s ɛ ʍ a n
+andsaiƕan	a n d s ɛ ʍ a n
+atsaiƕan	a t s ɛ ʍ a n
+bisaiƕan	b ɪ s ɛ ʍ a n
+gasaiƕan	ɡ a s ɛ ʍ a n
+insaiƕan	ɪ n s ɛ ʍ a n
+þairhsaiƕan	θ ɛ r h s ɛ ʍ a n
+ussaiƕan	u sː ɛ ʍ a n
+insailjan	ɪ n s ɛ l j a n
+sailaum	s ɛ l ɔ m
+saimaiein	s ɛ m ɛ i n
+sainjan	s ɛ n j a n
+sáir	s ɛ r
+sairok	s ɛ r o k
+saiwala	s ɛ w a l a
+saiws	s ɛ w s
+saixaineia	s ɛ χ ɛ n i a
+sakan	s a k a n
+andsakan	a n d s a k a n
+gasakan	ɡ a s a k a n
+insakan	ɪ n s a k a n
+anainsakan	a n ɛ n s a k a n
+ussakan	u sː a k a n
+sakjo	s a k j o
+sakkus	s a kː u s
+sakuls	s a k u l s
+salamis	s a l a m ɪ s
+salaþiel	s a l a θ ɪ e l
+salbon	s a l b o n
+gasalbon	ɡ a s a l b o n
+salbons	s a l b o n s
+saldra	s a l d r a
+saliþwos	s a l ɪ θ w o s
+saljan	s a l j a n
+andsaljan	a n d s a l j a n
+gasaljan	ɡ a s a l j a n
+saljan	s a l j a n
+ussaljan	u sː a l j a n
+salmon	s a l m o n
+salome	s a l o m e
+salt	s a l t
+saltan	s a l t a n
+sama	s a m a
+samafraþjis	s a m a ɸ r a θ j ɪ s
+samakuns	s a m a k u n s
+samalauþs	s a m a l ɔ θ s
+samaleiks	s a m a l i k s
+samaleiko	s a m a l i k o
+samana	s a m a n a
+samaqiss	s a m a kʷ ɪ sː
+samareites	s a m a r i t e s
+samaria	s a m a r ɪ a
+samasaiwals	s a m a s ɛ w a l s
+samaþ	s a m a θ
+samjan	s a m j a n
+sandjan	s a n d j a n
+gasandjan	ɡ a s a n d j a n
+fauragasandjan	ɸ ɔ r a ɣ a s a n d j a n
+insandjan	ɪ n s a n d j a n
+miþinsandjan	m ɪ θ ɪ n s a n d j a n
+gamiþsandjan	ɡ a m ɪ θ s a n d j a n
+ussandjan	u sː a n d j a n
+saraipta	s a r ɛ p t a
+sarra	s a rː a
+sarwa	s a r w a
+satana	s a t a n a
+satjan	s a t j a n
+afsatjan	a ɸ s a t j a n
+atsatjan	a t s a t j a n
+bisatjan	b ɪ s a t j a n
+gasatjan	ɡ a s a t j a n
+fauragasatjan	ɸ ɔ r a ɣ a s a t j a n
+miþsatjan	m ɪ θ s a t j a n
+ussatjan	u sː a t j a n
+saþs	s a θ s
+saudauma	s ɔ ð ɔ m a
+sauhts	s ɔ h t s
+sauïl	s ɔ ɪ̈ l
+saulaumon	s ɔ l ɔ m o n
+bisauljan	b ɪ s ɔ l j a n
+bisaulnan	b ɪ s ɔ l n a n
+sauls	s ɔ l s
+saur	s ɔ r
+saurais	s ɔ r ɛ s
+saurga	s ɔ r ɡ a
+saurgan	s ɔ r ɡ a n
+saurini	s ɔ r ɪ n ɪ
+sauþa	s ɔ θ a
+sauþs	s ɔ θ s
+sei	s i
+seidona	s i ð o n a
+seidoneis	s i ð o n i s
+seimon	s i m o n
+seina	s i n a
+sik	s ɪ k
+seinaigairnai	s i n ɛ ɣ ɛ r n ɛ
+seins	s i n s
+seiteins	s i t i n s
+seiþus	s i θ u s
+selei	s e l i
+sels	s e l s
+sem	s e m
+seþ	s e θ
+sibakþanei	s ɪ β a k θ a n i
+sibja	s ɪ β j a
+gasibjon	ɡ a s ɪ β j o n
+sibun	s ɪ β u n
+sibuntehund	s ɪ β u n t e h u n d
+sidon	s ɪ ð o n
+sidus	s ɪ ð u s
+sifan	s ɪ ɸ a n
+siggwan	s ɪ ɡ ɡ w a n
+ussiggwan	u sː ɪ ɡ ɡ w a n
+sigis	s ɪ ɣ ɪ s
+sigislaun	s ɪ ɣ ɪ s l ɔ n
+sigljan	s ɪ ɣ l j a n
+faursigljan	ɸ ɔ r s ɪ ɣ l j a n
+gasigljan	ɡ a s ɪ ɣ l j a n
+sigljo	s ɪ ɣ l j o
+sigqan	s ɪ ŋ kʷ a n
+dissigqan	d ɪ sː ɪ ŋ kʷ a n
+gasiggqan	ɡ a s ɪ ŋ ɡ kʷ a n
+sihw	s ɪ h w
+sikls	s ɪ k l̥ s
+anasilan	a n a s ɪ l a n
+silba	s ɪ l b a
+silbanus	s ɪ l b a n u s
+silbasiuneis	s ɪ l b a s ɪ u n i s
+silbawiljis	s ɪ l b a w ɪ l j ɪ s
+sildaleik	s ɪ l d a l i k
+sildaleikjan	s ɪ l d a l i k j a n
+sildaleiknan	s ɪ l d a l i k n a n
+sildaleiks	s ɪ l d a l i k s
+siloam	s ɪ l o a m
+silubr	s ɪ l u β r̥
+silubreins	s ɪ l u β r i n s
+simle	s ɪ m l e
+sinapis	s ɪ n a p ɪ s
+sineigs	s ɪ n i ɣ s
+sinista	s ɪ n ɪ s t a
+sinteins	s ɪ n t i n s
+sinteino	s ɪ n t i n o
+sinþs	s ɪ n θ s
+sion	s ɪ o n
+siponeis	s ɪ p o n i s
+siponjan	s ɪ p o n j a n
+sitan	s ɪ t a n
+andsitan	a n d s ɪ t a n
+bisitan	b ɪ s ɪ t a n
+bisitands	b ɪ s ɪ t a n d s
+dissitan	d ɪ sː ɪ t a n
+gasitan	ɡ a s ɪ t a n
+ussitan	u sː ɪ t a n
+sitls	s ɪ t l̥ s
+siujan	s ɪ u j a n
+siukan	s ɪ u k a n
+siukei	s ɪ u k i
+siuks	s ɪ u k s
+siuns	s ɪ u n s
+skaban	s k a β a n
+biskaban	b ɪ s k a β a n
+skadus	s k a ð u s
+ufarskadwjan	u ɸ a r s k a ð w j a n
+skaftjan	s k a ɸ t j a n
+skaidan	s k ɛ ð a n
+afskaidan	a ɸ s k ɛ ð a n
+disskaidan	d ɪ sː k ɛ ð a n
+gaskaidan	ɡ a s k ɛ ð a n
+gaskaidnan	ɡ a s k ɛ ð n a n
+skal	s k a l
+skalja	s k a l j a
+skalkinassus	s k a l k ɪ n a sː u s
+skalkinon	s k a l k ɪ n o n
+miþskalkinon	m ɪ θ s k a l k ɪ n o n
+skalks	s k a l k s
+skaman	s k a m a n
+gaskaman	ɡ a s k a m a n
+skanda	s k a n d a
+gaskapjan	ɡ a s k a p j a n
+skariotau	s k a r ɪ o t ɔ
+usskarjan	u sː k a r j a n
+skattja	s k a tː j a
+skatts	s k a tː s
+skaþaila	s k a θ ɛ l a
+skaþis	s k a θ ɪ s
+skaþjan	s k a θ j a n
+gaskaþjan	ɡ a s k a θ j a n
+skaþuls	s k a θ u l s
+skaudaraip	s k ɔ ð a r ɛ p
+skauns	s k ɔ n s
+skauneis	s k ɔ n i s
+skaurpjo	s k ɔ r p j o
+skauta	s k ɔ t a
+usskaujan	u sː k ɔ j a n
+skeimam	s k i m a m
+skeinan	s k i n a n
+biskeinan	b ɪ s k i n a n
+skeireins	s k i r i n s
+gaskeirjan	ɡ a s k i r j a n
+skeirs	s k i r s
+skewjan	s k e w j a n
+skildus	s k ɪ l d u s
+skilja	s k ɪ l j a
+skilliggs	s k ɪ lː ɪ ŋ ɡ s
+skip	s k ɪ p
+afskiuban	a ɸ s k ɪ u β a n
+skohs	s k o h s
+skohsl	s k o h s l̥
+disskreitan	d ɪ sː k r i t a n
+disskritnan	d ɪ sː k r ɪ t n a n
+skufta	s k u ɸ t a
+skuggwa	s k u ɡ ɡ w a
+skula	s k u l a
+skulan	s k u l a n
+skūra	s k u r a
+skwþus	s k w θ u s
+slahals	s l a h a l s
+slahan	s l a h a n
+afslahan	a ɸ s l a h a n
+slahs	s l a h s
+slaihts	s l ɛ h t s
+slauhts	s l ɔ h t s
+afslaupjan	a ɸ s l ɔ p j a n
+afslauþjan	a ɸ s l ɔ θ j a n
+afslauþnan	a ɸ s l ɔ θ n a n
+slawan	s l a w a n
+anaslawan	a n a s l a w a n
+gaslawan	ɡ a s l a w a n
+sleiþa	s l i θ a
+sleiþei	s l i θ i
+gasleiþjan	ɡ a s l i θ j a n
+sleiþs	s l i θ s
+sleideis	s l i ð i s
+slepan	s l e p a n
+anaslepan	a n a s l e p a n
+gaslepan	ɡ a s l e p a n
+sleps	s l e p s
+fraslindan	ɸ r a s l ɪ n d a n
+sliupan	s l ɪ u p a n
+ufsliupan	u ɸ s l ɪ u p a n
+smairþr	s m ɛ r θ r̥
+smakka	s m a kː a
+smakkabagms	s m a kː a β a ɣ m̥ s
+smalista	s m a l ɪ s t a
+smarna	s m a r n a
+bismeitan	b ɪ s m i t a n
+gasmeitan	ɡ a s m i t a n
+gasmiþon	ɡ a s m ɪ θ o n
+smwrn	s m w r n̥
+snaga	s n a ɣ a
+snaiws	s n ɛ w s
+atsnarpjan	a t s n a r p j a n
+sneiþan	s n i θ a n
+afsneiþan	a ɸ s n i θ a n
+ufsneiþan	u ɸ s n i θ a n
+sniumjan	s n ɪ u m j a n
+gasniumjan	ɡ a s n ɪ u m j a n
+sniumundo	s n ɪ u m u n d o
+sniumundos	s n ɪ u m u n d o s
+sniwan	s n ɪ w a n
+duatsniwan	d u a t s n ɪ w a n
+bisniwan	b ɪ s n ɪ w a n
+faurbisniwan	ɸ ɔ r b ɪ s n ɪ w a n
+faursniwan	ɸ ɔ r s n ɪ w a n
+gasniwan	ɡ a s n ɪ w a n
+snorjo	s n o r j o
+snutrei	s n u t r i
+snutrs	s n u t r̥ s
+so	s o
+sokareis	s o k a r i s
+sokeins	s o k i n s
+sokjan	s o k j a n
+gasokjan	ɡ a s o k j a n
+miþsokjan	m ɪ θ s o k j a n
+ussokjan	u sː o k j a n
+sokns	s o k n̥ s
+soseipatrus	s o s i p a t r u s
+soþa	s o θ a
+gasoþjan	ɡ a s o θ j a n
+spaikulatur	s p ɛ k u l a t u r
+spaiskuldra	s p ɛ s k u l d r a
+sparwa	s p a r w a
+spaurds	s p ɔ r d s
+speiwan	s p i w a n
+andspeiwan	a n d s p i w a n
+bispeiwan	b ɪ s p i w a n
+gaspeiwan	ɡ a s p i w a n
+spediza	s p e ð ɪ z a
+spedists	s p e ð ɪ s t s
+spedumists	s p e ð u m ɪ s t s
+spilda	s p ɪ l d a
+spill	s p ɪ lː
+spilla	s p ɪ lː a
+spillon	s p ɪ lː o n
+gaspillon	ɡ a s p ɪ lː o n
+þiuþspillon	θ ɪ u θ s p ɪ lː o n
+usspillon	u sː p ɪ lː o n
+wailaspillon	w ɛ l a s p ɪ lː o n
+spinnan	s p ɪ nː a n
+sprauto	s p r ɔ t o
+spwreidans	s p w r i ð a n s
+stabeis	s t a β i s
+usstagg	u sː t a ŋ ɡ
+gastagqjan	ɡ a s t a ŋ kʷ j a n
+staifanus	s t ɛ ɸ a n u s
+staiga	s t ɛ ɣ a
+stainahs	s t ɛ n a h s
+staineins	s t ɛ n i n s
+stainjan	s t ɛ n j a n
+stains	s t ɛ n s
+stairno	s t ɛ r n o
+stairo	s t ɛ r o
+staks	s t a k s
+andstaldan	a n d s t a l d a n
+gastaldan	ɡ a s t a l d a n
+stamms	s t a mː s
+standan	s t a n d a n
+afstandan	a ɸ s t a n d a n
+andstandan	a n d s t a n d a n
+atstandan	a t s t a n d a n
+bistandan	b ɪ s t a n d a n
+faurastandan	ɸ ɔ r a s t a n d a n
+gastandan	ɡ a s t a n d a n
+instandan	ɪ n s t a n d a n
+miþstandan	m ɪ θ s t a n d a n
+twisstandan	t w ɪ sː t a n d a n
+usstandan	u sː t a n d a n
+staþa	s t a θ a
+staþs	s t a θ s
+staua	s t ɔ a
+staua	s t ɔ a
+stauastols	s t ɔ a s t o l s
+gastaurknan	ɡ a s t ɔ r k n a n
+andstaurran	a n d s t ɔ rː a n
+stautan	s t ɔ t a n
+steigan	s t i ɣ a n
+atsteigan	a t s t i ɣ a n
+gasteigan	ɡ a s t i ɣ a n
+ufarsteigan	u ɸ a r s t i ɣ a n
+ussteigan	u sː t i ɣ a n
+stibna	s t ɪ β n a
+usstigg	u sː t ɪ ŋ ɡ
+stigqan	s t ɪ ŋ kʷ a n
+bistigqan	b ɪ s t ɪ ŋ kʷ a n
+gastiggqan	ɡ a s t ɪ ŋ ɡ kʷ a n
+stikls	s t ɪ k l̥ s
+stiks	s t ɪ k s
+stilan	s t ɪ l a n
+stiur	s t ɪ u r
+stiurjan	s t ɪ u r j a n
+stiwiti	s t ɪ w ɪ t ɪ
+anastodjan	a n a s t o ð j a n
+dustodjan	d u s t o ð j a n
+stojan	s t o j a n
+gastojan	ɡ a s t o j a n
+stols	s t o l s
+stomin	s t o m ɪ n
+gastoþan	ɡ a s t o θ a n
+straujan	s t r ɔ j a n
+gastraujan	ɡ a s t r ɔ j a n
+ufstraujan	u ɸ s t r ɔ j a n
+striks	s t r ɪ k s
+stubjus	s t u β j u s
+sulja	s u l j a
+gasuljan	ɡ a s u l j a n
+suman	s u m a n
+sums	s u m s
+sundro	s u n d r o
+sunja	s u n j a
+sunjaifriþas	s u n j ɛ ɸ r ɪ θ a s
+sunjeins	s u n j i n s
+sunjis	s u n j ɪ s
+sunjon	s u n j o n
+gasunjon	ɡ a s u n j o n
+sunjons	s u n j o n s
+sunno	s u nː o
+suns	s u n s
+sunsaiw	s u n s ɛ w
+sunsei	s u n s i
+sunus	s u n u s
+supon	s u p o n
+gasupon	ɡ a s u p o n
+suqnis	s u kʷ n ɪ s
+susanna	s u s a nː a
+sutis	s u t ɪ s
+suþjan	s u θ j a n
+suþjon	s u θ j o n
+swa	s w a
+swaei	s w a i
+afswaggwjan	a ɸ s w a ɡ ɡ w j a n
+swah	s w a h
+swaihra	s w ɛ h r a
+swaihro	s w ɛ h r o
+afswairban	a ɸ s w ɛ r b a n
+biswairban	b ɪ s w ɛ r b a n
+swalauþs	s w a l ɔ θ s
+swaleiks	s w a l i k s
+swamm	s w a mː
+swaran	s w a r a n
+biswaran	b ɪ s w a r a n
+ufarswaran	u ɸ a r s w a r a n
+sware	s w a r e
+swartiza	s w a r t ɪ z a
+swartizla	s w a r t ɪ z l a
+swarts	s w a r t s
+swaswe	s w a s w e
+swaþþan	s w a θː a n
+swau	s w ɔ
+swe	s w e
+swegniþa	s w e ɣ n ɪ θ a
+swegnjan	s w e ɣ n j a n
+sweiban	s w i β a n
+swein	s w i n
+sweran	s w e r a n
+gasweran	ɡ a s w e r a n
+unsweran	u n s w e r a n
+sweriþa	s w e r ɪ θ a
+swers	s w e r s
+swes	s w e s
+swes	s w e s
+sweþauh	s w e θ ɔ h
+swibla	s w ɪ β l a
+swiglja	s w ɪ ɣ l j a
+swiglon	s w ɪ ɣ l o n
+swigniþa	s w ɪ ɣ n ɪ θ a
+swiknei	s w ɪ k n i
+swikneins	s w ɪ k n i n s
+swikniþa	s w ɪ k n ɪ θ a
+swikns	s w ɪ k n̥ s
+gaswikunþjan	ɡ a s w ɪ k u n θ j a n
+swikunþs	s w ɪ k u n θ s
+swiltan	s w ɪ l t a n
+gaswiltan	ɡ a s w ɪ l t a n
+miþgaswiltan	m ɪ θ ɡ a s w ɪ l t a n
+swinþei	s w ɪ n θ i
+gaswinþjan	ɡ a s w ɪ n θ j a n
+inswinþjan	ɪ n s w ɪ n θ j a n
+swinþnan	s w ɪ n θ n a n
+gaswinþnan	ɡ a s w ɪ n θ n a n
+swinþs	s w ɪ n θ s
+swistar	s w ɪ s t a r
+swmaion	s w m ɛ o n
+swnagogafaþs	s w n a ɣ o ɣ a ɸ a θ s
+swnagoge	s w n a ɣ o ɣ e
+swntwke	s w n t w k e
+swogatjan	s w o ɣ a t j a n
+gaswogjan	ɡ a s w o ɣ j a n
+ufswogjan	u ɸ s w o ɣ j a n
+swria	s w r ɪ a
+swultawairþja	s w u l t a w ɛ r θ j a
+swumfsl	s w u m ɸ s l̥
+tagl	t a ɣ l̥
+tagr	t a ɣ r̥
+tagrjan	t a ɣ r j a n
+tahjan	t a h j a n
+distahjan	d ɪ s t a h j a n
+taihswa	t ɛ h s w a
+taihswa	t ɛ h s w a
+taihun	t ɛ h u n
+taihunda	t ɛ h u n d a
+taihuntaihundfalþs	t ɛ h u n t ɛ h u n d ɸ a l θ s
+taihuntehund	t ɛ h u n t e h u n d
+taihunteweis	t ɛ h u n t e w i s
+taikn	t ɛ k n̥
+taiknjan	t ɛ k n j a n
+gataiknjan	ɡ a t ɛ k n j a n
+ustaiknjan	u s t ɛ k n j a n
+taikns	t ɛ k n̥ s
+tainjo	t ɛ n j o
+tains	t ɛ n s
+distairan	d ɪ s t ɛ r a n
+gatairan	ɡ a t ɛ r a n
+tairtius	t ɛ r t ɪ u s
+taitrarkes	t ɛ t r a r k e s
+taleiþa	t a l i θ a
+talzeins	t a l z i n s
+talzjan	t a l z j a n
+talzjands	t a l z j a n d s
+gatalzjan	ɡ a t a l z j a n
+gatamjan	ɡ a t a m j a n
+tandjan	t a n d j a n
+gatandjan	ɡ a t a n d j a n
+intandjan	ɪ n t a n d j a n
+gatarhjan	ɡ a t a r h j a n
+tarmjan	t a r m j a n
+gatarnjan	ɡ a t a r n j a n
+taui	t ɔ ɪ
+taujan	t ɔ j a n
+gataujan	ɡ a t ɔ j a n
+missataujan	m ɪ sː a t ɔ j a n
+aftaurnan	a ɸ t ɔ r n a n
+distaurnan	d ɪ s t ɔ r n a n
+gataurnan	ɡ a t ɔ r n a n
+teibairius	t i β ɛ r ɪ u s
+gateihan	ɡ a t i h a n
+fauragateihan	ɸ ɔ r a ɣ a t i h a n
+teikan	t i k a n
+teimaius	t i m ɛ u s
+teimauþaius	t i m ɔ θ ɛ u s
+teitus	t i t u s
+tekan	t e k a n
+attekan	a tː e k a n
+tewa	t e w a
+gatewjan	ɡ a t e w j a n
+tibairiadau	t ɪ β ɛ r ɪ a ð ɔ
+tibairiadeis	t ɪ β ɛ r ɪ a ð i s
+tigjus	t ɪ ɣ j u s
+andtilon	a n d t ɪ l o n
+gatilon	ɡ a t ɪ l o n
+gagátilon	ɡ a ɣ a t ɪ l o n
+til	t ɪ l
+gatiman	ɡ a t ɪ m a n
+timbrjan	t ɪ m b r j a n
+timreins	t ɪ m r i n s
+timrja	t ɪ m r j a
+timrjan	t ɪ m r j a n
+anatimrjan	a n a t ɪ m r j a n
+gatimrjan	ɡ a t ɪ m r j a n
+miþgatimrjan	m ɪ θ ɡ a t ɪ m r j a n
+tiuhan	t ɪ u h a n
+aftiuhan	a ɸ t ɪ u h a n
+attiuhan	a tː ɪ u h a n
+innattiuhan	ɪ nː a tː ɪ u h a n
+bitiuhan	b ɪ t ɪ u h a n
+gatiuhan	ɡ a t ɪ u h a n
+miþgatiuhan	m ɪ θ ɡ a t ɪ u h a n
+ustiuhan	u s t ɪ u h a n
+tobeias	t o β i a s
+trakauneitidaus	t r a k ɔ n i t ɪ ð ɔ s
+trauains	t r ɔ ɛ n s
+trauan	t r ɔ a n
+gatrauan	ɡ a t r ɔ a n
+trauadai	t r ɔ a ð ɛ
+trausti	t r ɔ s t ɪ
+triggwa	t r ɪ ɡ ɡ w a
+triggws	t r ɪ ɡ ɡ w s
+triggwaba	t r ɪ ɡ ɡ w a β a
+trigo	t r ɪ ɣ o
+anatrimpan	a n a t r ɪ m p a n
+triu	t r ɪ u
+triweins	t r ɪ w i n s
+trudan	t r u ð a n
+gatrudan	ɡ a t r u ð a n
+intrusgjan	ɪ n t r u s ɡ j a n
+ufartrusnjan	u ɸ a r t r u s n j a n
+tuggl	t u ŋ ɡ l̥
+tuggo	t u ŋ ɡ o
+tulgiþa	t u l ɡ ɪ θ a
+tulgjan	t u l ɡ j a n
+gatulgjan	ɡ a t u l ɡ j a n
+tulgus	t u l ɡ u s
+tundnan	t u n d n a n
+intundnan	ɪ n t u n d n a n
+tunþus	t u n θ u s
+twai	t w ɛ
+twalibwintrus	t w a l ɪ β w ɪ n t r u s
+twalif	t w a l ɪ ɸ
+tweifleins	t w i ɸ l i n s
+tweifljan	t w i ɸ l j a n
+tweifl	t w i ɸ l̥
+tweihnai	t w i h n ɛ
+twisstass	t w ɪ sː t a sː
+twkeikus	t w k i k u s
+twra	t w r a
+þaddaius	θ a dː ɛ u s
+þadei	θ a ð i
+þagk	θ a ŋ k
+þagkjan	θ a ŋ k j a n
+andþagkjan	a n d θ a ŋ k j a n
+biþagkjan	b ɪ θ a ŋ k j a n
+þahains	θ a h ɛ n s
+þahan	θ a h a n
+gaþahan	ɡ a θ a h a n
+þāho	θ a h o
+þaiaufeilus	θ ɛ ɔ ɸ i l u s
+þairh	θ ɛ r h
+þairko	θ ɛ r k o
+gaþairsan	ɡ a θ ɛ r s a n
+þaissaloneikai	θ ɛ sː a l o n i k ɛ
+þaissalauneikaie	θ ɛ sː a l ɔ n i k ɛ e
+þan	θ a n
+þanamais	θ a n a m ɛ s
+þanaseiþs	θ a n a s i θ s
+þande	θ a n d e
+þanei	θ a n i
+ufþanjan	u ɸ θ a n j a n
+þank	θ a n k
+þannu	θ a nː u
+þanuh	θ a n u h
+þar	θ a r
+þara	θ a r a
+þarba	θ a r b a
+gaþarban	ɡ a θ a r b a n
+þarbs	θ a r b s
+þarei	θ a r i
+þarf	θ a r ɸ
+þarihs	θ a r ɪ h s
+þaruh	θ a r u h
+þata	θ a t a
+þatain	θ a t ɛ n
+þatainei	θ a t ɛ n i
+þatei	θ a t i
+þatist	θ a t ɪ s t
+þatuh	θ a t u h
+þaþro	θ a θ r o
+þaþroei	θ a θ r o i
+þaþroh	θ a θ r o h
+þau	θ ɔ
+þauhjabai	θ ɔ h j a β ɛ
+þaurban	θ ɔ r b a n
+þaurfts	θ ɔ r ɸ t s
+þaurfts	θ ɔ r ɸ t s
+þaurneins	θ ɔ r n i n s
+þaurnus	θ ɔ r n u s
+þaurp	θ ɔ r p
+þaursjan	θ ɔ r s j a n
+afþaursjan	a ɸ θ ɔ r s j a n
+gaþaursnan	ɡ a θ ɔ r s n a n
+þaurstei	θ ɔ r s t i
+þaursus	θ ɔ r s u s
+þe	θ e
+þeei	θ e i
+þei	θ i
+þeihan	θ i h a n
+gaþeihan	ɡ a θ i h a n
+ufarþeihan	u ɸ a r θ i h a n
+þeihs	θ i h s
+þeiƕo	θ i ʍ o
+þeins	θ i n s
+þewisa	θ e w ɪ s a
+atþinsan	a t θ ɪ n s a n
+þishun	θ ɪ s h u n
+þisƕaduh	θ ɪ s ʍ a ð u h
+þisƕah	θ ɪ s ʍ a h
+þisƕaruh	θ ɪ s ʍ a r u h
+þisƕazuh	θ ɪ s ʍ a z u h
+þiubi	θ ɪ u β ɪ
+þiubjo	θ ɪ u β j o
+þiuda	θ ɪ u ð a
+þiudangardi	θ ɪ u ð a n ɡ a r d ɪ
+þiudanon	θ ɪ u ð a n o n
+miþþiudanon	m ɪ θː ɪ u ð a n o n
+þiudans	θ ɪ u ð a n s
+þiudinassus	θ ɪ u ð ɪ n a sː u s
+þiudisko	θ ɪ u ð ɪ s k o
+þiufs	θ ɪ u ɸ s
+þiumagus	θ ɪ u m a ɣ u s
+þius	θ ɪ u s
+þiuþ	θ ɪ u θ
+þiuþeigs	θ ɪ u θ i ɣ s
+þiuþeins	θ ɪ u θ i n s
+þiuqiss	θ ɪ u kʷ ɪ sː
+þiuþjan	θ ɪ u θ j a n
+gaþiuþjan	ɡ a θ ɪ u θ j a n
+unþiuþjan	u n θ ɪ u θ j a n
+þiwadw	θ ɪ w a ð w
+anaþiwan	a n a θ ɪ w a n
+gaþiwan	ɡ a θ ɪ w a n
+þiwi	θ ɪ w ɪ
+þlahsjan	θ l a h s j a n
+gaþlahsnan	ɡ a θ l a h s n a n
+gaþláihan	ɡ a θ l ɛ h a n
+þlaqus	θ l a kʷ u s
+þlauhs	θ l ɔ h s
+þliuhan	θ l ɪ u h a n
+afþliuhan	a ɸ θ l ɪ u h a n
+gaþliuhan	ɡ a θ l ɪ u h a n
+unþaþliuhan	u n θ a θ l ɪ u h a n
+þomas	θ o m a s
+þrafsteins	θ r a ɸ s t i n s
+þrafstjan	θ r a ɸ s t j a n
+anaþrafstjan	a n a θ r a ɸ s t j a n
+gaþrafstjan	ɡ a θ r a ɸ s t j a n
+þragjan	θ r a ɣ j a n
+biþragjan	b ɪ θ r a ɣ j a n
+þramstei	θ r a m s t i
+þrasabalþei	θ r a s a β a l θ i
+þreihan	θ r i h a n
+gaþreihan	ɡ a θ r i h a n
+þreihsl	θ r i h s l̥
+þreis	θ r i s
+þridja	θ r ɪ ð j a
+þriskan	θ r ɪ s k a n
+usþriutan	u s θ r ɪ u t a n
+þroþjan	θ r o θ j a n
+usþroþjan	u s θ r o θ j a n
+þrūtsfill	θ r u t s ɸ ɪ lː
+þrutsfills	θ r u t s ɸ ɪ lː s
+þu	θ u
+þuei	θ u i
+þugkjan	θ u ŋ k j a n
+þuhtus	θ u h t u s
+þulains	θ u l ɛ n s
+þulan	θ u l a n
+gaþulan	ɡ a θ u l a n
+usþulan	u s θ u l a n
+þūsundi	θ u s u n d ɪ
+þusundifaþs	θ u s u n d ɪ ɸ a θ s
+þuthaurn	θ u t h ɔ r n̥
+þuthaurnjan	θ u t h ɔ r n j a n
+þwahan	θ w a h a n
+afþwahan	a ɸ θ w a h a n
+biþwahan	b ɪ θ w a h a n
+usþwahan	u s θ w a h a n
+þwahl	θ w a h l̥
+þwairhei	θ w ɛ r h i
+þwairhs	θ w ɛ r h s
+þwastiþa	θ w a s t ɪ θ a
+gaþwastjan	ɡ a θ w a s t j a n
+þwmiama	θ w m ɪ a m a
+u	u
+ubils	u β ɪ l s
+ubiltojis	u β ɪ l t o j ɪ s
+ubilwaurdjan	u β ɪ l w ɔ r d j a n
+ubilwaurds	u β ɪ l w ɔ r d s
+ubizwa	u β ɪ z w a
+uf	u ɸ
+ufaiþeis	u ɸ ɛ θ i s
+ufar	u ɸ a r
+ufarassjan	u ɸ a r a sː j a n
+ufarassus	u ɸ a r a sː u s
+ufarfullei	u ɸ a r ɸ u lː i
+ufarfulls	u ɸ a r ɸ u lː s
+ufargudja	u ɸ a r ɡ u ð j a
+ufarhauseins	u ɸ a r h ɔ s i n s
+ufarhiminakunds	u ɸ a r h ɪ m ɪ n a k u n d s
+ufarjaina	u ɸ a r j ɛ n a
+ufarmaudei	u ɸ a r m ɔ ð i
+ufarmeleins	u ɸ a r m e l i n s
+ufarmeli	u ɸ a r m e l ɪ
+ufaro	u ɸ a r o
+ufarranneins	u ɸ a rː a nː i n s
+ufarskafts	u ɸ a r s k a ɸ t s
+ufarswara	u ɸ a r s w a r a
+ufhauseins	u ɸ h ɔ s i n s
+ufhnaiweins	u ɸ h n ɛ w i n s
+ufitahari	u ɸ ɪ t a h a r ɪ
+ufjo	u ɸ j o
+ufkunþi	u ɸ k u n θ ɪ
+ufswalleins	u ɸ s w a lː i n s
+ufta	u ɸ t a
+ufto	u ɸ t o
+ufwaira	u ɸ w ɛ r a
+ugkis	u ŋ k ɪ s
+uh	u h
+uhtedun	u h t e ð u n
+uhteigs	u h t i ɣ s
+uhteigo	u h t i ɣ o
+uhtiugs	u h t ɪ u ɣ s
+uhtwo	u h t w o
+ulbandus	u l b a n d u s
+unagands	u n a ɣ a n d s
+unagein	u n a ɣ i n
+unairkns	u n ɛ r k n̥ s
+unaiwisks	u n ɛ w ɪ s k s
+unanasiuniba	u n a n a s ɪ u n ɪ β a
+unandhuliþs	u n a n d h u l ɪ θ s
+unandsakans	u n a n d s a k a n s
+unandsoks	u n a n d s o k s
+unatgāhts	u n a t ɡ a h t s
+unbairands	u n b ɛ r a n d s
+unbarnahs	u n b a r n a h s
+unbaurans	u n b ɔ r a n s
+unbeistei	u n b i s t i
+unbeistjoþs	u n b i s t j o θ s
+unbiari	u n b ɪ a r ɪ
+unbilaistiþs	u n b ɪ l ɛ s t ɪ θ s
+unbimait	u n b ɪ m ɛ t
+unbimaitans	u n b ɪ m ɛ t a n s
+unbrūks	u n b r u k s
+und	u n d
+undar	u n d a r
+undaristo	u n d a r ɪ s t o
+undarleija	u n d a r l i j a
+undaro	u n d a r o
+undaurnimats	u n d ɔ r n ɪ m a t s
+undiwanei	u n d ɪ w a n i
+unfagrs	u n ɸ a ɣ r̥ s
+unfairina	u n ɸ ɛ r ɪ n a
+unfairinodaba	u n ɸ ɛ r ɪ n o ð a β a
+unfairlaistiþs	u n ɸ ɛ r l ɛ s t ɪ θ s
+unfaurs	u n ɸ ɔ r s
+unfaurweis	u n ɸ ɔ r w i s
+unfraþjands	u n ɸ r a θ j a n d s
+unfreideins	u n ɸ r i ð i n s
+unfrodei	u n ɸ r o ð i
+unfroþs	u n ɸ r o θ s
+ungafairinonds	u n ɡ a ɸ ɛ r ɪ n o n d s
+ungafairinoþs	u n ɡ a ɸ ɛ r ɪ n o θ s
+ungahabands	u n ɡ a h a β a n d s
+ungahobains	u n ɡ a h o β ɛ n s
+ungaƕairbs	u n ɡ a ʍ ɛ r b s
+ungakusans	u n ɡ a k u s a n s
+ungalaubeins	u n ɡ a l ɔ β i n s
+ungalaubjands	u n ɡ a l ɔ β j a n d s
+ungalaufs	u n ɡ a l ɔ ɸ s
+ungaraihtei	u n ɡ a r ɛ h t i
+ungasaiƕans	u n ɡ a s ɛ ʍ a n s
+ungastoþs	u n ɡ a s t o θ s
+ungatass	u n ɡ a t a sː
+ungatewiþs	u n ɡ a t e w ɪ θ s
+ungawagiþs	u n ɡ a w a ɣ ɪ θ s
+unhabands	u n h a β a n d s
+unhaili	u n h ɛ l ɪ
+unhails	u n h ɛ l s
+unhanduwaurhts	u n h a n d u w ɔ r h t s
+unhindarweis	u n h ɪ n d a r w i s
+unhrainei	u n h r ɛ n i
+unhrainiþa	u n h r ɛ n ɪ θ a
+unhrains	u n h r ɛ n s
+unhulþa	u n h u l θ a
+unhulþo	u n h u l θ o
+unhunslags	u n h u n s l a ɣ s
+unƕapnands	u n ʍ a p n a n d s
+unƕeila	u n ʍ i l a
+unkarja	u n k a r j a
+unkaureins	u n k ɔ r i n s
+unkja	u n k j a
+unkunnands	u n k u nː a n d s
+unkunþi	u n k u n θ ɪ
+unkunþs	u n k u n θ s
+unledi	u n l e ð ɪ
+unleþs	u n l e θ s
+unliufs	u n l ɪ u ɸ s
+unliugaiþs	u n l ɪ u ɣ ɛ θ s
+unliugands	u n l ɪ u ɣ a n d s
+unliuts	u n l ɪ u t s
+unlustus	u n l u s t u s
+unmahteigs	u n m a h t i ɣ s
+unmahts	u n m a h t s
+unmanariggwai	u n m a n a r ɪ ɡ ɡ w ɛ
+unmanwus	u n m a n w u s
+unmildjai	u n m ɪ l d j ɛ
+unnutjans	u nː u t j a n s
+unqeniþs	u n kʷ e n ɪ θ s
+unqeþs	u n kʷ e θ s
+unriurei	u n r ɪ u r i
+unriureis	u n r ɪ u r i s
+unriurs	u n r ɪ u r s
+unrodjands	u n r o ð j a n d s
+unsahtaba	u n s a h t a β a
+unsaiƕands	u n s ɛ ʍ a n d s
+unsaltans	u n s a l t a n s
+unsar	u n s a r
+unselei	u n s e l i
+unsels	u n s e l s
+unsibjis	u n s ɪ β j ɪ s
+unskaus	u n s k ɔ s
+unsuti	u n s u t ɪ
+unsweibands	u n s w i β a n d s
+unswerei	u n s w e r i
+unsweriþa	u n s w e r ɪ θ a
+unswers	u n s w e r s
+unswikunþs	u n s w ɪ k u n θ s
+untals	u n t a l s
+unte	u n t e
+untilamalsks	u n t ɪ l a m a l s k s
+untriggws	u n t r ɪ ɡ ɡ w s
+unþiuda	u n θ ɪ u ð a
+unþiuþ	u n θ ɪ u θ
+unþwahans	u n θ w a h a n s
+unufbrikands	u n u ɸ b r ɪ k a n d s
+unuhteigo	u n u h t i ɣ o
+unuslaisiþs	u n u s l ɛ s ɪ θ s
+unusspilloþs	u n u sː p ɪ lː o θ s
+unwahs	u n w a h s
+unwairþaba	u n w ɛ r θ a β a
+unwammei	u n w a mː i
+unwamms	u n w a mː s
+unwaurstwo	u n w ɔ r s t w o
+unweis	u n w i s
+unweniggo	u n w e n ɪ ŋ ɡ o
+unwerein	u n w e r i n
+unwiss	u n w ɪ sː
+unwita	u n w ɪ t a
+unwitands	u n w ɪ t a n d s
+unwiti	u n w ɪ t ɪ
+unwunands	u n w u n a n d s
+ur	u r
+urrists	u rː ɪ s t s
+urrugks	u rː u ŋ k s
+urruns	u rː u n s
+urruns	u rː u n s
+us	u s
+usbalþei	u s b a l θ i
+usbeisnei	u s b i s n i
+usbeisneigs	u s b i s n i ɣ s
+usbeisns	u s b i s n̥ s
+usbloteins	u s b l o t i n s
+usdaudei	u s d ɔ ð i
+usdauþs	u s d ɔ θ s
+usdaudoza	u s d ɔ ð o z a
+usdaudo	u s d ɔ ð o
+usdrusts	u s d r u s t s
+usfairina	u s ɸ ɛ r ɪ n a
+usfarþo	u s ɸ a r θ o
+usfilh	u s ɸ ɪ l h
+usfilma	u s ɸ ɪ l m a
+usfilmei	u s ɸ ɪ l m i
+usfodeins	u s ɸ o ð i n s
+usfulleins	u s ɸ u lː i n s
+usgrudja	u s ɡ r u ð j a
+ushaista	u s h ɛ s t a
+uskunþs	u s k u n θ s
+uslauseins	u s l ɔ s i n s
+usliþa	u s l ɪ θ a
+uslukns	u s l u k n̥ s
+usluk	u s l u k
+usluneins	u s l u n i n s
+usmet	u s m e t
+usqiss	u s kʷ ɪ sː
+ussateins	u sː a t i n s
+ussindo	u sː ɪ n d o
+usskawai	u sː k a w ɛ
+usstass	u sː t a sː
+usstiurei	u sː t ɪ u r i
+usstiuriba	u sː t ɪ u r ɪ β a
+ustaikneins	u s t ɛ k n i n s
+ustauhts	u s t ɔ h t s
+usþroþeins	u s θ r o θ i n s
+usþulains	u s θ u l ɛ n s
+uswahsans	u s w a h s a n s
+uswahsts	u s w a h s t s
+uswalteins	u s w a l t i n s
+uswandi	u s w a n d ɪ
+uswaurhts	u s w ɔ r h t s
+uswaurhts	u s w ɔ r h t s
+uswaurpa	u s w ɔ r p a
+usweihs	u s w i h s
+uswena	u s w e n a
+uswiss	u s w ɪ sː
+uswissi	u s w ɪ sː ɪ
+ūt	u t
+ūta	u t a
+ūtana	u t a n a
+ūtaþro	u t a θ r o
+uzeta	u z e t a
+uzu	u z u
+wadi	w a ð ɪ
+wadjabokos	w a ð j a β o k o s
+gawadjon	ɡ a w a ð j o n
+waggarja	w a ŋ ɡ a r j a
+waggs	w a ŋ ɡ s
+wagjan	w a ɣ j a n
+afwagjan	a ɸ w a ɣ j a n
+gawagjan	ɡ a w a ɣ j a n
+inwagjan	ɪ n w a ɣ j a n
+uswagjan	u s w a ɣ j a n
+wahsjan	w a h s j a n
+ufarwahsjan	u ɸ a r w a h s j a n
+uswahsjan	u s w a h s j a n
+wahstus	w a h s t u s
+wahtwom	w a h t w o m
+wai	w ɛ
+waian	w ɛ a n
+biwaibjan	b ɪ w ɛ β j a n
+waidedja	w ɛ ð e ð j a
+waihjo	w ɛ h j o
+waihsta	w ɛ h s t a
+waihstastains	w ɛ h s t a s t ɛ n s
+waiht	w ɛ h t
+waihts	w ɛ h t s
+wáila	w ɛ l a
+wailadeþs	w ɛ l a ð e θ s
+wailamerei	w ɛ l a m e r i
+wailamereins	w ɛ l a m e r i n s
+wailamereis	w ɛ l a m e r i s
+wailaqiss	w ɛ l a kʷ ɪ sː
+wailawizns	w ɛ l a w ɪ z n̥ s
+wainahs	w ɛ n a h s
+wainei	w ɛ n i
+faurwaipjan	ɸ ɔ r w ɛ p j a n
+waips	w ɛ p s
+wair	w ɛ r
+wairaleiko	w ɛ r a l i k o
+wairdus	w ɛ r d u s
+wairilom	w ɛ r ɪ l o m
+wairpan	w ɛ r p a n
+afwairpan	a ɸ w ɛ r p a n
+atwairpan	a t w ɛ r p a n
+frawairpan	ɸ r a w ɛ r p a n
+gawairpan	ɡ a w ɛ r p a n
+innwairpan	ɪ nː w ɛ r p a n
+uswairpan	u s w ɛ r p a n
+wairs	w ɛ r s
+wairsiza	w ɛ r s ɪ z a
+wairþ	w ɛ r θ
+wairþan	w ɛ r θ a n
+frawairþan	ɸ r a w ɛ r θ a n
+wairþida	w ɛ r θ ɪ ð a
+gagáwairþjan	ɡ a ɣ a w ɛ r θ j a n
+gagáwairþnan	ɡ a ɣ a w ɛ r θ n a n
+wairþon	w ɛ r θ o n
+wairþs	w ɛ r θ s
+wait	w ɛ t
+waitei	w ɛ t i
+wajamerei	w a j a m e r i
+wajamereins	w a j a m e r i n s
+wakan	w a k a n
+þairhwakan	θ ɛ r h w a k a n
+uswakjan	u s w a k j a n
+gawaknan	ɡ a w a k n a n
+waldan	w a l d a n
+gawaldan	ɡ a w a l d a n
+waldufni	w a l d u ɸ n ɪ
+walisa	w a l ɪ s a
+waljan	w a l j a n
+gawaljan	ɡ a w a l j a n
+waltjan	w a l t j a n
+uswaltjan	u s w a l t j a n
+uswalugjan	u s w a l u ɣ j a n
+walus	w a l u s
+walwison	w a l w ɪ s o n
+afwalwjan	a ɸ w a l w j a n
+atwalwjan	a t w a l w j a n
+faurwalwjan	ɸ ɔ r w a l w j a n
+wamba	w a m b a
+wamme	w a mː e
+anawammjan	a n a w a mː j a n
+wan	w a n
+wanains	w a n ɛ n s
+wandjan	w a n d j a n
+afwandjan	a ɸ w a n d j a n
+atwandjan	a t w a n d j a n
+biwandjan	b ɪ w a n d j a n
+gawandjan	ɡ a w a n d j a n
+inwandjan	ɪ n w a n d j a n
+uswandjan	u s w a n d j a n
+wandus	w a n d u s
+waninassus	w a n ɪ n a sː u s
+wans	w a n s
+wardja	w a r d j a
+frawardjan	ɸ r a w a r d j a n
+warei	w a r i
+wargiþa	w a r ɡ ɪ θ a
+gawargjan	ɡ a w a r ɡ j a n
+warjan	w a r j a n
+warmjan	w a r m j a n
+warai	w a r ɛ
+wasjan	w a s j a n
+andwasjan	a n d w a s j a n
+gawasjan	ɡ a w a s j a n
+wasti	w a s t ɪ
+wato	w a t o
+waurd	w ɔ r d
+waurdahs	w ɔ r d a h s
+waurdajiuka	w ɔ r d a j ɪ u k a
+andwaurdjan	a n d w ɔ r d j a n
+filuwaurdjan	ɸ ɪ l u w ɔ r d j a n
+ubilwaurdjan	u β ɪ l w ɔ r d j a n
+waurkjan	w ɔ r k j a n
+fairwaurkjan	ɸ ɛ r w ɔ r k j a n
+frawaurkjan	ɸ r a w ɔ r k j a n
+gawaurkjan	ɡ a w ɔ r k j a n
+uswaurkjan	u s w ɔ r k j a n
+waurms	w ɔ r m̥ s
+waurstw	w ɔ r s t w
+waurstwa	w ɔ r s t w a
+waurstwei	w ɔ r s t w i
+waurstweigs	w ɔ r s t w i ɣ s
+waurstwja	w ɔ r s t w j a
+waurts	w ɔ r t s
+wegs	w e ɣ s
+weiha	w i h a
+weihan	w i h a n
+andwaihan	a n d w ɛ h a n
+weihan	w i h a n
+gaweihan	ɡ a w i h a n
+weihiþa	w i h ɪ θ a
+weihnan	w i h n a n
+weihs	w i h s
+weihs	w i h s
+wein	w i n
+weinabasi	w i n a β a s ɪ
+weinagards	w i n a ɣ a r d s
+weinatains	w i n a t ɛ n s
+weinatriu	w i n a t r ɪ u
+weindrugkja	w i n d r u ŋ k j a
+weinnas	w i nː a s
+weipan	w i p a n
+weis	w i s
+fullaweisjan	ɸ u lː a w i s j a n
+gafullaweisjan	ɡ a ɸ u lː a w i s j a n
+gaweison	ɡ a w i s o n
+fraweitan	ɸ r a w i t a n
+inweitan	ɪ n w i t a n
+fairweitjan	ɸ ɛ r w i t j a n
+idweitjan	ɪ ð w i t j a n
+weitwodei	w i t w o ð i
+weitwodeins	w i t w o ð i n s
+weitwodi	w i t w o ð ɪ
+weitwodiþa	w i t w o ð ɪ θ a
+weitwodjan	w i t w o ð j a n
+miþweitwodjan	m ɪ θ w i t w o ð j a n
+weitwoþs	w i t w o θ s
+wenjan	w e n j a n
+faurawenjan	ɸ ɔ r a w e n j a n
+gawenjan	ɡ a w e n j a n
+wens	w e n s
+wepna	w e p n a
+wereka	w e r e k a
+tuzwerjan	t u z w e r j a n
+unwerjan	u n w e r j a n
+gawidan	ɡ a w ɪ ð a n
+inwidan	ɪ n w ɪ ð a n
+widuwairna	w ɪ ð u w ɛ r n a
+widuwo	w ɪ ð u w o
+wigadeinom	w ɪ ɣ a ð i n o m
+gawigan	ɡ a w ɪ ɣ a n
+wigana	w ɪ ɣ a n a
+wigs	w ɪ ɣ s
+wiko	w ɪ k o
+wilja	w ɪ l j a
+wiljahalþei	w ɪ l j a h a l θ i
+wiljan	w ɪ l j a n
+wiljariþ	w ɪ l j a r ɪ θ
+wilþeis	w ɪ l θ i s
+wilwa	w ɪ l w a
+wilwan	w ɪ l w a n
+diswilwan	d ɪ s w ɪ l w a n
+frawilwan	ɸ r a w ɪ l w a n
+biwindan	b ɪ w ɪ n d a n
+dugawindan	d u ɣ a w ɪ n d a n
+uswindan	u s w ɪ n d a n
+winds	w ɪ n d s
+winja	w ɪ n j a
+winna	w ɪ nː a
+winnan	w ɪ nː a n
+gawinnan	ɡ a w ɪ nː a n
+winno	w ɪ nː o
+wintrus	w ɪ n t r u s
+winþiskauro	w ɪ n θ ɪ s k ɔ r o
+diswinþjan	d ɪ s w ɪ n θ j a n
+wipja	w ɪ p j a
+wis	w ɪ s
+wisan	w ɪ s a n
+atwisan	a t w ɪ s a n
+faurawisan	ɸ ɔ r a w ɪ s a n
+frawisan	ɸ r a w ɪ s a n
+inwisan	ɪ n w ɪ s a n
+miþwisan	m ɪ θ w ɪ s a n
+ufarwisan	u ɸ a r w ɪ s a n
+wisan	w ɪ s a n
+biwisan	b ɪ w ɪ s a n
+wisan	w ɪ s a n
+gawisan	ɡ a w ɪ s a n
+miþgawisan	m ɪ θ ɡ a w ɪ s a n
+þairhwisan	θ ɛ r h w ɪ s a n
+wists	w ɪ s t s
+wit	w ɪ t
+witan	w ɪ t a n
+miþwitan	m ɪ θ w ɪ t a n
+witan	w ɪ t a n
+witodafasteis	w ɪ t o ð a ɸ a s t i s
+witodalaisareis	w ɪ t o ð a l ɛ s a r i s
+witodalaus	w ɪ t o ð a l ɔ s
+witodeigo	w ɪ t o ð i ɣ o
+witoþ	w ɪ t o θ
+witubni	w ɪ t u β n ɪ
+wiþon	w ɪ θ o n
+wiþra	w ɪ θ r a
+wiþrawairþs	w ɪ θ r a w ɛ r θ s
+wiþrus	w ɪ θ r u s
+wizon	w ɪ z o n
+wlaiton	w l ɛ t o n
+wlits	w l ɪ t s
+wlizjan	w l ɪ z j a n
+wmainaius	w m ɛ n ɛ u s
+wokains	w o k ɛ n s
+wokra	w o k r a
+wopjan	w o p j a n
+atwopjan	a t w o p j a n
+ufwopjan	u ɸ w o p j a n
+woþeis	w o θ i s
+woþs	w o θ s
+wraiqs	w r ɛ kʷ s
+wraka	w r a k a
+wrakja	w r a k j a
+wrakjan	w r a k j a n
+wraks	w r a k s
+wratodus	w r a t o ð u s
+wraton	w r a t o n
+wrekei	w r e k i
+wreþus	w r e θ u s
+wrikan	w r ɪ k a n
+frawrikan	ɸ r a w r ɪ k a n
+gawrikan	ɡ a w r ɪ k a n
+gawrisqan	ɡ a w r ɪ s kʷ a n
+writs	w r ɪ t s
+wriþus	w r ɪ θ u s
+wrohjan	w r o h j a n
+frawrohjan	ɸ r a w r o h j a n
+wrohs	w r o h s
+wruggo	w r u ŋ ɡ o
+wulan	w u l a n
+wulfs	w u l ɸ s
+wulla	w u lː a
+wullareis	w u lː a r i s
+wulþags	w u l θ a ɣ s
+wulþriza	w u l θ r ɪ z a
+wulþrs	w u l θ r̥ s
+wulþus	w u l θ u s
+wulwa	w u l w a
+gawundon	ɡ a w u n d o n
+wunds	w u n d s
+wundufni	w u n d u ɸ n ɪ
+wunns	w u nː s
+xafira	χ a ɸ ɪ r a
+xreskus	χ r e s k u s
+xristus	χ r ɪ s t u s
+zaibaidaius	z ɛ β ɛ ð ɛ u s
+zakarias	z a k a r ɪ a s
+zakkaius	z a kː ɛ u s
+zauraubabil	z ɔ r ɔ β a β ɪ l
+zaxxaius	z a χː ɛ u s
+zelotes	z e l o t e s
