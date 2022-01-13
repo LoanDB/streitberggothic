@@ -9,8 +9,7 @@ from ipatok import tokenise
 epi = epitran.Epitran("got-Latn").transliterate
 
 
-def segment(word):
-    return ' '.join(tokenise(epi(word)))
+def segment(word): return ' '.join(tokenise(epi(word)))
 
 
 def main():

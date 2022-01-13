@@ -24,8 +24,8 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=i,
                     Name=concept["sense"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                    Concepticon_ID=concept["Concepticon_ID"],
+                    Concepticon_Gloss=concept["Concepticon_Gloss"]
                     )
         args.log.info("added concepts")
 
@@ -35,7 +35,7 @@ class Dataset(BaseDataset):
 
         # add forms
         for idx, row in enumerate(self.raw_dir.read_csv(
-                "Streitberg-1910-3659.tsv", delimiter="\t")[1:]):
+                "Streitberg-1910-3645.tsv", delimiter="\t")[1:]):
             args.writer.add_forms_from_value(
                 ID=idx,
                 Language_ID=str(0),

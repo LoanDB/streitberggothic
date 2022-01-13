@@ -1,9 +1,9 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-0,†Aai,,
+0,Aai,,
 1,Ehemann,1200,HUSBAND
 2,Vater,1217,FATHER
 3,Abeileni,,
-4,Abia*,,
+4,Abia,,
 5,Abiaþar,,
 6,Abraham,,
 7,"vor Furcht, Staunen außer sich geraten über",,
@@ -11,14 +11,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9,sehr,1311,VERY
 10,"von, von __ weg, von __ her",693,FROM
 11,Adam,,
-12,Addei*,,
+12,Addei,,
 13,Addin,,
-14,Adoneikam*,,
+14,Adoneikam,,
 15,"von, von __ weg, von __ her",693,FROM
 16,nachher,1685,AFTER
 17,Nachkomme,,
 18,der folgende Tag,,
-19,des Nachsabbats d.h. des ersten Wochentags,,
+19,des Nachsabbats dh des ersten Wochentags,,
 20,geplagt,,
 21,Verdammung,,
 22,Trunkenbold,,
@@ -45,7 +45,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 43,"Engel, Bote",,
 44,Bedrängnis ,,
 45,bedrängen,,
-46,eng,1267,NARROW
+46,eng,3053,TIGHT
 47,"Furcht, Schrecken",,
 48,ängstigen,,
 49,einen anfahren,,
@@ -80,8 +80,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 78,Opfergabe,,
 79,Aiddua,,
 80,Aieira,,
-81,Aifaisius*,,
-82,Aifaiso*,,
+81,Aifaisius,,
+82,Aifaiso,,
 83,öffne dich,,
 84,haben,773,HAVE
 85,teilhaben an,,
@@ -99,7 +99,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 97,Aileisabaiþ,,
 98,ailoe,,
 99,[Ailul],,
-100,Aimmeira*,,
+100,Aimmeira,,
 101,eingeboren,,
 102,einzig,,
 103,"vereinzelt, alleinstehend",,
@@ -167,7 +167,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 165,Ewigkeit,,
 166,sondern,,
 167,Akaja,,
-168,Akajus*,,
+168,Akajus,,
 169,Akaïkus,,
 170,aber,3843,BUT
 171,Essig,,
@@ -180,7 +180,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 178,Alaiksandrus,,
 179,insgesamt,,
 180,Gesamtheit der Menschen,,
-181,alamannans*,,
+181,alamannans,,
 182,Alamod,,
 183,wachsen,479,GROW
 184,an allem Mangel leidend,,
@@ -215,11 +215,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 213,alt werden,,
 214,alt,1229,OLD
 215,[Alul],,
-216,Ameinadab*,,
+216,Ameinadab,,
 217,amen,,
-218,Ammo*,,
+218,Ammo,,
 219,Schulter,1482,SHOULDER
-220,amsa*,,
+220,amsa,,
 221,"denn, nun",,
 222,"darauf, außerdem",,
 223,Gebot,,
@@ -234,8 +234,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 232,"Übermacht, Mißhandlung",,
 233,"versteckte Meinung, vermutung",,
 234,ausatmen,,
-235,Ananias*,,
-236,Ananeias*,,
+235,Ananias,,
+236,Ananeias,,
 237,Erneuerung,,
 238,Ruhe,3458,SILENCE
 239,Lästerung,,
@@ -282,25 +282,25 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 280,Anna,,
 281,Annas,,
 282,Sold,,
-283,Ano*,,
+283,Ano,,
 284,Balken,,
 285,gnädig,,
 286,"Freude; Dank; Gnade, Gunst",2524,JOY
-287,"Antiaukia*, Antiokia*",,
+287,"Antiaukia, Antiokia",,
 288,"anderer, zweiter",1384,SECOND
 289,Verschiedenheit,,
 290,anders,2504,DIFFERENT
-291,Appaullo*,,
+291,Appaullo,,
 292,Apostolat,,
 293,Apostel,,
 294,Axt,677,AXE
 295,Aar,,
 296,Arabia,,
-297,Araita*,,
+297,Araita,,
 298,Aram,,
 299,arbeiten; dulden,1086,WORK (ACTIVITY)
 300,"seine Ehre setzen in, trachten nach",,
-301,mit Jem. arbeiten; mit Jem. leiden,,
+301,mit Jem arbeiten; mit Jem leiden,,
 302,dúrcharbeiten,,
 303,"Arbeit, Drangsal",984,WORK (LABOUR)
 304,das Erbe,,
@@ -309,7 +309,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 307,Erbin,,
 308,Areimaþaia,,
 309,Areistarkus,,
-310,Arfaksad*,,
+310,Arfaksad,,
 311,Pfeil,977,ARROW
 312,pflügen,1921,PLOUGH
 313,"hölzerner Kasten, Arche; Futteral, Beutel",2951,POUCH
@@ -327,10 +327,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 325,aromata,,
 326,[Artaksairksus],,
 327,umsonst,,
-328,Asaf*,,
+328,Asaf,,
 329,Sommer,1342,SUMMER
-330,Aser*,,
-331,Asgad*,,
+330,Aser,,
+331,Asgad,,
 332,Asia,,
 333,Eselsmühle,,
 334,Esel,1862,DONKEY
@@ -342,7 +342,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 340,Ast,1531,BRANCH
 341,von,693,FROM
 342,Jahr,1226,YEAR
-343,"Ater*, Ateir*",,
+343,"Ater, Ateir",,
 344,Zugang,,
 345,Saat,714,SEED
 346,zum Essen austeilen,,
@@ -379,13 +379,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 377,"Grabdenkmäler, Gräber",,
 378,Schweißtuch,,
 379,Krug,270,JUG
-380,aurkeis*,,
+380,aurkeis,,
 381,Garten,586,GARDEN
 382,"Landmann, Winzer",,
 383,Ohr,1247,EAR
 384,Wüste,3687,DESERT
 385,öde,,
-386,auþs*,,
+386,auþs,,
 387,Schafherde,,
 388,einem  danken,,
 389,Dank,,
@@ -415,7 +415,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 413,vertragen,,
 414,vergleichen,3429,COMPARE
 415,hindurchtragen,,
-416,hinaustragen; hervorbringen; vorbringen d.i. antworten; ertragen,833,ENDURE
+416,hinaustragen; hervorbringen; vorbringen di antworten; ertragen,833,ENDURE
 417,hinaustragen,,
 418,Beroia in Thrakien,,
 419,Gebirgsgegend,,
@@ -451,7 +451,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 449,"Schlag, Wunde",1109,WOUND
 450,Scheuer,,
 451,Barabba,,
-452,Barakeias*,,
+452,Barakeias,,
 453,Nicht,1240,NOT
 454,von Gerste bereitet,,
 455,"Busen, Schoß",1402,BREAST
@@ -464,16 +464,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 462,Barteimaiaus,,
 463,Barþaulaumaius,,
 464,fromm verehren,,
-465,Bassus*,,
+465,Bassus,,
 466,besser,,
 467,batista,,
 468,Vorteil erlangen,,
-469,Batwins*,,
+469,Batwins,,
 470,Wohnung,,
 471,"wohnen, bewohnen",363,"DWELL (LIVE, RESIDE)"
 472,Wohnung aufschlagen,,
 473,Bauanairgais,,
-474,Bauauz*,,
+474,Bauauz,,
 475,ausfegen,,
 476,aufblasen,,
 477,der Geborene,,
@@ -481,7 +481,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 479,"Turm, Burg; Stadt",1391,TOWN
 480,Stadtmauer,,
 481,Bürde,,
-482,stumm,1492,DUMB
+482,stumm,1666,MUTE
 483,auf etwas warten,,
 484,"ausharren, ertragen",833,ENDURE
 485,erwarten,,
@@ -587,7 +587,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 585,säugen,2472,"SUCKLE (BREASTFEED, NURSE)"
 586,Tag,1225,DAY (NOT NIGHT)
 587,Teig,,
-588,Daikapaulis*,,
+588,Daikapaulis,,
 589,"Teilnahme, Gemeinschaft",,
 590,"teilen, zuteilen, mitteilen",1119,DIVIDE
 591,"abteilen, einen Teil abgeben ",,
@@ -621,8 +621,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 619,Türhüterin,,
 620,Türhüterin,,
 621,Türhüter,,
-622,Dauriþaius*,,
-623," Tor, Tür",1567,DOOR
+622,Dauriþaius,,
+623," Tor, Tür",2940,GATE
 624,"sich erkühnen, wagen",1779,DARE
 625,das Absterben,,
 626,töten,1417,KILL
@@ -644,7 +644,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 642,"kneten, aus Ton bilden",274,KNEAD
 643,Fülle,,
 644,Zerstreuung,,
-645,"Auflösung d.i. Abmarsch, das Scheiden",,
+645,"Auflösung di Abmarsch, das Scheiden",,
 646,Tiefe,2534,DEPTH
 647,Tiefe,2534,DEPTH
 648,vertiefen,,
@@ -656,7 +656,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 654,"urteilen, beurteilen",1818,ADJUDICATE
 655,"beurteilen, verurteilen",484,CONDEMN
 656,verurteilen,484,CONDEMN
-657,"urteilen, entscheiden",685,DECIDE
+657,"urteilen, entscheiden",1818,ADJUDICATE
 658,Ruhm,,
 659,aushauen,,
 660,tragen,700,CARRY
@@ -699,9 +699,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 697,Gläubiger,,
 698,Schuld,134,FAULT
 699,ein Fest feiern,,
-700,Fest,3003,SOLID
+700,Fest,131,FESTIVAL
 701,verstummen,,
-702,stumm,1492,DUMB
+702,stumm,1666,MUTE
 703,"deshalb, deswegen, dazu",,
 704,Torenrede,,
 705,Torheit,,
@@ -715,7 +715,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 713,"Eisenband, Kette",1627,CHAIN
 714,eisern,,
 715,daher somit,,
-716,†eiþau,,
+716,eiþau,,
 717,Esaïas,,
 718,Esaw,,
 719,Vater,1217,FATHER
@@ -745,7 +745,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 743,Berg,639,MOUNTAIN
 744,wehklagen,,
 745,Welt,965,WORLD
-746,Schuld; Grund; Vorwurf,2968,REASON
+746,Schuld; Grund; Vorwurf,134,FAULT
 747,tadeln,,
 748,alt,1229,OLD
 749,Alter,1789,AGE
@@ -755,14 +755,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 753,Schauspiel,,
 754,Ferse,980,HEEL
 755,Falaig,,
-756,†Fallasur,,
+756,Fallasur,,
 757,"falten, zusammenrollen",1470,FOLD
 758,Stück Zeug,,
 759,Schlamm,640,MUD
 760,Fanuel,,
-761,Farais*,,
+761,Farais,,
 762,"wandern, ziehen",1455,PULL
-763,Farao*,,
+763,Farao,,
 764,Fareisaius,,
 765,fahren,741,DRIVE
 766,"einlaufen, landen",1922,LAND (DESCEND)
@@ -796,7 +796,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 794,bevor,,
 795,wenige,1242,FEW
 796,sich erbarmen,,
-797,"Seite, Gegend",2980,AREA
+797,"Seite, Gegend",682,SIDE
 798,Aufpasser,,
 799,schmücken,1739,DECORATE
 800,"hasse, verabscheuen",,
@@ -916,8 +916,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 914,Füllen,2006,FILL
 915,verborgen,,
 916,fulhsni,,
-917,P040.02,,
-918,P040.03,,
+917,P,,
+918,P,,
 919,vollkommen,,
 920,vollkommen ,,
 921,überreden,,
@@ -963,7 +963,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 961,Band,2969,RIBBON
 962,"Teilnehmer, Genosse",,
 963,Hausgenosse,,
-964,Gaddarenus*,,
+964,Gaddarenus,,
 965,Tat,,
 966,Gebilde,,
 967,Vetter,,
@@ -995,7 +995,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 993,hineingehn,,
 994,mitgehn mit,,
 995,"hindurchgehn, vorübergehn",,
-996,etw. übertreten,,
+996,etw übertreten,,
 997,"ausgehn, hinausgehn",1107,GO OUT
 998,"hinausgehn, ausgehn",1107,GO OUT
 999,entgegengehn,1778,APPROACH
@@ -1022,7 +1022,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1020,Gürtel,772,BELT
 1021,umgürten,,
 1022,umgürten,,
-1023,Gairgaisainus*,,
+1023,Gairgaisainus,,
 1024,"Verlangen, Wunsch",2117,DESIRE
 1025,"begehren, verlangen nach; bedürfen",2339,NEED (SOMETHING)
 1026,Leidenschaft,,
@@ -1038,7 +1038,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1036,Probe,,
 1037,Nachfolger,,
 1038,Galateis,,
-1039,Galatia*,,
+1039,Galatia,,
 1040,gläubig,,
 1041,Glaube,,
 1042,wertvoll,3002,PRECIOUS
@@ -1066,7 +1066,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1064,verkrüppelt; verwundet,,
 1065,Auflösung,,
 1066,Teilnehmer; Genosse,,
-1067,†gamarko,,
+1067,gamarko,,
 1068,Ärgernis,,
 1069,Erinnerung,,
 1070,Schrift; Buchstabenschrift,,
@@ -1140,7 +1140,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1138,friedfertig,,
 1139,Friede,1338,PEACE
 1140,Erwählung,,
-1141,gemein d.i. unrein,,
+1141,gemein di unrein,,
 1142,Bekehrung,,
 1143,Verurteilung,,
 1144,Bekleidung,,
@@ -1175,7 +1175,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1173,morgen,1329,TOMORROW
 1174,finden,719,FIND
 1175,gießen,3078,IRRIGATE
-1176,übergießen d.i. übervoll gießen,,
+1176,übergießen di übervoll gießen,,
 1177,sorgsam,,
 1178,genau,1466,EXACT
 1179,genau,1466,EXACT
@@ -1185,7 +1185,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1183,Gruß,,
 1184,grüßen,,
 1185,gut,1035,GOOD
-1186,Graben,2538,TRENCH (FOSSE)
+1186,Graben,1418,DIG
 1187,graben,1418,DIG
 1188,mit einem Graben umgeben,,
 1189,"nachgraben, unterwühlen",,
@@ -1224,7 +1224,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1222,Krebsgeschwür,,
 1223,verschüttet werden,,
 1224,Gotenvolk,,
-1225,Gott,3231,DEITY
+1225,Gott,1944,GOD
 1226,"haben, besitzen",684,OWN
 1227,sich einer Sache enthalten,,
 1228,besitzen,684,OWN
@@ -1248,11 +1248,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1246,sich erhängen,,
 1247,hangen,,
 1248,Haibraius,,
-1249,Art u. Weise,,
+1249,Art u Weise,,
 1250,streiten,3302,QUARREL (VERB)
 1251,Streit,,
 1252,einäugig,,
-1253,Haileias*,,
+1253,Haileias,,
 1254,Haileisaius,,
 1255,einen  heilen,,
 1256,herstellen,2886,PRODUCE
@@ -1264,14 +1264,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1262,Herde,2939,FLOCK (OF ANIMALS)
 1263,Hirt,2544,SHEPHERD
 1264,Hairmaugaineis,,
-1265,Hairodia*,,
+1265,Hairodia,,
 1266,Herz,1223,HEART
 1267,"Eingeweide, Herz",1223,HEART
 1268,Schwert,,
 1269,Fakkeln,,
 1270,"heißen, nennen",180,CALL BY NAME
 1271,anrufen,,
-1272,"einen, etw. bekennen; sich bekennen zu; etw. bekennen",,
+1272,"einen, etw bekennen; sich bekennen zu; etw bekennen",,
 1273,herzurufen,,
 1274,verheißen,,
 1275,zusammenrufen,,
@@ -1339,7 +1339,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1337,das hornförmig gebogene Johannisbrot,,
 1338,Hornist,,
 1339,das Horn blasen,,
-1340,Gehör d.i. Ohr,,
+1340,Gehör di Ohr,,
 1341,hören,1408,HEAR
 1342,gehorchen,1635,OBEY
 1343,das Gehör bekommen,,
@@ -1351,13 +1351,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1349,Fieber,1534,FEVER
 1350,Hausherr,,
 1351,helei,,
-1352,Helei*,,
+1352,Helei,,
 1353,Helias,,
 1354,Her,2925,HITHER (HERE TO)
 1355,"hier, her",136,HERE
 1356,Herodes,,
 1357,Herodia,,
-1358,Herodianus*,,
+1358,Herodianus,,
 1359,Kammer,,
 1360,dieser,1214,THIS
 1361,hierher,,
@@ -1387,7 +1387,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1385,Grab,1773,GRAVE
 1386,Gräber,,
 1387,Schlinge,2604,NOOSE
-1388,heiter,1976,MERRY
+1388,heiter,1495,HAPPY
 1389,sorgenfreier,,
 1390,Heiterkeit,,
 1391,beladen,,
@@ -1395,7 +1395,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1393,"Los; Anteil, Erbschaft",,
 1394,sich annehmen,,
 1395,link,,
-1396,"Zelt, Hütte",1316,TENT
+1396,"Zelt, Hütte",1678,HUT
 1397,ein Zelt über mir aufschlage,,
 1398,"das Zeltaufschlagen, Laubhüttenfest",,
 1399,stehlen,713,STEAL
@@ -1405,7 +1405,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1403,auflachen machen,,
 1404,Lauterkeit,,
 1405,Lauterkeit,,
-1406,"lauter, rein",704,CLEAN
+1406,"lauter, rein",1147,PURE
 1407,"Erniedrigung, Demut",,
 1408,niedrig machen,,
 1409,niederlegen,,
@@ -1433,7 +1433,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1431,etwas Verunreinigendes tilgen,,
 1432,reinigen,2235,CLEAN (SOMETHING)
 1433,ausfegen,,
-1434,"rein, ehrbar",704,CLEAN
+1434,"rein, ehrbar",1147,PURE
 1435,Turteltaube,,
 1436,kreuzigen,,
 1437,kreuzigen,,
@@ -1451,7 +1451,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1449,hungern,1533,BE HUNGRY
 1450,"denken, meinen",1415,THINK (REFLECT)
 1451,bezaubern,,
-1452,†and-hugjan,,
+1452,and-hugjan,,
 1453,sich vornehmen,,
 1454,sich überheben,,
 1455,Verstand,1562,MIND
@@ -1489,13 +1489,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1487,wie,1239,HOW
 1488,wann,1238,WHEN
 1489,jemals,,
-1490,"ersticken, auslöschen",127,EXTINGUISH
+1490,"ersticken, auslöschen",129,CHOKE
 1491,"ersticken, erlöschen",129,CHOKE
 1492,wo,1237,WHERE
 1493,wandeln,,
 1494,wer,1235,WHO
 1495,jeder,,
-1496,wer?,1235,WHO
+1496,wer,1235,WHO
 1497,jemand,2422,SOMEONE
 1498,"scharf, streng",1396,SHARP
 1499,"Schärfe, Strenge",,
@@ -1511,14 +1511,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1509,"jedenfalls, nur",1580,ONLY
 1510,"Weile, Zeit, Stunde",892,TIME
 1511,"nur eine Zeitlang dauernd, vergänglich",,
-1512,aufhören,3351,STOP DOING
+1512,aufhören,1928,CEASE
 1513,"beruhigen, erquicken",,
 1514,"zur Ruhe kommen, aufhören",1928,CEASE
 1515,nicht eine Stunde lang,,
 1516,weißen,,
 1517,weiß,1335,WHITE
 1518,wie groß,,
-1519,wie beschaffen?,,
+1519,wie beschaffen,,
 1520,"Totenkiste, Sarg",,
 1521,"Das Rühmen, der Ruhm",,
 1522,jeder,,
@@ -1527,8 +1527,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1525,drohen,1192,THREATEN
 1526,einen bedrohn,,
 1527,Iaeirus,,
-1528,Iairaimias*,,
-1529,P064.10,,
+1528,Iairaimias,,
+1529,P,,
 1530,Iericho,,
 1531,Iairusalem,,
 1532,Iairusaulwma,,
@@ -1540,13 +1540,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1538,Iaredis,,
 1539,Iareim,,
 1540,Iasson,,
-1541,Iaurdanus*,,
-1542,doch nicht?,,
+1541,Iaurdanus,,
+1542,doch nicht,,
 1543,Berglehne,,
 1544,gleich,2276,IDENTICAL
 1545,gleichen Körpers,,
 1546,gleichschön,,
-1547,~skauneis*,,
+1547,skauneis,,
 1548,Gleichheit,,
 1549,gleich machen,,
 1550,"eben, flach",1633,FLAT
@@ -1601,7 +1601,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1599,Israel,,
 1600,Israeleites,,
 1601,essen,1336,EAT
-1602,"etw. verzehren, fressen",,
+1602,"etw verzehren, fressen",,
 1603,Ituraia,,
 1604,aber,3843,BUT
 1605,Iudaia,,
@@ -1634,7 +1634,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1632,dorthin gewandt,,
 1633,jener,78,THAT
 1634,dorther,,
-1635,P072.07,,
+1635,P,,
 1636,Janna,,
 1637,Jannes,,
 1638,und wenn,,
@@ -1671,7 +1671,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1669,kalt,1287,COLD
 1670,Hurerei,,
 1671,Hure,1610,PROSTITUTE
-1672,Kananeites*,,
+1672,Kananeites,,
 1673,"kennen, wissen",1410,KNOW (SOMETHING)
 1674,einem  kund tun,,
 1675,verkünden,,
@@ -1710,7 +1710,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1708,hervorkeimen,,
 1709,mithervorkeimen,,
 1710,Turm; Speisesaal im Obergeschoss,,
-1711,Kileikia*,,
+1711,Kileikia,,
 1712,Mutterleib,,
 1713,Statthalter,,
 1714,Wange,1730,CHEEK
@@ -1745,7 +1745,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1743,verachten,2715,DESPISE
 1744,"sich unterordnen, gehorchen",1635,OBEY
 1745,-kunnan,,
-1746,etw. lesen,,
+1746,etw lesen,,
 1747,gewähren,,
 1748,"kennen lernen, erfahren",2218,EXPERIENCED
 1749,erkennen,2870,RECOGNIZE (SOMEBODY)
@@ -1763,17 +1763,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1761,etwas ablegen,,
 1762,einem  auflegen,,
 1763,"hinlegen, auflegen",998,PUT
-1764,einem  etw. vorlegen,,
+1764,einem  etw vorlegen,,
 1765,hinlegen,998,PUT
 1766,überdecken,,
 1767,us-lagjan,,
 1768,schmähn,,
-1769,lauan*,,
+1769,lauan,,
 1770,Überbleibsel,,
 1771,übrig lassen,,
 1772,bleiben,987,REMAIN
 1773,Legion,,
-1774,etw. belecken,,
+1774,etw belecken,,
 1775,"hüpfen, springen",1829,JUMP
 1776,einen  verspotten,,
 1777,Tanz,,
@@ -1808,7 +1808,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1806,schmähn,,
 1807,glauben,1890,BELIEVE
 1808,einem erlauben,,
-1809,Laudeikaia*,,
+1809,Laudeikaia,,
 1810,Gestalt,,
 1811,"Laub, Blatt",628,LEAF
 1812,leugnen,755,DENY
@@ -1901,12 +1901,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1899,Lügenprophet,,
 1900,Lügen redend,,
 1901,Lügner,3470,LIAR
-1902,liuhadei*,,
+1902,liuhadei,,
 1903,"Helle, Glanz",,
 1904,hell,679,BRIGHT
 1905,Licht,630,LIGHT (RADIATION)
 1906,leuchten,,
-1907,"etw. erleuchten, ans Licht bringen",,
+1907,"etw erleuchten, ans Licht bringen",,
 1908,erleuchten,,
 1909,etwas verlieren,,
 1910,Heuchelei,,
@@ -1914,7 +1914,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1912,Sänger,,
 1913,einem lobsingen,,
 1914,flache Hand,,
-1915,Loþ*,,
+1915,Loþ,,
 1916,Hoffnung,,
 1917,giftkundig,,
 1918,"Giftmischerei, Zauberei",,
@@ -1936,9 +1936,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1934,taüschen,,
 1935,"verführen, irre führen",,
 1936,Lwddomaeis,,
-1937,Lwsanius*,,
+1937,Lwsanius,,
 1938,Lwstrws,,
-1939,Maeinan*,,
+1939,Maeinan,,
 1940,"können, vermögen",972,BE ABLE
 1941,"gelten, bedeuten",,
 1942,Jungfrauschaft,,
@@ -1955,17 +1955,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1953,tauschen,2509,EXCHANGE
 1954,verwandeln,,
 1955,Mist,,
-1956,Mailaian*,,
+1956,Mailaian,,
 1957,Runzel,,
-1958,Mailkei*,,
+1958,Mailkei,,
 1959,Pergament,,
 1960,gemein machen,,
 1961,verunreinigen,,
 1962,mehr,1992,MORE
-1963,Maisaullam*,,
+1963,Maisaullam,,
 1964,der größte,,
 1965,höchstens,,
-1966,"etw. schneiden, hauen von",,
+1966,"etw schneiden, hauen von",,
 1967,"abhauen, abschneiden",,
 1968,beschneiden,,
 1969,"zerschneiden, verschneiden",,
@@ -1984,13 +1984,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1982,zermalmen,,
 1983,Mambres,,
 1984,Fleisch,634,MEAT
-1985,mammona*,,
+1985,mammona,,
 1986,verhöhnen,,
 1987,"meinen, glauben, dafür halten",1890,BELIEVE
 1988,Fülle,,
 1989,Menge,2987,AMOUNT
 1990,mannigfaltig,,
-1991,etw. mehren,,
+1991,etw mehren,,
 1992,"reichlich vorhanden sein, Überfluß haben an",,
 1993,sich vermehren zu,,
 1994,"mancher, viel",1198,MANY
@@ -2004,10 +2004,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2002,Menschlichkeit,,
 2003,menschlich,,
 2004,Bereitschaft,,
-2005,"etw. bereitmachen, zurechtmachen",,
-2006,etw. vorbereiten,,
-2007,einem etw. bereiten zu,,
-2008,etw. vorher zubereiten,,
+2005,"etw bereitmachen, zurechtmachen",,
+2006,etw vorbereiten,,
+2007,einem etw bereiten zu,,
+2008,etw vorher zubereiten,,
 2009,bereit,,
 2010,der Herr kommt,,
 2011,Meer,1474,SEA
@@ -2028,10 +2028,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2026,"Ranzen, Speisesack",,
 2027,essen,1336,EAT
 2028,essen,1336,EAT
-2029,Speise,481,DISH
+2029,Speise,256,FOOD
 2030,Mattaþanis,,
-2031,Mattaþius*,,
-2032,Matþaius*,,
+2031,Mattaþius,,
+2032,Matþaius,,
 2033,Matþat,,
 2034,Wurm,1219,WORM
 2035,"Versammlungsort, Marktplatz",,
@@ -2058,13 +2058,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2056,schreiben,1672,WRITE
 2057,vorher schreiben,,
 2058,unterschreiben,,
-2059,etw. überschreiben,,
+2059,etw überschreiben,,
 2060,Mond,1313,MOON
 2061,Monat,1370,MONTH
 2062,"Verkündigung, Predigt",,
 2063,Merila,,
 2064,"Gerücht, Kunde",,
-2065,"etw. künden, kund tun",,
+2065,"etw künden, kund tun",,
 2066,"Verkündiger, Prediger",,
 2067,verkünden,,
 2068,einem eine frohe Botschaft künden,,
@@ -2073,7 +2073,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2071,"Tisch; Schüssel, Platte; Kelter",1775,TABLE
 2072,Zwischenwand,,
 2073,"Überflutung, Sintflut",,
-2074,midjis*,,
+2074,midjis,,
 2075,"die bewohnte Erde, der Erdkreis",,
 2076,Mitte,1093,MIDDLE
 2077,Mittler,,
@@ -2129,16 +2129,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2127,einem das Maul verbinden,,
 2128,"meinen, glauben, dafür halten",1890,BELIEVE
 2129,sich einer Sache,,
-2130,"etw. zu tun gedenken, wollen",1784,WANT
+2130,"etw zu tun gedenken, wollen",1784,WANT
 2131,"einen besehn, sehen auf",,
 2132,Ziel,,
 2133,vergessen,1523,FORGET
 2134,"Gedanke, Meinung",2975,THOUGHT
 2135,Mund,674,MOUTH
-2136,Nabaw*,,
+2136,Nabaw,,
 2137,Natter,,
 2138,[Naem],,
-2139,Naggai*,,
+2139,Naggai,,
 2140,festnageln an,,
 2141,"es ist erlaubt, nötig",,
 2142,es genügt einem,,
@@ -2154,7 +2154,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2152,benennen,180,CALL BY NAME
 2153,Name,1405,NAME
 2154,"Mut fassen, sich erkühnen",,
-2155,aufhören,3351,STOP DOING
+2155,aufhören,1928,CEASE
 2156,Nacktheit,,
 2157,nackt,590,NAKED
 2158,Narde,,
@@ -2200,7 +2200,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2198,Nerins,,
 2199,Nadel,1382,NEEDLE (FOR SEWING)
 2200,nicht,1240,NOT
-2201,doch nicht etwa?,,
+2201,doch nicht etwa,,
 2202,"das Verzehren, der Rost",,
 2203,"und nicht, auch nicht, nicht",1240,NOT
 2204,Nikaudemus,,
@@ -2243,8 +2243,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2241,"Fänger, Fischer",1858,FISHERMAN
 2242,Nwmfan,,
 2243,"ach, pfui",,
-2244,Obeid*,,
-2245,Odueia*,,
+2244,Obeid,,
+2245,Odueia,,
 2246,sich fürchten vor ,,
 2247,einen schrecken,,
 2248,Zeit habend,,
@@ -2252,28 +2252,28 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2250,osanna,,
 2251,"Leibrock, Unterkleid",,
 2252, bekleiden,,
-2253,paintekuste*,,
+2253,paintekuste,,
 2254,Paitrus,,
 2255,"Presbyter, Geistlicher",,
 2256,Tröster,,
 2257,Rüsttag,,
 2258,paska,,
 2259,pasxa,,
-2260,Pauntius*,,
+2260,Pauntius,,
 2261,Purpur,,
 2262,paurpaura,,
 2263,purpurn,,
 2264,Pawlus,,
 2265,Palmbaum,,
 2266,Peilatus,,
-2267,unverfälschte o. flüssige Narde,,
+2267,unverfälschte o flüssige Narde,,
 2268,Straße,667,ROAD
 2269,Flicken,,
 2270,tanzen,1879,DANCE
 2271,bedrängen,,
 2272,praitoriaun,,
-2273,christlich. Gemeindebehörde,,
-2274,praizbwtairi*,,
+2273,christlich Gemeindebehörde,,
+2274,praizbwtairi,,
 2275,Prophetin,,
 2276,Prophet,,
 2277,Weissagung,,
@@ -2292,7 +2292,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2290,hinzutreten,,
 2291,einen überfallen,,
 2292,vor jemand hergehn,,
-2293,"etw. verzehren, ausgeben, vertun",,
+2293,"etw verzehren, ausgeben, vertun",,
 2294,zusammenkommen,,
 2295,mitkommen mit,,
 2296,"umbringen, den Tod geben",1417,KILL
@@ -2325,10 +2325,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2323,"das Kommen; Gegenwart, Ankunft, Wiederkunft Christi",1446,COME
 2324,rabbaunei,,
 2325,rabbei,,
-2326,Ragaw*,,
+2326,Ragaw,,
 2327,"Rat, Beschluß",,
 2328,"Ratgeber, Ratsherr",,
-2329,etw. verwalten,,
+2329,etw verwalten,,
 2330,einen Rat geben,,
 2331,rechnen,2867,CALCULATE
 2332,einen übertreffen an,,
@@ -2364,14 +2364,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2362,"warum lasset ihr euch Satzungen auflegen, als lebtet ihr in der Welt",,
 2363,"Reich, Herrschaft, Obrigkeit",712,RICH
 2364,herrschen über,,
-2365,reikeis*,,
-2366,reiks*,,
+2365,reikeis,,
+2366,reiks,,
 2367,"Herrscher, Obrigkeit",3377,EMPEROR
 2368,zittern,52,SHIVER
 2369,"erzittern, erbeben",,
 2370,das Zittern,52,SHIVER
 2371,"erstehn, sich erheben",570,STAND UP
-2372,Resa*,,
+2372,Resa,,
 2373,Regen,658,RAIN (PRECIPITATION)
 2374,regnen,1253,RAIN (RAINING)
 2375,häufen,,
@@ -2395,16 +2395,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2393,"Vernichtung, vom ewigen Tod gesagt",,
 2394,verderben,92,SPOIL (SOMEBODY OR SOMETHING)
 2395,"vergänglich, sterblich",,
-2396,riurs*,,
+2396,riurs,,
 2397,"sprechen, reden",1623,SPEAK
 2398,"murrend reden, murren",,
 2399,mit einem reden,,
 2400,Hof,4,COURTYARD
 2401,Rufus,,
 2402,Raum,1450,ROOM
-2403,Rūma*,,
+2403,Rūma,,
 2404,sich erweitern,,
-2405,Rūmoneis*,,
+2405,Rūmoneis,,
 2406,geräumig,,
 2407,Geheimnis,,
 2408,Lauf,,
@@ -2421,7 +2421,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2419,uf-saggqjan,,
 2420,"Untergang, Westen",1817,WEST
 2421,"Vorlesung, Rezitation",,
-2422,"der u. kein andrer, eben der",,
+2422,"der u kein andrer, eben der",,
 2423,was auch immer,,
 2424,"ecce, sieh",,
 2425,säen,748,SOW SEEDS
@@ -2429,11 +2429,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2427,sechs,1703,SIX
 2428,der sechste,,
 2429,sehn,,
-2430,"auf etw. sehn, es berücksichtigen",,
-2431,"auf etw. sehn, acht geben",,
+2430,"auf etw sehn, es berücksichtigen",,
+2431,"auf etw sehn, acht geben",,
 2432,umsehn,,
 2433,erblicken,,
-2434,"hinsehn; auf etw. sehn, nach etw. sehn",,
+2434,"hinsehn; auf etw sehn, nach etw sehn",,
 2435,dúrchschauen,,
 2436,aufblicken,,
 2437,anseilen,,
@@ -2471,7 +2471,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2469,Salz,1274,SALT
 2470,salzen,,
 2471,"derselbe, der nämliche",,
-2472,samafraþjis*,,
+2472,samafraþjis,,
 2473,"desselben Geschlechts, verwandt",,
 2474,gleich groß,,
 2475,gleich,2276,IDENTICAL
@@ -2494,7 +2494,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2492,Sarra,,
 2493,Waffen,,
 2494,Satan,,
-2495,setzen,3832,PUT (IN A SITTING POSITION)
+2495,setzen,1649,SIT DOWN
 2496,"absetzen, entlassen",1095,LET GO OR SET FREE
 2497,darstellen,,
 2498,umgeben,,
@@ -2518,8 +2518,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2516,Grund,2968,REASON
 2517,Opfer,1103,SACRIFICE
 2518,sei,,
-2519,Seidona*,,
-2520,Seidoneis*,,
+2519,Seidona,,
+2520,Seidoneis,,
 2521,Seimon,,
 2522,Seina,,
 2523,sich,,
@@ -2530,7 +2530,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2528,"Tüchtigkeit, Güte",,
 2529,"gut, gütig",1035,GOOD
 2530,Sem,,
-2531,Seþ*,,
+2531,Seþ,,
 2532,sibakþanei,,
 2533,"Sippenverhältnis, Verwandtschaft",,
 2534,sich mit einem  versöhnen,,
@@ -2550,7 +2550,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2548,sinken,1088,SINK (DESCEND)
 2549,untersinken,,
 2550,"versinken, untergehn",1088,SINK (DESCEND)
-2551,†sihw,,
+2551,sihw,,
 2552,Sekel,,
 2553,verstummen,,
 2554,selbst,1993,SELF
@@ -2618,7 +2618,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2616,schädlich,,
 2617,Riemen,2973,STRAP
 2618,anmutig,,
-2619,skauneis*,,
+2619,skauneis,,
 2620,Skorpion,1538,SCORPION
 2621,Zipfel,,
 2622,"daß sie nüchtern werden, zur Besinnung kommen aus den Schlingen des Teufels",,
@@ -2636,7 +2636,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2634,"verstoßen, von sich wegstoßen",,
 2635,Schuh,1381,SHOE
 2636,"böser Geist, Dämon",,
-2637,etw. zerreißen,,
+2637,etw zerreißen,,
 2638,zerreißen,1735,TEAR (SHRED)
 2639,Haupthaar,,
 2640,Spiegel,1171,MIRROR
@@ -2660,7 +2660,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2658,Gefahr,1810,DANGER
 2659,beschädigen,1116,DAMAGE
 2660,"schlimm, gefährlich",419,SEVERE
-2661,sleideis*,,
+2661,sleideis,,
 2662,schlafen,1585,SLEEP
 2663,"entschlummern, entschlafen",,
 2664,"entschlummern, entschlafen",,
@@ -2681,7 +2681,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2679,Schnee,784,SNOW
 2680,"anfassen, anrühren",,
 2681,schneiden; ernten,1432,CUT
-2682,†af-sneiþan,,
+2682,af-sneiþan,,
 2683,schlachten,1796,SLAUGHTER
 2684,eilen,2860,BOLT (MOVE IN HASTE)
 2685,"hineilen, kommen",1446,COME
@@ -2728,7 +2728,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2726,"verkünden, erzählen",1711,TELL
 2727,spinnen,121,SPIN
 2728,"schnell, bald",1631,FAST
-2729,aus Binsen o. Palmblättern geflochtener Korb,,
+2729,aus Binsen o Palmblättern geflochtener Korb,,
 2730,"Grundstoffe, Elemente",,
 2731,stich aus,,
 2732,etwas anstoßen an,,
@@ -2763,7 +2763,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2761,vertrocknen,,
 2762,sie bezeigten ihr Unwillen,,
 2763,stoßen an,,
-2764,steigen,1102,CLIMB
+2764,steigen,705,GO UP (ASCEND)
 2765,hinabsteigen,2014,GO DOWN (DESCEND)
 2766,hineinsteigen,,
 2767,darüber empor steigen,,
@@ -2856,8 +2856,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2854,"Reinheit, Keuschheit",,
 2855,Reinigung,,
 2856,"Reinheit, Keuschheit",,
-2857,"rein, unschuldig; unsträflich",704,CLEAN
-2858,etw. bekannt geben,,
+2857,"rein, unschuldig; unsträflich",90,INNOCENT
+2858,etw bekannt geben,,
 2859,"offenkundig, offenbar, bekannt",3005,FAMILIAR
 2860,im Sterben liegen,,
 2861,sterben,1494,DIE
@@ -2871,12 +2871,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2869,Schwester,1263,SISTER
 2870,Swmaion,,
 2871,Synagogenvorsteher,,
-2872,swnagoge*,,
-2873,Swntwke*,,
+2872,swnagoge,,
+2873,Swntwke,,
 2874,seufzen,,
 2875,erseufzen,,
 2876,aufseufzen,,
-2877,Swria*,,
+2877,Swria,,
 2878,dem Tode nahe,,
 2879,Teich,,
 2880,Haar,1040,HAIR
@@ -2986,18 +2986,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2984,zwölfjährig,,
 2985,zwölf,1707,TWELVE
 2986,das Zweifeln,3536,DOUBT (SOMETHING)
-2987,zweifeln o. Zweifel erregen,,
+2987,zweifeln o Zweifel erregen,,
 2988,Zweifel,,
 2989,zwischen beiden Grenzen,,
 2990,Zwistigkeit,,
 2991,Twkeikus,,
-2992,Twra*,,
+2992,Twra,,
 2993,Þaddaius,,
 2994,wohin,2928,WHITHER (WHERE TO)
 2995,Dank,,
 2996,"denken, überlegen",1415,THINK (REFLECT)
 2997,"mir fällt ein, was ich tun soll",,
-2998,etw. bedenken,,
+2998,etw bedenken,,
 2999,das Schweigen,48,BE SILENT
 3000,schweigen,48,BE SILENT
 3001,verstummen,,
@@ -3031,7 +3031,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3029,nur,1580,ONLY
 3030,daß,,
 3031,"das ist, nämlich",,
-3032,"der u. kein andrer, eben der",,
+3032,"der u kein andrer, eben der",,
 3033,"daher, von da",,
 3034,von wannen,,
 3035,"von da, daher",,
@@ -3101,7 +3101,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3099,"trösten, mahnen",,
 3100,erquicken,,
 3101,ga-þrafstjan,,
-3102,laufen,1519,RUN
+3102,laufen,1443,WALK
 3103,herbeilaufen,,
 3104,Heuschrecke,810,LOCUST
 3105,Streitsucht,,
@@ -3128,7 +3128,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3126,Anführer von Tausend,,
 3127,Trompete,775,TRUMPET
 3128,trompeten,,
-3129,etw. waschen,,
+3129,etw waschen,,
 3130,sich abwaschen,,
 3131,sich abwaschen,,
 3132,"etwas auswaschen, abwaschen",,
@@ -3244,7 +3244,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3242,unauslöschlich,,
 3243,unablässig,,
 3244,sorglos,,
-3245,unkaureins*,,
+3245,unkaureins,,
 3246,Unze,,
 3247,"nicht kennend, unwissend",2651,BE IGNORANT
 3248,Unkunde,,
@@ -3266,8 +3266,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3264,unaussprechlich,,
 3265,Unvergänglichkeit,,
 3266,unvergänglich,,
-3267,unriurs*,,
-3268,"nicht redend, stumm",1666,MUTE
+3267,unriurs,,
+3268,"nicht redend, stumm",1492,DUMB
 3269,unbestritten,,
 3270,nicht sehend,,
 3271,ungesalzen,,
@@ -3346,7 +3346,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3344,"Zügellosigkeit, Lüderlichkeit",,
 3345,zügellos,,
 3346,"Auszeichnung, Bezeichnung; Bekanntmachung; Anzeichen, Beweis",,
-3347,"Vollendung, Vervollkommnung; Ende; Erfüllung",743,END (OF TIME)
+3347,"Vollendung, Vervollkommnung; Ende; Erfüllung",742,END (OF SPACE)
 3348,"Übung, Stählung",,
 3349,Geduld,,
 3350,erwachsen,,
@@ -3406,7 +3406,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3404,"Gastfreund, Hauswirt",,
 3405,Lippe,478,LIP
 3406,werfen,1456,THROW
-3407,etw. wegwerfen,,
+3407,etw wegwerfen,,
 3408,hinwerfen,,
 3409,"verwerfen, zerstreuen",3705,SCATTER
 3410,hinwerfen,,
@@ -3422,7 +3422,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3420,sich versöhnen mit,,
 3421,schätzen,,
 3422,"wert, würdig, tauglich",,
-3423,"auf etw. sehn, acht geben, es bewachen, hüten, etw. halten",2885,HERD (SOMETHING)
+3423,"auf etw sehn, acht geben, es bewachen, hüten, etw halten",2885,HERD (SOMETHING)
 3424,"vielleicht, etwa",2278,PERHAPS
 3425,schlechter Ruf,,
 3426,Lästerung,,
@@ -3437,7 +3437,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3435,wählen,1750,CHOOSE
 3436,erwählen,,
 3437,sich wälzen,,
-3438,"etw. umwälzen, umstürzen",,
+3438,"etw umwälzen, umstürzen",,
 3439,hin und her wälzen,,
 3440,Stab,,
 3441,sich wälzen,,
@@ -3479,7 +3479,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3477,viel Worte machen,,
 3478,schmähn,,
 3479,"machen, wirken",734,MAKE
-3480,etw. erwirken,,
+3480,etw erwirken,,
 3481,eine Sünde begehen,,
 3482,"bewirken, erwirken, bereiten",,
 3483,"ausführen, vollbringen",,
@@ -3580,7 +3580,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3578,wit,,
 3579,wissen,1410,KNOW (SOMETHING)
 3580,ich bin mir nichts bewußt,,
-3581,"auf etw. sehn, acht geben, es bewachen, hüten, etw. halten",2885,HERD (SOMETHING)
+3581,"auf etw sehn, acht geben, es bewachen, hüten, etw halten",2885,HERD (SOMETHING)
 3582,Gesetzeskundiger,,
 3583,Gesetzeslehrer,,
 3584,gesetzlos,,

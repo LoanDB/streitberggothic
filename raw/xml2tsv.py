@@ -38,7 +38,7 @@ def main():
     """create & read soup w beautifulsoup & put into pandas df"""
 
     # create soup
-    with open("Streitberg-1910-3659.xml", 'r', encoding="utf-8") as f:
+    with open("Streitberg-1910-3645.xml", 'r', encoding="utf-8") as f:
         file = f.read()
     soup = BeautifulSoup(file, 'lxml')
 
@@ -102,7 +102,7 @@ def main():
     dfgot["pos"] = pos
 
     # write tsv
-    dfgot.to_csv("Streitberg-1910-3659.tsv", index=False,
+    dfgot.to_csv("Streitberg-1910-3645.tsv", index=False,
                  encoding="utf-8", sep="\t")
 
 if __name__ == "__main__":
