@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/streitberggothic",
             "rdf:type": "prov:Entity",
-            "dc:created": "3288ea6",
+            "dc:created": "6f33084",
             "dc:title": "Repository"
         },
         {
@@ -59,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 3645,
+            "dc:extent": 3644,
             "tableSchema": {
                 "columns": [
                     {
@@ -228,7 +228,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 3645,
+            "dc:extent": 3386,
             "tableSchema": {
                 "columns": [
                     {
@@ -250,6 +250,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "POS"
                     }
                 ],
                 "primaryKey": [
