@@ -5,7 +5,7 @@ from pylexibank import FormSpec
 
 REP = [(x, "") for x in "†*[]~?;+-"] + \
       [(x, "a") for x in "áàā"] + [(x, "ɪ") for x in "ïíìī"] + \
-      [("ē", "e"), ("ō", "o"), ("ū", "u"), (" ", "_"), (",_", ", ")]
+      [("ē", "e"), ("ō", "o"), ("ū", "u") (" ", "_"), (",_", ", ")]
 
 
 class Dataset(BaseDataset):

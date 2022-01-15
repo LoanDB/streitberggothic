@@ -1,5 +1,6 @@
 """open terminal, cd into folder `raw`, run `python xml2tsv.py` """
 
+from pathlib import Path
 import re
 
 from bs4 import BeautifulSoup
@@ -102,7 +103,8 @@ def main():
     dfgot["pos"] = pos
 
     # write tsv
-    dfgot.to_csv("Streitberg-1910-3645.tsv", index=False,
+    PATH = Path.cwd().parent / "Streitberg-1910-3645.tsv"
+    dfgot.to_csv(PATH, index=False,
                  encoding="utf-8", sep="\t")
 
 if __name__ == "__main__":

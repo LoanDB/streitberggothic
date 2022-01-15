@@ -271,7 +271,7 @@ Angesicht	Noun, common, neuter
 Amt, Dienst	Noun, common, neuter	2430	OFFICE
 etwas  leisten	Verb		
 Diener	Noun, common, masculine		
-Ende	Noun, common, masculine	743	END (OF TIME)
+Ende	Noun, common, masculine	742	END (OF SPACE)
 Enthüllung, Offenbarung	Noun, common, feminine		
 endlos	Adjective		
 anders, sonst	Conjunction	2504	DIFFERENT
@@ -510,7 +510,7 @@ woran	Adverb
 zugleich aber rüste auch	Participle, present		
 Beschneidung	Noun, common, neuter		
 einen mit etwas  binden	Verb		
-lösen; auflösen, erklären; entbinden von	Verb	352	UNTIE
+lösen; auflösen, erklären; entbinden von	Verb	1626	EXPLAIN
 umbinden mit 	Verb		
 binden	Verb	1917	TIE
 Gefahr	Noun, common, feminine	1810	DANGER
@@ -537,7 +537,7 @@ barmherzig sein	Verb
 sich erbarmen	Verb		
 barmherzig; dem Guten zugetan	Adjective		
 aufblasen	Verb		
-schlagen	Verb	2133	STRIKE OR BEAT
+schlagen	Verb	3308	STRIKE (SOMEONE)
 durchbleuen	Verb		
 verblenden	Verb		
 erblinden	Verb		
@@ -622,7 +622,7 @@ Türhüterin	Noun, common, feminine
 Türhüterin	Noun, common, feminine		
 Türhüter	Noun, common, masculine		
 Dauriþaius	Noun, proper		
- Tor, Tür	Noun, common, feminine	2940	GATE
+ Tor, Tür	Noun, common, feminine	1567	DOOR
 sich erkühnen, wagen	Verb	1779	DARE
 das Absterben	Noun, common, feminine		
 töten	Verb	1417	KILL
@@ -1395,7 +1395,7 @@ aufspringen, sich aufmachen	Verb
 Los; Anteil, Erbschaft	Noun, common, masculine		
 sich annehmen	Verb		
 link	Adjective, Comparative		
-Zelt, Hütte	Noun, common, feminine	1678	HUT
+Zelt, Hütte	Noun, common, feminine	1316	TENT
 ein Zelt über mir aufschlage	Verb		
 das Zeltaufschlagen, Laubhüttenfest	Noun, common, feminine		
 stehlen	Verb	713	STEAL
@@ -1405,7 +1405,7 @@ Gehör	Noun, common, masculine	2518	HEARING (AURAL SENSE)
 auflachen machen	Verb		
 Lauterkeit	Noun, common, feminine		
 Lauterkeit	Noun, common, feminine		
-lauter, rein	Adjective	1147	PURE
+lauter, rein	Adjective	704	CLEAN
 Erniedrigung, Demut	Noun, common, feminine		
 niedrig machen	Verb		
 niederlegen	Verb		
@@ -1433,7 +1433,7 @@ reinigen	Verb	2235	CLEAN (SOMETHING)
 etwas Verunreinigendes tilgen	Verb		
 reinigen	Verb	2235	CLEAN (SOMETHING)
 ausfegen	Verb		
-rein, ehrbar	Adjective	1147	PURE
+rein, ehrbar	Adjective	704	CLEAN
 Turteltaube	Noun, common, feminine		
 kreuzigen	Verb		
 kreuzigen	Verb		
@@ -1489,7 +1489,7 @@ Weizen	Noun, common, masculine
 wie	Adverb	1239	HOW
 wann	Adverb	1238	WHEN
 jemals	Adverb		
-ersticken, auslöschen	Verb	129	CHOKE
+ersticken, auslöschen	Verb	127	EXTINGUISH
 ersticken, erlöschen	Verb	129	CHOKE
 wo	Adverb	1237	WHERE
 wandeln	Verb		
@@ -1856,7 +1856,7 @@ mithineingehn	Verb
 hinzukommen	Verb		
 hindurchgehn	Verb		
 übersetzen	Verb	2906	TRANSLATE
-hinausgehn, weggehn; verreisen	Verb	1107	GO OUT
+hinausgehn, weggehn; verreisen	Verb	1752	LEAVE
 Obstwein	Noun, common		
 Arzt	Noun, common, masculine	597	PHYSICIAN
 Heilung	Noun, common, masculine		
@@ -2284,7 +2284,7 @@ Geldbeutel	Noun, common
 Pfund	Noun, common		
 weinen, trauern	Verb	1839	CRY
 Sanftmut	Noun, common, feminine		
-sanft, freundlich gegen	Adjective	1954	GENTLE
+sanft, freundlich gegen	Adjective	1856	SOFT
 Pfahl, Stachel	Noun, common, neuter	3798	STINGER
 Quartus	Noun, proper		
 Eheweib	Noun, common, feminine		
@@ -2645,7 +2645,7 @@ schuldig sein, sollen	Verb
 Schauer	Noun, common, feminine		
 Skwþus	Noun, proper		
 Raufbold	Noun, common, masculine		
-schlagen	Verb	2133	STRIKE OR BEAT
+schlagen	Verb	3308	STRIKE (SOMEONE)
 abschlagen	Verb		
 Schlag	Noun, common, masculine		
 schlicht; glatt, eben	Adjective	1234	SMOOTH
@@ -2804,7 +2804,7 @@ entschuldigen	Verb
 rechtfertigen	Verb		
 Verteidigung	Noun, common, feminine		
 Sonne	Noun, common	1343	SUN
-alsbald, plötzlich, auf einmal	Adverb	2920	SUDDENLY
+alsbald, plötzlich, auf einmal	Adverb	1963	IMMEDIATELY
 sogleich	Adverb	1963	IMMEDIATELY
 sobald als	Conjunction		
 Sohn	Noun, common, masculine	1620	SON
@@ -2856,7 +2856,7 @@ Jubel, Frohlocken	<none>
 Reinheit, Keuschheit	Noun, common, feminine		
 Reinigung	Noun, common, feminine		
 Reinheit, Keuschheit	Noun, common, feminine		
-rein, unschuldig; unsträflich	Adjective	90	INNOCENT
+rein, unschuldig; unsträflich	Adjective	704	CLEAN
 etw bekannt geben	Verb		
 offenkundig, offenbar, bekannt	Adjective	3005	FAMILIAR
 im Sterben liegen	Verb		
@@ -2882,7 +2882,7 @@ Teich	Noun, common, neuter
 Haar	Noun, common, neuter	1040	HAIR
 Zähre, Träne	Noun, common, neuter	1651	TEAR (OF EYE)
 weinen	Verb	1839	CRY
-reißen, zerren	Verb	1735	TEAR (SHRED)
+reißen, zerren	Verb	460	BREAK (OF ROPE)
 zerstreuen	Verb	3705	SCATTER
 rechts	Adjective	1019	RIGHT
 die Rechte	Noun, common, feminine		
@@ -3267,7 +3267,7 @@ unaussprechlich	Adjective
 Unvergänglichkeit	Noun, common, feminine		
 unvergänglich	Adjective		
 unriurs	Adjective		
-nicht redend, stumm	Participle, present	1492	DUMB
+nicht redend, stumm	Participle, present	1666	MUTE
 unbestritten	Adverb		
 nicht sehend	Participle, present		
 ungesalzen	Participle, past		
@@ -3346,7 +3346,7 @@ Auferstehung	Noun, common, feminine
 Zügellosigkeit, Lüderlichkeit	Noun, common, feminine		
 zügellos	Adverb		
 Auszeichnung, Bezeichnung; Bekanntmachung; Anzeichen, Beweis	Noun, common, feminine		
-Vollendung, Vervollkommnung; Ende; Erfüllung	Noun, common, feminine	742	END (OF SPACE)
+Vollendung, Vervollkommnung; Ende; Erfüllung	Noun, common, feminine	743	END (OF TIME)
 Übung, Stählung	Noun, common, feminine		
 Geduld	Noun, common, feminine		
 erwachsen	Participle, past		

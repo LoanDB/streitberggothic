@@ -271,7 +271,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 269,"Amt, Dienst",2430,OFFICE
 270,etwas  leisten,,
 271,Diener,,
-272,Ende,743,END (OF TIME)
+272,Ende,742,END (OF SPACE)
 273,"Enthüllung, Offenbarung",,
 274,endlos,,
 275,"anders, sonst",2504,DIFFERENT
@@ -510,7 +510,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 508,zugleich aber rüste auch,,
 509,Beschneidung,,
 510,einen mit etwas  binden,,
-511,"lösen; auflösen, erklären; entbinden von",352,UNTIE
+511,"lösen; auflösen, erklären; entbinden von",1626,EXPLAIN
 512,umbinden mit ,,
 513,binden,1917,TIE
 514,Gefahr,1810,DANGER
@@ -537,7 +537,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 535,sich erbarmen,,
 536,barmherzig; dem Guten zugetan,,
 537,aufblasen,,
-538,schlagen,2133,STRIKE OR BEAT
+538,schlagen,3308,STRIKE (SOMEONE)
 539,durchbleuen,,
 540,verblenden,,
 541,erblinden,,
@@ -622,7 +622,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 620,Türhüterin,,
 621,Türhüter,,
 622,Dauriþaius,,
-623," Tor, Tür",2940,GATE
+623," Tor, Tür",1567,DOOR
 624,"sich erkühnen, wagen",1779,DARE
 625,das Absterben,,
 626,töten,1417,KILL
@@ -1395,7 +1395,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1393,"Los; Anteil, Erbschaft",,
 1394,sich annehmen,,
 1395,link,,
-1396,"Zelt, Hütte",1678,HUT
+1396,"Zelt, Hütte",1316,TENT
 1397,ein Zelt über mir aufschlage,,
 1398,"das Zeltaufschlagen, Laubhüttenfest",,
 1399,stehlen,713,STEAL
@@ -1405,7 +1405,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1403,auflachen machen,,
 1404,Lauterkeit,,
 1405,Lauterkeit,,
-1406,"lauter, rein",1147,PURE
+1406,"lauter, rein",704,CLEAN
 1407,"Erniedrigung, Demut",,
 1408,niedrig machen,,
 1409,niederlegen,,
@@ -1433,7 +1433,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1431,etwas Verunreinigendes tilgen,,
 1432,reinigen,2235,CLEAN (SOMETHING)
 1433,ausfegen,,
-1434,"rein, ehrbar",1147,PURE
+1434,"rein, ehrbar",704,CLEAN
 1435,Turteltaube,,
 1436,kreuzigen,,
 1437,kreuzigen,,
@@ -1489,7 +1489,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1487,wie,1239,HOW
 1488,wann,1238,WHEN
 1489,jemals,,
-1490,"ersticken, auslöschen",129,CHOKE
+1490,"ersticken, auslöschen",127,EXTINGUISH
 1491,"ersticken, erlöschen",129,CHOKE
 1492,wo,1237,WHERE
 1493,wandeln,,
@@ -1856,7 +1856,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1854,hinzukommen,,
 1855,hindurchgehn,,
 1856,übersetzen,2906,TRANSLATE
-1857,"hinausgehn, weggehn; verreisen",1107,GO OUT
+1857,"hinausgehn, weggehn; verreisen",1752,LEAVE
 1858,Obstwein,,
 1859,Arzt,597,PHYSICIAN
 1860,Heilung,,
@@ -2284,7 +2284,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2282,Pfund,,
 2283,"weinen, trauern",1839,CRY
 2284,Sanftmut,,
-2285,"sanft, freundlich gegen",1954,GENTLE
+2285,"sanft, freundlich gegen",1856,SOFT
 2286,"Pfahl, Stachel",3798,STINGER
 2287,Quartus,,
 2288,Eheweib,,
@@ -2645,7 +2645,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2643,Schauer,,
 2644,Skwþus,,
 2645,Raufbold,,
-2646,schlagen,2133,STRIKE OR BEAT
+2646,schlagen,3308,STRIKE (SOMEONE)
 2647,abschlagen,,
 2648,Schlag,,
 2649,"schlicht; glatt, eben",1234,SMOOTH
@@ -2804,7 +2804,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2802,rechtfertigen,,
 2803,Verteidigung,,
 2804,Sonne,1343,SUN
-2805,"alsbald, plötzlich, auf einmal",2920,SUDDENLY
+2805,"alsbald, plötzlich, auf einmal",1963,IMMEDIATELY
 2806,sogleich,1963,IMMEDIATELY
 2807,sobald als,,
 2808,Sohn,1620,SON
@@ -2856,7 +2856,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2854,"Reinheit, Keuschheit",,
 2855,Reinigung,,
 2856,"Reinheit, Keuschheit",,
-2857,"rein, unschuldig; unsträflich",90,INNOCENT
+2857,"rein, unschuldig; unsträflich",704,CLEAN
 2858,etw bekannt geben,,
 2859,"offenkundig, offenbar, bekannt",3005,FAMILIAR
 2860,im Sterben liegen,,
@@ -2882,7 +2882,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2880,Haar,1040,HAIR
 2881,"Zähre, Träne",1651,TEAR (OF EYE)
 2882,weinen,1839,CRY
-2883,"reißen, zerren",1735,TEAR (SHRED)
+2883,"reißen, zerren",460,BREAK (OF ROPE)
 2884,zerstreuen,3705,SCATTER
 2885,rechts,1019,RIGHT
 2886,die Rechte,,
@@ -3267,7 +3267,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3265,Unvergänglichkeit,,
 3266,unvergänglich,,
 3267,unriurs,,
-3268,"nicht redend, stumm",1492,DUMB
+3268,"nicht redend, stumm",1666,MUTE
 3269,unbestritten,,
 3270,nicht sehend,,
 3271,ungesalzen,,
@@ -3346,7 +3346,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 3344,"Zügellosigkeit, Lüderlichkeit",,
 3345,zügellos,,
 3346,"Auszeichnung, Bezeichnung; Bekanntmachung; Anzeichen, Beweis",,
-3347,"Vollendung, Vervollkommnung; Ende; Erfüllung",742,END (OF SPACE)
+3347,"Vollendung, Vervollkommnung; Ende; Erfüllung",743,END (OF TIME)
 3348,"Übung, Stählung",,
 3349,Geduld,,
 3350,erwachsen,,
