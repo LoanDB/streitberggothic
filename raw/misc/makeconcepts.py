@@ -23,7 +23,7 @@ def main():
     """
     # read file and clean column "sense"
     dfgot = pd.read_csv(in_path, sep="\t", usecols=["sense", "pos"])
-    dfgot["sense"] = [re.sub("[†\d\.\*\?\~]", "", g) for g in dfgot.sense]
+    dfgot["sense"] = [re.sub("[†\\d\\.\\*\\?\\~]", "", g) for g in dfgot.sense]
 
     # define list of dictionaries and plug into to_concepticon()
     glo = [{"gloss": g, "pos": p} for g, p in zip(dfgot.sense, dfgot.pos)]
@@ -33,6 +33,7 @@ def main():
     newcols = ["Concepticon_ID", "Concepticon_Gloss"]
     dfgot[newcols] = dfgot['sense'].map(G).tolist()
     dfgot.to_csv(out_path, index=False, encoding="utf-8", sep="\t")
+
 
 if __name__ == "__main__":
     main()

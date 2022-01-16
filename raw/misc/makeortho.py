@@ -9,6 +9,7 @@ from ipatok import tokenise
 
 epi = epitran.Epitran("got-Latn").transliterate
 
+
 def segment(word): return ' '.join(tokenise(epi(word)))
 
 
@@ -23,6 +24,7 @@ def main():
       .rename(columns={"Form": "Grapheme"})\
       .drop_duplicates()\
       .to_csv(out_path, index=False, encoding="utf-8", sep="\t")
+
 
 if __name__ == "__main__":
     main()

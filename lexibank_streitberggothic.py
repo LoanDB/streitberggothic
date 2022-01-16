@@ -10,11 +10,14 @@ REP = [(x, "") for x in "†*[]~?;+-"] + \
       [(x, "a") for x in "áàā"] + [(x, "ɪ") for x in "ïíìī"] + \
       [("ē", "e"), ("ō", "o"), ("ū", "u"), (" ", "_"), (",_", ", ")]
 
+
 @attr.s
 class CustomConcept(Concept):
     POS = attr.ib(default=None)
-    
-def cln(word): return re.sub("[†\d\.\*\?\~]", "", word)
+
+
+def cln(word): return re.sub("[†\\d\\.\\*\\?\\~]", "", word)
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -22,7 +25,7 @@ class Dataset(BaseDataset):
 
     form_spec = FormSpec(separators=",", first_form_only=True,
                          replacements=REP)
-                         
+
     concept_class = CustomConcept
 
     def cmd_makecldf(self, args):
@@ -34,14 +37,14 @@ class Dataset(BaseDataset):
         # add concept
         concepts = {}
         for i, concept in enumerate(self.concepts):
-            idx = str(i+1) + "_" + slug(concept["sense"])
+            idx = str(i + 1) + "_" + slug(concept["sense"])
             args.writer.add_concept(
-                    ID=idx,
-                    Name=concept["sense"],
-                    POS=concept["pos"],
-                    Concepticon_ID=concept["Concepticon_ID"],
-                    Concepticon_Gloss=concept["Concepticon_Gloss"]
-                    )
+                ID=idx,
+                Name=concept["sense"],
+                POS=concept["pos"],
+                Concepticon_ID=concept["Concepticon_ID"],
+                Concepticon_Gloss=concept["Concepticon_Gloss"]
+            )
             concepts[concept["sense"], concept["pos"]] = idx
         args.log.info("added concepts")
 

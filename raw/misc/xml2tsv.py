@@ -97,7 +97,7 @@ def main():
     dfgot["sense"].fillna(value=dfgot["form"], inplace=True)
 
     # remove brackets and their content
-    dfgot["sense"] = [re.sub("\(.*\)", "", i) for i in dfgot["sense"]]
+    dfgot["sense"] = [re.sub("\\(.*\\)", "", i) for i in dfgot["sense"]]
 
     # add col pos
     dfgot["pos"] = pos
@@ -106,6 +106,7 @@ def main():
     PATH = Path.cwd().parent / "Streitberg-1910-3645.tsv"
     dfgot.to_csv(PATH, index=False,
                  encoding="utf-8", sep="\t")
+
 
 if __name__ == "__main__":
     main()
