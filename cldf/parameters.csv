@@ -42,7 +42,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 43_agar,Agar,,,"Noun, proper"
 44_engelbote,"Engel, Bote",,,"Noun, common, masculine"
 45_bedrangnis,Bedrängnis ,,,"Noun, common, feminine"
-47_eng,eng,3053,TIGHT,Adjective
+47_eng,eng,1267,NARROW,Adjective
 48_furchtschrecken,"Furcht, Schrecken",,,"Noun, common, neuter"
 49_angstigen,ängstigen,,,Verb
 50_einenanfahren,einen anfahren,,,Verb
@@ -474,7 +474,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 509_zugleichaberrusteauch,zugleich aber rüste auch,,,"Participle, present"
 510_beschneidung,Beschneidung,,,"Noun, common, neuter"
 511_einenmitetwasbinden,einen mit etwas  binden,,,Verb
-512_losenauflosenerklarenentbindenvon,"lösen; auflösen, erklären; entbinden von",1626,EXPLAIN,Verb
+512_losenauflosenerklarenentbindenvon,"lösen; auflösen, erklären; entbinden von",352,UNTIE,Verb
 513_umbindenmit,umbinden mit ,,,Verb
 514_binden,binden,1917,TIE,Verb
 516_ingefahrkommen,in Gefahr kommen,,,"Noun, common"
@@ -574,7 +574,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 621_turhuterin,Türhüterin,,,"Noun, common, feminine"
 622_turhuter,Türhüter,,,"Noun, common, masculine"
 623_dauriaius,Dauriþaius,,,"Noun, proper"
-624_tortur," Tor, Tür",1567,DOOR,"Noun, common, feminine"
+624_tortur," Tor, Tür",2940,GATE,"Noun, common, feminine"
 625_sicherkuhnenwagen,"sich erkühnen, wagen",1779,DARE,Verb
 626_dasabsterben,das Absterben,,,"Noun, common, feminine"
 628_toten,töten,1417,KILL,Verb
@@ -601,7 +601,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 655_urteilenbeurteilen,"urteilen, beurteilen",1818,ADJUDICATE,Verb
 656_beurteilenverurteilen,"beurteilen, verurteilen",484,CONDEMN,Verb
 657_verurteilen,verurteilen,484,CONDEMN,Verb
-658_urteilenentscheiden,"urteilen, entscheiden",1818,ADJUDICATE,Verb
+658_urteilenentscheiden,"urteilen, entscheiden",685,DECIDE,Verb
 659_ruhm,Ruhm,,,"Noun, common, masculine"
 660_aushauen,aushauen,,,Verb
 661_tragen,tragen,700,CARRY,Verb
@@ -642,8 +642,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 698_glaubiger,Gläubiger,,,"Noun, common, masculine"
 699_schuld,Schuld,134,FAULT,"Noun, common"
 700_einfestfeiern,ein Fest feiern,,,Verb
-701_fest,Fest,131,FESTIVAL,"Noun, common, feminine"
-703_stumm,stumm,1666,MUTE,Adjective
+701_fest,Fest,3003,SOLID,"Noun, common, feminine"
+703_stumm,stumm,1492,DUMB,Adjective
 704_deshalbdeswegendazu,"deshalb, deswegen, dazu",,,Unassigned
 705_torenrede,Torenrede,,,"Noun, common, feminine"
 706_torheit,Torheit,,,"Noun, common, feminine"
@@ -1264,7 +1264,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1403_gehor,Gehör,2518,HEARING (AURAL SENSE),"Noun, common, masculine"
 1404_auflachenmachen,auflachen machen,,,Verb
 1406_lauterkeit,Lauterkeit,,,"Noun, common, feminine"
-1407_lauterrein,"lauter, rein",704,CLEAN,Adjective
+1407_lauterrein,"lauter, rein",1147,PURE,Adjective
 1408_erniedrigungdemut,"Erniedrigung, Demut",,,"Noun, common, feminine"
 1409_niedrigmachen,niedrig machen,,,Verb
 1410_niederlegen,niederlegen,,,Verb
@@ -1288,7 +1288,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1432_etwasverunreinigendestilgen,etwas Verunreinigendes tilgen,,,Verb
 1433_reinigen,reinigen,2235,CLEAN (SOMETHING),Verb
 1434_ausfegen,ausfegen,,,Verb
-1435_reinehrbar,"rein, ehrbar",704,CLEAN,Adjective
+1435_reinehrbar,"rein, ehrbar",1147,PURE,Adjective
 1436_turteltaube,Turteltaube,,,"Noun, common, feminine"
 1438_kreuzigen,kreuzigen,,,Verb
 1440_abschutteln,abschütteln,,,Verb
@@ -1678,7 +1678,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1855_hinzukommen,hinzukommen,,,Verb
 1856_hindurchgehn,hindurchgehn,,,Verb
 1857_ubersetzen,übersetzen,2906,TRANSLATE,Verb
-1858_hinausgehnweggehnverreisen,"hinausgehn, weggehn; verreisen",1752,LEAVE,Verb
+1858_hinausgehnweggehnverreisen,"hinausgehn, weggehn; verreisen",1107,GO OUT,Verb
 1859_obstwein,Obstwein,,,"Noun, common"
 1860_arzt,Arzt,597,PHYSICIAN,"Noun, common, masculine"
 1861_heilung,Heilung,,,"Noun, common, masculine"
@@ -1960,7 +1960,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2153_benennen,benennen,180,CALL BY NAME,Verb
 2154_name,Name,1405,NAME,"Noun, common, neuter"
 2155_mutfassensicherkuhnen,"Mut fassen, sich erkühnen",,,Verb
-2156_aufhoren,aufhören,1928,CEASE,Verb
+2156_aufhoren,aufhören,3351,STOP DOING,Verb
 2157_nacktheit,Nacktheit,,,"Noun, common, feminine"
 2158_nackt,nackt,590,NAKED,Adjective
 2159_narde,Narde,,,"Noun, common, masculine"
@@ -2085,7 +2085,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2283_pfund,Pfund,,,"Noun, common"
 2284_weinentrauern,"weinen, trauern",1839,CRY,Verb
 2285_sanftmut,Sanftmut,,,"Noun, common, feminine"
-2286_sanftfreundlichgegen,"sanft, freundlich gegen",1856,SOFT,Adjective
+2286_sanftfreundlichgegen,"sanft, freundlich gegen",1954,GENTLE,Adjective
 2287_pfahlstachel,"Pfahl, Stachel",3798,STINGER,"Noun, common, neuter"
 2288_quartus,Quartus,,,"Noun, proper"
 2289_eheweib,Eheweib,,,"Noun, common, feminine"
@@ -2540,7 +2540,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2762_vertrocknen,vertrocknen,,,Verb
 2763_siebezeigtenihrunwillen,sie bezeigten ihr Unwillen,,,Verb
 2764_stoenan,stoßen an,,,Verb
-2765_steigen,steigen,705,GO UP (ASCEND),Verb
+2765_steigen,steigen,1102,CLIMB,Verb
 2766_hinabsteigen,hinabsteigen,2014,GO DOWN (DESCEND),Verb
 2767_hineinsteigen,hineinsteigen,,,Verb
 2768_daruberemporsteigen,darüber empor steigen,,,Verb
@@ -2629,7 +2629,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2854_jubelfrohlocken,"Jubel, Frohlocken",,,<none>
 2856_reinigung,Reinigung,,,"Noun, common, feminine"
 2857_reinheitkeuschheit,"Reinheit, Keuschheit",,,"Noun, common, feminine"
-2858_reinunschuldigunstraflich,"rein, unschuldig; unsträflich",704,CLEAN,Adjective
+2858_reinunschuldigunstraflich,"rein, unschuldig; unsträflich",1147,PURE,Adjective
 2859_etwbekanntgeben,etw bekannt geben,,,Verb
 2860_offenkundigoffenbarbekannt,"offenkundig, offenbar, bekannt",3005,FAMILIAR,Adjective
 2861_imsterbenliegen,im Sterben liegen,,,Verb
@@ -2867,7 +2867,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3100_trostenmahnen,"trösten, mahnen",,,Verb
 3101_erquicken,erquicken,,,Verb
 3102_garafstjan,ga-þrafstjan,,,Verb
-3103_laufen,laufen,1443,WALK,Verb
+3103_laufen,laufen,1519,RUN,Verb
 3104_herbeilaufen,herbeilaufen,,,Verb
 3105_heuschrecke,Heuschrecke,810,LOCUST,"Noun, common, feminine"
 3106_streitsucht,Streitsucht,,,"Noun, common, feminine"

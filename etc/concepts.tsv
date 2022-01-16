@@ -45,7 +45,7 @@ Agar	Noun, proper
 Engel, Bote	Noun, common, masculine		
 Bedrängnis 	Noun, common, feminine		
 bedrängen	Verb		
-eng	Adjective	3053	TIGHT
+eng	Adjective	1267	NARROW
 Furcht, Schrecken	Noun, common, neuter		
 ängstigen	Verb		
 einen anfahren	Verb		
@@ -481,7 +481,7 @@ Bürger	Noun, common, masculine	1032	CITIZEN
 Turm, Burg; Stadt	Noun, common, feminine	1391	TOWN
 Stadtmauer	Noun, common, feminine		
 Bürde	Noun, common, feminine		
-stumm	Adjective	1666	MUTE
+stumm	Adjective	1492	DUMB
 auf etwas warten	Verb		
 ausharren, ertragen	Verb	833	ENDURE
 erwarten	Verb		
@@ -510,7 +510,7 @@ woran	Adverb
 zugleich aber rüste auch	Participle, present		
 Beschneidung	Noun, common, neuter		
 einen mit etwas  binden	Verb		
-lösen; auflösen, erklären; entbinden von	Verb	1626	EXPLAIN
+lösen; auflösen, erklären; entbinden von	Verb	352	UNTIE
 umbinden mit 	Verb		
 binden	Verb	1917	TIE
 Gefahr	Noun, common, feminine	1810	DANGER
@@ -622,7 +622,7 @@ Türhüterin	Noun, common, feminine
 Türhüterin	Noun, common, feminine		
 Türhüter	Noun, common, masculine		
 Dauriþaius	Noun, proper		
- Tor, Tür	Noun, common, feminine	1567	DOOR
+ Tor, Tür	Noun, common, feminine	2940	GATE
 sich erkühnen, wagen	Verb	1779	DARE
 das Absterben	Noun, common, feminine		
 töten	Verb	1417	KILL
@@ -656,7 +656,7 @@ geplagt	<none>
 urteilen, beurteilen	Verb	1818	ADJUDICATE
 beurteilen, verurteilen	Verb	484	CONDEMN
 verurteilen	Verb	484	CONDEMN
-urteilen, entscheiden	Verb	1818	ADJUDICATE
+urteilen, entscheiden	Verb	685	DECIDE
 Ruhm	Noun, common, masculine		
 aushauen	Verb		
 tragen	Verb	700	CARRY
@@ -699,9 +699,9 @@ wozu	Adverb
 Gläubiger	Noun, common, masculine		
 Schuld	Noun, common	134	FAULT
 ein Fest feiern	Verb		
-Fest	Noun, common, feminine	131	FESTIVAL
+Fest	Noun, common, feminine	3003	SOLID
 verstummen	Verb		
-stumm	Adjective	1666	MUTE
+stumm	Adjective	1492	DUMB
 deshalb, deswegen, dazu	Unassigned		
 Torenrede	Noun, common, feminine		
 Torheit	Noun, common, feminine		
@@ -1405,7 +1405,7 @@ Gehör	Noun, common, masculine	2518	HEARING (AURAL SENSE)
 auflachen machen	Verb		
 Lauterkeit	Noun, common, feminine		
 Lauterkeit	Noun, common, feminine		
-lauter, rein	Adjective	704	CLEAN
+lauter, rein	Adjective	1147	PURE
 Erniedrigung, Demut	Noun, common, feminine		
 niedrig machen	Verb		
 niederlegen	Verb		
@@ -1433,7 +1433,7 @@ reinigen	Verb	2235	CLEAN (SOMETHING)
 etwas Verunreinigendes tilgen	Verb		
 reinigen	Verb	2235	CLEAN (SOMETHING)
 ausfegen	Verb		
-rein, ehrbar	Adjective	704	CLEAN
+rein, ehrbar	Adjective	1147	PURE
 Turteltaube	Noun, common, feminine		
 kreuzigen	Verb		
 kreuzigen	Verb		
@@ -1511,7 +1511,7 @@ wem, mit wem, womit	Adverb	1236	WHAT
 jedenfalls, nur	Unassigned	1580	ONLY
 Weile, Zeit, Stunde	Noun, common, feminine	892	TIME
 nur eine Zeitlang dauernd, vergänglich	Adjective		
-aufhören	Verb	1928	CEASE
+aufhören	Verb	3351	STOP DOING
 beruhigen, erquicken	Verb		
 zur Ruhe kommen, aufhören	Verb	1928	CEASE
 nicht eine Stunde lang	Unassigned		
@@ -1856,7 +1856,7 @@ mithineingehn	Verb
 hinzukommen	Verb		
 hindurchgehn	Verb		
 übersetzen	Verb	2906	TRANSLATE
-hinausgehn, weggehn; verreisen	Verb	1752	LEAVE
+hinausgehn, weggehn; verreisen	Verb	1107	GO OUT
 Obstwein	Noun, common		
 Arzt	Noun, common, masculine	597	PHYSICIAN
 Heilung	Noun, common, masculine		
@@ -2154,7 +2154,7 @@ nennen	Verb	180	CALL BY NAME
 benennen	Verb	180	CALL BY NAME
 Name	Noun, common, neuter	1405	NAME
 Mut fassen, sich erkühnen	Verb		
-aufhören	Verb	1928	CEASE
+aufhören	Verb	3351	STOP DOING
 Nacktheit	Noun, common, feminine		
 nackt	Adjective	590	NAKED
 Narde	Noun, common, masculine		
@@ -2284,7 +2284,7 @@ Geldbeutel	Noun, common
 Pfund	Noun, common		
 weinen, trauern	Verb	1839	CRY
 Sanftmut	Noun, common, feminine		
-sanft, freundlich gegen	Adjective	1856	SOFT
+sanft, freundlich gegen	Adjective	1954	GENTLE
 Pfahl, Stachel	Noun, common, neuter	3798	STINGER
 Quartus	Noun, proper		
 Eheweib	Noun, common, feminine		
@@ -2763,7 +2763,7 @@ Richterstuhl	Noun, common, masculine
 vertrocknen	Verb		
 sie bezeigten ihr Unwillen	Verb		
 stoßen an	Verb		
-steigen	Verb	705	GO UP (ASCEND)
+steigen	Verb	1102	CLIMB
 hinabsteigen	Verb	2014	GO DOWN (DESCEND)
 hineinsteigen	Verb		
 darüber empor steigen	Verb		
@@ -2856,7 +2856,7 @@ Jubel, Frohlocken	<none>
 Reinheit, Keuschheit	Noun, common, feminine		
 Reinigung	Noun, common, feminine		
 Reinheit, Keuschheit	Noun, common, feminine		
-rein, unschuldig; unsträflich	Adjective	704	CLEAN
+rein, unschuldig; unsträflich	Adjective	1147	PURE
 etw bekannt geben	Verb		
 offenkundig, offenbar, bekannt	Adjective	3005	FAMILIAR
 im Sterben liegen	Verb		
@@ -3101,7 +3101,7 @@ Tröstung	Noun, common, feminine
 trösten, mahnen	Verb		
 erquicken	Verb		
 ga-þrafstjan	Verb		
-laufen	Verb	1443	WALK
+laufen	Verb	1519	RUN
 herbeilaufen	Verb		
 Heuschrecke	Noun, common, feminine	810	LOCUST
 Streitsucht	Noun, common, feminine		
