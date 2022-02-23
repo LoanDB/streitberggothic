@@ -1,5 +1,8 @@
 import pathlib
+import re
 
+import attr
+from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import FormSpec, Concept
 import pylexibank
@@ -7,7 +10,17 @@ from cldfbench import CLDFSpec
 from clldutils.misc import slug
 import attr
 
-REP = [(x, "") for x in "†*[]~?;+-"] + [(" ", "_"), (",_", ", ")]
+REP = [(x, "") for x in "†*[]~?;+-"] + \
+      [(x, "a") for x in "áàā"] + [(x, "ɪ") for x in "ïíìī"] + \
+      [("ē", "e"), ("ō", "o"), ("ū", "u"), (" ", "_"), (",_", ", ")]
+
+
+@attr.s
+class CustomConcept(Concept):
+    POS = attr.ib(default=None)
+
+
+def cln(word): return re.sub("[†\\d\\.\\*\\?\\~]", "", word)
 
 @attr.s
 class CustomConcept(Concept):
@@ -47,8 +60,6 @@ class Dataset(BaseDataset):
                         ID=idx,
                         Name=concept["sense"],
                         POS=concept["pos"],
-                        Concepticon_ID=concept["CONCEPTICON_ID"],
-                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
                         )
                 concepts[concept["sense"], concept["pos"]] = idx
             args.log.info("added concepts")

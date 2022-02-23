@@ -1,5 +1,6 @@
 """open terminal, cd into folder `raw`, run `python xml2tsv.py` """
 
+from pathlib import Path
 import re
 
 from bs4 import BeautifulSoup
@@ -38,7 +39,7 @@ def main():
     """create & read soup w beautifulsoup & put into pandas df"""
 
     # create soup
-    with open("Streitberg-1910-3659.xml", 'r', encoding="utf-8") as f:
+    with open("Streitberg-1910-3645.xml", 'r', encoding="utf-8") as f:
         file = f.read()
     soup = BeautifulSoup(file, 'lxml')
 
@@ -96,14 +97,16 @@ def main():
     dfgot["sense"].fillna(value=dfgot["form"], inplace=True)
 
     # remove brackets and their content
-    dfgot["sense"] = [re.sub("\(.*\)", "", i) for i in dfgot["sense"]]
+    dfgot["sense"] = [re.sub("\\(.*\\)", "", i) for i in dfgot["sense"]]
 
     # add col pos
     dfgot["pos"] = pos
 
     # write tsv
-    dfgot.to_csv("Streitberg-1910-3659.tsv", index=False,
+    PATH = Path.cwd().parent / "Streitberg-1910-3645.tsv"
+    dfgot.to_csv(PATH, index=False,
                  encoding="utf-8", sep="\t")
+
 
 if __name__ == "__main__":
     main()
