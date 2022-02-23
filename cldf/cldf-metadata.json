@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/martino-vic/streitberggothic",
             "rdf:type": "prov:Entity",
-            "dc:created": "6c3c5c7",
+            "dc:created": "0987561",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         },
         {
@@ -30,9 +30,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         }
     ],
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.1"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -59,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 3644,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -228,7 +228,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 3386,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
