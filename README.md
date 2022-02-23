@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/444373577.svg)](https://zenodo.org/badge/latestdoi/444373577)
 # CLDF dataset derived from Streitberg's 'Die Gotische Bibel [The Gothic bible]' from 1910
 
 ## How to cite
@@ -20,7 +19,7 @@ Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 
 [![CLDF validation](https://github.com/martino-vic/streitberggothic/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/streitberggothic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 31%](https://img.shields.io/badge/Concepticon-31%25-red.svg "Concepticon: 31%")
+![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -55,4 +54,5 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Dictionary](https://github.com/cldf/cldf/tree/master/modules/Dictionary) at [cldf/Dictionary-metadata.json](cldf/Dictionary-metadata.json)

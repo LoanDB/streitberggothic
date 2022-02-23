@@ -72,18 +72,18 @@ class Dataset(BaseDataset):
 
             # add forms
             for idx, row in enumerate(self.raw_dir.read_csv(
-                    "Streitberg-1910-3659.tsv", delimiter="\t", dicts=True)[1:]):
+                    "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)[1:]):
                 writer.add_forms_from_value(
                     Local_ID=idx,
                     Language_ID="Gothic",
-                    Parameter_ID=concepts[row["sense"], row["pos"]],
+                    Parameter_ID=concepts[cln(row["sense"]), row["pos"]],
                     Value=row["form"],
                     Source="557564")
             args.log.info("added forms")
         with self.cldf_writer(args, cldf_spec="dictionary", clean=False) as writer:
             writer.cldf.add_component(language_table)
             for idx, row in enumerate(self.raw_dir.read_csv(
-                "Streitberg-1910-3659.tsv", delimiter="\t", dicts=True)):
+                "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)):
                 entry_id = "{0}-{1}".format(idx+1, slug(row["form"]))
                 sense_id = "{0}-{1}".format(idx+1, slug(row["sense"]))
                 writer.objects["EntryTable"].append({
