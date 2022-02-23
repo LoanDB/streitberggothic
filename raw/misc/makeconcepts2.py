@@ -44,6 +44,7 @@ def main():
     dfgot = dfgot[dfgot.Concepticon_Gloss.isin(mcl)]
     dfgot.Concepticon_Gloss.replace("", nan, inplace=True)    
     dfgot.dropna(subset=["Concepticon_Gloss"], inplace=True)
+    dfgot.drop_duplicates(subset=["Concepticon_Gloss"], inplace=True, ignore_index=True)
     dfgot.to_csv(out_path, index=False, encoding="utf-8", sep="\t")
 
     #write missing concepts
@@ -52,3 +53,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    

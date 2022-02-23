@@ -5,9 +5,8 @@ stark, heftig	Adjective	785	STRONG
 sehr	Adverb, Comparative	1311	VERY
 wieder	Adverb	204	AGAIN
 letzter	Adjective, Comparative	1529	LAST (FINAL)
-letzter	Adjective, Superlative	1529	LAST (FINAL)
 eng	Adjective	1267	NARROW
-Sinn, Verstand	Noun, common, masculine	2950	MEANING
+Sinn, Verstand	Noun, common, masculine	1562	MIND
 Geist	Noun, common, masculine	53	SPIRIT
 acht	Numeral, cardinal	1705	EIGHT
 achtzig	Numeral, cardinal	1722	EIGHTY
@@ -20,23 +19,18 @@ oder	Conjunction	1014	OR
 Zeit, Ewigkeit	Noun, common, masculine	892	TIME
 wachsen	Verb	479	GROW
 Alter	Noun, common	1789	AGE
-Menschenalter, Zeit	Noun, common, feminine	892	TIME
 Öl	Noun, common, neuter	1484	OIL (ORGANIC SUBSTANCE)
-Öl	Adjective	1484	OIL (ORGANIC SUBSTANCE)
 anders	Adverb	2504	DIFFERENT
-anders	Adverb, Comparative	2504	DIFFERENT
 Schulter	Noun, common, masculine	1482	SHOULDER
 plötzlich	Adverb, temporal	2920	SUDDENLY
 Abend	Noun, common, neuter	1629	EVENING
 das Empfangen	Noun, common, neuter	694	GET
 Antlitz	Noun, common, neuter	1560	FACE
 Preis	Noun, common, neuter	657	PRICE
-Ende	Noun, common, masculine	742	END (OF SPACE)
-anders, sonst	Conjunction	2504	DIFFERENT
+Ende	Noun, common, masculine	743	END (OF TIME)
 Gegenwart, Angesicht, Person	Noun, common, neuter	683	PERSON
 Freude; Dank; Gnade, Gunst	Noun, common, feminine	2524	JOY
 anderer, zweiter	Adjective	1384	SECOND
-anders	Adverb	2504	DIFFERENT
 arbeiten; dulden	Verb	1086	WORK (ACTIVITY)
 Arbeit, Drangsal	Noun, common, feminine	984	WORK (LABOUR)
 Pfeil	Noun, common, feminine	977	ARROW
@@ -47,14 +41,12 @@ Sommer	Noun, common, feminine	1342	SUMMER
 Ast	Noun, common, masculine	1531	BRANCH
 Jahr	Noun, common, neuter	1226	YEAR
 Saat	Noun, common	714	SEED
-Vater	Noun, common, masculine	1217	FATHER
 Fenster	Noun, common, neuter	1375	WINDOW
 zeigen	Verb	1039	SHOW
 Auge	Noun, common, neuter	1248	EYE
 Lärm	Noun, common, masculine	1182	NOISE
 Ofen	Noun, common, masculine	859	STOVE
 hinzufügen	Verb	2882	ADD
-sich vermehren, zunehmen	Verb	1041	INCREASE
 sich vermehren, zunehmen	Verb	1041	INCREASE
 Ohr	Noun, common, neuter	1247	EAR
 Großmutter	Noun, common, feminine	1496	GRANDMOTHER
@@ -65,25 +57,19 @@ tragen 	Verb	700	CARRY
 bringen	Verb	692	BRING
 hinaustragen; hervorbringen; vorbringen di antworten; ertragen	Verb	833	ENDURE
 einen bergen, bewahren	Verb	1997	PRESERVE
-einen bergen, bewahren	Verb	1997	PRESERVE
 hell, offenbar	Adjective	679	BRIGHT
 bitter	Adjective	887	BITTER
 Hals, Nacken	<none>	1333	NECK
 Band, Fessel	Noun, common, feminine	2969	RIBBON
 Zeichen	Noun, common, feminine	1720	SIGN
-ein Zeichen, einen Wink geben, andeuten	Verb	1720	SIGN
-Zeichen	Noun, common, feminine	1720	SIGN
 Schlag, Wunde	Noun, common, feminine	1109	WOUND
 Nicht	Noun, common, masculine	1240	NOT
 Busen, Schoß	Noun, common, masculine	1402	BREAST
 Turm, Burg; Stadt	Noun, common, feminine	1391	TOWN
-ausharren, ertragen	Verb	833	ENDURE
 beißen	Verb	1403	BITE
 Eltern	Noun, common, masculine	505	PARENTS
 bitten, beten, betteln	Verb	1828	ASK (REQUEST)
-beten, bitten	Verb	1828	ASK (REQUEST)
 binden	Verb	1917	TIE
-Eltern	<none>	505	PARENTS
 Tisch	Noun, common, masculine	1775	TABLE
 blind	Adjective	1653	BLIND
 Blume	Noun, common, masculine	239	FLOWER
@@ -94,11 +80,9 @@ Nutzen	Noun, common, feminine	2929	BENEFIT
 verbessern, herstellen	Verb	2886	PRODUCE
 breit	Adjective	1243	WIDE
 verbrennen	Verb	141	BURN (SOMETHING)
-bringen	Verb	692	BRING
 brechen; zerstören	Verb	681	DESTROY
 zerbrechen	Verb	2558	BREAK (CLEAVE)
 brennen	Verb	1428	BURNING
-verbrennen	Verb	141	BURN (SOMETHING)
 Fieber	Noun, common, feminine	1534	FEVER
 Bruder	Noun, common, masculine	1262	BROTHER
 Brunnen	Noun, common, masculine	954	WELL
@@ -114,14 +98,9 @@ Tochter	Noun, common, feminine	1357	DAUGHTER
  Tor	Noun, common, neuter	2940	GATE
  Tor, Tür	Noun, common, feminine	1567	DOOR
 töten	Verb	1417	KILL
-töten	Verb	1417	KILL
-Tod bringen, töten	Verb	1417	KILL
 sterben	Verb	1494	DIE
 Tod	Noun, common, masculine	910	DEATH
-sterben	Verb	1494	DIE
-tragen	Verb	700	CARRY
 treiben; plagen	Verb	2868	DRIVE (CATTLE)
-treiben	Verb	2868	DRIVE (CATTLE)
 trinken	Verb	1401	DRINK
 fallen	Verb	1280	FALL
 du	Adverb	1215	THOU
@@ -129,22 +108,18 @@ Schuld	Noun, common	134	FAULT
 Fest	Noun, common, feminine	3003	SOLID
 da	Particle	1937	THERE
 Eisen	Noun, common, neuter	621	IRON
-Vater	Noun, common, masculine	1217	FATHER
 Abkunft, Geschlecht, Stamm	Noun, common, neuter	344	TREE TRUNK
 geschickt, geeignet	Adjective	1824	DEXTEROUS
 fangen, greifen	Verb	702	CATCH
 zubereiten	Verb	1100	COOK (SOMETHING)
 Berg	Noun, common, neuter	639	MOUNTAIN
 Welt	Noun, common, masculine	965	WORLD
-Schuld; Grund; Vorwurf	Noun, common, feminine	134	FAULT
-Alter	Noun, common, feminine	1789	AGE
+Schuld; Grund; Vorwurf	Noun, common, feminine	2968	REASON
 fern	Adverb, locative	1406	FAR
 Ferse	Noun, common, feminine	980	HEEL
 wandern, ziehen	Verb	1455	PULL
 fahren	Verb	741	DRIVE
 halten, festhalten; beobachten, bewachen	Verb	1448	HOLD
-behalten, bewahren	Verb	1997	PRESERVE
-das Halten, der Dienst	Noun, common, neuter	1448	HOLD
 Zaun	Noun, common, feminine	1690	FENCE
 Fuchs	Noun, common, feminine	1312	FOX
 vor	Adverb	1883	IN FRONT OF
@@ -158,7 +133,6 @@ Finger	Noun, common, masculine	1303	FINGER
 Feind	Noun, common, masculine	1358	ENEMY
 Höhle	<none>	1155	CAVE
 verbergen	Verb	602	HIDE (CONCEAL)
-Höhle	Noun, common, neuter	1155	CAVE
 Vielheit, Menge; Übermaß	Noun, common, feminine	2987	AMOUNT
 fünf	Numeral, cardinal	493	FIVE
 Fisch	Noun, common, masculine	227	FISH
@@ -168,51 +142,35 @@ Nahrung	Noun, common, feminine	256	FOOD
 Feuer	Noun, common, neuter	221	FIRE
 Fuß	Noun, common, masculine	1301	FOOT
 fragen	Verb	1309	ASK (INQUIRE)
-fragen	Verb	1309	ASK (INQUIRE)
 versuchen	Verb	1812	TRY
-versuchen	Verb	1812	TRY
-Same	Noun, common, neuter	714	SEED
 Verderben	Noun, common, feminine	92	SPOIL (SOMEBODY OR SOMETHING)
 fremd; einer Sache	Adjective	109	FOREIGN
-Verstand, Sinn	Noun, common, neuter	2950	MEANING
 denken	Verb	1415	THINK (REFLECT)
-Verderben	Noun, common, feminine	92	SPOIL (SOMEBODY OR SOMETHING)
 Sünde	Noun, common, feminine	2971	SIN
 Liebe	Noun, common, feminine	923	LOVE
-lieben	Verb	923	LOVE
 Freund	Noun, common, masculine	1325	FRIEND
 Frost	Noun, common	2034	FROST
-Klugheit, Verstand	Noun, common, feminine	1562	MIND
 klug, verständig	Adjective	1310	CLEVER
 zuerst	Adverb, temporal	2915	AT FIRST
 Vogel	Noun, common, masculine	937	BIRD
 Füllen	Noun, common, masculine	2006	FILL
-füllen	Verb	2006	FILL
 faul	Adjective	1564	LAZY
-Feuer	<none>	221	FIRE
 Reichtum	Noun, common, feminine	2996	WEALTH
-Band	Noun, common, feminine	2969	RIBBON
-Band	Noun, common, feminine	2969	RIBBON
-Band	Noun, common, feminine	2969	RIBBON
 Kleidung	Noun, common, feminine	1895	CLOTHES
 Weg, Straße	Noun, common, neuter	2252	PATH
 gehen	Verb	1443	WALK
 kommen	Verb	1446	COME
-hinzugehen, kommen	Verb	1446	COME
 Gesinnung; Sinn; Gewissen	Noun, common, feminine	2950	MEANING
 Gürtel	Noun, common, feminine	772	BELT
 Verlangen, Wunsch	Noun, common, feminine	2117	DESIRE
 wertvoll	Adjective	3002	PRECIOUS
 Pfahl, Kreuz	Noun, common, masculine	1367	CROSS
-wertvoll	<none>	3002	PRECIOUS
 Gedächtnis, Erinnerung	Noun, common, neuter	1018	MEMORY
 Gedanke	Noun, common, feminine	2975	THOUGHT
-Andenken, Gedächtnis	Noun, common, feminine	1018	MEMORY
 Haus, Hauswesen, Familie	Noun, common, masculine	1252	HOUSE
 betrübt, traurig	Adjective	699	SAD
 Gespräch	Noun, common, neuter	2933	CONVERSATION
 Geschäft; Erwerb; Gewinn	Noun, common, neuter	2931	BUSINESS
-Verbindung, Band 	Noun, common, feminine	2969	RIBBON
 Gabe, Geschenk	Noun, common, feminine	2982	GIFT
 geben	Verb	1447	GIVE
 vergeben, verleihn, schenken	Verb	196	DONATE
@@ -220,107 +178,68 @@ erstatten, bezahlen	Verb	718	PAY
 morgen	Adverb, temporal	1329	TOMORROW
 finden	Verb	719	FIND
 gut	Adjective	1035	GOOD
-graben	Verb	1418	DIG
+Graben	Noun, common, feminine	1418	DIG
 Gras, Kraut	Noun, common, neuter	606	GRASS
 hungrig	Adjective	1533	BE HUNGRY
-hungern	Verb	1533	BE HUNGRY
 Hunger	Noun, common, masculine	1864	HUNGER
 weinen, klagen	Verb	1839	CRY
-das Weinen	Noun, common, masculine	1839	CRY
-Grube, Höhle	Noun, common, feminine	1155	CAVE
 Gold	Noun, common, neuter	1369	GOLD
 Mann	Noun, common, masculine	1554	MAN
-Gott	Noun, common, masculine	1944	GOD
 haben, besitzen	Verb	684	OWN
-besitzen	Verb	684	OWN
 aufheben	Verb	371	PICK UP
 heben	Verb	501	LIFT
 zusammenheften, verbinden	Verb	2862	CONNECT
 hängen, in der Schwebe lassen	Verb	2884	HANG
-herstellen	Verb	2886	PRODUCE
 heil, gesund	Adjective	1364	HEALTHY
-Stadt	Noun, common, feminine	1391	TOWN
 Herz	Noun, common, neuter	1223	HEART
-Eingeweide, Herz	Noun, common	1223	HEART
 heißen, nennen	Verb	180	CALL BY NAME
 Hälfte, Seite	Noun, common, feminine	816	HALF
 kaum je, kaum	Adverb	2926	HARDLY
 leer, umsonst; dürftig, armselig	Adjective	1624	EMPTY
 Fels	Noun, common, masculine	668	ROCK
-Hals	Noun, common, masculine	1333	NECK
-Hals, Nacken	Noun, common, masculine	1333	NECK
 Hahn	Noun, common, masculine	1511	ROOSTER
-weise, klug	Adjective	1310	CLEVER
 Hand	Noun, common, feminine	1277	HAND
 hart, streng	Adjective	1884	HARD
 Höhe	Noun, common, feminine	2985	HEIGHT
-Preis, Ehre	Noun, common, feminine	657	PRICE
-Höhe	Noun, common, feminine	2985	HEIGHT
- Tür	Noun, common, feminine	1567	DOOR
-hören	Verb	1408	HEAR
 hören	Verb	1408	HEAR
 Heu	Noun, common, neuter	342	HAY
-Fieber	Noun, common, feminine	1534	FEVER
 hier, her	Adverb, locative	136	HERE
 dieser	Pronoun, demonstrative	1214	THIS
 helfen	Verb	1897	HELP
 Himmel	Noun, common, masculine	1732	SKY
-dieser	<none>	1214	THIS
 hinter, jenseits	Unassigned	1686	BEHIND
-hinter, jenseits	Preposition, +AD	1686	BEHIND
-dieser	<none>	1214	THIS
-Haufe, Menge	Noun, common, masculine	2987	AMOUNT
 lachen	Verb	1355	LAUGH
 Brot; Brotbissen	Noun, common, masculine	1368	BREAD
 Hügel	Noun, common	614	HILL
 Grab	Noun, common, neuter	1773	GRAVE
 Schlinge	Noun, common, feminine	2604	NOOSE
 stehlen	Verb	713	STEAL
-lauter, rein	Adjective	704	CLEAN
 weich, weichlich	Adjective	1856	SOFT
 zerreißen	Verb	1735	TEAR (SHRED)
-zerreißen	Verb	1735	TEAR (SHRED)
 reinigen	Verb	2235	CLEAN (SOMETHING)
-reinigen	Verb	2235	CLEAN (SOMETHING)
-rein, ehrbar	Adjective	704	CLEAN
 rufen	Verb	1084	CALL
 Ruf, Geschrei	Noun, common, masculine	2944	CALL (APPEAL)
-Dach, Haus	Noun, common, neuter	1252	HOUSE
-hungern	Verb	1533	BE HUNGRY
-denken, meinen	Verb	1415	THINK (REFLECT)
-Verstand	Noun, common, masculine	1562	MIND
 häufen, sammeln	Verb	7	GATHER
-Hunger, Hungersnot	Noun, common, masculine	1864	HUNGER
-Höhle	Noun, common, feminine	1155	CAVE
 Hund	Noun, common, masculine	2009	DOG
 wie	Adverb	1239	HOW
 wo	Adverb	1237	WHERE
 wer	Pronoun, interrogative	1235	WHO
-wer	Pronoun, interrogative	1235	WHO
 scharf, streng	Adverb, manner	1396	SHARP
 Schaum	Noun, common, feminine	1768	FOAM
-wem, mit wem, womit	Adverb	1236	WHAT
 jedenfalls, nur	Unassigned	1580	ONLY
-Weile, Zeit, Stunde	Noun, common, feminine	892	TIME
 weiß	Adjective	1335	WHITE
 eben, flach	Adjective	1633	FLAT
 ich	Pronoun, personal	1209	I
-der ich	Pronoun, personal, relative	1209	I
 in, auf, an, unter	Preposition, +ADG	1485	BELOW OR UNDER
 Erzählung, Aussage, Zeugnis	Noun, common, feminine	2060	STORY
-in, auf, an, unter	<none>	1485	BELOW OR UNDER
 essen	Verb	1336	EAT
 aufwärts	Adverb, directional	1591	UP
-der du	Pronoun, personal, relative	1215	THOU
 und, und zwar, auch	Unassigned	1577	AND
-an jenem Ort, dort	Adverb, locative	1937	THERE
 jener	Pronoun, demonstrative	78	THAT
-Jahr	Noun, common, neuter	1226	YEAR
 kämpfen; obsiegen	Verb	1423	FIGHT
 schon	Adverb, temporal	2576	ALREADY
 jung; jugendlich	Adjective	1207	YOUNG
 ihr	Pronoun, personal	1213	YOU
-schon	Adverb	2576	ALREADY
 kalt	Adjective	1287	COLD
 kennen, wissen	<none>	1410	KNOW (SOMETHING)
 Sorge	Noun, common, feminine	1668	GRIEF
@@ -329,186 +248,108 @@ Last	Noun, common, feminine	1679	LOAD
 drücken, belästigen	Verb	1913	PRESS
 schwer, lästig	Adjective	1210	HEAVY
 Getreide	Noun, common, neuter	605	GRAIN
-Korn	Noun, common, neuter	605	GRAIN
 kosten, kennen lernen	Verb	21	TASTE (SOMETHING)
 Wange	Noun, common, feminine	1730	CHEEK
 Knie	Noun, common, neuter	1371	KNEE
-zerbrechen, zerschellen	Verb	2558	BREAK (CLEAVE)
-Geschlecht, Stamm	Noun, common, neuter	344	TREE TRUNK
-kennen, wissen	Verb	1410	KNOW (SOMETHING)
 kund, bekannt	Adjective	3005	FAMILIAR
 Länge	Noun, common, feminine	2537	LENGTH
 lang	Adjective	1203	LONG
 legen, auflegen, hinlegen	Verb	2071	LAY (VERB)
 hinlegen, auflegen	Verb	998	PUT
-hinlegen	Verb	998	PUT
 bleiben	<none>	987	REMAIN
 hüpfen, springen	Verb	1829	JUMP
- weiß	Verb	1335	WHITE
 Lehrer	Noun, common, masculine	1038	TEACHER
-lehren	Verb	709	TEACH
 lehren	Verb	709	TEACH
 Lamm, Schaf	Noun, common, neuter	1331	SHEEP
 Land; Gegend	Noun, common, neuter	1300	COUNTRY
 schwach	Adjective	1601	WEAK
-lässig, faul	Adjective	1564	LAZY
 zusammenberufen, einladen	Verb	1611	INVITE
 glauben	Verb	1890	BELIEVE
 Laub, Blatt	Noun, common, masculine	628	LEAF
-los, leer	Adjective	1624	EMPTY
-bleiben	Verb	987	REMAIN
 Körper, Leib	Noun, common, neuter	1480	BODY
 Arzt	<none>	597	PHYSICIAN
 klein, wenig	Adjective	1246	SMALL
 weggehn, entweichen, verreisen	Verb	1752	LEAVE
-verlassen, zurücklassen	Verb	1752	LEAVE
-kommen, gehn	Verb	1446	COME
 übersetzen	Verb	2906	TRANSLATE
-Arzt	Noun, common, masculine	597	PHYSICIAN
-herstellen	Verb	2886	PRODUCE
-verraten	Verb	1902	BETRAY
 verraten	Verb	1902	BETRAY
 Leben	Noun, common, feminine	210	LIFE
 leben	Verb	1422	BE ALIVE
 liegen	Verb	1411	LIE (REST)
-Lager, Bett	Noun, common, masculine	1663	BED
-weggehn	Verb	1752	LEAVE
 lesen, sammeln	Verb	724	READ
-wachsen	Verb	479	GROW
 lieb	Adjective	2470	DEAR
-hell	Adjective	679	BRIGHT
 Licht	Noun, common, neuter	630	LIGHT (RADIATION)
 Luft	Noun, common	27	AIR
 erschließen, öffnen	Verb	1156	OPEN
-Leuchte, Licht	Noun, common, neuter	630	LIGHT (RADIATION)
-sich erschließen, öffnen	Verb	1156	OPEN
 können, vermögen	Verb	972	BE ABLE
 Knabe	Noun, common, masculine	1366	BOY
 mächtig; möglich	Adjective	3001	POWERFUL
 Macht, Kraft, Vermögen	Noun, common, feminine	2526	POWER
-Geschenk	Noun, common	2982	GIFT
 Sand	Noun, common, masculine	671	SAND
 Fleisch	Noun, common, feminine	634	MEAT
-meinen, glauben, dafür halten	<none>	1890	BELIEVE
-Menge	Noun, common, feminine	2987	AMOUNT
-Welt, Menschheit	Noun, common, feminine	965	WORLD
-Mensch, mann	Noun, common, masculine	683	PERSON
 Meer	Noun, common, feminine	1474	SEA
 See	Noun, common, masculine	624	LAKE
 Mark, Grenze	Noun, common, feminine	2546	BORDER
-essen	Verb	1336	EAT
-essen	Verb	1336	EAT
-Speise	Noun, common, masculine	256	FOOD
 Wurm	Noun, common, masculine	1219	WORM
 Rede, Redeweise	Noun, common, feminine	1115	SPEECH
 Morgen	Noun, common, masculine	1339	MORNING
 Mädchen	Noun, common, feminine	1646	GIRL
-Mädchen	Noun, common, feminine	1646	GIRL
-Zeit, Stunde	Noun, common, neuter	892	TIME
-schreiben	Verb	1672	WRITE
 schreiben	Verb	1672	WRITE
 Mond	Noun, common, masculine	1313	MOON
 Monat	Noun, common, masculine	1370	MONTH
-Tisch; Schüssel, Platte; Kelter	Noun, common, neuter	1775	TABLE
 Mitte	Noun, common, feminine	1093	MIDDLE
-Größe	Noun, common, feminine	2845	SIZE (OF OBJECT)
 Größe	Noun, common, feminine	2845	SIZE (OF OBJECT)
 groß	Adjective	1202	BIG
 Wolke	Noun, common, masculine	1489	CLOUD
 Honig	Noun, common, neuter	942	HONEY
 Milch	Noun, common, feminine	635	MILK
 abnehmen	Verb	2864	DECREASE
-verschieden	Adjective	2504	DIFFERENT
 messen	Verb	1506	MEASURE
-wandeln, sich benehmen, leben	Verb	1422	BE ALIVE
-ermessen, denken, überlegen	Verb	1415	THINK (REFLECT)
 vergessen	Verb	1523	FORGET
-Überlegung, Gedanke	Noun, common, feminine	2975	THOUGHT
-mit, bei, unter	Preposition, +D	1485	BELOW OR UNDER
 Staub	Noun, common, feminine	2	DUST
-meinen, glauben, dafür halten	Verb	1890	BELIEVE
 etw zu tun gedenken, wollen	Verb	1784	WANT
-vergessen	Verb	1523	FORGET
-Gedanke, Meinung	Noun, common, masculine	2975	THOUGHT
 Mund	Noun, common, masculine	674	MOUTH
 Nacht	Noun, common, feminine	1233	NIGHT
-nennen	Verb	180	CALL BY NAME
-benennen	Verb	180	CALL BY NAME
 Name	Noun, common, neuter	1405	NAME
 nackt	Adjective	590	NAKED
 retten	Verb	2008	RESCUE
-erretten, herstellen	Verb	2886	PRODUCE
 Netz	Noun, common, neuter	2963	NET
 November	Foreign word	2854	NOVEMBER
 nahe	Adverb	1942	NEAR
-nahe	Adverb, locative	1942	NEAR
-nicht	Unassigned	1240	NOT
 Nadel	Noun, common, feminine	1382	NEEDLE (FOR SEWING)
-nicht	Unassigned	1240	NOT
-und nicht, auch nicht, nicht	Unassigned	1240	NOT
 nehmen, annehmen, aufnehmen, empfangen, fangen	Verb	1749	TAKE
-abnehmen, wegnehmen	Verb	2864	DECREASE
-annehmen, aufnehmen, empfangen	Verb	694	GET
-besitzen	Verb	684	OWN
-nehmen	Verb	1749	TAKE
 genesen, errettet werden	Verb	1978	RECOVER
-helfen	Verb	1897	HELP
-nicht	Unassigned	1240	NOT
 neu	Adjective	1231	NEW
 neun	Numeral, cardinal	1483	NINE
 neunzig	Numeral, cardinal	1724	NINETY
 treffen, erreichen; einer Sache froh sein	Verb	1831	MEET
 nun, jetzt	Adverb	1376	NOW
-Straße	Noun, common, feminine	667	ROAD
 tanzen	Verb	1879	DANCE
-weinen, trauern	Verb	1839	CRY
 sanft, freundlich gegen	Adjective	1954	GENTLE
-kommen	Verb	1446	COME
-umbringen, den Tod geben	Verb	1417	KILL
 femina, Weib	Noun, common, feminine	962	WOMAN
-Verderben	Noun, common, feminine	92	SPOIL (SOMEBODY OR SOMETHING)
-verderben	Verb	92	SPOIL (SOMEBODY OR SOMETHING)
-verderben, umbringen	Verb	92	SPOIL (SOMEBODY OR SOMETHING)
-verderben, umbringen	Verb	92	SPOIL (SOMEBODY OR SOMETHING)
 sagen	Verb	1458	SAY
-für ungültig erklären, aufheben	Verb	371	PICK UP
 Magen; Mutterschoß	Noun, common, masculine	819	STOMACH
-lebendig	Adjective	1422	BE ALIVE
-das Kommen; Gegenwart, Ankunft, Wiederkunft Christi	Noun, common, masculine	1446	COME
 rechnen	Verb	2867	CALCULATE
 recht, richtig	Adverb, Comparative	1725	CORRECT (RIGHT)
 zählen	Verb	1420	COUNT
 Rohr	Noun, common, neuter	2956	TUBE
 rot	Adjective	156	RED
 Sprache, Sprechweise	Noun, common, feminine	1307	LANGUAGE
-Haus	Noun, common, neuter	1252	HOUSE
 Reich, Herrschaft, Obrigkeit	Noun, common, neuter	712	RICH
 zittern	Verb	52	SHIVER
-das Zittern	Noun, common, feminine	52	SHIVER
 erstehn, sich erheben	Verb	570	STAND UP
 Regen	Noun, common, neuter	658	RAIN (PRECIPITATION)
 regnen	Verb	1253	RAIN (RAINING)
 rennen, laufen	Verb	1519	RUN
-verderben	Verb	92	SPOIL (SOMEBODY OR SOMETHING)
 sprechen, reden	Verb	1623	SPEAK
-der, dieser	Pronoun, demonstrative	1214	THIS
 Untergang, Westen	Noun, common	1817	WEST
 sechs	Numeral, cardinal	1703	SIX
 Schmerz	Noun, common, neuter	1783	PAIN
-See	Noun, common, masculine	624	LAKE
-vorstellen, anraten; eintreten für; bezeichnen	Verb	180	CALL BY NAME
 Sack	Noun, common, masculine	2990	SACK
-herbergen, bleiben	Verb	987	REMAIN
 Salz	Noun, common, neuter	1274	SALT
 zusammen, zugleich	Adverb	2482	TOGETHER
-nach einem und demselben Ort hin; zusammen	Adverb	2482	TOGETHER
-hinsetzen, hinstellen, hinlegen	Verb	998	PUT
+setzen	Verb	1649	SIT DOWN
 Krankheit	Noun, common, feminine	1986	DISEASE
 Sonne	Noun, common, neuter	1343	SUN
-Sorge, Kummer	Noun, common, feminine	1668	GRIEF
-Grund	Noun, common, feminine	2968	REASON
-sein, ihr	Pronoun, possesive, reflexive	1213	YOU
-gut, gütig	Adjective	1035	GOOD
 sieben	Numeral, cardinal	1704	SEVEN
 siebzig	Numeral, cardinal	1721	SEVENTY
 singen; vorlesen, rezitieren	Verb	1261	SING
@@ -518,15 +359,11 @@ immer, allezeit	Adverb	1676	ALWAYS
 sitzen	Verb	1416	SIT
 nähen	Verb	1457	SEW
 siechen, krank sein	Verb	1847	SICK
-Krankheit	Noun, common, feminine	1986	DISEASE
-krank, schwach	Adjective	1601	WEAK
-Gesicht, das Sehen, Sehkraft; Gestalt, sinnfällige Erscheinung; Augenschein; Gesicht, Vision	Noun, common, feminine	1560	FACE
 Schatten	Noun, common, masculine	1388	SHADE
 Geld, Geldstück; Mine	Noun, common, masculine	1559	MONEY
 Riemen	Noun, common	2973	STRAP
 scheinen, leuchten; aufblitzen	Verb	1521	SEEM
 Schuh	Noun, common, masculine	1381	SHOE
-zerreißen	Verb	1735	TEAR (SHRED)
 Spiegel	Noun, common, masculine	1171	MIRROR
 schlicht; glatt, eben	Adjective	1234	SMOOTH
 beschädigen	Verb	1116	DAMAGE
@@ -536,162 +373,80 @@ Schlaf	Noun, common	2972	SLEEP (STATE)
 Fett	Noun, common, neuter	323	FAT (ORGANIC SUBSTANCE)
 Schnee	Noun, common, masculine	784	SNOW
 schneiden; ernten	Verb	1432	CUT
-hineilen, kommen	Verb	1446	COME
-der, dieser	<none>	1214	THIS
 das Suchen	Noun, common, feminine	1468	LOOK FOR
-suchen	Verb	1468	LOOK FOR
 verkünden, erzählen	Verb	1711	TELL
-verkünden, erzählen	Verb	1711	TELL
-Steig, Weg	Noun, common, feminine	2252	PATH
 Stern	Noun, common, feminine	1430	STAR
-erwerben, bekommen	Verb	694	GET
-sich erheben, aufbrechen, auferstehn	Verb	570	STAND UP
 Stätte, Ort ; Raum, Platz	Noun, common, masculine	723	PLACE (POSITION)
+steigen	Verb	1102	CLIMB
 Stimme	Noun, common, feminine	1363	VOICE
 stoßen	Verb	1452	PUSH
 Becher, Kelch	Noun, common, masculine	476	CUP
-stehlen	Verb	713	STEAL
-anfangen, anheben	Verb	1806	BEGIN
 anfangen, anheben	Verb	1806	BEGIN
 Stuhl, Thron	Noun, common, masculine	1476	CHAIR
 Strich	Noun, common, masculine	2993	STROKE (OF PEN)
-Staub	Noun, common, masculine	2	DUST
 abgesondert, besonders, allein	Adverb	1964	ALONE
 Wahrheit	Noun, common, feminine	1638	TRUTH
 wahr, wahrhaft	Adjective	1657	TRUE
-Sonne	Noun, common	1343	SUN
-alsbald, plötzlich, auf einmal	Adverb	2920	SUDDENLY
 Sohn	Noun, common, masculine	1620	SON
 abwischen, auslöschen	Verb	1454	WIPE
-abwischen, abtrocknen mit	Verb	1454	WIPE
 ohne Grund, vergebens, umsonst	Adverb	1765	IN VAIN
 schwarz	Adjective	163	BLACK
-sowie, gleichwie, wie	Adverb	1239	HOW
-wie	Adverb	1239	HOW
 Schwein	Noun, common, neuter	1337	PIG
-rein, unschuldig; unsträflich	Adjective	704	CLEAN
-offenkundig, offenbar, bekannt	Adjective	3005	FAMILIAR
-sterben	Verb	1494	DIE
 Stärke, Kraft	Noun, common, feminine	202	STRENGTH
-stark, kräftig, gesund	Adjective	785	STRONG
 Schwester	Noun, common, feminine	1263	SISTER
 Haar	Noun, common, neuter	1040	HAIR
 Zähre, Träne	Noun, common, neuter	1651	TEAR (OF EYE)
-weinen	Verb	1839	CRY
 rechts	Adjective	1019	RIGHT
 zehn	Numeral, cardinal	1515	TEN
  Hundert	Numeral, cardinal	1634	HUNDRED
-bezeichnen; auszeichnen; erweisen	Verb	180	CALL BY NAME
-Zeichen, Wunder	Noun, common, feminine	1720	SIGN
 Zweig	Noun, common, masculine	3222	TWIG
-zerreißen	Verb	1735	TEAR (SHRED)
-zerreißen, zerstören, aufheben	Verb	1735	TEAR (SHRED)
-lehren, ziehen, unterrichten	Verb	1455	PULL
-Lehrer	Noun, common	1038	TEACHER
-in Brand setzen, verbrennen	Verb	141	BURN (SOMETHING)
 tun, machen	Verb	734	MAKE
-abreißen	Verb	1735	TEAR (SHRED)
-zerreißen	Verb	1735	TEAR (SHRED)
 berühren	Verb	1892	TOUCH
 bauen	<none>	1840	BUILD
-bauen	Verb	1840	BUILD
 ziehn, führen	Verb	43	LEAD (GUIDE)
 Holz, Prügel	Noun, common, neuter	1803	WOOD
 treten	Verb	1135	KICK
 Zunge	Noun, common, feminine	1205	TONGUE
-fest, beständig	Adjective	3003	SOLID
-brennen	Verb	1428	BURNING
-verbrennen	Verb	141	BURN (SOMETHING)
 Zahn	Noun, common, masculine	1380	TOOTH
 zwölf	Numeral, cardinal	1707	TWELVE
-denken, überlegen	Verb	1415	THINK (REFLECT)
 Lehm	Noun, common, feminine	1399	CLAY
 durch	Preposition, +A	97	THROUGH
 Loch, Nadelöhr	Noun, common, neuter	1667	HOLE
 dann, darauf	Adverb, temporal	2921	THEN
-dort	Adverb, locative	1937	THERE
-wo	Adverb	1237	WHERE
-da	Adverb	1937	THERE
-der, dieser	<none>	1214	THIS
-nur	Adverb	1580	ONLY
-Zeit	Noun, common, neuter	892	TIME
 Donner	Noun, common, feminine	1150	THUNDER
 König	Noun, common, masculine	1508	KING
-gut, gepriesen	Adjective	1035	GOOD
-laufen	Verb	1519	RUN
 drei	Numeral, cardinal	492	THREE
 der dritte	Numeral, ordinal	1859	THIRD
-du	Pronoun, personal	1215	THOU
-der du	Pronoun, personal, relative	1215	THOU
-glauben, meinen; gelten	Verb	1890	BELIEVE
-erdulden, ertragen	Verb	833	ENDURE
 tausend	Noun, common, feminine	1843	THOUSAND
 übel, böse	Adjective	45	EVIL
-unter	Preposition, +AD	1485	BELOW OR UNDER
 über	Preposition, +AD	1741	ABOVE
 oft	Adverb, temporal	1852	OFTEN
-und, nun, also	Particle, enclitic	1577	AND
-unter	Preposition, +D	1485	BELOW OR UNDER
-Schwäche, Krankheit	Noun, common, neuter	1986	DISEASE
-krank	Adjective	1847	SICK
-arm	Adjective	1674	POOR
-ohnmächtig, schwach	Adjective	1601	WEAK
-Ohnmacht, Schwäche, Krankheit	Noun, common, feminine	1986	DISEASE
 ungezähmt, wild oder unfreundlich, barsch	Adjective	2966	PERCH (FISH)
-übel, böse	Adjective	45	EVIL
-Unvolk, Nicht	Noun, common, feminine	1240	NOT
-das Böse	Noun, common, neuter	45	EVIL
-unerwartet, plötzlich	Adverb	2920	SUDDENLY
-Nahrung	Noun, common, feminine	256	FOOD
-bekannt, offenbar	Adjective	3005	FAMILIAR
-erschließen, öffnen	<none>	1156	OPEN
 Vollendung, Vervollkommnung; Ende; Erfüllung	Noun, common, feminine	742	END (OF SPACE)
 schütteln	Verb	1909	SHAKE
-wachsen	Verb	479	GROW
 Winkel, Ecke	Noun, common, masculine	192	CORNER
 Ding, Sache, Etwas	Noun, common	738	THING
-wohl, gut	Adverb	1035	GOOD
-verbinden	Verb	2862	CONNECT
-Mann	Noun, common, masculine	1554	MAN
 Lippe	Noun, common, feminine	478	LIP
 werfen	Verb	1456	THROW
-Preis	Noun, common	657	PRICE
 werden	Verb	1990	BECOME
-verderben	Verb	92	SPOIL (SOMEBODY OR SOMETHING)
 erwachen	Verb	1602	WAKE UP
 Gewalt, Macht über	Noun, common, neuter	2976	VIOLENCE
 wählen	Verb	1750	CHOOSE
 Bauch, Schoß	Noun, common, feminine	1251	BELLY
 wenden	Verb	1445	TURN (SOMETHING)
-wenden	Verb	1445	TURN (SOMETHING)
-verderben	Verb	92	SPOIL (SOMEBODY OR SOMETHING)
 wehren	Verb	1330	DEFEND
 Wasser	Noun, common, neuter	948	WATER
 Wort	Noun, common, neuter	1599	WORD
-machen, wirken	Verb	734	MAKE
 Wurm, Schlange	Noun, common, masculine	730	SNAKE
 Arbeiter	Noun, common, masculine	2977	WORKER
 das Tun	Noun, common, feminine	813	DO
-Arbeiter	Noun, common, masculine	2977	WORKER
 Wurzel	Noun, common, feminine	670	ROOT
-kämpfen	Verb	1423	FIGHT
 Dorf, Weiler	Noun, common, neuter	930	VILLAGE
 wir	Pronoun, personal	1212	WE
 heimsuchen, besuchen, besorgen	Verb	1377	VISIT
 warten, hoffen auf 	Verb	1590	WAIT (FOR)
-zusammenbinden, verbinden	Verb	2862	CONNECT
-Weg	Noun, common, masculine	2252	PATH
-wollen	Verb	1784	WANT
 Wind	Noun, common, masculine	960	WIND
 Weide	Noun, common, feminine	649	PASTURE
-Jahr	Noun, common, masculine	1226	YEAR
-weilen, bleiben	Verb	987	REMAIN
-verbleiben, verharren	Verb	987	REMAIN
-wissen	Verb	1410	KNOW (SOMETHING)
-schütteln	Verb	1909	SHAKE
-rufen	Verb	1084	CALL
-Strich	Noun, common, masculine	2993	STROKE (OF PEN)
-Schlinge	Noun, common, feminine	2604	NOOSE
 wallen, sieden	Verb	792	BOIL (OF LIQUID)
 Wolf	Noun, common, masculine	522	WOLF
 Wolle	Noun, common, feminine	964	WOOL
