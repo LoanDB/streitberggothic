@@ -9,6 +9,7 @@ import pylexibank
 from cldfbench import CLDFSpec
 from clldutils.misc import slug
 import attr
+from collections import defaultdict
 
 REP = [(x, "") for x in "†*[]~?;+-"] + \
       [(x, "a") for x in "áàā"] + [(x, "ɪ") for x in "ïíìī"] + \
@@ -47,12 +48,11 @@ class Dataset(BaseDataset):
         }
 
     def cmd_makecldf(self, args):
-
         with self.cldf_writer(args) as writer:
             writer.add_sources()
-            args.log.info("added sources")
+            #args.log.info("added sources")
 
-            # add concept
+            ## add concept
             concepts = {}
             for i, concept in enumerate(self.concepts):
                 idx = str(i+1)+"_"+slug(concept["sense"])
@@ -64,36 +64,73 @@ class Dataset(BaseDataset):
                 concepts[concept["sense"], concept["pos"]] = idx
             args.log.info("added concepts")
 
-            # add languages
-            writer.add_languages()
+            ## add languages
+            for language in self.languages:
+                writer.add_language(
+                        ID="Gothic",
+                        Name="Gothic",
+                        Glottocode="goth1244"
+                        )
             args.log.info("added languages")
 
             language_table = writer.cldf["LanguageTable"]
 
-            # add forms
+            ## add forms
             for idx, row in enumerate(self.raw_dir.read_csv(
-                    "Streitberg-1910-3659.tsv", delimiter="\t", dicts=True)[1:]):
-                writer.add_forms_from_value(
-                    Local_ID=idx,
-                    Language_ID="Gothic",
-                    Parameter_ID=concepts[row["sense"], row["pos"]],
-                    Value=row["form"],
-                    Source="557564")
-            args.log.info("added forms")
+                    "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)[1:]):
+                try:
+                    writer.add_forms_from_value(
+                        Local_ID=idx,
+                        Language_ID="Gothic",
+                        Parameter_ID=concepts[row["sense"], row["pos"]],
+                        Value=row["form"],
+                        Source="557564")
+                except:
+                    pass
+            #args.log.info("added forms")
         with self.cldf_writer(args, cldf_spec="dictionary", clean=False) as writer:
+
+            # we use the same language table for the data
             writer.cldf.add_component(language_table)
+
+            # add the senses
+            senses = defaultdict(list)
+            idxs = {}
             for idx, row in enumerate(self.raw_dir.read_csv(
-                "Streitberg-1910-3659.tsv", delimiter="\t", dicts=True)):
-                entry_id = "{0}-{1}".format(idx+1, slug(row["form"]))
-                sense_id = "{0}-{1}".format(idx+1, slug(row["sense"]))
+                "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)):
+                if row["sense"].strip():
+                    fidx = str(idx+1)+"-"+slug(row["form"])
+                    idxs[fidx] = row
+                    for sense in row["sense"].split(","):
+                        if row["form"].strip() and sense.strip():
+                            senses[slug(sense.strip(), lowercase=False)] += [fidx]
+            for sense, values in senses.items():
+                for i, fidx in enumerate(values):
+                    writer.objects["SenseTable"].append({
+                        "ID": sense+"-"+str(i+1),
+                        "Description": sense,
+                        "Entry_ID": fidx
+                        })
+            for fidx, row in idxs.items():
                 writer.objects["EntryTable"].append({
-                    "ID": entry_id,
+                    "ID": fidx,
                     "Language_ID": "Gothic",
                     "Headword": row["form"],
-                    "Part_Of_Speech": row["pos"]
+                    "Part_of_Speech": row["pos"]
                     })
-                writer.objects["SenseTable"].append({
-                    "ID": sense_id,
-                    "Description": row["sense"],
-                    "Entry_ID": entry_id
-                    })
+
+            #for idx, row in enumerate(self.raw_dir.read_csv(
+            #    "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)):
+            #    entry_id = "{0}-{1}".format(idx+1, slug(row["form"]))
+            #    sense_id = "{0}-{1}".format(idx+1, slug(row["sense"]))
+            #    writer.objects["EntryTable"].append({
+            #        "ID": entry_id,
+            #        "Language_ID": "Gothic",
+            #        "Headword": row["form"],
+            #        "Part_Of_Speech": row["pos"]
+            #        })
+            #    writer.objects["SenseTable"].append({
+            #        "ID": sense_id,
+            #        "Description": row["sense"],
+            #        "Entry_ID": entry_id
+            #        })

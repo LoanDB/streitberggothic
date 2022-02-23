@@ -1,1 +1,3250 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,POS
+2_ehemann,Ehemann,,,"Noun, common, masculine"
+3_vater,Vater,,,Foreign word
+4_abeileni,Abeileni,,,"Noun, proper"
+6_abiaar,Abiaþar,,,"Noun, proper"
+7_abraham,Abraham,,,"Noun, proper"
+8_vorfurchtstaunenauersichgeratenuber,"vor Furcht, Staunen außer sich geraten über",,,Verb
+9_starkheftig,"stark, heftig",,,Adjective
+10_sehr,sehr,,,"Adverb, Comparative"
+11_vonvonwegvonher,"von, von __ weg, von __ her",,,<none>
+12_adam,Adam,,,"Noun, proper"
+14_addin,Addin,,,"Noun, proper"
+16_vonvonwegvonher,"von, von __ weg, von __ her",,,"Preposition, +D"
+17_nachher,nachher,,,Adverb
+18_nachkomme,Nachkomme,,,"Noun, common, masculine"
+19_derfolgendetag,der folgende Tag,,,"Noun, common, masculine"
+21_geplagt,geplagt,,,"Participle, past"
+22_verdammung,Verdammung,,,"Noun, common, feminine"
+23_trunkenbold,Trunkenbold,,,"Noun, common, masculine"
+24_fresser,Fresser,,,"Noun, common, masculine"
+25_abgrund,Abgrund,,,"Noun, common, feminine"
+26_gottlosigkeit,Gottlosigkeit,,,"Noun, common, feminine"
+27_abgottischgottlos,"abgöttisch, gottlos",,,Adjective
+28_derheimatfern,der Heimat fern,,,Adjective
+29_ablegungerla,"Ablegung, Erlaß",,,"Noun, common, feminine"
+31_betrug,Betrug,,,"Noun, common, feminine"
+32_ermudet,ermüdet,,,"Participle, past"
+33_absetzung,Absetzung,,,"Noun, common, feminine"
+34_abfall,Abfall,,,"Noun, common, feminine"
+35_hinten,hinten,,,"Adverb, locative"
+36_vonhinten,von hinten,,,"Adverb, directional"
+37_vonhinten,von hinten,,,Adverb
+38_wieder,wieder,,,Adverb
+39_wiederanfangwiedererneuerung,"Wiederanfang, Wiedererneuerung",,,"Noun, common, feminine"
+40_letzter,letzter,,,"Adjective, Comparative"
+41_letzter,letzter,,,"Adjective, Superlative"
+42_furchtlos,furchtlos,,,Verb
+43_agar,Agar,,,"Noun, proper"
+44_engelbote,"Engel, Bote",,,"Noun, common, masculine"
+45_bedrangnis,Bedrängnis ,,,"Noun, common, feminine"
+47_eng,eng,,,Adjective
+48_furchtschrecken,"Furcht, Schrecken",,,"Noun, common, neuter"
+49_angstigen,ängstigen,,,Verb
+50_einenanfahren,einen anfahren,,,Verb
+51_einenerschrecken,einen erschrecken,,,Verb
+52_unzucht,Unzucht,,,"Noun, common, feminine"
+53_schmutziggewinnsuchtig,schmutzig gewinnsüchtig,,,Adjective
+54_unzucht,Unzucht,,,"Noun, common, neuter"
+55_schandrede,Schandrede,,,"Noun, common, feminine"
+57_bedrangen, bedrängen,,,Verb
+58_drangsal,Drangsal,,,"Noun, common, feminine"
+59_schimpflich,schimpflich,,,Adjective
+60_schwierig,schwierig,,,Adjective
+61_agluba,agluba,,,"Adverb, Comparative"
+62_agustus,Agustus,,,"Noun, proper"
+63_sinnverstand,"Sinn, Verstand",,,"Noun, common, masculine"
+64_zahmetaube,zahme  Taube,,,"Noun, common"
+65_spreu,Spreu,,,"Noun, common, feminine"
+66_aharon,Aharon,,,"Noun, proper"
+67_meinen,meinen,,,Verb
+68_geist,Geist,,,"Noun, common, masculine"
+69_inspiration,Inspiration,,,"Noun, common, feminine"
+70_geistiggeistlich,"geistig, geistlich",,,Adjective
+71_ahre,Ähre,,,"Noun, common, neuter"
+72_acht,acht,,,"Numeral, cardinal"
+73_achttagig,achttägig,,,Adjective
+74_achtzig,achtzig,,,"Numeral, cardinal"
+75_derachte,der achte,,,"Numeral, cardinal"
+76_flugewasser,"Fluß, Gewässer",,,"Noun, common, feminine"
+77_aia,[Aia],,,"Noun, proper"
+78_aibair,Aibair,,,"Noun, proper"
+79_opfergabe,Opfergabe,,,"Noun, common"
+80_aiddua,Aiddua,,,"Noun, proper"
+81_aieira,Aieira,,,"Noun, proper"
+84_offnedich,öffne dich,,,Foreign word
+85_haben,haben,,,Verb
+86_teilhabenan,teilhaben an,,,Verb
+87_eigentum,Eigentum,,,"Noun, common, neuter"
+88_inbesitznehmen,In Besitz nehmen,,,Verb
+89_bettelnfursichverlangen,betteln; für sich verlangen,,,Verb
+90_gebet,Gebet,,,"Noun, common, feminine"
+91_eigentum,Eigentum,,,"Noun, common, feminine"
+92_dornstrauch,Dornstrauch,,,"Noun, common, feminine"
+94_gemeindekirchegotteshaus,"Gemeinde, Kirche; Gotteshaus",,,"Noun, common, feminine"
+95_ailam,Ailam,,,"Noun, proper"
+96_aileiaizair,Aileiaizair,,,"Noun, proper"
+97_aileiakeim,Aileiakeim,,,"Noun, proper"
+98_aileisabai,Aileisabaiþ,,,"Noun, proper"
+99_ailoe,ailoe,,,Foreign word
+100_ailul,[Ailul],,,<none>
+102_eingeboren,eingeboren,,,"Noun, common, masculine"
+103_einzig,einzig,,,Adjective
+104_vereinzeltalleinstehend,"vereinzelt, alleinstehend",,,Adjective
+105_einheiteinmutigkeit,"Einheit, Einmütigkeit",,,"Noun, common, feminine"
+106_vereinzelntrennen,"vereinzeln, trennen",,,Verb
+107_einfalt,Einfalt,,,"Noun, common, feminine"
+108_einfach,einfach,,,Adjective
+109_einfaltig,einfältig,,,"Adverb, Comparative"
+110_einjeder,ein jeder,,,"Pronoun, indefinite"
+112_elf,elf,,,"Numeral, cardinal"
+113_ainnaa,Ainnaa,,,"Noun, proper"
+114_ainok,Ainok,,,"Noun, proper"
+115_ainos,Ainos,,,"Noun, proper"
+116_ains,ains,,,Adjective
+117_niemandkeiner,"niemand, keiner",,,"Pronoun, indefinite"
+118_aiodia,Aiodia,,,"Noun, proper"
+119_aipafras,Aipafras,,,"Noun, proper"
+120_aipafraudeitus,Aipafraudeitus,,,"Noun, proper"
+121_bischofsamt,Bischofsamt,,,"Noun, common, feminine"
+122_bischof,Bischof,,,"Noun, common, masculine"
+123_brief,Brief,,,"Noun, common"
+124_fruh,früh,,,"Adverb, temporal"
+125_langsteher,"längst, eher",,,"Adverb, Comparative"
+126_airastus,Airastus,,,"Noun, proper"
+127_gesandterseinunterhandeln,"Gesandter sein, unterhandeln",,,Verb
+128_vorfahren,Vorfahren,,,"Adjective, Comparative"
+130_lauterkeitechtheit,"Lauterkeit, Echtheit",,,"Noun, common, feminine"
+131_airmodam,Airmodam,,,"Noun, proper"
+132_airmogaineis,Airmogaineis,,,"Noun, proper"
+133_erdeland,"Erde, Land",,,"Noun, common, feminine"
+134_vonirdischerabkunft,von irdischer Abkunft,,,Adjective
+135_irdisch,irdisch,,,Adjective
+136_bote,Bote,,,"Noun, common, masculine"
+138_irregefuhrt,irre geführt,,,Adjective
+139_irrlehre,Irrlehre,,,"Noun, common, feminine"
+140_irrefuhren,irre führen,,,Verb
+141_irremachen,irre machen,,,Verb
+143_sichscheuenvor,sich scheuen vor,,,Verb
+144_mutter,Mutter,,,"Noun, common, feminine"
+145_eid,Eid,,,"Noun, common, masculine"
+146_oder,oder,,,Conjunction
+147_evangelium,Evangelium,,,"Noun, common, neuter"
+148_aiwaggelista,aiwaggelista,,,"Noun, common, masculine"
+149_dasevangeliumverkunden,das Evangelium verkünden,,,Verb
+150_evangelium,Evangelium,,,"Noun, common, feminine"
+151_ewig,ewig,,,Adjective
+152_schande,Schande,,,"Noun, common, neuter"
+153_schandlichhandeln,schändlich handeln,,,Verb
+154_beschamenbeschimpfen,"beschämen, beschimpfen",,,Verb
+155_sichanstrengen,sich anstrengen,,,Verb
+156_segen,Segen ,,,"Noun, common, masculine"
+157_aiwneikai,Aiwneikai,,,"Noun, proper"
+158_zeitewigkeit,"Zeit, Ewigkeit",,,"Noun, common, masculine"
+159_aiwwa,Aiwwa,,,"Noun, proper"
+161_erz,Erz,,,"Noun, common, neuter"
+162_aizaikeia,Aizaikeia,,,"Noun, proper"
+163_erzschmied,Erzschmied,,,"Noun, common, masculine"
+164_aizleim,Aizleim,,,"Noun, proper"
+165_aizor,Aizor,,,"Noun, proper"
+166_ewigkeit,Ewigkeit,,,"Noun, common, feminine"
+167_sondern,sondern,,,Conjunction
+168_akaja,Akaja,,,"Noun, proper"
+170_akaikus,Akaïkus,,,"Noun, proper"
+172_essig,Essig,,,"Noun, common"
+173_frucht,Frucht,,,"Noun, common, neuter"
+174_unfruchtbar,unfruchtbar,,,Adjective
+175_acker,Acker,,,"Noun, common, masculine"
+176_akwla,Akwla,,,"Noun, proper"
+177_salbenbuchseausalabaster,Salbenbüchse aus Alabaster,,,"Noun, common"
+178_brandopfer,Brandopfer,,,"Noun, common, feminine"
+179_alaiksandrus,Alaiksandrus,,,"Noun, proper"
+180_insgesamt,insgesamt,,,Adverb
+181_gesamtheitdermenschen,Gesamtheit der Menschen,,,"Noun, common, masculine"
+183_alamod,Alamod,,,"Noun, proper"
+185_anallemmangelleidend,an allem Mangel leidend,,,Adjective
+186_alter,Alter,,,"Noun, common"
+187_menschenalterzeit,"Menschenalter, Zeit",,,"Noun, common, feminine"
+188_elle,Elle,,,"Noun, common, feminine"
+189_ol,Öl,,,"Noun, common, neuter"
+190_olbaum,Ölbaum,,,"Noun, common, masculine"
+191_ol,Öl,,,Adjective
+192_alfaius,Alfaius,,,"Noun, proper"
+193_tempel,Tempel,,,"Noun, common, feminine"
+194_auer,außer,,,Conjunction
+195_anderswoherstammend,anderswoher stammend,,,Adjective
+197_anders,anders,,,"Adverb, Comparative"
+198_andersgebildetallegorisch,"anders gebildet, allegorisch",,,"Participle, past"
+199_masten,mästen,,,Verb
+200_eifer,Eifer,,,"Noun, common, neuter"
+201_eifern,eifern,,,Verb
+202_zornigmachen,zornig machen,,,Verb
+203_anderswo,anderswo,,,"Adverb, locative"
+204_anderswohin,anderswohin,,,"Adverb, directional"
+205_anderswoher,anderswoher,,,"Adverb, directional"
+206_einandrer,ein andrer,,,Adjective
+207_vollig,völlig,,,Adverb
+208_vonallenseitenher,von allen Seiten her,,,"Adverb, directional"
+209_vollkommen,vollkommen,,,"Noun, common, masculine"
+210_redlichkeit,Redlichkeit,,,"Noun, common, feminine"
+211_uberhaupt,überhaupt,,,Adverb
+212_alljederganz,"all, jeder, ganz",,,Adjective
+213_allmachtiger,Allmächtiger,,,"Noun, common, masculine"
+214_altwerden,alt werden,,,Verb
+216_alul,[Alul],,,"Noun, proper"
+218_amen,amen,,,Foreign word
+220_schulter,Schulter,,,"Noun, common, masculine"
+222_dennnun,"denn, nun",,,Particle
+223_daraufauerdem,"darauf, außerdem",,,Adverb
+224_gebot,Gebot,,,"Noun, common, feminine"
+225_empfehlunguberlieferung,"Empfehlung, Überlieferung",,,"Noun, common, neuter"
+226_inderheimatbefindlich,in der Heimat befindlich,,,Adjective
+227_plotzlich,plötzlich,,,"Adverb, temporal"
+228_lesung,Lesung,,,"Noun, common, feminine"
+229_auflegung,Auflegung,,,"Noun, common, feminine"
+230_verborgenheit,Verborgenheit,,,"Noun, common, feminine"
+232_aufgleicheweise,auf gleiche Weise,,,Adverb
+233_ubermachtmihandlung,"Übermacht, Mißhandlung",,,"Noun, common, feminine"
+234_verstecktemeinungvermutung,"versteckte Meinung, vermutung",,,"Noun, common, feminine"
+235_ausatmen,ausatmen,,,Verb
+239_ruhe,Ruhe,,,"Noun, common"
+241_sichtbar,sichtbar,,,Adjective
+242_anfang,Anfang,,,"Noun, common, feminine"
+243_anaaima,anaþaima,,,Foreign word
+244_anao,Anaþoþ,,,"Noun, proper"
+245_zukunftig,zukünftig,,,Adjective
+246_billigkeit,Billigkeit,,,"Noun, common, feminine"
+247_entlanguberhinaufhin,"entlang, über __ hin, auf __ hin",,,"Preposition, +A"
+248_losegeld,Lösegeld,,,"Noun, common, feminine"
+249_tadel,Tadel,,,"Noun, common, neuter"
+250_antwortverteidigung,Antwort; Verteidigung,,,"Noun, common, feminine"
+251_bekenntnis,Bekenntnis,,,"Noun, common, neuter"
+252_gegenlohnvergeltung,Gegenlohn; Vergeltung,,,"Noun, common, neuter"
+253_abend,Abend,,,"Noun, common, neuter"
+254_feindlich,feindlich,,,"Noun, common, masculine"
+255_dasempfangen,das Empfangen,,,"Noun, common, neuter"
+256_festhaltend,festhaltend,,,Adjective
+258_aufnahmeannahmeerhebung,"Aufnahme, Annahme; Erhebung",,,"Noun, common, feminine"
+259_verabscheuungswert,verabscheuungswert,,,Adjective
+260_widersacher,Widersacher,,,"Noun, common, masculine"
+261_gegnervorgericht,Gegner vor Gericht,,,"Noun, common, masculine"
+262_nuchternverstandig,"nüchtern, verständig",,,Adjective
+263_antlitz,Antlitz,,,"Noun, common, neuter"
+264_freimutigoffen,"freimütig, offen",,,Adverb
+265_offen,offen,,,Adverb
+266_preis,Preis,,,"Noun, common, neuter"
+267_antwort,Antwort,,,"Noun, common, neuter"
+268_soldnotdurft,Sold; Notdurft,,,"Noun, common, feminine"
+269_angesicht,Angesicht,,,"Noun, common, neuter"
+270_amtdienst,"Amt, Dienst",,,"Noun, common, neuter"
+271_etwasleisten,etwas  leisten,,,Verb
+272_diener,Diener,,,"Noun, common, masculine"
+273_ende,Ende,,,"Noun, common, masculine"
+274_enthullungoffenbarung,"Enthüllung, Offenbarung",,,"Noun, common, feminine"
+275_endlos,endlos,,,Adjective
+276_anderssonst,"anders, sonst",,,Conjunction
+277_andraias,Andraias,,,"Noun, proper"
+278_darbietungbeistand,"Darbietung, Beistand",,,"Noun, common, neuter"
+279_gegenwartangesichtperson,"Gegenwart, Angesicht, Person",,,"Noun, common, neuter"
+280_gegenwartig,gegenwärtig,,,Adjective
+281_anna,Anna,,,"Noun, proper"
+282_annas,Annas,,,"Noun, proper"
+283_sold,Sold,,,"Noun, common, feminine"
+285_balken,Balken,,,"Noun, common, masculine"
+286_gnadig,gnädig,,,Adjective
+287_freudedankgnadegunst,"Freude; Dank; Gnade, Gunst",,,"Noun, common, feminine"
+289_andererzweiter,"anderer, zweiter",,,Adjective
+290_verschiedenheit,Verschiedenheit,,,"Noun, common, feminine"
+291_anders,anders,,,Adverb
+293_apostolat,Apostolat,,,"Noun, common, feminine"
+294_apostel,Apostel,,,"Noun, common, masculine"
+295_axt,Axt,,,"Noun, common, feminine"
+296_aar,Aar,,,"Noun, common, masculine"
+297_arabia,Arabia,,,"Noun, proper"
+299_aram,Aram,,,"Noun, proper"
+300_arbeitendulden,arbeiten; dulden,,,Verb
+301_seineehresetzenintrachtennach,"seine Ehre setzen in, trachten nach",,,Verb
+303_durcharbeiten,dúrcharbeiten,,,Verb
+304_arbeitdrangsal,"Arbeit, Drangsal",,,"Noun, common, feminine"
+305_daserbe,das Erbe,,,"Noun, common, neuter"
+307_dererbe,der Erbe,,,"Noun, common, masculine"
+308_erbin,Erbin,,,"Noun, common, feminine"
+309_areimaaia,Areimaþaia,,,"Noun, proper"
+310_areistarkus,Areistarkus,,,"Noun, proper"
+312_pfeil,Pfeil,,,"Noun, common, feminine"
+313_pflugen,pflügen,,,Verb
+314_holzernerkastenarchefutteralbeutel,"hölzerner Kasten, Arche; Futteral, Beutel",,,"Noun, common, feminine"
+315_erzengel,Erzengel,,,"Noun, common, masculine"
+316_arkippus,Arkippus,,,"Noun, proper"
+318_almosen,Almosen,,,"Noun, common, feminine"
+319_barmherzig,barmherzig,,,Adjective
+320_barmherzigkeit,Barmherzigkeit,,,"Noun, common, feminine"
+322_sicheineserbarmen,sich eines erbarmen,,,Verb
+323_armbeklagenswert,"arm, beklagenswert",,,Adjective
+324_arm,Arm,,,"Noun, common, masculine"
+325_sicher,sicher,,,Adverb
+326_aromata,aromata,,,"Noun, common"
+327_artaksairksus,[Artaksairksus],,,"Noun, proper"
+328_umsonst,umsonst,,,Adverb
+330_sommer,Sommer,,,"Noun, common, feminine"
+333_asia,Asia,,,"Noun, proper"
+334_eselsmuhle,Eselsmühle,,,"Noun, common, feminine"
+335_esel,Esel,,,"Noun, common, masculine"
+336_asmo,Asmoþ,,,"Noun, proper"
+337_mietlingtagelohner,"Mietling, Tagelöhner",,,"Noun, common, masculine"
+338_apfennig,"Aß, Pfennig",,,"Noun, common, masculine"
+339_assaum,Assaum,,,"Noun, proper"
+340_sicherheit,Sicherheit,,,"Noun, common"
+341_ast,Ast,,,"Noun, common, masculine"
+342_von,von,,,"Preposition, +AD"
+345_zugang,Zugang,,,"Noun, common, neuter"
+346_saat,Saat,,,"Noun, common"
+347_zumessenausteilen,zum Essen austeilen,,,Verb
+349_dasbeobachten,das Beobachten,,,"Noun, common, feminine"
+350_aeinim,Aþeinim,,,"Noun, proper"
+351_jahre,Jahre,,,"Noun, common"
+352_aberdoch,aber doch,,,Conjunction
+353_seligkeit,Seligkeit,,,"Noun, common, feminine"
+354_seligpreisen,selig preisen,,,Verb
+355_selig,selig,,,Adjective
+356_begluckt,beglückt,,,Adjective
+357_allerdingswohlvielleicht,allerdings; wohl; vielleicht,,,Adverb
+358_fenster,Fenster,,,"Noun, common, neuter"
+359_zeigen,zeigen,,,Verb
+360_einemzeigen,einem  zeigen,,,Verb
+361_auge,Auge,,,"Noun, common, neuter"
+362_larm,Lärm,,,"Noun, common, masculine"
+363_larmen,lärmen,,,Verb
+364_ofen,Ofen,,,"Noun, common, masculine"
+366_ochse,Ochse,,,"Noun, common, masculine"
+367_hoher,höher,,,"Adjective, Comparative"
+368_hochster,höchster,,,"Adjective, Superlative"
+369_dennnamlich,"denn, nämlich",,,Conjunction
+371_hinzufugenzu,hinzufügen zu,,,Verb
+372_hinzufugen,hinzufügen,,,Verb
+374_sichmehren,sich mehren,,,Verb
+375_sichvermehrenzunehmen,"sich vermehren, zunehmen",,,Verb
+376_auneiseifaurus,Auneiseifaurus,,,"Noun, proper"
+377_aunisimus,Aunisimus,,,"Noun, proper"
+378_grabdenkmalergraber,"Grabdenkmäler, Gräber",,,"Noun, common"
+379_schweituch,Schweißtuch,,,"Noun, common, neuter"
+380_krug,Krug,,,"Noun, common, masculine"
+382_garten,Garten,,,"Noun, common, masculine"
+383_landmannwinzer,"Landmann, Winzer",,,"Noun, common, masculine"
+384_ohr,Ohr,,,"Noun, common, neuter"
+385_wuste,Wüste,,,"Noun, common, feminine"
+386_ode,öde,,,Adjective
+388_schafherde,Schafherde,,,"Noun, common, neuter"
+389_einemdanken,einem  danken,,,Verb
+390_dank,Dank,,,"Noun, common, neuter"
+391_schafstall,Schafstall,,,"Noun, common, neuter"
+392_gromutter,Großmutter,,,"Noun, common, feminine"
+393_axaia,Axaïa,,,<none>
+394_uppiglebend,üppig lebend,,,"Noun, common"
+396_asche,Asche,,,"Noun, common, feminine"
+397_amtagederungesauertenbrode,am Tage der ungesäuerten Brode,,,"Noun, common"
+398_wenn,wenn,,,"Conjunction, enclitic"
+399_babawis,Babawis,,,"Noun, proper"
+400_bett,Bett,,,"Noun, common, neuter"
+401_bagauis,Bagauis,,,"Noun, proper"
+402_baum,Baum,,,"Noun, common, masculine"
+404_baiailzaibul,Baiailzaibul,,,"Noun, proper"
+406_einenzwingen,einen  zwingen,,,Verb
+407_baidsaiidan,Baidsaiïdan,,,<none>
+408_bailiam,Bailiam,,,"Noun, proper"
+409_bainiamein,Bainiamein,,,"Noun, proper"
+410_maulbeerbaum,Maulbeerbaum,,,"Noun, common, masculine"
+411_tragen,tragen ,,,Verb
+413_hineinbringen,hineinbringen,,,Verb
+414_vertragen,vertragen,,,Verb
+415_vergleichen,vergleichen,,,Verb
+416_hindurchtragen,hindurchtragen,,,Verb
+418_hinaustragen,hinaustragen,,,Verb
+419_beroiainthrakien,Beroia in Thrakien,,,"Noun, proper"
+420_gebirgsgegend,Gebirgsgegend,,,"Noun, common, feminine"
+422_einenbergenbewahren,"einen bergen, bewahren",,,Verb
+423_helle,Helle,,,"Noun, common, feminine"
+425_offenbaren,offenbaren,,,Verb
+426_helloffenbar,"hell, offenbar",,,Adjective
+427_offen,offen,,,"Adverb, Comparative"
+428_bitterkeit,Bitterkeit,,,"Noun, common, feminine"
+429_bitter,bitter,,,Adjective
+430_baiil,Baiþil,,,"Noun, proper"
+431_bailaem,[Baiþlaem],,,<none>
+432_baisaidan,Baiþsaïdan,,,<none>
+433_beide,beide,,,"Numeral, other"
+434_schlauch,Schlauch,,,"Noun, common, masculine"
+435_halsnacken,"Hals, Nacken",,,<none>
+436_salbe,Salbe,,,"Noun, common, neuter"
+437_kuhnfreimutig,"kühn, freimütig",,,Adverb
+438_kuhnheitfreimut,"Kühnheit, Freimut",,,"Noun, common, feminine"
+439_kuhnseinwagen,"kühn sein, wagen",,,Verb
+440_bosheit,Bosheit,,,"Noun, common, feminine"
+441_peinstrafefolter,Pein; Strafe; Folter,,,"Noun, common, feminine"
+442_martern,martern,,,Verb
+443_banauis,Banauis,,,"Noun, proper"
+444_bandfessel,"Band, Fessel",,,"Noun, common, feminine"
+445_gefangener,Gefangener,,,"Noun, common, masculine"
+447_einzeicheneinenwinkgebenandeuten,"ein Zeichen, einen Wink geben, andeuten",,,Verb
+448_durchwinkeandeuten,durch Winke andeuten,,,Verb
+449_zeichen,Zeichen,,,"Noun, common, feminine"
+450_schlagwunde,"Schlag, Wunde",,,"Noun, common, feminine"
+451_scheuer,Scheuer,,,"Noun, common, masculine"
+452_barabba,Barabba,,,"Noun, proper"
+454_nicht,Nicht,,,"Noun, common, masculine"
+455_vongerstebereitet,von Gerste bereitet,,,Adjective
+456_busenscho,"Busen, Schoß",,,"Noun, common, masculine"
+457_kind,Kind,,,"Noun, common, neuter"
+458_barnabas,Barnabas,,,"Noun, proper"
+459_kindlein,Kindlein,,,"Noun, common, neuter"
+460_kindlicheswesen,kindliches Wesen,,,"Noun, common, feminine"
+461_kindheit,Kindheit,,,"Noun, common, neuter"
+462_kindlich,kindlich,,,Adjective
+463_barteimaiaus,Barteimaiaus,,,"Noun, proper"
+464_baraulaumaius,Barþaulaumaius,,,"Noun, proper"
+465_frommverehren,fromm verehren,,,Verb
+467_besser,besser,,,Adjective
+468_batista,batista,,,"Adjective, Superlative"
+469_vorteilerlangen,Vorteil erlangen,,,Verb
+471_wohnung,Wohnung,,,"Noun, common, feminine"
+472_wohnenbewohnen,"wohnen, bewohnen",,,Verb
+473_wohnungaufschlagen,Wohnung aufschlagen,,,Verb
+474_bauanairgais,Bauanairgais,,,"Noun, proper"
+478_dergeborene,der Geborene,,,"Noun, common, masculine"
+479_burger,Bürger,,,"Noun, common, masculine"
+480_turmburgstadt,"Turm, Burg; Stadt",,,"Noun, common, feminine"
+481_stadtmauer,Stadtmauer,,,"Noun, common, feminine"
+482_burde,Bürde,,,"Noun, common, feminine"
+484_aufetwaswarten,auf etwas warten,,,Verb
+485_ausharrenertragen,"ausharren, ertragen",,,Verb
+486_erwarten,erwarten,,,Verb
+487_sauerteig,Sauerteig,,,"Noun, common, neuter"
+488_durchsauern,durchsäuern,,,Verb
+489_beien,beißen,,,Verb
+490_scheltenbedrohen,"schelten, bedrohen",,,Verb
+491_bero,Beroþ,,,"Noun, proper"
+492_eltern,Eltern,,,"Noun, common, masculine"
+493_beania,Beþania,,,"Noun, proper"
+494_belaihaim,Beþlaihaim,,,"Noun, proper"
+495_besaeida,Beþsaeida,,,"Noun, proper"
+496_besfagei,Beþsfagei,,,"Noun, proper"
+497_beium,"bei, um",,,"Preposition, +AD"
+498_lager,Lager,,,"Noun, common, feminine"
+499_bittegebetanliegenaufforderung,"Bitte, Gebet; Anliegen, Aufforderung",,,"Noun, common, feminine"
+500_bettler,Bettler,,,"Noun, common, masculine"
+501_bittenbetenbetteln,"bitten, beten, betteln",,,Verb
+502_betenbitten,"beten, bitten",,,Verb
+503_erbitten,erbitten,,,Verb
+504_ubervorteilung,Übervorteilung,,,"Noun, common, neuter"
+505_ubervorteilung,Übervorteilung,,,"Noun, common"
+506_ublenachrede,üble Nachrede,,,"Noun, common, neuter"
+507_prahler,Prahler,,,"Noun, common, masculine"
+508_woran,woran,,,Adverb
+509_zugleichaberrusteauch,zugleich aber rüste auch,,,"Participle, present"
+510_beschneidung,Beschneidung,,,"Noun, common, neuter"
+511_einenmitetwasbinden,einen mit etwas  binden,,,Verb
+512_losenauflosenerklarenentbindenvon,"lösen; auflösen, erklären; entbinden von",,,Verb
+513_umbindenmit,umbinden mit ,,,Verb
+514_binden,binden,,,Verb
+516_ingefahrkommen,in Gefahr kommen,,,"Noun, common"
+517_murrenverleumdungen,Murren; Verleumdungen,,,"Noun, common, feminine"
+518_nachstellunganschlag,"Nachstellung, Anschlag",,,"Noun, common, feminine"
+519_eltern,Eltern,,,<none>
+520_befleckung,Befleckung,,,"Noun, common, feminine"
+521_ansto,Anstoß,,,"Noun, common, neuter"
+522_ringsum,ringsum,,,Adverb
+523_nachherspater,"nachher, später",,,Adverb
+524_entbietenbefehlen,"entbieten, befehlen",,,Verb
+525_verbieten,verbieten,,,Verb
+526_beugensichbeugen,beugen; sich beugen,,,Verb
+527_beugen,beugen,,,Verb
+528_gewohnheit,Gewohnheit,,,"Noun, common, neuter"
+529_gewohnt,gewohnt,,,Adjective
+530_tisch,Tisch,,,"Noun, common, masculine"
+531_sichvermischenmit,sich vermischen mit,,,Verb
+533_abschaffen,abschaffen,,,Verb
+534_wohlwollengute,"Wohlwollen, Güte",,,"Noun, common, feminine"
+535_barmherzigsein,barmherzig sein,,,Verb
+537_barmherzigdemgutenzugetan,barmherzig; dem Guten zugetan,,,Adjective
+538_aufblasen,aufblasen,,,Verb
+540_durchbleuen,durchbleuen,,,Verb
+542_erblinden,erblinden,,,Verb
+543_blind,blind,,,Adjective
+544_blume,Blume,,,"Noun, common, masculine"
+545_verehren,verehren,,,Verb
+546_verehrung,Verehrung,,,"Noun, common, masculine"
+547_blut,Blut,,,"Noun, common, neuter"
+548_blutflussig,blutflüssig,,,"Participle, present"
+549_reibenzerreiben,"reiben, zerreiben",,,Verb
+550_buchstabe,Buchstabe,,,"Noun, common, feminine"
+551_schriftgelehrterschreiber,Schriftgelehrter; Schreiber,,,"Noun, common, masculine"
+552_nutzen,Nutzen,,,"Noun, common, feminine"
+553_nutzenbessern,"nützen, bessern",,,Verb
+554_verbessernherstellen,"verbessern, herstellen",,,Verb
+555_imaugenblick,im Augenblick,,,"Noun, common"
+556_breite,Breite,,,"Noun, common, feminine"
+557_ausbreitennach,ausbreiten nach,,,Verb
+558_breit,breit,,,Adjective
+559_ringenringkampf,"Ringen, Ringkampf",,,"Noun, common, feminine"
+561_inbrandstecken,in Brand stecken,,,Verb
+562_bringen,bringen,,,Verb
+563_brechenzerstoren,brechen; zerstören,,,Verb
+564_zerbrechen,zerbrechen,,,Verb
+565_verwerfenverachten,"verwerfen, verachten",,,Verb
+569_bruder,Bruder,,,"Noun, common, masculine"
+570_bruder,Brüder,,,"Noun, common, masculine"
+571_bruderliebe,Bruderliebe,,,"Noun, common, feminine"
+572_gebrauchen,gebrauchen,,,Verb
+573_ausgebrochenwerden,ausgebrochen werden,,,Verb
+574_brauchbar,brauchbar,,,Adjective
+575_brustharnisch,Brustharnisch,,,"Noun, common, feminine"
+576_brunnen,Brunnen,,,"Noun, common, masculine"
+577_brust,Brust,,,"Noun, common, feminine"
+578_brautigam,Bräutigam,,,"Noun, common, masculine"
+579_neuvermahlteschwiegertochter,"Neuvermählte, Schwiegertochter",,,"Noun, common, feminine"
+580_kaufen,kaufen,,,Verb
+581_verkaufenfur,verkaufen für,,,Verb
+582_erkaufen,erkaufen,,,Verb
+583_entbundenwerden,entbunden werden,,,Verb
+584_feineslinnen,feines Linnen,,,"Noun, common"
+585_wasihmbevorstand,was ihm bevorstand,,,Verb
+586_saugen,säugen,,,Verb
+587_tag,Tag,,,"Noun, common, masculine"
+588_teig,Teig,,,"Noun, common, masculine"
+590_teilnahmegemeinschaft,"Teilnahme, Gemeinschaft",,,"Noun, common, feminine"
+591_teilenzuteilenmitteilen,"teilen, zuteilen, mitteilen",,,Verb
+592_abteileneinenteilabgeben,"abteilen, einen Teil abgeben ",,,Verb
+593_verteilenzerteilen,"verteilen, zerteilen",,,Verb
+594_verteilenunter,verteilen unter ,,,Verb
+595_zuteilenzerteilen,"zuteilen, zerteilen",,,Verb
+596_teil,Teil,,,"Noun, common, feminine"
+597_besessener,Besessener,,,"Noun, common, masculine"
+598_grubeschluchttal,"Grube; Schlucht, Tal",,,"Noun, common, masculine"
+599_zutalabwartsniederaufdieerde,"zu Tal, abwärts, nieder; auf die Erde",,,"Adverb, directional"
+600_unten,unten,,,"Adverb, locative"
+601_vonuntenunten,"von unten, unten",,,"Adverb, directional"
+602_dalmatia,Dalmatia,,,"Noun, proper"
+603_damaskon,Damaskon,,,"Noun, proper"
+604_verdammenversperren,"verdämmen, versperren",,,Verb
+606_taubheit,Taubheit,,,"Noun, common, feminine"
+607_verstocken,verstocken,,,Verb
+608_ertaubenverstocktwerden,"ertauben, verstockt werden",,,Verb
+609_sichbeeifern,sich beeifern,,,Verb
+610_taubverstockt,"taub, verstockt",,,Adjective
+611_tochter,Tochter,,,"Noun, common, feminine"
+612_bewirtung,Bewirtung,,,"Noun, common, feminine"
+613_geschundengeplagt,"geschunden, geplagt",,,<none>
+614_geruch,Geruch,,,"Noun, common, feminine"
+615_abwaschung,Abwaschung,,,"Noun, common, feminine"
+617_taufen,taufen,,,Verb
+618_taufer,Täufer,,,"Noun, common, masculine"
+619_tor, Tor,,,"Noun, common, neuter"
+621_turhuterin,Türhüterin,,,"Noun, common, feminine"
+622_turhuter,Türhüter,,,"Noun, common, masculine"
+624_tortur," Tor, Tür",,,"Noun, common, feminine"
+625_sicherkuhnenwagen,"sich erkühnen, wagen",,,Verb
+626_dasabsterben,das Absterben,,,"Noun, common, feminine"
+628_toten,töten,,,Verb
+629_todbringentoten,"Tod bringen, töten",,,Verb
+631_mitsterben,mit sterben,,,Verb
+633_zumtodebestimmt,zum Tode bestimmt,,,Adjective
+634_tod,Tod,,,"Noun, common, masculine"
+635_daweid,Daweid,,,"Noun, proper"
+636_demas,Demas,,,"Noun, proper"
+637_verleumderin,Verleumderin,,,"Noun, common, feminine"
+638_teufel,Teufel,,,"Noun, common, masculine"
+639_diabulus,diabulus,,,<none>
+640_diakon,Diakon,,,"Noun, common, masculine"
+641_didimus,Didimus,,,"Noun, proper"
+643_knetenaustonbilden,"kneten, aus Ton bilden",,,Verb
+645_zerstreuung,Zerstreuung,,,"Noun, common, feminine"
+648_tiefe,Tiefe,,,"Noun, common, feminine"
+649_vertiefen,vertiefen,,,Verb
+650_tief,tief,,,Adjective
+651_wildestier,wildes Tier,,,"Noun, common, neuter"
+653_afdobnan,af-dobnan,,,Verb
+654_geplagt,geplagt,,,<none>
+655_urteilenbeurteilen,"urteilen, beurteilen",,,Verb
+656_beurteilenverurteilen,"beurteilen, verurteilen",,,Verb
+657_verurteilen,verurteilen,,,Verb
+658_urteilenentscheiden,"urteilen, entscheiden",,,Verb
+659_ruhm,Ruhm,,,"Noun, common, masculine"
+660_aushauen,aushauen,,,Verb
+661_tragen,tragen,,,Verb
+662_zusammentragen,zusammentragen,,,Verb
+663_trank,Trank,,,"Noun, common, neuter"
+664_trankenmit,tränken mit,,,Verb
+665_tranken,tränken,,,Verb
+666_treibenplagen,treiben; plagen,,,Verb
+667_drachme,Drachme,,,"Noun, common, masculine"
+668_brockenbrosamen,Brocken; Brosamen,,,"Noun, common, feminine"
+669_feldzug,Feldzug,,,"Noun, common, masculine"
+670_kriegsdienstetunzufeldeziehn,"Kriegsdienste tun, zu Felde ziehn",,,Verb
+671_feldzug,Feldzug,,,"Noun, common, neuter"
+673_hinabsturzen,hinabstürzen,,,Verb
+674_brockenbrosamen,Brocken; Brosamen,,,<none>
+675_treiben,treiben,,,Verb
+676_austreibenvertreiben,"austreiben, vertreiben",,,Verb
+677_etwastrinken,etwas trinken,,,Verb
+678_sichantrinkenbetrinken,"sich antrinken, betrinken",,,Verb
+679_trinken,trinken,,,Verb
+680_zufeldeziehen,zu Felde ziehen,,,Verb
+681_fallen,fallen,,,Verb
+682_fallenin,fallen in,,,Verb
+683_einenbefallen,einen  befallen,,,Verb
+684_hinfallen,hinfallen,,,Verb
+685_herausfallen,herausfallen,,,Verb
+686_abhang,Abhang,,,"Noun, common, feminine"
+687_trubenirremachenaufwiegeln,trüben; irre machen; aufwiegeln,,,Verb
+688_aufruhr,Aufruhr,,,"Noun, common, masculine"
+689_unruhigwerden,unruhig werden,,,Verb
+691_inbesturzunggeraten,in Bestürzung geraten,,,Verb
+692_trunkenheit,Trunkenheit,,,"Noun, common, feminine"
+693_schall,Schall,,,"Noun, common, masculine"
+694_fall,Fall,,,"Noun, common, masculine"
+695_du,du,,,Adverb
+696_taugen,taugen,,,Verb
+697_wozu,wozu,,,Adverb
+698_glaubiger,Gläubiger,,,"Noun, common, masculine"
+699_schuld,Schuld,,,"Noun, common"
+700_einfestfeiern,ein Fest feiern,,,Verb
+701_fest,Fest,,,"Noun, common, feminine"
+703_stumm,stumm,,,Adjective
+704_deshalbdeswegendazu,"deshalb, deswegen, dazu",,,Unassigned
+705_torenrede,Torenrede,,,"Noun, common, feminine"
+706_torheit,Torheit,,,"Noun, common, feminine"
+707_rasen,rasen,,,Verb
+708_toricht,töricht,,,Adjective
+709_eeiram,Eeiram,,,"Noun, proper"
+710_da,da,,,Particle
+711_eiaireiko,Eiaireiko,,,"Noun, proper"
+712_eikaunion,Eikaunion,,,"Noun, proper"
+713_eisen,Eisen,,,"Noun, common, neuter"
+714_eisenbandkette,"Eisenband, Kette",,,"Noun, common, feminine"
+715_eisern,eisern,,,Adjective
+716_dahersomit,daher somit,,,Conjunction
+718_esaias,Esaïas,,,"Noun, proper"
+719_esaw,Esaw,,,"Noun, proper"
+720_vater,Vater,,,"Noun, common, masculine"
+721_faddasur,[Faddasur],,,"Noun, proper"
+722_abkunftgeschlechtstamm,"Abkunft, Geschlecht, Stamm",,,"Noun, common, neuter"
+724_sichfreuenuber,sich freuen über,,,Verb
+725_sichmitfreuen,sich mitfreuen,,,Verb
+726_geschicktgeeignet,"geschickt, geeignet",,,Adjective
+727_fangengreifen,"fangen, greifen",,,Verb
+728_ergreifenerfassenertappen,"ergreifen, erfassen , ertappen",,,Verb
+729_freudeuber,Freude über,,,"Noun, common, feminine"
+730_genugeleisten,Genüge leisten,,,Verb
+731_zubereiten,zubereiten,,,Verb
+735_vermogen,Vermögen,,,"Noun, common, neuter"
+737_habsuchtiggeldgierig,"habsüchtig, geldgierig",,,Adjective
+739_geldgierig,geldgierig,,,Adjective
+740_erwerb,Erwerb,,,"Noun, common, neuter"
+741_habsucht,Habsucht,,,"Noun, common, feminine"
+742_schuldner,Schuldner,,,"Noun, common, masculine"
+743_faihuraihna,faihuþraihna,,,"Noun, common"
+744_berg,Berg,,,"Noun, common, neuter"
+745_wehklagen,wehklagen,,,Verb
+746_welt,Welt,,,"Noun, common, masculine"
+747_schuldgrundvorwurf,Schuld; Grund; Vorwurf,,,"Noun, common, feminine"
+748_tadeln,tadeln,,,Verb
+749_alt,alt,,,Adjective
+750_alter,Alter,,,"Noun, common, feminine"
+751_vorjahrig,vorjährig,,,Adjective
+752_fern,fern,,,"Adverb, locative"
+753_vonfern,von fern,,,"Adverb, directional"
+754_schauspiel,Schauspiel,,,"Noun, common, neuter"
+755_ferse,Ferse,,,"Noun, common, feminine"
+756_falaig,Falaig,,,"Noun, proper"
+758_faltenzusammenrollen,"falten, zusammenrollen",,,Verb
+759_stuckzeug,Stück Zeug,,,"Noun, common, masculine"
+760_schlamm,Schlamm,,,"Noun, common, neuter"
+761_fanuel,Fanuel,,,"Noun, proper"
+763_wandernziehen,"wandern, ziehen",,,Verb
+765_fareisaius,Fareisaius,,,"Noun, proper"
+766_fahren,fahren,,,Verb
+767_einlaufenlanden,"einlaufen, landen",,,Verb
+768_binde,Binde,,,"Noun, common"
+769_haltenfesthaltenbeobachtenbewachen,"halten, festhalten; beobachten, bewachen",,,Verb
+770_behaltenbewahren,"behalten, bewahren",,,Verb
+771_dashaltenderdienst,"das Halten, der Dienst",,,"Noun, common, neuter"
+772_zaun,Zaun,,,"Noun, common, feminine"
+773_fuchs,Fuchs,,,"Noun, common, feminine"
+774_sievorzulegen,sie vorzulegen,,,Adverb
+775_vor,vor,,,Adverb
+776_strae,Straße,,,"Noun, common, neuter"
+777_vorhaut,Vorhaut,,,"Noun, common, neuter"
+778_hausverwalter,Hausverwalter,,,"Noun, common, masculine"
+779_verwaltung,Verwaltung,,,"Noun, common, neuter"
+780_verwalter,Verwalter,,,"Noun, common, masculine"
+782_vorstehergebieter,"Vorsteher, Gebieter",,,"Noun, common, masculine"
+783_oberbefehl,Oberbefehl,,,"Noun, common, neuter"
+784_wunderzeichen,Wunderzeichen,,,"Noun, common, neuter"
+785_loskaufungerlosung,"Loskaufung, Erlösung",,,"Noun, common, feminine"
+786_vorurteil,Vorurteil,,,"Noun, common, feminine"
+787_vorhang,Vorhang,,,"Noun, common, neuter"
+788_furcht,Furcht,,,"Noun, common, feminine"
+789_sichfurchten,sich fürchten,,,Verb
+790_furchtsam,furchtsam,,,Adjective
+791_vorlegung,Vorlegung,,,"Noun, common, feminine"
+792_vorsteher,Vorsteher,,,"Noun, common, masculine"
+793_faurtunatus,Faurtunatus,,,"Noun, proper"
+794_zuvorfruher,"zuvor, früher",,,Adverb
+795_bevor,bevor,,,Conjunction
+796_wenige,wenige,,,Adjective
+797_sicherbarmen,sich erbarmen,,,Verb
+798_seitegegend,"Seite, Gegend",,,"Noun, common, feminine"
+799_aufpasser,Aufpasser,,,"Noun, common, masculine"
+800_schmucken,schmücken,,,Verb
+801_hasseverabscheuen,"hasse, verabscheuen",,,<none>
+802_viertagig,viertägig,,,Adjective
+803_vierfaltig,vierfältig,,,Adjective
+804_dasamtdesvierfursten,das Amt des Vierfürsten,,,"Noun, common, neuter"
+805_vier,vier,,,"Numeral, cardinal"
+806_vierzehn,vierzehn,,,"Numeral, cardinal"
+807_fingerring,Fingerring,,,"Noun, common, neuter"
+808_finger,Finger,,,"Noun, common, masculine"
+809_hasseverabscheuen,"hasse, verabscheuen",,,Verb
+810_feind,Feind,,,"Noun, common, masculine"
+811_feindschaft,Feindschaft,,,"Noun, common, feminine"
+812_umvielesviel,"um vieles, viel",,,Adverb
+813_hohle,Höhle,,,<none>
+814_filetus,Filetus,,,"Noun, proper"
+815_verbergen,verbergen,,,Verb
+816_verbergenvor,verbergen vor,,,Verb
+817_ubergebenuberliefernverpachtenempfehlen,"übergeben, überliefern; verpachten; empfehlen",,,Verb
+820_hohle,Höhle,,,"Noun, common, neuter"
+821_filippai,Filippai,,,"Noun, proper"
+822_einwohnervonphilippi,Einwohner von Philippi,,,"Noun, proper"
+823_filippus,Filippus,,,"Noun, proper"
+824_ledern,ledern,,,Adjective
+825_filu,filu,,,Unassigned
+826_arglist,Arglist,,,"Noun, common, feminine"
+827_sehrbunt,sehr bunt,,,Adjective
+828_sehrwertvoll,sehr wertvoll,,,Adjective
+829_vielheitmengeuberma,"Vielheit, Menge; Übermaß",,,"Noun, common, feminine"
+830_vielesreden,vieles Reden,,,"Noun, common, feminine"
+831_vielwortemachen,viel Worte machen,,,<none>
+832_funf,fünf,,,"Numeral, cardinal"
+833_fimftaihun,fimftaihun,,,"Numeral, cardinal"
+834_funfzehnter,fünfzehnter,,,"Numeral, ordinal"
+835_erkennenerfahren,"erkennen, erfahren",,,Verb
+836_fischer,Fischer,,,"Noun, common, masculine"
+837_fischen,fischen,,,Verb
+838_fisch,Fisch,,,"Noun, common, masculine"
+839_kreiengebaren,"kreißen, gebären",,,Verb
+840_denflechten,den Flechten,,,"Noun, common"
+841_umgetrieben,umgetrieben,,,Verb
+842_prahlen,prahlen,,,Verb
+843_voneitlerruhmsuchtprahlerisch,"von eitler Ruhmsucht, prahlerisch",,,Adjective
+844_stromflut,"Strom, Flut",,,"Noun, common"
+845_betrauern,betrauern,,,Verb
+847_nahrenaufziehn,"nähren, aufziehn",,,Verb
+848_scheide,Scheide,,,"Noun, common, neuter"
+849_feuer,Feuer,,,"Noun, common, neuter"
+850_fufessel,Fußfessel,,,"Noun, common, feminine"
+851_fubankschemel,"Fußbank, Schemel",,,"Noun, common, neuter"
+852_fu,Fuß,,,"Noun, common, masculine"
+853_verkaufsurkunde,Verkaufsurkunde,,,"Noun, common, feminine"
+855_verlobt,verlobt,,,"Noun, common, feminine"
+856_fragen,fragen,,,Verb
+857_erfragen,erfragen,,,Verb
+859_versuchen,versuchen,,,Verb
+860_versuchung,Versuchung,,,"Noun, common, feminine"
+861_same,Same,,,"Noun, common, neuter"
+862_erla,Erlaß,,,"Noun, common, neuter"
+863_freigelassener,Freigelassener,,,"Noun, common, masculine"
+866_imaltervorgeschritten,im Alter vorgeschritten,,,Adjective
+867_fremdeinersache,fremd; einer Sache,,,Adjective
+868_entfremden,entfremden,,,Verb
+869_fortschritt,Fortschritt,,,"Noun, common, feminine"
+870_weiter,weiter,,,Adverb
+871_fernerhin,fernerhin,,,Adverb
+872_fortwahrend,fortwährend,,,Adverb
+873_verderbvergeudung,"Verderb, Vergeudung",,,"Noun, common, feminine"
+874_kindschaft,Kindschaft,,,"Noun, common, feminine"
+875_kind,Kind,,,"Noun, common"
+876_klugmachen,klug machen,,,Verb
+877_verstandsinn,"Verstand, Sinn",,,"Noun, common, neuter"
+878_verstandestauschung,Verstandestäuschung,,,"Noun, common, feminine"
+879_denken,denken,,,Verb
+880_beiverstandsein,bei  Verstand sein,,,Verb
+881_herr,Herr,,,"Noun, common, masculine"
+882_herrschaft,Herrschaft,,,"Noun, common, masculine"
+884_unterjochen,unterjochen,,,Verb
+885_herrscher,Herrscher,,,"Noun, common, masculine"
+887_sundig,sündig,,,Adjective
+888_sunde,Sünde,,,"Noun, common, feminine"
+889_strafe,Strafe,,,"Noun, common, neuter"
+890_einenschonen,einen schonen,,,Verb
+891_freiheit,Freiheit,,,"Noun, common, masculine"
+892_freivon,frei von,,,Adjective
+893_zartlichliebend,zärtlich liebend,,,Adjective
+894_liebe,Liebe,,,"Noun, common, feminine"
+895_freiheit,Freiheit,,,"Noun, common, feminine"
+896_lieben,lieben,,,Verb
+897_freundin,Freundin,,,"Noun, common, feminine"
+898_freund,Freund,,,"Noun, common, masculine"
+900_abbilden,abbilden,,,Verb
+901_einabbildwerden,ein Abbild werden,,,Verb
+902_bild,Bild,,,"Noun, common, feminine"
+903_friedrich,Friedrich,,,"Noun, proper"
+905_frost,Frost,,,"Noun, common"
+906_klugheitverstand,"Klugheit, Verstand",,,"Noun, common, feminine"
+907_klugverstandig,"klug, verständig",,,Adjective
+908_fruma,fruma,,,"Adjective, Comparative"
+909_erstgeborener,Erstgeborener,,,"Noun, common, masculine"
+910_vorrang,Vorrang,,,"Noun, common, feminine"
+911_anfang,Anfang,,,"Noun, common, neuter"
+912_frumists,frumists,,,"Adjective, Superlative"
+913_zuerst,zuerst,,,"Adverb, temporal"
+914_vogel,Vogel,,,"Noun, common, masculine"
+915_fullen,Füllen,,,"Noun, common, masculine"
+916_verborgen,verborgen,,,Adjective
+917_fulhsni,fulhsni,,,"Noun, common, neuter"
+920_vollkommen,vollkommen,,,Adjective
+921_vollkommen,vollkommen ,,,Adjective
+922_uberreden,überreden,,,<none>
+923_volkommen,volkommen ,,,"Noun, common, masculine"
+924_desneumonds,des Neumonds,,,"Noun, common"
+925_fullen,füllen,,,Verb
+926_mitetw,mit etw,,,Verb
+927_uberfullen,überfüllen,,,Verb
+928_erfullenvollendenersetzen,"erfüllen, vollenden, ersetzen",,,Verb
+929_vollwerdenvon,voll werden von,,,Verb
+931_erfulltwerdenvon,erfüllt werden von,,,Verb
+932_fullefullungflicken,"Fülle, Füllung ; Flicken",,,"Noun, common, feminine"
+933_vollvon,voll von,,,Adjective
+934_faul,faul,,,Adjective
+935_feuer,Feuer,,,<none>
+936_feurig,feurig,,,Adjective
+937_fwgailus,Fwgailus,,,"Noun, proper"
+938_phonikisch,phönikisch,,,Adjective
+939_einschrankung,Einschränkung,,,"Noun, common, feminine"
+940_miterbe,Miterbe,,,"Noun, common, masculine"
+941_gabaa,Gabaa,,,"Noun, proper"
+942_gabair,Gabair,,,"Noun, proper"
+943_erscheinung,Erscheinung,,,"Noun, common, feminine"
+944_kollektesteuer,Kollekte; Steuer,,,"Noun, common, neuter"
+945_festgelage,Festgelage,,,"Noun, common, masculine"
+946_mitburger,Mitbürger,,,"Noun, common, masculine"
+948_lust,Lust,,,"Noun, common, masculine"
+949_geschlechtsregister,Geschlechtsregister,,,"Noun, common, neuter"
+950_geburt,Geburt,,,"Noun, common, feminine"
+951_reichtum,Reichtum,,,"Noun, common, feminine"
+952_reichan,reich an,,,<none>
+953_reichmachen,reich machen,,,Verb
+954_reichsein,reich sein,,,Verb
+955_reichan,reich an,,,Adjective
+956_reichlich,reichlich,,,"Adverb, Comparative"
+959_erbarmen,Erbarmen,,,"Noun, common, feminine"
+960_gabriel,Gabriel,,,"Noun, proper"
+961_brocken,Brocken,,,"Noun, common, feminine"
+962_band,Band,,,"Noun, common, feminine"
+963_teilnehmergenosse,"Teilnehmer, Genosse",,,"Noun, common, masculine"
+966_tat,Tat,,,"Noun, common, feminine"
+967_gebilde,Gebilde,,,"Noun, common, neuter"
+968_vetter,Vetter,,,"Noun, common, masculine"
+969_esschicktsichfur,es schickt sich für,,,Adjective
+970_soldat,Soldat,,,"Noun, common, masculine"
+971_fang,Fang,,,"Noun, common, neuter"
+972_versammlunghoherrat,"Versammlung, hoher Rat",,,"Noun, common, feminine"
+973_ehrbarnuchternbesonnen,"ehrbar; nüchtern, besonnen",,,Adjective
+975_kleidung,Kleidung,,,"Noun, common, feminine"
+977_klugheitbesonnenheit,"Klugheit, Besonnenheit",,,"Noun, common, feminine"
+978_erhaltungbewahrung,"Erhaltung, Bewahrung",,,"Noun, common, feminine"
+979_ku,Kuß,,,"Noun, common, feminine"
+980_versohnung,Versöhnung,,,"Noun, common, feminine"
+981_verborgenvor,verborgen vor,,,Adjective
+982_wegstrae,"Weg, Straße",,,"Noun, common, neuter"
+983_gehen,gehen,,,Verb
+984_weggehnvon,weggehn von,,,Verb
+985_nachgehnfolgen,"nachgehn, folgen",,,Verb
+987_hinzugehenkommen,"hinzugehen, kommen",,,Verb
+988_hinzukommenzu,hinzukommen zu,,,Verb
+989_hineinkommen,hineinkommen,,,Verb
+990_vorubergehn,vorübergehn,,,Verb
+991_einemvorausgehn,einem vorausgehn,,,Verb
+995_mitgehnmit,mitgehn mit,,,Verb
+996_hindurchgehnvorubergehn,"hindurchgehn, vorübergehn",,,Verb
+998_ausgehnhinausgehn,"ausgehn, hinausgehn",,,Verb
+999_hinausgehnausgehn,"hinausgehn, ausgehn",,,Verb
+1000_entgegengehn,entgegengehn,,,Verb
+1001_beschluverordnung,"Beschluß, Verordnung",,,"Noun, common, feminine"
+1002_frommigkeit,Frömmigkeit,,,"Noun, common, feminine"
+1003_anstandigehrbar,"anständig, ehrbar",,,Adjective
+1004_fromm,fromm,,,"Adverb, Comparative"
+1005_imzusammenhangderreihenach,"im Zusammenhang, der Reihe nach",,,Adverb
+1006_ganzunversehrt,ganz unversehrt,,,Adjective
+1007_verheiung,Verheißung,,,"Noun, common, neuter"
+1008_gehorpredigt,"Gehör,  Predigt",,,"Noun, common, feminine"
+1010_genosse,Genosse,,,Adjective
+1011_gahnipnan,[ga-hnipnan],,,Verb
+1012_enthaltsamkeit,Enthaltsamkeit,,,"Noun, common, feminine"
+1014_gesinnungsinngewissen,Gesinnung; Sinn; Gewissen,,,"Noun, common, feminine"
+1015_fugsamgetreu,"fügsam, getreu",,,Adjective
+1016_verweilenruhe,"Verweilen, Ruhe",,,"Noun, common, feminine"
+1017_gaiainna,gaiainna,,,"Noun, common"
+1019_frohlichmachen,fröhlich machen,,,Verb
+1020_gainnesarai,Gainnesaraiþ,,,"Noun, proper"
+1021_gurtel,Gürtel,,,"Noun, common, feminine"
+1023_umgurten,umgürten,,,Verb
+1025_verlangenwunsch,"Verlangen, Wunsch",,,"Noun, common, feminine"
+1026_begehrenverlangennachbedurfen,"begehren, verlangen nach; bedürfen",,,Verb
+1027_leidenschaft,Leidenschaft,,,"Noun, common, neuter"
+1029_bocklein,Böcklein,,,"Noun, common, neuter"
+1030_ziege,Ziege,,,"Noun, common, feminine"
+1031_gaius,Gaïus,,,"Noun, proper"
+1032_paar, Paar,,,"Noun, common, neuter"
+1033_genosse,Genosse,,,"Noun, common, masculine"
+1034_gleichnis, Gleichnis,,,"Noun, common, feminine"
+1035_uberredung,Überredung,,,"Noun, common, feminine"
+1036_gakuns,gakunþs,,,"Noun, common, feminine"
+1037_probe,Probe,,,"Noun, common, feminine"
+1038_nachfolger,Nachfolger,,,"Noun, common, masculine"
+1039_galateis,Galateis,,,"Noun, proper"
+1041_glaubig,gläubig,,,Adjective
+1042_glaube,Glaube,,,"Noun, common, feminine"
+1043_wertvoll,wertvoll,,,Adjective
+1044_einesleibes,eines Leibes,,,"Noun, common, masculine"
+1045_abbild,Abbild,,,"Noun, common, neuter"
+1046_ahnlich,ähnlich,,,Adjective
+1047_gleich,gleich,,,"Adverb, Comparative"
+1048_galeilaia,Galeilaia,,,"Noun, proper"
+1049_galeilaius,Galeilaius,,,"Noun, proper"
+1050_pfahlkreuz,"Pfahl, Kreuz",,,"Noun, common, masculine"
+1051_beilager,Beilager,,,"Noun, common, neuter"
+1052_luge,Lüge,,,"Noun, common, neuter"
+1053_falscherapostel,falscher Apostel,,,"Noun, common, masculine"
+1054_falscherbruder,falscher Bruder,,,"Noun, common, masculine"
+1055_gotze,Götze,,,"Noun, common, neuter"
+1056_falscherprophet,falscher Prophet,,,"Noun, common, masculine"
+1057_falscherzeuge,falscher Zeuge,,,"Noun, common, masculine"
+1058_falscherchristus,falscher Christus,,,"Noun, common, masculine"
+1059_wertvoll,wertvoll,,,<none>
+1061_gemeinschaft,Gemeinschaft,,,"Noun, common, feminine"
+1062_teilnehmer,Teilnehmer,,,"Noun, common, masculine"
+1063_gemein,gemein,,,Adjective
+1064_versammlung,Versammlung,,,"Noun, common, feminine"
+1065_verkruppeltverwundet,verkrüppelt; verwundet,,,Adjective
+1066_auflosung,Auflösung,,,"Noun, common, feminine"
+1067_teilnehmergenosse,Teilnehmer; Genosse,,,"Noun, common, neuter"
+1070_erinnerung,Erinnerung,,,"Noun, common, feminine"
+1071_schriftbuchstabenschrift,Schrift; Buchstabenschrift,,,"Noun, common, feminine"
+1072_gedachtniserinnerung,"Gedächtnis, Erinnerung",,,"Noun, common, neuter"
+1073_gedanke,Gedanke,,,"Noun, common, feminine"
+1074_andenkengedachtnis,"Andenken, Gedächtnis",,,"Noun, common, feminine"
+1075_genugegenugendesauskommengenugsamkeit,"Genüge, genügendes Auskommen; Genügsamkeit",,,"Noun, common, masculine"
+1078_genugviel,"genug, viel",,,Adjective
+1079_verursachen,verursachen,,,Verb
+1080_ubereinstimmend,übereinstimmend,,,Adjective
+1081_verabredung,Verabredung,,,"Noun, common, feminine"
+1082_zusammenkunftversammlungvereinigung,"Zusammenkunft, Versammlung; Vereinigung",,,"Noun, common, feminine"
+1083_anordnungsatzungregel,"Anordnung, Satzung, Regel",,,"Noun, common, feminine"
+1084_gerechtigkeitgebot,"Gerechtigkeit, Gebot",,,"Noun, common, feminine"
+1085_zurechtweisung,Zurechtweisung,,,"Noun, common, feminine"
+1088_angeordnet,angeordnet,,,Adjective
+1090_nachbarin,Nachbarin,,,"Noun, common, feminine"
+1091_viehhof, Viehhof,,,"Noun, common, masculine"
+1093_haushauswesenfamilie,"Haus, Hauswesen, Familie",,,"Noun, common, masculine"
+1094_anstandig,anständig,,,Adverb
+1095_bestimmtezeit,bestimmte Zeit,,,"Noun, common, feminine"
+1096_schamhaftigkeit,Schamhaftigkeit,,,"Noun, common, feminine"
+1097_ehrbarkeit,Ehrbarkeit,,,"Noun, common, neuter"
+1098_ehrbar,ehrbar,,,Adjective
+1099_beratung,Beratung,,,"Noun, common, neuter"
+1100_flut,Flut,,,"Noun, common, feminine"
+1101_marktstrae,Markt; Straße,,,"Noun, common, feminine"
+1102_vorwurf,Vorwurf,,,"Noun, common, feminine"
+1103_grundlegung,Grundlegung,,,"Noun, common, feminine"
+1105_gefahrte,Gefährte,,,"Noun, common, masculine"
+1106_bedeckung,Bedeckung,,,"Noun, common, feminine"
+1107_erschaffung,Erschaffung,,,"Noun, common, feminine"
+1108_unterschied,Unterschied,,,"Noun, common, feminine"
+1109_mitknecht,Mitknecht,,,"Noun, common, neuter"
+1110_sandalenschuhe,"Sandalen, Schuhe",,,"Noun, common, neuter"
+1111_beschuht,beschuht,,,Adjective
+1112_gastfreundschaft,Gastfreundschaft,,,"Noun, common, feminine"
+1113_gastfrei,gastfrei,,,Adjective
+1114_fremdling,Fremdling ,,,"Noun, common, masculine"
+1115_ri,Riß,,,"Noun, common, masculine"
+1116_zerstorung,Zerstörung,,,"Noun, common, feminine"
+1117_geziemend,geziemend,,,Adverb
+1118_passendgeschicktzu,passend; geschickt zu,,,Adjective
+1119_zurrechtenzeitpassend,"zur rechten Zeit, passend",,,"Adverb, Comparative"
+1121_gebaude,Gebäude,,,"Noun, common, feminine"
+1122_gasse,Gasse,,,"Noun, common, feminine"
+1123_bedacht,Bedacht,,,"Noun, common, neuter"
+1124_enthaltsam,enthaltsam,,,Adjective
+1126_trost,Trost,,,"Noun, common, feminine"
+1127_tenneausdrusch,"Tenne, Ausdrusch",,,"Noun, common, neuter"
+1128_umgegend,Umgegend,,,"Noun, common, masculine"
+1129_gaulgaua,Gaulgauþa,,,"Noun, proper"
+1130_gaumaurra,Gaumaurra,,,"Noun, proper"
+1131_gaumaurjam,Gaumaurjam,,,"Noun, proper"
+1132_bemerken,bemerken,,,Verb
+1133_klagentotenklageanstimmen,klagen; Totenklage anstimmen,,,Verb
+1134_klage,Klage,,,"Noun, common, masculine"
+1136_betrubnis,Betrübnis,,,"Noun, common, feminine"
+1137_einenkranken,einen kränken,,,Verb
+1138_betrubttraurig,"betrübt, traurig",,,Adjective
+1139_friedfertig,friedfertig,,,Adjective
+1140_friede,Friede,,,"Noun, common, neuter"
+1141_erwahlung,Erwählung,,,"Noun, common, feminine"
+1143_bekehrung,Bekehrung,,,"Noun, common, feminine"
+1144_verurteilung,Verurteilung,,,"Noun, common, feminine"
+1145_bekleidung,Bekleidung,,,"Noun, common, feminine"
+1146_gesprach,Gespräch,,,"Noun, common, neuter"
+1147_geschafterwerbgewinn,Geschäft; Erwerb; Gewinn,,,"Noun, common, neuter"
+1148_mitarbeiter,Mitarbeiter,,,"Noun, common, masculine"
+1149_eingewurzelt,eingewurzelt,,,Adjective
+1150_gau,Gau,,,"Noun, common, neuter"
+1152_verbindungband,"Verbindung, Band ",,,"Noun, common, feminine"
+1153_vollmitfreude,voll Mitfreude,,,Adjective
+1154_schatzhaus,Schatzhaus,,,"Noun, common"
+1155_stachel,Stachel,,,"Noun, common, masculine"
+1157_gewinnen,gewinnen,,,Verb
+1158_sichentsetzenerstaunen,"sich entsetzen, erstaunen",,,Verb
+1159_gabegeschenk,"Gabe, Geschenk",,,"Noun, common, feminine"
+1160_geben,geben,,,Verb
+1161_geber,Geber,,,"Noun, common, masculine"
+1162_sichwegbegeben,sich wegbegeben,,,Verb
+1163_hingebenubergeben,"hingeben, übergeben",,,Verb
+1164_vergebenverleihnschenken,"vergeben, verleihn, schenken",,,Verb
+1165_erstattenbezahlen,"erstatten, bezahlen",,,Verb
+1166_giebel,Giebel,,,"Noun, common, masculine"
+1169_vergelten,vergelten,,,Verb
+1170_steuer,Steuer,,,"Noun, common, neuter"
+1171_eintragungindiesteuerliste,Eintragung in die Steuerliste,,,"Noun, common, feminine"
+1172_sichel,Sichel,,,"Noun, common, feminine"
+1173_beginnen,beginnen,,,Verb
+1174_morgen,morgen,,,"Adverb, temporal"
+1175_finden,finden,,,Verb
+1176_gieen,gießen,,,Verb
+1178_sorgsam,sorgsam,,,Adverb
+1180_genau,genau,,,Adverb
+1181_glanzen,glänzen,,,Verb
+1182_vonguteredlerabkunft,"von guter, edler Abkunft",,,Adjective
+1183_tugend,Tugend,,,"Noun, common, feminine"
+1184_gru,Gruß,,,"Noun, common, feminine"
+1185_gruen,grüßen,,,Verb
+1186_gut,gut,,,Adjective
+1187_graben,Graben,,,"Noun, common, feminine"
+1188_graben,graben,,,Verb
+1189_miteinemgrabenumgeben,mit einem Graben umgeben,,,Verb
+1190_nachgrabenunterwuhlen,"nachgraben, unterwühlen",,,Verb
+1191_ausgraben,ausgraben,,,Verb
+1192_erzurnen,erzürnen,,,Verb
+1193_erbittern,erbittern,,,Verb
+1194_holzsplitter,Holzsplitter,,,"Noun, common"
+1195_graskraut,"Gras, Kraut",,,"Noun, common, neuter"
+1196_hungrig,hungrig,,,Adjective
+1198_hunger,Hunger,,,"Noun, common, masculine"
+1199_greifen,greifen,,,Verb
+1202_weinenklagen,"weinen, klagen",,,Verb
+1203_dasweinen,das Weinen,,,"Noun, common, masculine"
+1204_kleinmutig,kleinmütig,,,Adjective
+1205_schritt,Schritt,,,"Noun, common, feminine"
+1206_grubehohle,"Grube, Höhle",,,"Noun, common, feminine"
+1207_grundmauer,Grundmauer,,,"Noun, common, masculine"
+1208_gottesfurchtig,gottesfürchtig,,,Adjective
+1209_gottlos,gottlos,,,Adjective
+1210_gottesgestalt,Gottesgestalt,,,"Noun, common, feminine"
+1211_gottesverehrer,Gottesverehrer,,,"Noun, common, masculine"
+1212_gotteshaus,Gotteshaus,,,"Noun, common, neuter"
+1213_gudilub,Gudilub,,,"Noun, proper"
+1214_gottlich,göttlich,,,Adjective
+1216_priestertum,Priestertum,,,"Noun, common, masculine"
+1217_priesterseindespriesteramtspflegen,"Priester sein, des Priesteramts pflegen",,,Verb
+1218_gold,Gold,,,"Noun, common, neuter"
+1219_golden,golden,,,Adjective
+1221_mannlichengeschlechts,männlichen Geschlechts,,,Adjective
+1222_mannchen,Männchen,,,"Noun, common, neuter"
+1223_krebsgeschwur,Krebsgeschwür,,,"Noun, common, neuter"
+1224_verschuttetwerden,verschüttet werden,,,Verb
+1225_gotenvolk,Gotenvolk,,,"Noun, common, feminine"
+1226_gott,Gott,,,"Noun, common, masculine"
+1227_habenbesitzen,"haben, besitzen",,,Verb
+1228_sicheinersacheenthalten,sich einer Sache enthalten,,,Verb
+1230_sichnahern,sich nähern,,,Verb
+1233_aufheben,aufheben,,,Verb
+1234_heben,heben,,,Verb
+1235_erwidernantworten,"erwidern, antworten",,,Verb
+1236_herabnehmen,herabnehmen,,,Verb
+1238_erhebenwegnehmen,"erheben, wegnehmen",,,Verb
+1241_sichheftenhangenan,"sich heften, hängen an",,,Verb
+1242_zusammenheftenverbinden,"zusammenheften, verbinden",,,Verb
+1243_anhangen,anhangen,,,Verb
+1244_behaftetmit,behaftet mit,,,Adjective
+1245_hangeninderschwebelassen,"hängen, in der Schwebe lassen",,,Verb
+1246_hinabhangenhinablassen,"hinabhängen, hinablassen",,,Verb
+1247_sicherhangen,sich erhängen,,,Verb
+1248_hangen,hangen,,,Verb
+1249_haibraius,Haibraius,,,"Noun, proper"
+1253_einaugig,einäugig,,,Adjective
+1255_haileisaius,Haileisaius,,,"Noun, proper"
+1256_einenheilen,einen  heilen,,,Verb
+1258_hergestelltwerden,hergestellt werden,,,Verb
+1259_heilgesund,"heil, gesund",,,Adjective
+1260_grundbesitz,Grundbesitz,,,"Noun, common, neuter"
+1261_stadt,Stadt,,,"Noun, common, feminine"
+1262_parteien,Parteien,,,"Noun, common"
+1263_herde,Herde,,,"Noun, common, feminine"
+1264_hirt,Hirt,,,"Noun, common, masculine"
+1265_hairmaugaineis,Hairmaugaineis,,,"Noun, proper"
+1267_herz,Herz,,,"Noun, common, neuter"
+1268_eingeweideherz,"Eingeweide, Herz",,,"Noun, common"
+1269_schwert,Schwert,,,"Noun, common, masculine"
+1270_fakkeln,Fakkeln,,,"Noun, common"
+1271_heiennennen,"heißen, nennen",,,Verb
+1272_anrufen,anrufen,,,Verb
+1274_herzurufen,herzurufen,,,Verb
+1275_verheien,verheißen,,,Verb
+1276_zusammenrufen,zusammenrufen,,,Verb
+1277_zuvorverheien,zuvor verheißen,,,Verb
+1278_herausfordern,herausfordern,,,Verb
+1279_gehei,Geheiß,,,"Noun, common, feminine"
+1280_heidesteppe,"Heide, Steppe",,,"Noun, common, feminine"
+1282_heidin,Heidin,,,"Noun, common, feminine"
+1283_mantel,Mantel,,,"Noun, common, masculine"
+1284_halfteseite,"Hälfte, Seite",,,"Noun, common, feminine"
+1285_halb,halb,,,Adjective
+1286_hutenweiden,"hüten, weiden",,,Verb
+1287_mehr,mehr,,,Adverb
+1288_kaumjekaum,"kaum je, kaum",,,Adverb
+1289_holle,Hölle,,,"Noun, common, feminine"
+1290_leerumsonstdurftigarmselig,"leer, umsonst; dürftig, armselig",,,Adjective
+1291_fels,Fels,,,"Noun, common, masculine"
+1292_hals,Hals,,,"Noun, common, masculine"
+1293_halsnacken,"Hals, Nacken",,,"Noun, common, masculine"
+1294_lahm,lahm,,,Adjective
+1295_verstummelt,verstümmelt,,,Adjective
+1296_diebekleidungablegenausziehn,"die Bekleidung ablegen, ausziehn",,,Verb
+1297_diebekleidunganlegenanziehn,"die Bekleidung anlegen, anziehn",,,Verb
+1298_sicheinersacheentkleiden,sich einer Sache entkleiden,,,Verb
+1299_sichbekleidenmit,sich bekleiden mit,,,Verb
+1300_uberziehnsichmitetwasuberkleiden,"überziehn, sich mit etwas überkleiden",,,Verb
+1301_hahn,Hahn,,,"Noun, common, masculine"
+1303_weiseklug,"weise, klug",,,Adjective
+1304_hand,Hand,,,"Noun, common, feminine"
+1305_mitderhandgemacht,mit der Hand gemacht,,,Adjective
+1306_scharmanipelkohorte,Schar; Manipel; Kohorte,,,"Noun, common, feminine"
+1307_verharten,verhärten,,,Verb
+1308_hartherzigkeit,Hartherzigkeit,,,"Noun, common, feminine"
+1309_hartstreng,"hart, streng",,,Adjective
+1310_heer,Heer,,,"Noun, common, masculine"
+1312_hazorn,"Haß, Zorn",,,"Noun, common, neuter"
+1313_zurnen,zürnen,,,Verb
+1314_hassen,hassen,,,Verb
+1315_haupt,Haupt,,,"Noun, common, neuter"
+1317_preisehre,"Preis, Ehre",,,"Noun, common, feminine"
+1318_hochmut,Hochmut,,,"Noun, common, feminine"
+1320_hochstehohe,höchste Höhe,,,"Noun, common, neuter"
+1321_hohe,Höhe,,,"Noun, common, feminine"
+1322_hochmachenpreisen,hoch machen; preisen,,,Verb
+1323_verblenden,verblenden,,,Verb
+1324_erhohn,erhöhn,,,Verb
+1326_hoch,hoch,,,Adjective
+1327_derhochste,der Höchste ,,,"Adjective, Superlative"
+1328_hauhaba,hauhaba,,,Adverb
+1329_hoher,höher,,,"Adverb, Comparative"
+1330_hochmutigverblendet,"hochmütig, verblendet",,,Adjective
+1331_erniedrigungdemut,Erniedrigung; Demut,,,"Noun, common, feminine"
+1332_demut,Demut,,,"Noun, common, feminine"
+1336_tur, Tür,,,"Noun, common, feminine"
+1337_kohle,Kohle,,,"Noun, common, neuter"
+1338_dashornformiggebogenejohannisbrot,das hornförmig gebogene Johannisbrot,,,"Noun, common, neuter"
+1339_hornist,Hornist,,,"Noun, common, masculine"
+1340_dashornblasen,das Horn blasen,,,Verb
+1344_dasgehorbekommen,das Gehör bekommen,,,Verb
+1345_gehorchen,gehorchen,,,Verb
+1346_horen,hören,,,Verb
+1347_heu,Heu,,,"Noun, common, neuter"
+1348_lobloblied,"Lob, Loblied",,,"Noun, common, feminine"
+1349_lobenpreisenwegen,"loben, preisen wegen",,,Verb
+1350_fieber,Fieber,,,"Noun, common, feminine"
+1351_hausherr,Hausherr,,,"Noun, common, masculine"
+1352_helei,helei,,,Foreign word
+1354_helias,Helias,,,"Noun, proper"
+1355_her,Her,,,"Noun, proper"
+1356_hierher,"hier, her",,,"Adverb, locative"
+1357_herodes,Herodes,,,"Noun, proper"
+1358_herodia,Herodia,,,"Noun, proper"
+1360_kammer,Kammer,,,"Noun, common, feminine"
+1361_dieser,dieser,,,"Pronoun, demonstrative"
+1362_hierher,hierher,,,"Adverb, directional"
+1363_helm,Helm,,,"Noun, common, masculine"
+1364_einemhelfen,einem helfen,,,Verb
+1366_vonhimmlischerabkunft,von himmlischer Abkunft,,,Adjective
+1367_himmel,Himmel,,,"Noun, common, masculine"
+1369_hinterjenseits,"hinter, jenseits",,,Unassigned
+1370_hinterjenseits,"hinter, jenseits",,,"Preposition, +AD"
+1371_hinterlistig,hinterlistig,,,Adjective
+1372_hinterlist,Hinterlist,,,"Noun, common, feminine"
+1373_derhinterste,der hinterste,,,"Adjective, Superlative"
+1374_gefangennehmen,gefangen nehmen,,,Verb
+1375_mitgefangennehmen,mitgefangen nehmen,,,Verb
+1376_erbeuten,erbeuten,,,Verb
+1377_kommherhierher,"komm her, hierher",,,Unassigned
+1378_dieser,dieser,,,<none>
+1379_wehklagenklageliedersingen,"wehklagen, Klagelieder singen",,,Verb
+1380_haufemenge,"Haufe, Menge",,,"Noun, common, masculine"
+1381_gestaltaussehn,"Gestalt, Aussehn",,,"Noun, common, neuter"
+1382_lachen,lachen,,,Verb
+1383_verlachen,verlachen,,,Verb
+1384_brotbrotbissen,Brot; Brotbissen,,,"Noun, common, masculine"
+1385_hugel,Hügel,,,"Noun, common"
+1386_grab,Grab,,,"Noun, common, neuter"
+1387_graber,Gräber,,,"Noun, common, feminine"
+1389_heiter,heiter,,,Adjective
+1390_sorgenfreier,sorgenfreier,,,"Adjective, Comparative"
+1391_heiterkeit,Heiterkeit,,,"Noun, common, feminine"
+1392_beladen,beladen,,,Verb
+1393_aufspringensichaufmachen,"aufspringen, sich aufmachen",,,Verb
+1394_losanteilerbschaft,"Los; Anteil, Erbschaft",,,"Noun, common, masculine"
+1395_sichannehmen,sich annehmen,,,Verb
+1396_link,link,,,"Adjective, Comparative"
+1397_zelthutte,"Zelt, Hütte",,,"Noun, common, feminine"
+1398_einzeltubermiraufschlage,ein Zelt über mir aufschlage,,,Verb
+1399_daszeltaufschlagenlaubhuttenfest,"das Zeltaufschlagen, Laubhüttenfest",,,"Noun, common, feminine"
+1402_huttenzelte,"Hütten, Zelte",,,"Noun, common"
+1403_gehor,Gehör,,,"Noun, common, masculine"
+1404_auflachenmachen,auflachen machen,,,Verb
+1406_lauterkeit,Lauterkeit,,,"Noun, common, feminine"
+1407_lauterrein,"lauter, rein",,,Adjective
+1408_erniedrigungdemut,"Erniedrigung, Demut",,,"Noun, common, feminine"
+1409_niedrigmachen,niedrig machen,,,Verb
+1410_niederlegen,niederlegen,,,Verb
+1411_erniedrigen,erniedrigen,,,Verb
+1412_einenunterwerfenunter,einen unterwerfen unter ,,,Verb
+1413_niedrigdemutig,"niedrig, demütig",,,Adjective
+1414_weichweichlich,"weich, weichlich",,,Adjective
+1415_sichneigen,sich neigen,,,Verb
+1416_sichniederbeugen,sich niederbeugen,,,Verb
+1417_sichbetruben,sich betrüben,,,Verb
+1420_spitzerpfahl,spitzer Pfahl,,,"Noun, common, feminine"
+1421_pflug,Pflug,,,"Noun, common, masculine"
+1422_durchbetrugschadigenschikanieren,"durch Betrug schädigen, schikanieren",,,Verb
+1423_ubervorteilen,übervorteilen,,,Verb
+1424_ehebruchhurerei,Ehebruch; Hurerei,,,"Noun, common, masculine"
+1425_hurenehebruchtreiben,"huren, Ehebruch treiben",,,Verb
+1426_ehebruchbegehn,Ehebruch begehn,,,Verb
+1427_hurerehebrecher,"Hurer, Ehebrecher",,,"Noun, common, masculine"
+1428_reinheitwohlauchreinigung,"Reinheit, wohl auch Reinigung",,,"Noun, common, feminine"
+1430_reinenherzens,reinen Herzens,,,Adjective
+1432_etwasverunreinigendestilgen,etwas Verunreinigendes tilgen,,,Verb
+1433_reinigen,reinigen,,,Verb
+1434_ausfegen,ausfegen,,,Verb
+1435_reinehrbar,"rein, ehrbar",,,Adjective
+1436_turteltaube,Turteltaube,,,"Noun, common, feminine"
+1438_kreuzigen,kreuzigen,,,Verb
+1440_abschutteln,abschütteln,,,Verb
+1443_rufgeschrei,"Ruf, Geschrei",,,"Noun, common, masculine"
+1444_dachhaus,"Dach, Haus",,,"Noun, common, neuter"
+1445_siegreich,siegreich,,,Adjective
+1446_stab,Stab,,,"Noun, common, feminine"
+1447_krahen,krähen,,,Verb
+1448_daskrahen,das Krähen,,,"Noun, common"
+1449_nachforschen,nachforschen,,,Verb
+1450_hungern,hungern,,,Verb
+1451_denkenmeinen,"denken, meinen",,,Verb
+1452_bezaubern,bezaubern,,,Verb
+1454_sichvornehmen,sich vornehmen,,,Verb
+1455_sichuberheben,sich überheben,,,Verb
+1456_verstand,Verstand,,,"Noun, common, masculine"
+1457_landgutfeld,"Landgut, Feld",,,"Noun, common, neuter"
+1458_haufensammeln,"häufen, sammeln",,,Verb
+1459_hungerhungersnot,"Hunger, Hungersnot",,,"Noun, common, masculine"
+1460_hulle,Hülle,,,"Noun, common, neuter"
+1461_hullenverhullen,"hüllen, verhüllen",,,Verb
+1462_enthullen,enthüllen,,,Verb
+1464_verhullen,verhüllen,,,Verb
+1465_aushohlen,aushöhlen,,,Verb
+1466_hold,hold,,,Adjective
+1467_hohle,Höhle,,,"Noun, common, feminine"
+1468_hun,-hun,,,"Particle, enclitic"
+1469_hunderte,Hunderte,,,"Numeral, cardinal"
+1470_centurio,Centurio,,,"Noun, common, masculine"
+1471_hund,Hund,,,"Noun, common, masculine"
+1472_opfer,Opfer,,,"Noun, common, neuter"
+1473_opferstattealtar,"Opferstätte, Altar",,,"Noun, common, masculine"
+1475_fangbeute,"Fang, Beute",,,"Noun, common, masculine"
+1476_hufte,Hüfte,,,"Noun, common, masculine"
+1477_hortschatz,"Hort, Schatz",,,"Noun, common, neuter"
+1478_schatzesammeln,Schätze sammeln,,,Verb
+1479_hwmainaius,Hwmainaius,,,"Noun, proper"
+1480_hwssopon,hwssopon,,,"Noun, common"
+1481_wohin,wohin,,,<none>
+1485_umdrangen,umdrängen,,,Verb
+1486_schadel,Schädel,,,"Noun, common, feminine"
+1487_weizen,Weizen,,,"Noun, common, masculine"
+1489_wann,wann,,,Adverb
+1490_jemals,jemals,,,Adverb
+1491_erstickenausloschen,"ersticken, auslöschen",,,Verb
+1492_erstickenerloschen,"ersticken, erlöschen",,,Verb
+1494_wandeln,wandeln,,,Verb
+1497_wer,wer,,,"Pronoun, interrogative"
+1498_jemand,jemand,,,"Pronoun, indefinite"
+1499_scharfstreng,"scharf, streng",,,"Adverb, manner"
+1500_scharfestrenge,"Schärfe, Strenge",,,"Noun, common, feminine"
+1501_gaatjan,[gaƕatjan],,,Verb
+1502_wohin,wohin,,,"Adverb, directional"
+1503_wervonbeiden,wer von beiden,,,"Pronoun, interrogative"
+1504_jedervonbeiden,jeder von beiden,,,"Pronoun, indefinite"
+1505_schaumen,schäumen,,,Verb
+1506_schaum,Schaum,,,"Noun, common, feminine"
+1507_woher,woher,,,"Adverb, directional"
+1508_jeder,jeder,,,"Pronoun, indefinite"
+1509_wemmitwemwomit,"wem, mit wem, womit",,,Adverb
+1510_jedenfallsnur,"jedenfalls, nur",,,Unassigned
+1511_weilezeitstunde,"Weile, Zeit, Stunde",,,"Noun, common, feminine"
+1512_nureinezeitlangdauerndverganglich,"nur eine Zeitlang dauernd, vergänglich",,,Adjective
+1514_beruhigenerquicken,"beruhigen, erquicken",,,Verb
+1515_zurruhekommenaufhoren,"zur Ruhe kommen, aufhören",,,Verb
+1516_nichteinestundelang,nicht eine Stunde lang,,,Unassigned
+1517_weien,weißen,,,Verb
+1518_wei,weiß,,,Adjective
+1519_wiegro,wie groß,,,Adjective
+1521_totenkistesarg,"Totenkiste, Sarg",,,"Noun, common, feminine"
+1522_dasruhmenderruhm,"Das Rühmen, der Ruhm",,,"Noun, common, feminine"
+1523_jeder,jeder,,,<none>
+1524_sicheinersacheruhmen,sich einer Sache rühmen,,,Verb
+1525_drohung,Drohung,,,"Noun, common, feminine"
+1526_drohen,drohen,,,Verb
+1527_einenbedrohn,einen bedrohn,,,Verb
+1528_iaeirus,Iaeirus,,,"Noun, proper"
+1531_iericho,Iericho,,,"Noun, proper"
+1532_iairusalem,Iairusalem,,,"Noun, proper"
+1533_iairusaulwma,Iairusaulwma,,,"Noun, proper"
+1534_iairusaulwmeis,Iairusaulwmeis,,,"Noun, common"
+1535_iairusaulwmeite,Iairusaulwmeite,,,"Noun, proper"
+1536_iaissaizis,Iaissaizis,,,"Noun, proper"
+1537_iakob,Iakob,,,"Noun, proper"
+1538_iakobus,Iakobus,,,"Noun, proper"
+1539_iaredis,Iaredis,,,"Noun, proper"
+1540_iareim,Iareim,,,"Noun, proper"
+1541_iasson,Iasson,,,"Noun, proper"
+1544_berglehne,Berglehne,,,"Noun, common"
+1546_gleichenkorpers,gleichen Körpers,,,Adjective
+1547_gleichschon,gleichschön,,,Adjective
+1549_gleichheit,Gleichheit,,,"Noun, common, masculine"
+1550_gleichmachen,gleich machen,,,Verb
+1551_ebenflach,"eben, flach",,,Adjective
+1552_ruckwartsgewandt,rückwärts gewandt,,,Adjective
+1553_iddja,iddja,,,<none>
+1554_bue,Buße,,,"Noun, common, feminine"
+1555_reueempfinden,Reue empfinden,,,Verb
+1556_bereuenbuetun,"bereuen, Buße tun",,,Verb
+1557_idumaia,Idumaia,,,"Noun, proper"
+1558_schmachschimpf,"Schmach, Schimpf",,,"Noun, common, neuter"
+1560_iesus,Iesus,,,"Noun, proper"
+1561_amfolgendentage,am folgenden Tage,,,"Adjective, Comparative"
+1562_euchbeidengehorig,euch beiden gehörig,,,"Pronoun, possesive"
+1563_igqis,igqis,,,"Pronoun, personal"
+1564_ich,ich,,,"Pronoun, personal"
+1565_derich,der ich,,,"Pronoun, personal, relative"
+1566_inaufanunter,"in, auf, an, unter",,,"Preposition, +ADG"
+1567_besonnenheitselbstbeherrschung,"Besonnenheit, Selbstbeherrschung",,,"Noun, common, feminine"
+1568_verstandig,verständig,,,Adjective
+1569_hausgenosse,Hausgenosse,,,"Noun, common, masculine"
+1570_entschuldigung,Entschuldigung,,,"Noun, common, feminine"
+1571_schwanger,schwanger,,,"Noun, common, feminine"
+1572_stammesgenosselandsmann,"Stammesgenosse, Landsmann",,,"Noun, common, masculine"
+1573_vertauschung,Vertauschung,,,"Noun, common, feminine"
+1574_hinein,hinein,,,"Adverb, directional"
+1575_inneninnerhalb,"innen, innerhalb",,,"Adverb, locative"
+1576_zumhausegehorighausgenosse,"zum Hause gehörig, Hausgenosse",,,Adjective
+1578_eingangeintritt,"Eingang, Eintritt",,,"Noun, common, feminine"
+1579_voninnen,von innen,,,"Adverb, directional"
+1580_erneuerung,Erneuerung,,,"Noun, common, feminine"
+1581_derinnere,der innere,,,"Adjective, Comparative"
+1582_erzahlungaussagezeugnis,"Erzählung, Aussage, Zeugnis",,,"Noun, common, feminine"
+1583_ohneauer,"ohne, außer",,,"Preposition, +A"
+1584_inaufanunter,"in, auf, an, unter",,,<none>
+1585_ungerechtigkeit,Ungerechtigkeit,,,"Noun, common, feminine"
+1586_ungerecht,ungerecht,,,Adjective
+1587_innerhalbdesgesetzesstehend,innerhalb des Gesetzes stehend,,,Adjective
+1588_ioanan,Ioanan,,,"Noun, proper"
+1589_ioda,Ioda,,,"Noun, proper"
+1591_iohanna,Iohanna,,,"Noun, proper"
+1592_iohannes,Iohannes,,,"Noun, proper"
+1593_iora,Iora,,,"Noun, proper"
+1594_ioreim,Ioreim,,,"Noun, proper"
+1595_iosef,Iosef,,,"Noun, proper"
+1596_iosezis,Iosezis,,,"Noun, proper"
+1597_erder,"er, der",,,"Pronoun, personal"
+1598_isak,Isak,,,"Noun, proper"
+1599_iskariotes,Iskariotes,,,"Noun, proper"
+1600_israel,Israel,,,"Noun, proper"
+1601_israeleites,Israeleites,,,"Noun, proper"
+1604_ituraia,Ituraia,,,"Noun, proper"
+1605_aber,aber,,,Conjunction
+1606_iudaia,Iudaia,,,"Noun, proper"
+1607_iudaialand,Iudaialand,,,"Noun, common, neuter"
+1608_iudaius,Iudaius,,,"Noun, proper"
+1610_aufjudischeweise,auf jüdische Weise,,,Adverb
+1611_judischleben,jüdisch leben,,,Verb
+1612_iudas,Iudas,,,"Noun, proper"
+1613_haufe,Haufe,,,"Noun, common, feminine"
+1614_aufwarts,aufwärts,,,"Adverb, directional"
+1615_oben,oben,,,"Adverb, locative"
+1616_vonoben,von oben,,,Adverb
+1617_vonobenher,von oben her,,,"Adverb, directional"
+1618_iuse,Iuse,,,<none>
+1619_erholung,Erholung,,,"Noun, common, feminine"
+1620_vorzuglicher,vorzüglicher,,,"Adjective, Comparative"
+1621_izei,izei,,,Unassigned
+1622_ize,ize,,,<none>
+1623_euer,euer,,,"Pronoun, possesive"
+1625_ja,ja,,,Unassigned
+1627_jaeirus,Jaeirus,,,<none>
+1628_undundzwarauch,"und, und zwar, auch",,,Unassigned
+1629_jawahrlichfurwahr,"ja, wahrlich, fürwahr",,,Unassigned
+1630_anjenemortdort,"an jenem Ort, dort",,,"Adverb, locative"
+1632_dorthin,dorthin,,,"Adverb, directional"
+1633_dorthingewandt,dorthin gewandt,,,Adjective
+1634_jener,jener,,,"Pronoun, demonstrative"
+1635_dorther,dorther,,,"Adverb, directional"
+1637_janna,Janna,,,"Noun, proper"
+1638_jannes,Jannes,,,"Noun, proper"
+1639_undwenn,und wenn,,,Conjunction
+1640_ob,ob,,,Unassigned
+1641_jaurdanau,Jaurdanau,,,<none>
+1642_jahr,Jahr,,,"Noun, common, neuter"
+1643_zornausbruchestreitereien,Zornausbrüche; Streitereien,,,"Noun, common, feminine"
+1644_kampfenobsiegen,kämpfen; obsiegen,,,Verb
+1645_besiegen,besiegen,,,Verb
+1646_julmonat,Julmonat,,,Unassigned
+1647_jota,jota,,,"Noun, common, masculine"
+1648_schon,schon,,,"Adverb, temporal"
+1649_judisch,jüdisch,,,Adjective
+1650_judaius,Judaius,,,<none>
+1651_judas,Judas,,,<none>
+1652_jungjugendlich,jung; jugendlich,,,Adjective
+1653_gespann,Gespann,,,"Noun, common, neuter"
+1654_joch,Joch,,,"Noun, common, feminine"
+1655_jugend,Jugend,,,"Noun, common, feminine"
+1656_ihr,ihr,,,"Pronoun, personal"
+1657_justus,Justus,,,"Noun, proper"
+1658_schon,schon,,,Adverb
+1659_juzei,jūzei,,,"Pronoun, personal, relative"
+1660_kaballarja,Kaballarja,,,"Noun, proper"
+1661_kaeinan,Kaeinan,,,"Noun, proper"
+1662_kafarnaum,Kafarnaum,,,"Noun, proper"
+1663_kaidmeiel,Kaidmeiel,,,"Noun, proper"
+1664_kaidron,Kaidron,,,"Noun, proper"
+1665_kaiser,Kaiser,,,"Noun, common, masculine"
+1666_censussteuer,"Census, Steuer",,,"Noun, common, neuter"
+1667_kaisaria,Kaisaria,,,"Noun, proper"
+1668_kajafa,Kajafa,,,"Noun, proper"
+1669_kalbe,Kalbe ,,,"Noun, common, feminine"
+1670_kalt,kalt,,,Adjective
+1671_hurerei,Hurerei,,,"Noun, common, masculine"
+1672_hure,Hure,,,"Noun, common, feminine"
+1674_kennenwissen,"kennen, wissen",,,<none>
+1675_einemkundtun,einem  kund tun,,,Verb
+1678_dashaarabschneiden,das Haar abschneiden,,,Verb
+1679_sorge,Sorge,,,"Noun, common, feminine"
+1680_kareiaiareim,[Kareiaþiareim],,,"Noun, proper"
+1681_kerker,Kerker,,,"Noun, common, feminine"
+1682_sichkummern,sich kümmern,,,Verb
+1683_besorgen,besorgen,,,Verb
+1684_karpus,Karpus,,,"Noun, proper"
+1685_gefa,Gefäß,,,"Noun, common, neuter"
+1686_topfer,Töpfer,,,"Noun, common, masculine"
+1687_kessel,Kessel,,,"Noun, common, masculine"
+1688_denkolossern,den Kolossern,,,"Noun, proper"
+1689_ohrfeigen,ohrfeigen,,,Verb
+1690_geschaftemachenhandeltreiben,"Geschäfte machen, Handel treiben",,,Verb
+1691_kaurazein,Kaurazein,,,"Noun, proper"
+1692_gabefrommestiftung,"Gabe, fromme Stiftung",,,Foreign word
+1693_tempelschatz,Tempelschatz,,,"Noun, common"
+1694_schwerefulle,"Schwere, Fülle",,,"Noun, common, feminine"
+1695_kaurinius,Kaurinþius,,,"Noun, proper"
+1696_kaurinon,Kaurinþon,,,"Noun, proper"
+1697_last,Last,,,"Noun, common, feminine"
+1698_druckenbelastigen,"drücken, belästigen",,,Verb
+1699_beschweren,beschweren,,,Verb
+1700_mitbelastetmit,mitbelastet mit,,,Verb
+1701_schwerlastig,"schwer, lästig",,,Adjective
+1702_getreide,Getreide,,,"Noun, common, neuter"
+1703_korn,Korn,,,"Noun, common, neuter"
+1704_kostenkennenlernen,"kosten, kennen lernen",,,Verb
+1706_kawtsjo,kawtsjo,,,Foreign word
+1707_kefas,Kefas,,,"Noun, proper"
+1708_keimen,keimen,,,Verb
+1709_hervorkeimen,hervorkeimen,,,Verb
+1710_mithervorkeimen,mithervorkeimen,,,Verb
+1711_turmspeisesaalimobergeschoss,Turm; Speisesaal im Obergeschoss,,,"Noun, common, neuter"
+1713_mutterleib,Mutterleib,,,"Noun, common, feminine"
+1714_statthalter,Statthalter,,,"Noun, common, masculine"
+1715_wange,Wange,,,"Noun, common, feminine"
+1716_heller,Heller,,,"Noun, common, masculine"
+1717_etwasprufen,etwas  prüfen,,,Verb
+1719_erproben,erproben,,,Verb
+1720_klemaintau,Klemaintau,,,"Noun, proper"
+1721_klaimaintau,Klaimaintau,,,<none>
+1722_gellen,gellen,,,Verb
+1723_becken,Becken,,,"Noun, common, feminine"
+1724_knie,Knie,,,"Noun, common, neuter"
+1725_geschlecht,Geschlecht,,,"Noun, common, feminine"
+1726_niederfallen,niederfallen,,,Verb
+1727_kosam,Kosam,,,"Noun, proper"
+1728_grieche,Grieche ,,,"Noun, common, masculine"
+1729_kreskus,[Kreskus],,,"Noun, proper"
+1730_kretai,Kretai,,,"Noun, proper"
+1731_kretes,Kretes,,,"Noun, proper"
+1732_krispus,Krispus,,,"Noun, proper"
+1733_knirschen,knirschen,,,Verb
+1734_zerbrechenzerschellen,"zerbrechen, zerschellen",,,Verb
+1735_knirschen,Knirschen,,,"Noun, common"
+1736_tischgesellschaftgruppe,"Tischgesellschaft, Gruppe",,,"Noun, common, masculine"
+1737_einenkussen,einen küssen,,,Verb
+1738_mitkussenbedecken,mit Küssen bedecken,,,Verb
+1739_sichniederlegenzutischelegen,"sich niederlegen, zu Tische legen",,,Verb
+1740_kumei,kumei,,,Foreign word
+1741_fessel,Fessel,,,"Noun, common, feminine"
+1742_geschlechtstamm,"Geschlecht, Stamm",,,"Noun, common, neuter"
+1743_kennenwissen,"kennen, wissen",,,Verb
+1744_verachten,verachten,,,Verb
+1745_sichunterordnengehorchen,"sich unterordnen, gehorchen",,,Verb
+1746_kunnan,-kunnan,,,Verb
+1748_gewahren,gewähren,,,Verb
+1749_kennenlernenerfahren,"kennen lernen, erfahren",,,Verb
+1750_erkennen,erkennen,,,Verb
+1751_kundekenntnis,"Kunde, Kenntnis",,,"Noun, common, neuter"
+1752_kundbekannt,"kund, bekannt",,,Adjective
+1753_kusa,Kusa,,,"Noun, proper"
+1754_kustanteinus,Kustanteinus,,,"Noun, proper"
+1755_prufung,Prüfung,,,"Noun, common, masculine"
+1756_quirinius,Quirinius,,,"Noun, proper"
+1757_einwohnervonkyrene,Einwohner von Kyrene,,,"Noun, proper"
+1758_langmut,Langmut,,,"Noun, common, feminine"
+1759_lange,Länge,,,"Noun, common, feminine"
+1760_lang,lang,,,Adjective
+1761_legenauflegenhinlegen,"legen, auflegen, hinlegen",,,Verb
+1762_etwasablegen,etwas ablegen,,,Verb
+1763_einemauflegen,einem  auflegen,,,Verb
+1764_hinlegenauflegen,"hinlegen, auflegen",,,Verb
+1766_hinlegen,hinlegen,,,Verb
+1767_uberdecken,überdecken,,,Verb
+1768_uslagjan,us-lagjan,,,Verb
+1771_uberbleibsel,Überbleibsel,,,"Noun, common, feminine"
+1772_ubriglassen,übrig lassen,,,Verb
+1773_bleiben,bleiben,,,<none>
+1774_legion,Legion,,,Foreign word
+1776_hupfenspringen,"hüpfen, springen",,,Verb
+1777_einenverspotten,einen  verspotten,,,Verb
+1778_tanz,Tanz,,,"Noun, common, masculine"
+1779_leseabschnitt,Leseabschnitt,,,Foreign word
+1780_wei, weiß,,,Verb
+1781_lehrer,Lehrer,,,"Noun, common, masculine"
+1782_zumlehrenbefahigt,zum Lehren befähigt,,,Adjective
+1783_lehre,Lehre,,,"Noun, common, feminine"
+1785_lehren,lehren,,,Verb
+1786_belehren,belehren,,,Verb
+1787_einemfolgennachstreben,"einem folgen, nachstreben",,,Verb
+1788_einemnachfolgennachstrebennachgehn,"einem nachfolgen, nachstreben; nachgehn ",,,Verb
+1789_gastfreundschaftpflegend,Gastfreundschaft pflegend,,,Verb
+1790_spur,Spur,,,"Noun, common, masculine"
+1791_laiwweis,Laiwweis,,,"Noun, proper"
+1792_laiwweiteis,Laiwweiteis,,,"Noun, common"
+1793_lamaik,Lamaik,,,"Noun, proper"
+1794_lammschaf,"Lamm, Schaf",,,"Noun, common, neuter"
+1795_landgegend,Land; Gegend,,,"Noun, common, neuter"
+1796_schwach,schwach,,,Adjective
+1797_lassigkeit,Lässigkeit,,,"Noun, common, feminine"
+1798_aufhalten,aufhalten,,,Verb
+1799_verhindernihrbekommtkeinegelegenheit,verhindern; ihr bekommt keine Gelegenheit,,,Verb
+1800_verhindern,verhindern,,,Verb
+1801_lassigfaul,"lässig, faul",,,Adjective
+1802_gern,gern,,,Adverb
+1803_laden,laden,,,Verb
+1804_berufen,berufen,,,Verb
+1805_zusammenberufeneinladen,"zusammenberufen, einladen",,,Verb
+1806_einladungberufung,"Einladung, Berufung",,,"Noun, common, feminine"
+1808_glauben,glauben,,,Verb
+1809_einemerlauben,einem erlauben,,,Verb
+1811_gestalt,Gestalt,,,"Noun, common, feminine"
+1812_laubblatt,"Laub, Blatt",,,"Noun, common, masculine"
+1813_leugnen,leugnen,,,Verb
+1814_verborgenbleiben,verborgen bleiben,,,Verb
+1815_blitzen,blitzen,,,Verb
+1816_blitz,Blitz,,,"Noun, common, feminine"
+1817_lauidjai,Lauidjai,,,"Noun, proper"
+1818_lohn,Lohn,,,"Noun, common, neuter"
+1819_undankbar,undankbar,,,Adjective
+1820_losleer,"los, leer",,,Adjective
+1821_leeresgerede,leeres Gerede,,,"Noun, common, feminine"
+1822_leeresgerede,leeres Gerede,,,"Noun, common, neuter"
+1823_hohleschwatzer,hohle Schwätzer,,,Adjective
+1824_mitleerenhanden,mit leeren Händen,,,Adjective
+1825_losen,lösen,,,Verb
+1826_erlosenbefreien,"erlösen, befreien",,,Verb
+1827_entwurzeledich,entwurzele dich,,,Verb
+1828_fasten,Fasten,,,"Noun, common, feminine"
+1829_leerenmagensnuchtern,"leeren Magens, nüchtern",,,Adjective
+1830_lazarus,Lazarus,,,"Noun, proper"
+1831_bleiben,bleiben,,,Verb
+1832_leicht,leicht,,,Adjective
+1833_leihensichborgenvon,leihen; sich borgen von,,,Verb
+1834_korperleib,"Körper, Leib",,,"Noun, common, neuter"
+1835_gefallen,Gefallen,,,"Noun, common, feminine"
+1836_einemgefallenzugefallensein,"einem gefallen, zu Gefallen sein",,,Verb
+1837_gefallen,gefallen,,,Verb
+1838_vorhergefallen,vorhergefallen,,,Verb
+1839_leiblichfleischlich,"leiblich, fleischlich",,,Adjective
+1840_arzt,Arzt,,,<none>
+1841_anstaunenbewundern,"anstaunen, bewundern",,,<none>
+1842_meinenachahmer,meine Nachahmer,,,Verb
+1843_sichverwandelneinegestaltannehmen,"sich verwandeln, eine Gestalt annehmen",,,Verb
+1845_mitnachahmen,mitnachahmen,,,Verb
+1846_airhgaleikon,þairh-gáleikon,,,Verb
+1847_leinwand,Leinwand,,,"Noun, common, neuter"
+1848_lassen,lassen,,,<none>
+1849_kleinwenig,"klein, wenig",,,Adjective
+1850_weggehnentweichenverreisen,"weggehn, entweichen, verreisen",,,Verb
+1851_verlassenzurucklassen,"verlassen, zurücklassen",,,Verb
+1852_kommengehn,"kommen, gehn",,,Verb
+1853_hineingehn,hineingehn,,,Verb
+1854_mithineingehn,mithineingehn,,,Verb
+1855_hinzukommen,hinzukommen,,,Verb
+1856_hindurchgehn,hindurchgehn,,,Verb
+1857_ubersetzen,übersetzen,,,Verb
+1858_hinausgehnweggehnverreisen,"hinausgehn, weggehn; verreisen",,,Verb
+1859_obstwein,Obstwein,,,"Noun, common"
+1860_arzt,Arzt,,,"Noun, common, masculine"
+1861_heilung,Heilung,,,"Noun, common, masculine"
+1862_heilen,heilen,,,Verb
+1863_herstellen,herstellen,,,Verb
+1864_lassen,lassen,,,Verb
+1865_entlassen,entlassen,,,Verb
+1866_lassenfreilassenentlassenunterlassenzulassenerlaubenerlassenvergebenherablassen,"lassen; frei lassen, entlassen; unterlassen; zulassen, erlauben; erlassen, vergeben; herablassen",,,Verb
+1867_ausschlieen,ausschließen,,,Verb
+1868_scheiden,scheiden,,,Verb
+1869_gelegenheitveranlassung,"Gelegenheit, Veranlassung",,,"Noun, common"
+1871_verraten,verraten,,,Verb
+1872_hingebenuberlassen,"hingeben, überlassen",,,Verb
+1873_leben,Leben,,,"Noun, common, feminine"
+1874_leben,leben,,,Verb
+1875_mitleben,mitleben,,,Verb
+1876_ubrigbleiben,übrig bleiben,,,Verb
+1877_liegen,liegen,,,Verb
+1878_stehtinmeinermacht,steht in meiner Macht,,,Verb
+1879_unterliegen,unterliegen,,,Verb
+1880_lagerbett,"Lager, Bett",,,"Noun, common, masculine"
+1881_lima,lima,,,Foreign word
+1882_weggehn,weggehn,,,Verb
+1883_lesensammeln,"lesen, sammeln",,,Verb
+1884_zusammenlesenversammeln,"zusammenlesen, versammeln",,,Verb
+1885_listig,listig,,,Adjective
+1886_list,List,,,"Noun, common"
+1888_bittgebet,Bittgebet,,,"Noun, common, feminine"
+1889_heuchelnmit,heucheln mit,,,Verb
+1890_glied,Glied,,,"Noun, common, masculine"
+1891_lieblich,lieblich,,,Adjective
+1893_einemdanken,einem  danken,,,<none>
+1894_lieb,lieb,,,Adjective
+1895_heiratehe,"Heirat, Ehe",,,"Noun, common, feminine"
+1896_heiraten,heiraten,,,Verb
+1897_einweibnehmen,ein Weib nehmen,,,Verb
+1898_lugen,lügen,,,Verb
+1899_luge,Lüge,,,"Noun, common"
+1900_lugenprophet,Lügenprophet,,,"Noun, common, masculine"
+1901_lugenredend,Lügen redend,,,Adjective
+1902_lugner,Lügner,,,"Noun, common, masculine"
+1904_helleglanz,"Helle, Glanz",,,"Noun, common, feminine"
+1905_hell,hell,,,Adjective
+1906_licht,Licht,,,"Noun, common, neuter"
+1907_leuchten,leuchten,,,Verb
+1909_erleuchten,erleuchten,,,Verb
+1910_etwasverlieren,etwas verlieren,,,Verb
+1911_heuchelei,Heuchelei,,,"Noun, common, feminine"
+1912_gaukler,Gaukler,,,Adjective
+1913_sanger,Sänger,,,"Noun, common, masculine"
+1914_einemlobsingen,einem lobsingen,,,Verb
+1915_flachehand,flache Hand,,,"Noun, common, masculine"
+1918_giftkundig,giftkundig,,,Adjective
+1919_giftmischereizauberei,"Giftmischerei, Zauberei",,,"Noun, common, feminine"
+1920_angesicht,Angesicht,,,"Noun, common, feminine"
+1921_luft,Luft,,,"Noun, common"
+1922_verschlieen,verschließen,,,Verb
+1923_erschlieenoffnen,"erschließen, öffnen",,,Verb
+1924_leuchtelicht,"Leuchte, Licht",,,"Noun, common, neuter"
+1925_leuchter,Leuchter,,,"Noun, common, masculine"
+1926_lukas,Lukas,,,"Noun, proper"
+1927_lukius,Lukius,,,"Noun, proper"
+1928_sichverschlieen,sich verschließen,,,Verb
+1929_sicherschlieenoffnen,"sich erschließen, öffnen",,,Verb
+1930_losegeld,Lösegeld,,,"Noun, common"
+1931_verlorengehn,verloren gehn,,,Verb
+1932_begehren,begehren,,,Verb
+1933_lustbegierde,"Lust, Begierde",,,"Noun, common, masculine"
+1934_ersehnt,ersehnt,,,Adjective
+1935_tauschen,taüschen,,,Verb
+1936_verfuhrenirrefuhren,"verführen, irre führen",,,Verb
+1937_lwddomaeis,Lwddomaeis,,,"Noun, proper"
+1939_lwstrws,Lwstrws,,,"Noun, proper"
+1941_konnenvermogen,"können, vermögen",,,Verb
+1942_geltenbedeuten,"gelten, bedeuten",,,Verb
+1943_jungfrauschaft,Jungfrauschaft,,,"Noun, common, feminine"
+1944_jungfrau,Jungfrau,,,"Noun, common, feminine"
+1945_magdalan,Magdalan,,,"Noun, proper"
+1946_magdalene,Magdalene,,,"Noun, proper"
+1947_knablein,Knäblein,,,"Noun, common, masculine"
+1948_knabe,Knabe,,,"Noun, common, masculine"
+1949_mahath,Mahath,,,"Noun, proper"
+1950_machtigmoglich,mächtig; möglich,,,Adjective
+1951_vergewaltigenraubenkrankenqualenerpressenmihandeln,"vergewaltigen; rauben; kränken, quälen; erpressen; mißhandeln",,,Verb
+1952_mahts,mahts,,,<none>
+1953_machtkraftvermogen,"Macht, Kraft, Vermögen",,,"Noun, common, feminine"
+1954_tauschen,tauschen,,,Verb
+1955_verwandeln,verwandeln,,,Verb
+1956_mist,Mist,,,"Noun, common, masculine"
+1958_runzel,Runzel,,,"Noun, common"
+1960_pergament,Pergament,,,"Noun, common, masculine"
+1961_gemeinmachen,gemein machen,,,Verb
+1962_verunreinigen,verunreinigen,,,Verb
+1963_mehr,mehr,,,"Adverb, Comparative"
+1965_dergrote,der größte,,,"Adverb, Superlative"
+1966_hochstens,höchstens,,,"Adverb, Comparative"
+1968_abhauenabschneiden,"abhauen, abschneiden",,,Verb
+1969_beschneiden,beschneiden,,,Verb
+1970_zerschneidenverschneiden,"zerschneiden, verschneiden",,,Verb
+1971_ausschneidenabschneidenausrotten,"ausschneiden, abschneiden, ausrotten",,,Verb
+1972_geschenk,Geschenk,,,"Noun, common"
+1973_groer,größer,,,"Adjective, Comparative"
+1974_makeibis,Makeibis,,,"Noun, proper"
+1975_makidoneis,Makidoneis,,,"Noun, proper"
+1976_makidonja,Makidonja,,,"Noun, proper"
+1977_makmas,Makmas,,,"Noun, proper"
+1978_mahlen,mahlen,,,Verb
+1979_malailaiel,[Malailaiel],,,"Noun, proper"
+1980_malkus,Malkus,,,"Noun, proper"
+1981_sand,Sand,,,"Noun, common, masculine"
+1982_motte,Motte,,,"Noun, common"
+1984_mambres,Mambres,,,"Noun, proper"
+1985_fleisch,Fleisch,,,"Noun, common, feminine"
+1987_verhohnen,verhöhnen,,,Verb
+1988_meinenglaubendafurhalten,"meinen, glauben, dafür halten",,,<none>
+1989_fulle,Fülle,,,"Noun, common, feminine"
+1990_menge,Menge,,,"Noun, common, feminine"
+1991_mannigfaltig,mannigfaltig,,,Adjective
+1993_reichlichvorhandenseinuberfluhabenan,"reichlich vorhanden sein, Überfluß haben an",,,Verb
+1994_sichvermehrenzu,sich vermehren zu,,,Verb
+1995_mancherviel,"mancher, viel",,,Adjective
+1996_menschenmorder,Menschenmörder,,,"Noun, common, masculine"
+1997_weltmenschheit,"Welt, Menschheit",,,"Noun, common, feminine"
+1998_dergestaltnach,der Gestalt nach,,,"Noun, common"
+1999_bild,Bild,,,"Noun, common, masculine"
+2000_manna,manna,,,"Noun, common"
+2001_menschmann,"Mensch, mann",,,"Noun, common, masculine"
+2002_niemand,niemand,,,"Pronoun, indefinite"
+2003_menschlichkeit,Menschlichkeit,,,"Noun, common, masculine"
+2004_menschlich,menschlich,,,Adjective
+2005_bereitschaft,Bereitschaft,,,"Noun, common, feminine"
+2010_bereit,bereit,,,Adjective
+2011_derherrkommt,der Herr kommt,,,Foreign word
+2012_meer,Meer,,,"Noun, common, feminine"
+2013_maria,Maria,,,<none>
+2014_perle,Perle,,,"Noun, common"
+2016_marja,Marja,,,"Noun, proper"
+2017_markgrenze,"Mark, Grenze",,,"Noun, common, feminine"
+2018_marcellusvonancyra,Marcellus von Ancyra,,,"Noun, proper"
+2019_gamarkon,[ga-markon],,,Verb
+2020_markus,Markus,,,"Noun, proper"
+2021_martyrer,Martyrer,,,"Noun, common"
+2022_mara,Marþa,,,"Noun, proper"
+2023_argernis,Ärgernis,,,"Noun, common, feminine"
+2024_einenargernihmzumargernissein,"einen ärgern, ihm zum Ärgernis sein",,,Verb
+2025_argernisnehmen,Ärgernis nehmen,,,Verb
+2026_argerniserregen,Ärgernis erregen,,,Verb
+2027_ranzenspeisesack,"Ranzen, Speisesack",,,"Noun, common, masculine"
+2029_essen,essen,,,Verb
+2030_speise,Speise,,,"Noun, common, masculine"
+2031_mattaanis,Mattaþanis,,,"Noun, proper"
+2034_matat,Matþat,,,"Noun, proper"
+2035_wurm,Wurm,,,"Noun, common, masculine"
+2036_versammlungsortmarktplatz,"Versammlungsort, Marktplatz",,,"Noun, common"
+2037_rederedeweise,"Rede, Redeweise",,,"Noun, common, feminine"
+2038_reden,reden,,,Verb
+2039_mausalis,Maþusalis,,,"Noun, proper"
+2040_einenerinnern,einen erinnern,,,Verb
+2041_einenerinnernan,einen erinnern an,,,Verb
+2042_morgen,Morgen,,,"Noun, common, masculine"
+2043_verkurzen,verkürzen,,,Verb
+2044_sorgenfur,sorgen für ,,,Verb
+2045_mord,Mord,,,"Noun, common, neuter"
+2046_morden,morden,,,Verb
+2048_madchen,Mädchen,,,"Noun, common, feminine"
+2049_eidam,Eidam,,,"Noun, common, masculine"
+2050_mein,mein,,,"Pronoun, possesive"
+2051_schwert,Schwert,,,"Noun, common"
+2052_zeitstunde,"Zeit, Stunde",,,"Noun, common, neuter"
+2053_scheffel,Scheffel,,,"Noun, common, masculine"
+2055_aufschreiben,aufschreiben,,,Verb
+2056_vorzeichnenvormalen,"vorzeichnen, vormalen",,,Verb
+2057_schreiben,schreiben,,,Verb
+2058_vorherschreiben,vorher schreiben,,,Verb
+2059_unterschreiben,unterschreiben,,,Verb
+2061_mond,Mond,,,"Noun, common, masculine"
+2062_monat,Monat,,,"Noun, common, masculine"
+2063_verkundigungpredigt,"Verkündigung, Predigt",,,"Noun, common, feminine"
+2064_merila,Merila,,,"Noun, proper"
+2065_geruchtkunde,"Gerücht, Kunde",,,"Noun, common, feminine"
+2067_verkundigerprediger,"Verkündiger, Prediger",,,"Noun, common, masculine"
+2069_einemeinefrohebotschaftkunden,einem eine frohe Botschaft künden,,,Verb
+2070_lastern,lästern,,,Verb
+2071_sichverbreiten,sich  verbreiten,,,Verb
+2072_tischschusselplattekelter,"Tisch; Schüssel, Platte; Kelter",,,"Noun, common, neuter"
+2073_zwischenwand,Zwischenwand,,,"Noun, common"
+2074_uberflutungsintflut,"Überflutung, Sintflut",,,"Noun, common, feminine"
+2076_diebewohnteerdedererdkreis,"die bewohnte Erde, der Erdkreis",,,"Noun, common, masculine"
+2077_mitte,Mitte,,,"Noun, common, feminine"
+2078_mittler,Mittler,,,"Noun, common, masculine"
+2080_groe,Größe,,,"Noun, common, feminine"
+2082_preisen,preisen,,,Verb
+2083_verherrlichtwerden,verherrlicht werden,,,Verb
+2084_gro,groß,,,Adjective
+2085_hochmutig,hochmütig,,,Adjective
+2086_milde,Milde,,,"Noun, common, feminine"
+2087_wolke,Wolke,,,"Noun, common, masculine"
+2088_diesoldaten,die Soldaten,,,Verb
+2089_honig,Honig,,,"Noun, common, neuter"
+2090_milch,Milch,,,"Noun, common, feminine"
+2091_mimz,mimz,,,"Noun, common"
+2092_derkleinstegeringste,"der kleinste, geringste",,,"Adjective, Superlative"
+2093_kleinergeringer,"kleiner, geringer",,,"Adjective, Comparative"
+2094_minderweniger,"minder, weniger",,,"Adverb, Comparative"
+2095_abnehmen,abnehmen,,,Verb
+2096_missetat,Missetat,,,"Noun, common, feminine"
+2097_verschieden,verschieden,,,Adjective
+2098_zwiespaltmirede,"Zwiespalt, Mißrede",,,"Noun, common, feminine"
+2099_ubeltater,Übeltäter,,,<none>
+2100_einander,einander,,,Adverb
+2102_messen,messen,,,Verb
+2103_zumessen,zumessen,,,Verb
+2104_wandelnsichbenehmenleben,"wandeln, sich benehmen, leben",,,Verb
+2105_ma,Maß,,,"Noun, common, feminine"
+2106_ermessendenkenuberlegen,"ermessen, denken, überlegen",,,Verb
+2108_uberlegunggedanke,"Überlegung, Gedanke",,,"Noun, common, feminine"
+2109_mitbeiunter,"mit, bei, unter",,,"Preposition, +D"
+2110_zwischenwand,Zwischenwand,,,<none>
+2111_inzwischen,inzwischen,,,Adverb
+2112_wahrend,während,,,Conjunction
+2113_bewutseingewissen,"Bewußtsein, Gewissen",,,"Noun, common, feminine"
+2114_lohn,Lohn,,,"Noun, common, feminine"
+2115_zornigauf,zornig auf ,,,Adjective
+2116_ermudet,ermüdet,,,<none>
+2117_moses,Moses,,,"Noun, proper"
+2118_zoll,Zoll,,,"Noun, common, feminine"
+2119_raumfinden,Raum finden,,,Verb
+2120_zollner,Zöllner,,,"Noun, common, masculine"
+2121_zollstatte,Zollstätte,,,"Noun, common, masculine"
+2123_einembegegnen,einem begegnen,,,Verb
+2124_zorn,Zorn,,,"Noun, common, masculine"
+2125_nachgiebigkeitsanftmut,"Nachgiebigkeit, Sanftmut",,,"Noun, common, feminine"
+2126_staub,Staub,,,"Noun, common, feminine"
+2127_vonstaubirdisch,"von Staub, irdisch",,,Adjective
+2128_einemdasmaulverbinden,einem das Maul verbinden,,,Verb
+2129_meinenglaubendafurhalten,"meinen, glauben, dafür halten",,,Verb
+2130_sicheinersache,sich einer Sache,,,Verb
+2132_einenbesehnsehenauf,"einen besehn, sehen auf",,,Verb
+2133_ziel,Ziel,,,"Noun, common, feminine"
+2134_vergessen,vergessen,,,Verb
+2135_gedankemeinung,"Gedanke, Meinung",,,"Noun, common, masculine"
+2136_mund,Mund,,,"Noun, common, masculine"
+2138_natter,Natter,,,"Noun, common"
+2139_naem,[Naem],,,"Noun, proper"
+2141_festnagelnan,festnageln an,,,Verb
+2142_esisterlaubtnotig,"es ist erlaubt, nötig",,,Verb
+2143_esgenugteinem,es genügt einem,,,Verb
+2144_nahasson,Nahasson,,,"Noun, proper"
+2145_abendessenabendmahlgastmahl,", Abendessen, Abendmahl, Gastmahl",,,"Noun, common, masculine"
+2146_nacht,Nacht,,,"Noun, common, feminine"
+2147_naiman,Naiman,,,"Noun, proper"
+2149_beschimpfen,beschimpfen,,,Verb
+2150_naitofaeis,Naitofaþeis,,,"Noun, proper"
+2151_nakor,Nakor,,,"Noun, proper"
+2152_nennen,nennen,,,Verb
+2153_benennen,benennen,,,Verb
+2154_name,Name,,,"Noun, common, neuter"
+2155_mutfassensicherkuhnen,"Mut fassen, sich erkühnen",,,Verb
+2156_aufhoren,aufhören,,,Verb
+2157_nacktheit,Nacktheit,,,"Noun, common, feminine"
+2158_nackt,nackt,,,Adjective
+2159_narde,Narde,,,"Noun, common, masculine"
+2160_rettungheil,"Rettung, Heil",,,"Noun, common, feminine"
+2161_retten,retten,,,Verb
+2162_heiland,Heiland,,,"Noun, common, masculine"
+2163_errettenherstellen,"erretten, herstellen",,,Verb
+2164_netz,Netz,,,"Noun, common, neuter"
+2165_netzen,netzen,,,Verb
+2166_benetzen,benetzen,,,Verb
+2167_naan,Naþan,,,"Noun, proper"
+2168_november,November,,,Foreign word
+2169_kettehandschellen,"Kette, Handschellen",,,"Noun, common, feminine"
+2170_notwendig,notwendig,,,Adjective
+2171_notwendigkeit,Notwendigkeit,,,"Noun, common, feminine"
+2172_nauel,Nauel,,,"Noun, proper"
+2173_noch,noch,,,Adverb
+2175_noch,noch,,,Unassigned
+2176_undsogarnoch,und sogar noch,,,Unassigned
+2177_naum,Naum,,,"Noun, proper"
+2178_dertote,der Tote,,,"Noun, common, masculine"
+2179_notigen,nötigen,,,Verb
+2180_durchzwangveranlassen,durch Zwang veranlassen,,,Verb
+2181_notzwang,"Not, Zwang",,,"Noun, common, feminine"
+2182_tot,tot,,,Adjective
+2183_begraben,begraben,,,Verb
+2184_einenmitjemandbegraben,einen mit jemand  begraben,,,Verb
+2185_nazarai,Nazaraiþ,,,"Noun, proper"
+2187_nazoraernazarener,"Nazoräer, Nazarener",,,"Noun, proper"
+2188_nein,nein,,,Unassigned
+2189_nahe,nahe,,,Adverb
+2190_naher,näher,,,"Adverb, Comparative"
+2191_nahe,nahe,,,"Adverb, locative"
+2192_sicheinemnahern,sich einem nähern,,,Verb
+2193_herannahen,herannahen,,,Verb
+2194_dernachste,der Nächste,,,"Noun, common, masculine"
+2196_neid,Neid,,,"Noun, common, neuter"
+2197_nekaudemus,Nekaudemus,,,<none>
+2198_esaufjemandabgesehnhaben,es auf jemand abgesehn haben,,,Verb
+2199_nerins,Nerins,,,"Noun, proper"
+2200_nadel,Nadel,,,"Noun, common, feminine"
+2203_dasverzehrenderrost,"das Verzehren, der Rost",,,"Noun, common"
+2204_undnichtauchnichtnicht,"und nicht, auch nicht, nicht",,,Unassigned
+2205_nikaudemus,Nikaudemus,,,"Noun, proper"
+2206_nehmenannehmenaufnehmenempfangenfangen,"nehmen, annehmen, aufnehmen, empfangen, fangen",,,Verb
+2207_abnehmenwegnehmen,"abnehmen, wegnehmen",,,Verb
+2208_annehmenaufnehmenempfangen,"annehmen, aufnehmen, empfangen",,,Verb
+2209_aufnehmenwohinversetzen,aufnehmen; wohin versetzen,,,Verb
+2210_wegnehmen,wegnehmen,,,Verb
+2211_besitzen,besitzen,,,Verb
+2212_nehmen,nehmen,,,Verb
+2213_mitnehmen,mitnehmen,,,Verb
+2214_hernehmen,hernehmen,,,Verb
+2215_annehmengeltenlassen,"annehmen, gelten lassen",,,Verb
+2216_herausnehmenwegnehmen,"herausnehmen, wegnehmen",,,Verb
+2217_genesenerrettetwerden,"genesen, errettet werden",,,Verb
+2218_nist,nist,,,Unassigned
+2219_helfen,helfen,,,Verb
+2220_verwandter,Verwandter,,,"Noun, common, masculine"
+2221_dieverwandte,die Verwandte,,,"Noun, common, feminine"
+2222_nicht,nicht,,,Unassigned
+2223_heimsuchung,Heimsuchung,,,"Noun, common, feminine"
+2224_auskundschaftenausspionieren,"auskundschaften, ausspionieren",,,Verb
+2225_erneuern,erneuern,,,Verb
+2226_derneubekehrtederneuling," der Neubekehrte, der Neuling",,,"Participle, past"
+2227_neu,neu,,,Adjective
+2228_neuheit,Neuheit,,,"Noun, common, feminine"
+2229_unverstand,Unverstand,,,"Noun, common, feminine"
+2230_unmundigkindisch,"unmündig, kindisch",,,Adjective
+2231_neun,neun,,,"Numeral, cardinal"
+2232_derneunte,der neunte,,,"Numeral, ordinal"
+2233_neunzig,neunzig,,,"Numeral, cardinal"
+2234_treffenerreicheneinersachefrohsein,"treffen, erreichen; einer Sache froh sein",,,Verb
+2235_ergreifenerwischen,"ergreifen, erwischen",,,Verb
+2236_dieerunsreichlichgewahrte,die er uns reichlich gewährte,,,Verb
+2237_zurgenugeversehnseinmit,zur Genüge versehn sein mit ,,,Verb
+2238_aufdemachterdeck,auf dem Achterdeck,,,"Noun, common"
+2239_nunjetzt,"nun, jetzt",,,Adverb
+2240_denn,denn,,,Unassigned
+2241_demnachdaher,"demnach, daher",,,Unassigned
+2242_fangerfischer,"Fänger, Fischer",,,"Noun, common, masculine"
+2243_nwmfan,Nwmfan,,,"Noun, proper"
+2244_achpfui,"ach, pfui",,,Interjection
+2247_sichfurchtenvor,sich fürchten vor ,,,Verb
+2248_einenschrecken,einen schrecken,,,Verb
+2249_zeithabend,Zeit habend,,,<none>
+2250_osaiin,Osaiin,,,"Noun, proper"
+2251_osanna,osanna,,,Foreign word
+2252_leibrockunterkleid,"Leibrock, Unterkleid",,,"Noun, common, feminine"
+2253_bekleiden, bekleiden,,,Verb
+2255_paitrus,Paitrus,,,"Noun, proper"
+2256_presbytergeistlicher,"Presbyter, Geistlicher",,,"Noun, common"
+2257_troster,Tröster,,,"Noun, common, masculine"
+2258_rusttag,Rüsttag,,,"Noun, common"
+2259_paska,paska,,,"Noun, common"
+2260_pasxa,pasxa,,,<none>
+2262_purpur,Purpur,,,"Noun, common"
+2263_paurpaura,paurpaura,,,<none>
+2264_purpurn,purpurn,,,Adjective
+2265_pawlus,Pawlus,,,"Noun, proper"
+2266_palmbaum,Palmbaum,,,"Noun, common, masculine"
+2267_peilatus,Peilatus,,,"Noun, proper"
+2269_strae,Straße,,,"Noun, common, feminine"
+2270_flicken,Flicken,,,"Noun, common"
+2271_tanzen,tanzen,,,Verb
+2273_praitoriaun,praitoriaun,,,"Noun, common"
+2276_prophetin,Prophetin,,,"Noun, common, feminine"
+2277_prophet,Prophet,,,"Noun, common"
+2278_weissagung,Weissagung,,,"Noun, common"
+2279_weissagen,weissagen,,,Verb
+2280_priska,Priska,,,"Noun, proper"
+2281_psalm,Psalm,,,"Noun, common"
+2282_geldbeutel,Geldbeutel,,,"Noun, common"
+2283_pfund,Pfund,,,"Noun, common"
+2284_weinentrauern,"weinen, trauern",,,Verb
+2285_sanftmut,Sanftmut,,,"Noun, common, feminine"
+2286_sanftfreundlichgegen,"sanft, freundlich gegen",,,Adjective
+2287_pfahlstachel,"Pfahl, Stachel",,,"Noun, common, neuter"
+2288_quartus,Quartus,,,"Noun, proper"
+2289_eheweib,Eheweib,,,"Noun, common, feminine"
+2290_kommen,kommen,,,Verb
+2291_hinzutreten,hinzutreten,,,Verb
+2292_einenuberfallen,einen überfallen,,,Verb
+2293_vorjemandhergehn,vor jemand hergehn,,,Verb
+2295_zusammenkommen,zusammenkommen,,,Verb
+2296_mitkommenmit,mitkommen mit,,,Verb
+2297_umbringendentodgeben,"umbringen, den Tod geben",,,Verb
+2298_weiblichengeschlechts,weiblichen Geschlechts,,,Adjective
+2299_frauenzimmerweibsleute,"Frauenzimmer, Weibsleute",,,Adjective
+2300_feminaweib,"femina, Weib",,,"Noun, common, feminine"
+2301_verderben,Verderben,,,"Noun, common, feminine"
+2304_verderbenumbringen,"verderben, umbringen",,,Verb
+2305_umkommenzugrundegehn,"umkommen, zugrunde gehn",,,Verb
+2306_sagen,sagen,,,Verb
+2307_verzichtenauf,verzichten auf,,,Verb
+2308_verleumdenverlastern,"verleumden, verlästern",,,Verb
+2309_abschiednehmen,Abschied nehmen ,,,Verb
+2310_sichentschuldigen,sich entschuldigen,,,Verb
+2311_vorhersagen,vorhersagen,,,Verb
+2312_furungultigerklarenaufheben,"für ungültig erklären, aufheben",,,Verb
+2313_sichverabredenubereinkommenbeschlieen,"sich verabreden, übereinkommen, beschließen",,,Verb
+2314_mitsprechennachsprechen,"mitsprechen, nachsprechen",,,Verb
+2315_eingeredeverbreiten,ein Gerede verbreiten,,,Verb
+2316_dieschwangere,die Schwangere,,,"Noun, common, feminine"
+2317_magenmutterscho,Magen; Mutterschoß,,,"Noun, common, masculine"
+2319_beleben,beleben,,,Verb
+2320_mitbeleben,mitbeleben,,,Verb
+2321_aufleben,aufleben,,,Verb
+2322_lebendig,lebendig,,,Adjective
+2323_feuchtigkeit,Feuchtigkeit,,,"Noun, common, feminine"
+2324_daskommengegenwartankunftwiederkunftchristi,"das Kommen; Gegenwart, Ankunft, Wiederkunft Christi",,,"Noun, common, masculine"
+2325_rabbaunei,rabbaunei,,,Foreign word
+2326_rabbei,rabbei,,,Foreign word
+2328_ratbeschlu,"Rat, Beschluß",,,"Noun, common, neuter"
+2329_ratgeberratsherr,"Ratgeber, Ratsherr",,,"Noun, common, masculine"
+2331_einenratgeben,einen Rat geben,,,Verb
+2332_rechnen,rechnen,,,Verb
+2333_einenubertreffenan,einen übertreffen an,,,Verb
+2334_abschatzen,abschätzen,,,Verb
+2335_darreichen,darreichen,,,Verb
+2336_raibaikka,Raibaikka,,,"Noun, proper"
+2337_verordnen,verordnen,,,Verb
+2338_befehlenverordnenbestimmen,"befehlen, verordnen, bestimmen",,,Verb
+2339_namlichdochetwa,"nämlich, doch, etwa",,,Conjunction
+2340_alsgerechterweisen,als gerecht erweisen,,,Verb
+2341_vollendsinordnungbringen,vollends in Ordnung bringen,,,Verb
+2342_rechtgrade,"recht, grade",,,Adjective
+2343_rechtrichtig,"recht, richtig",,,"Adverb, Comparative"
+2344_zumaufstehnbringenaufrichtenerwecken,"zum Aufstehn bringen, aufrichten, erwecken",,,Verb
+2345_raka,raka,,,Foreign word
+2346_aufrecken,aufrecken,,,Verb
+2347_rama,Rama,,,"Noun, proper"
+2348_aufgehnlassen,aufgehn lassen,,,Verb
+2349_meile,Meile,,,"Noun, common, feminine"
+2350_zahlen,zählen,,,Verb
+2351_abrechnungkontozahl,"Abrechnung, Konto; Zahl",,,"Noun, common, feminine"
+2352_leichter,leichter,,,"Adjective, Comparative"
+2353_einenberauben,einen berauben,,,Verb
+2354_erzurntwerden,erzürnt werden,,,Verb
+2355_raufen,raufen,,,Verb
+2356_rohr,Rohr,,,"Noun, common, neuter"
+2357_rot,rot,,,Adjective
+2358_sprachesprechweise,"Sprache, Sprechweise",,,"Noun, common, feminine"
+2359_haus,Haus,,,"Noun, common, neuter"
+2360_vorsorgetreffenfur,Vorsorge treffen für,,,Verb
+2361_einenvorherbestimmenzu,einen vorherbestimmen zu,,,Verb
+2362_besorgengewahren,"besorgen, gewähren",,,Verb
+2363_warumlassetihreuchsatzungenauflegenalslebtetihrinderwelt,"warum lasset ihr euch Satzungen auflegen, als lebtet ihr in der Welt",,,Verb
+2364_reichherrschaftobrigkeit,"Reich, Herrschaft, Obrigkeit",,,"Noun, common, neuter"
+2365_herrschenuber,herrschen über,,,Verb
+2368_herrscherobrigkeit,"Herrscher, Obrigkeit",,,"Noun, common, masculine"
+2369_zittern,zittern,,,Verb
+2370_erzitternerbeben,"erzittern, erbeben",,,Verb
+2371_daszittern,das Zittern,,,"Noun, common, feminine"
+2372_erstehnsicherheben,"erstehn, sich erheben",,,Verb
+2374_regen,Regen,,,"Noun, common, neuter"
+2375_regnen,regnen,,,Verb
+2376_haufen,häufen,,,Verb
+2377_ruhe,Ruhe,,,"Noun, common, neuter"
+2378_rennenlaufen,"rennen, laufen",,,Verb
+2382_einenumringen,einen umringen,,,Verb
+2383_hinzulaufen,hinzulaufen,,,Verb
+2384_sicherstreckenreichenzu,"sich erstrecken, reichen zu",,,Verb
+2385_vorhergehn,vorhergehn,,,Verb
+2386_sichverlaufenzugeratenunter,"sich verlaufen zu, geraten unter",,,Verb
+2387_zusammenlaufenzusammenkommen,"zusammenlaufen, zusammenkommen",,,Verb
+2388_zufallenzuteilwerden,"zufallen, zuteil werden",,,Verb
+2389_auslaufenausgehn,"auslaufen, ausgehn",,,Verb
+2390_giebach,Gießbach,,,"Noun, common, feminine"
+2391_finsternis,Finsternis,,,"Noun, common, neuter"
+2392_finster,finster,,,Adjective
+2393_finsterwerden,finster werden,,,Verb
+2394_vernichtungvomewigentodgesagt,"Vernichtung, vom ewigen Tod gesagt",,,"Noun, common, feminine"
+2396_verganglichsterblich,"vergänglich, sterblich",,,Adjective
+2398_sprechenreden,"sprechen, reden",,,Verb
+2399_murrendredenmurren,"murrend reden, murren",,,Verb
+2400_miteinemreden,mit einem reden,,,Verb
+2401_hof,Hof,,,"Noun, common, feminine"
+2402_rufus,Rufus,,,"Noun, proper"
+2403_raum,Raum,,,"Noun, common"
+2405_sicherweitern,sich erweitern,,,Verb
+2407_geraumig,geräumig,,,Adjective
+2408_geheimnis,Geheimnis,,,"Noun, common, feminine"
+2409_lauf,Lauf,,,"Noun, common, masculine"
+2410_derdieser,"der, dieser",,,"Pronoun, demonstrative"
+2411_sabellius,Sabellius,,,"Noun, proper"
+2412_feineleinwand,feine Leinwand,,,"Noun, common"
+2413_sabao,Sabaoþ,,,"Noun, proper"
+2414_sabbato,sabbato,,,"Noun, common, masculine"
+2415_saddukaieis,Saddukaieis,,,"Noun, proper"
+2416_satt,satt,,,<none>
+2417_der,der,,,"Pronoun, relative"
+2418_senken,senken,,,Verb
+2419_versenken,versenken,,,Verb
+2420_ufsaggqjan,uf-saggqjan,,,<none>
+2421_untergangwesten,"Untergang, Westen",,,"Noun, common"
+2422_vorlesungrezitation,"Vorlesung, Rezitation",,,"Noun, common, masculine"
+2424_wasauchimmer,was auch immer,,,"Pronoun, indefinite"
+2425_eccesieh,"ecce, sieh",,,Adverb
+2426_saen,säen,,,Verb
+2427_einsaen,einsäen,,,Verb
+2428_sechs,sechs,,,"Numeral, cardinal"
+2429_dersechste,der sechste,,,"Numeral, ordinal"
+2430_sehn,sehn,,,Verb
+2433_umsehn,umsehn,,,Verb
+2434_erblicken,erblicken,,,Verb
+2436_durchschauen,dúrchschauen,,,Verb
+2437_aufblicken,aufblicken,,,Verb
+2438_anseilen,anseilen,,,Verb
+2439_sailaum,Sailaum,,,"Noun, proper"
+2440_saimaiein,Saimaiein,,,"Noun, proper"
+2441_zogernsaumen,"zögern, säumen",,,Verb
+2442_schmerz,Schmerz,,,"Noun, common, neuter"
+2443_sairok,Sairok,,,"Noun, proper"
+2444_seele,Seele,,,"Noun, common, feminine"
+2445_see,See,,,"Noun, common, masculine"
+2446_saixaineia,Saixaineia,,,"Noun, proper"
+2447_streiten,streiten,,,Verb
+2448_widersprechenbekampfen,"widersprechen, bekämpfen",,,Verb
+2449_schelten,schelten,,,Verb
+2450_vorstellenanrateneintretenfurbezeichnen,"vorstellen, anraten; eintreten für; bezeichnen",,,Verb
+2451_anainsakan,ana-insakan,,,Verb
+2452_erorternvorlegen,"erörtern, vorlegen",,,Verb
+2453_streit,Streit,,,"Noun, common, feminine"
+2454_sack,Sack,,,"Noun, common, masculine"
+2455_streitsuchtig,streitsüchtig,,,Adjective
+2456_salamis,Salamis,,,"Noun, proper"
+2457_salaiel,Salaþiel,,,"Noun, proper"
+2459_salben,salben,,,Verb
+2460_salbe,Salbe,,,"Noun, common, feminine"
+2461_leichtfertigesgeschwatz,leichtfertiges Geschwätz,,,"Noun, common, feminine"
+2462_herberge,Herberge,,,"Noun, common, feminine"
+2463_opfern,opfern,,,Verb
+2464_darbringen,darbringen,,,Verb
+2465_zumopferbringen,zum Opfer bringen,,,Verb
+2466_herbergenbleiben,"herbergen, bleiben",,,Verb
+2467_herbergenehmen,Herberge nehmen,,,Verb
+2468_salmon,Salmon,,,"Noun, proper"
+2469_salome,Salome,,,"Noun, proper"
+2470_salz,Salz,,,"Noun, common, neuter"
+2471_salzen,salzen,,,Verb
+2472_derselbedernamliche,"derselbe, der nämliche",,,Pronoun
+2474_desselbengeschlechtsverwandt,"desselben Geschlechts, verwandt",,,Adjective
+2475_gleichgro,gleich groß,,,Adjective
+2476_gleich,gleich,,,Adjective
+2477_aufgleicheweisegleichebenfalls,"auf gleiche Weise, gleich-, ebenfalls",,,Adverb
+2478_zusammenzugleich,"zusammen, zugleich",,,Adverb
+2479_ubereinstimmung,Übereinstimmung,,,"Noun, common, feminine"
+2480_samareites,Samareites,,,"Noun, proper"
+2481_samaria,Samaria,,,"Noun, proper"
+2482_einmutig,einmütig,,,Adjective
+2483_nacheinemunddemselbenorthinzusammen,nach einem und demselben Ort hin; zusammen,,,Adverb
+2484_diedenmenschenzugefallensuchen,die den Menschen zu gefallen suchen,,,Verb
+2485_senden,senden,,,Verb
+2486_entsendengeleiten,"entsenden, geleiten",,,Verb
+2487_vorausentsenden,vorausentsenden,,,Verb
+2488_entsenden,entsenden,,,Verb
+2490_mitentsenden,mitentsenden,,,Verb
+2491_aussenden,aussenden,,,Verb
+2492_saraipta,Saraipta,,,"Noun, proper"
+2493_sarra,Sarra,,,"Noun, proper"
+2495_satan,Satan,,,"Noun, proper"
+2496_setzen,setzen,,,Verb
+2497_absetzenentlassen,"absetzen, entlassen",,,Verb
+2498_darstellen,darstellen,,,Verb
+2499_umgeben,umgeben,,,Verb
+2500_hinsetzenhinstellenhinlegen,"hinsetzen, hinstellen, hinlegen",,,Verb
+2501_vorstellendarstellen,"vorstellen, darstellen",,,Verb
+2502_versetzen,versetzen,,,Verb
+2503_setztendarauf,setzten darauf,,,Verb
+2504_satt,satt,,,Adjective
+2505_saudauma,Saudauma,,,"Noun, proper"
+2507_sonne,Sonne,,,"Noun, common, neuter"
+2508_saulaumon,Saulaumon,,,"Noun, proper"
+2509_besudeln,besudeln,,,Verb
+2510_besudeltwerden,besudelt werden,,,Verb
+2511_saule,Säule,,,"Noun, common, feminine"
+2512_syrer,Syrer,,,"Noun, common, masculine"
+2513_saurais,Saurais,,,"Noun, proper"
+2514_sorgekummer,"Sorge, Kummer",,,"Noun, common, feminine"
+2515_sorgenbekummertsein,"sorgen, bekümmert sein",,,Verb
+2516_syrerin,Syrerin,,,"Noun, common, feminine"
+2517_grund,Grund,,,"Noun, common, feminine"
+2518_opfer,Opfer,,,"Noun, common, masculine"
+2519_sei,sei,,,<none>
+2522_seimon,Seimon,,,"Noun, proper"
+2523_seina,Seina,,,"Noun, proper"
+2524_sich,sich,,,"Pronoun, personal, reflexive"
+2525_selbstsuchtig,selbstsüchtig,,,Adjective
+2526_seinihr,"sein, ihr",,,"Pronoun, possesive, reflexive"
+2528_spat,spät,,,Adjective
+2529_tuchtigkeitgute,"Tüchtigkeit, Güte",,,"Noun, common, feminine"
+2530_gutgutig,"gut, gütig",,,Adjective
+2531_sem,Sem,,,"Noun, proper"
+2533_sibakanei,sibakþanei,,,Foreign word
+2534_sippenverhaltnisverwandtschaft,"Sippenverhältnis, Verwandtschaft",,,"Noun, common, feminine"
+2535_sichmiteinemversohnen,sich mit einem  versöhnen,,,Verb
+2536_sieben,sieben,,,"Numeral, cardinal"
+2537_siebzig,siebzig,,,"Numeral, cardinal"
+2539_sittegewohnheit,"Sitte, Gewohnheit",,,"Noun, common, masculine"
+2540_sichfreuenfrohlocken,"sich freuen, frohlocken",,,Verb
+2541_singenvorlesenrezitieren,"singen; vorlesen, rezitieren",,,Verb
+2542_vorlesenrezitieren,"vorlesen, rezitieren",,,Verb
+2543_sieg,Sieg,,,"Noun, common, neuter"
+2544_siegeslohn,Siegeslohn,,,"Noun, common, neuter"
+2545_einenmiteinemsiegelversehnihnsiegeln,"einen mit einem Siegel versehn, ihn siegeln",,,Verb
+2546_versiegeln,versiegeln,,,Verb
+2547_besiegelnbestatigen,"besiegeln, bestätigen",,,Verb
+2548_siegel,Siegel,,,"Noun, common, neuter"
+2549_sinken,sinken,,,Verb
+2550_untersinken,untersinken,,,Verb
+2551_versinkenuntergehn,"versinken, untergehn",,,Verb
+2553_sekel,Sekel,,,"Noun, common, masculine"
+2555_selbst,selbst,,,Pronoun
+2556_silvanus,Silvanus,,,"Noun, proper"
+2557_augenzeuge,Augenzeuge,,,"Noun, common, masculine"
+2558_freiwillig,freiwillig,,,Adjective
+2559_staunenverwunderung,"Staunen, Verwunderung",,,"Noun, common, neuter"
+2560_anstaunenbewundern,"anstaunen, bewundern",,,Verb
+2561_bewundertwerden,bewundert werden,,,Verb
+2562_erstaunlichwunderbar,"erstaunlich, wunderbar",,,Adjective
+2563_siloam,Siloam,,,"Noun, proper"
+2564_silber,Silber,,,"Noun, common, neuter"
+2565_silbern,silbern,,,Adjective
+2566_einstvordem,"einst, vordem",,,"Adverb, temporal"
+2567_senf,Senf,,,"Noun, common"
+2568_sineigs,sineigs,,,Adjective
+2569_deralteste,der Älteste,,,"Adjective, Superlative"
+2570_taglich,täglich,,,Adjective
+2571_immerallezeit,"immer, allezeit",,,Adverb
+2572_gang,Gang,,,"Noun, common, masculine"
+2573_sion,Sion,,,"Noun, proper"
+2574_schulerjunger,"Schüler, Jünger",,,"Noun, common, masculine"
+2575_jemandesschulersein,jemandes Schüler sein,,,Verb
+2576_sitzen,sitzen,,,Verb
+2577_scheuenrucksichtnehmen,"scheuen, Rücksicht nehmen",,,Verb
+2578_herumsitzenherumwohnen,"herumsitzen, herumwohnen",,,Verb
+2579_nachbar,Nachbar,,,"Noun, common, masculine"
+2580_ergreifen,ergreifen,,,Verb
+2581_sichniedersetzenplatznehmen,"sich niedersetzen, Platz nehmen",,,Verb
+2582_sichaufsetzensichaufrichten,"sich aufsetzen, sich aufrichten",,,Verb
+2583_sitz,Sitz,,,"Noun, common, masculine"
+2584_nahen,nähen,,,Verb
+2585_siechenkranksein,"siechen, krank sein",,,Verb
+2586_krankheit,Krankheit,,,"Noun, common, feminine"
+2587_krankschwach,"krank, schwach",,,Adjective
+2588_gesichtdassehensehkraftgestaltsinnfalligeerscheinungaugenscheingesichtvision,"Gesicht, das Sehen, Sehkraft; Gestalt, sinnfällige Erscheinung; Augenschein; Gesicht, Vision",,,"Noun, common, feminine"
+2590_schabenscheren,"schaben, scheren",,,Verb
+2591_schatten,Schatten,,,"Noun, common, masculine"
+2592_uberschatten,überschatten,,,Verb
+2593_sichbereitmachen,sich bereit machen,,,Verb
+2594_scheidentrennen,"scheiden, trennen",,,Verb
+2595_absondernabtrennen,"absondern, abtrennen",,,Verb
+2596_zerteilen,zerteilen,,,Verb
+2597_sichzuruckziehn,sich zurückziehn,,,Verb
+2598_geschiedenwerden,geschieden werden,,,Verb
+2599_schuldigseinsollen,"schuldig sein, sollen",,,<none>
+2600_ziegel,Ziegel,,,"Noun, common, feminine"
+2601_knechtschaftdienstgottesdienst,"Knechtschaft, Dienst; Gottesdienst",,,"Noun, common, masculine"
+2602_einemdienen,einem dienen,,,Verb
+2603_mitknechtseinmitdienen,"Mitknecht sein, mitdienen",,,Verb
+2604_knechtdiener,"Knecht, Diener",,,"Noun, common, masculine"
+2605_sichschamen,sich schämen,,,Verb
+2606_beschamtwerden,beschämt werden,,,Verb
+2607_schande,Schande,,,"Noun, common, feminine"
+2608_erschaffen,erschaffen,,,Verb
+2609_skariotau,Skariotau,,,<none>
+2610_dasienuchternwerdenzurbesinnungkommenausdenschlingendesteufels,"daß sie nüchtern werden, zur Besinnung kommen aus den Schlingen des Teufels",,,Verb
+2611_wechsler,Wechsler,,,"Noun, common, masculine"
+2612_geldgeldstuckmine,"Geld, Geldstück; Mine",,,"Noun, common, masculine"
+2613_schadlich,schädlich,,,<none>
+2614_schadenunrecht,"Schaden, Unrecht",,,"Noun, common, neuter"
+2615_schaden,schaden,,,Verb
+2616_einemschadenzufugenin,einem Schaden zufügen in,,,Verb
+2617_schadlich,schädlich,,,Adjective
+2618_riemen,Riemen,,,"Noun, common"
+2619_anmutig,anmutig,,,Adjective
+2621_skorpion,Skorpion,,,"Noun, common, feminine"
+2622_zipfel,Zipfel,,,"Noun, common"
+2623_dasienuchternwerdenzurbesinnungkommenausdenschlingendesteufels,"daß sie nüchtern werden, zur Besinnung kommen aus den Schlingen des Teufels",,,<none>
+2624_leuchte,Leuchte,,,"Noun, common"
+2625_scheinenleuchtenaufblitzen,"scheinen, leuchten; aufblitzen",,,Verb
+2626_umleuchten,umleuchten,,,Verb
+2627_auslegungerklarung,"Auslegung, Erklärung",,,"Noun, common, feminine"
+2628_erklaren,erklären,,,Verb
+2629_klardeutlich,"klar, deutlich",,,Adjective
+2630_wandern,wandern,,,Verb
+2631_schild,Schild,,,"Noun, common, masculine"
+2632_fleischer,Fleischer,,,"Noun, common, masculine"
+2633_schilling,Schilling,,,"Noun, common, masculine"
+2634_schiff,Schiff,,,"Noun, common, neuter"
+2635_verstoenvonsichwegstoen,"verstoßen, von sich wegstoßen",,,Verb
+2636_schuh,Schuh,,,"Noun, common, masculine"
+2637_bosergeistdamon,"böser Geist, Dämon",,,"Noun, common, neuter"
+2640_haupthaar,Haupthaar,,,"Noun, common"
+2641_spiegel,Spiegel,,,"Noun, common, masculine"
+2642_schuldnerderschuldige,"Schuldner, der Schuldige",,,"Noun, common, masculine"
+2643_schuldigseinsollen,"schuldig sein, sollen",,,Verb
+2644_schauer,Schauer,,,"Noun, common, feminine"
+2645_skwus,Skwþus,,,"Noun, proper"
+2646_raufbold,Raufbold,,,"Noun, common, masculine"
+2647_schlagen,schlagen,,,Verb
+2648_abschlagen,abschlagen,,,Verb
+2649_schlag,Schlag,,,"Noun, common, masculine"
+2650_schlichtglatteben,"schlicht; glatt, eben",,,Adjective
+2651_dasschlachten,das Schlachten,,,"Noun, common, feminine"
+2652_abstreifenablegen,"abstreifen, ablegen",,,Verb
+2653_inangstversetzen,in Angst versetzen,,,Verb
+2658_schaden,Schaden,,,"Noun, common, feminine"
+2659_gefahr,Gefahr,,,"Noun, common, feminine"
+2660_beschadigen,beschädigen,,,Verb
+2661_schlimmgefahrlich,"schlimm, gefährlich",,,Adjective
+2663_schlafen,schlafen,,,Verb
+2665_entschlummernentschlafen,"entschlummern, entschlafen",,,Verb
+2666_schlaf,Schlaf,,,"Noun, common"
+2667_verschlingenverschlucken,"verschlingen, verschlucken",,,Verb
+2668_schleichenschlupfen,"schleichen, schlüpfen",,,Verb
+2669_einschleichen,einschleichen,,,Verb
+2670_fett,Fett,,,"Noun, common, neuter"
+2671_feige,Feige,,,"Noun, common, masculine"
+2672_feigenbaum,Feigenbaum,,,"Noun, common, masculine"
+2673_derkleinste,der Kleinste,,,"Adjective, Superlative"
+2674_mistkot,"Mist, Kot",,,"Noun, common, feminine"
+2675_bestreichen,bestreichen,,,Verb
+2676_aufstreichenauf,aufstreichen auf,,,Verb
+2677_bewirken, bewirken,,,Verb
+2678_myrrhe,Myrrhe,,,"Noun, common, neuter"
+2679_gewandmantel,"Gewand, Mantel",,,"Noun, common, masculine"
+2680_schnee,Schnee,,,"Noun, common, masculine"
+2681_anfassenanruhren,"anfassen, anrühren",,,Verb
+2682_schneidenernten,schneiden; ernten,,,Verb
+2684_schlachten,schlachten,,,Verb
+2686_hineilenkommen,"hineilen, kommen",,,Verb
+2687_eilends,eilends,,,Adverb
+2688_eiliger,eiliger,,,"Adverb, Comparative"
+2689_eilen,eilen,,,Verb
+2690_hinzueilen,hinzueilen,,,Verb
+2691_zuvorkommen,zuvorkommen,,,Verb
+2692_vorangehn,vorangehn,,,Verb
+2693_vorwegnehmen,vorwegnehmen,,,Verb
+2694_ereilengelangenzu,"ereilen, gelangen zu",,,Verb
+2695_korb,Korb,,,"Noun, common, feminine"
+2696_weisheit,Weisheit,,,"Noun, common, feminine"
+2697_weise,weise,,,Adjective
+2699_forscher,Forscher,,,"Noun, common, masculine"
+2700_dassuchen,das Suchen,,,"Noun, common, feminine"
+2701_suchen,suchen,,,Verb
+2702_aufsuchen,aufsuchen,,,Verb
+2703_mitdisputieren,mitdisputieren,,,Verb
+2704_erforschen,erforschen,,,Verb
+2705_disputationstreitfragegrubelei,"Disputation, Streitfrage, Grübelei",,,"Noun, common, feminine"
+2706_soseipatrus,Soseipatrus,,,"Noun, proper"
+2707_sattigung,Sättigung,,,"Noun, common"
+2708_ersattigen,ersättigen,,,Verb
+2709_spaherordonnanz,"Späher, Ordonnanz",,,"Noun, common"
+2710_speichel,Speichel,,,"Noun, common"
+2711_sperling,Sperling,,,"Noun, common, masculine"
+2712_rennbahn,Rennbahn,,,"Noun, common, feminine"
+2713_speien,speien,,,Verb
+2714_entgegenspeien,entgegenspeien,,,Verb
+2715_bespeien,bespeien,,,Verb
+2716_ausspeien,ausspeien,,,Verb
+2717_spat,spät,,,"Adjective, Comparative"
+2718_derjungstetag,der jüngste Tag,,,"Adjective, Superlative"
+2719_spedumists,spedumists,,,"Adjective, Superlative"
+2720_tafel,Tafel,,,"Noun, common, feminine"
+2721_sagefabel,"Sage, Fabel",,,"Noun, common, neuter"
+2722_verkundiger,Verkündiger,,,"Noun, common, masculine"
+2723_kunden,künden,,,Verb
+2724_verkunden,verkünden,,,Verb
+2725_gutesfrohebotschaftkunden,"Gutes, frohe Botschaft künden",,,Verb
+2727_verkundenerzahlen,"verkünden, erzählen",,,Verb
+2728_spinnen,spinnen,,,Verb
+2729_schnellbald,"schnell, bald",,,Adverb
+2731_grundstoffeelemente,"Grundstoffe, Elemente",,,"Noun, common, masculine"
+2732_stichaus,stich aus,,,Verb
+2733_etwasanstoenan,etwas anstoßen an,,,Verb
+2734_staifanus,Staifanus,,,"Noun, proper"
+2735_steigweg,"Steig, Weg",,,"Noun, common, feminine"
+2736_steinig,steinig,,,Adjective
+2737_steinern,steinern,,,Adjective
+2738_steinigen,steinigen,,,Verb
+2739_stein,Stein,,,"Noun, common, masculine"
+2740_stern,Stern,,,"Noun, common, feminine"
+2741_dieunfruchtbare,die Unfruchtbare,,,"Noun, common, feminine"
+2742_malwundmal,"Mal, Wundmal",,,"Noun, common, masculine"
+2743_einenversehnmit,einen versehn mit,,,Verb
+2744_erwerbenbekommen,"erwerben, bekommen",,,Verb
+2745_lallendstammelnd,"lallend, stammelnd",,,Adjective
+2746_stehn,stehn,,,Verb
+2747_abstehnablassenabfallen,"abstehn, ablassen, abfallen",,,Verb
+2748_entgegenstehnwiderstehnwiderstreiten,"entgegenstehn, widerstehn, widerstreiten",,,Verb
+2749_dabeistehn,dabei stehn,,,Verb
+2750_herumstehnumringen,"herumstehn, umringen",,,Verb
+2751_vorsteher,Vorsteher,,,Verb
+2752_stehnbleibenhaltmachen,"stehn bleiben, halt machen",,,Verb
+2753_dadertagbevorsteht,daß der Tag bevorsteht,,,Verb
+2754_zusammenstehnmit,zusammenstehn mit,,,Verb
+2755_sichtrennenabschiednehmenvon,"sich trennen, Abschied nehmen von",,,Verb
+2756_sicherhebenaufbrechenauferstehn,"sich erheben, aufbrechen, auferstehn",,,Verb
+2757_ufergestade,"Ufer, Gestade",,,"Noun, common"
+2758_statteortraumplatz,"Stätte, Ort ; Raum, Platz",,,"Noun, common, masculine"
+2759_gerichturteilstreitsache,"Gericht, Urteil, Streitsache",,,"Noun, common, feminine"
+2760_richter,Richter,,,"Noun, common, masculine"
+2761_richterstuhl,Richterstuhl,,,"Noun, common, masculine"
+2762_vertrocknen,vertrocknen,,,Verb
+2763_siebezeigtenihrunwillen,sie bezeigten ihr Unwillen,,,Verb
+2764_stoenan,stoßen an,,,Verb
+2765_steigen,steigen,,,Verb
+2766_hinabsteigen,hinabsteigen,,,Verb
+2767_hineinsteigen,hineinsteigen,,,Verb
+2768_daruberemporsteigen,darüber empor steigen,,,Verb
+2769_emporsteigen,emporsteigen,,,Verb
+2770_stimme,Stimme,,,"Noun, common, feminine"
+2771_stichaus,stich aus,,,<none>
+2772_stoen,stoßen,,,Verb
+2773_anstoenan,anstoßen an,,,Verb
+2774_anstoen,anstoßen,,,Verb
+2775_becherkelch,"Becher, Kelch",,,"Noun, common, masculine"
+2776_stichpunkt,"Stich, Punkt",,,"Noun, common, masculine"
+2777_stehlen,stehlen,,,Verb
+2778_stierkalb,"Stier, Kalb",,,"Noun, common, masculine"
+2779_aufstellengeltendmachen,"aufstellen, geltend machen",,,Verb
+2780_geduldgeduldigesertragen,"Geduld, geduldiges Ertragen",,,"Noun, common, neuter"
+2782_anfangenanheben,"anfangen, anheben",,,Verb
+2783_stojan,stojan,,,Verb
+2784_einurteilabgebenuberurteilen,ein Urteil abgeben über urteilen,,,Verb
+2785_stuhlthron,"Stuhl, Thron",,,"Noun, common, masculine"
+2786_wesengegenstandzuversichterwartung,"Wesen, Gegenstand, Zuversicht, Erwartung",,,"Noun, common"
+2787_aufrechterhalten,aufrecht erhalten,,,Verb
+2788_streuen,streuen,,,Verb
+2789_bestreuen,bestreuen,,,Verb
+2790_darunterstreuenunterbreiten,"darunterstreuen, únterbreiten",,,Verb
+2792_staub,Staub,,,"Noun, common, masculine"
+2793_sohle,Sohle,,,"Noun, common, feminine"
+2794_dasfundamentlegenbegrunden,"das Fundament legen, begründen",,,Verb
+2795_teilsteilsteils,teils __ teils __ teils,,,Adverb
+2796_irgendeinereingewisserjemandeiner,"irgend einer, ein gewisser, jemand, einer",,,"Pronoun, indefinite"
+2797_abgesondertbesondersallein,"abgesondert, besonders, allein",,,Adverb
+2798_wahrheit,Wahrheit,,,"Noun, common, feminine"
+2799_sunjaifrias,Sunjaifriþas,,,"Noun, proper"
+2800_wahrwahrhaft,"wahr, wahrhaft",,,Adjective
+2801_wahrhaft,wahrhaft,,,Adjective
+2802_entschuldigen,entschuldigen,,,Verb
+2803_rechtfertigen,rechtfertigen,,,Verb
+2804_verteidigung,Verteidigung,,,"Noun, common, feminine"
+2805_sonne,Sonne,,,"Noun, common"
+2806_alsbaldplotzlichaufeinmal,"alsbald, plötzlich, auf einmal",,,Adverb
+2807_sogleich,sogleich,,,Adverb
+2808_sobaldals,sobald als,,,Conjunction
+2809_sohn,Sohn,,,"Noun, common, masculine"
+2811_wurzen,würzen,,,Verb
+2812_wegendeinesmagens,wegen deines Magens,,,"Noun, common"
+2813_susanna,Susanna,,,"Noun, proper"
+2814_nachgiebigmild,"nachgiebig, mild",,,Adjective
+2815_kitzeln,kitzeln,,,Verb
+2816_sujon,suþjon,,,Verb
+2817_so,so,,,Adverb
+2818_sodadaheralso,"so daß, daher, also",,,Conjunction
+2819_schwankendmachen,schwankend machen,,,Verb
+2820_so,so ,,,Adverb
+2821_schwiegervater,Schwiegervater,,,"Noun, common, masculine"
+2822_schwiegermutter,Schwiegermutter,,,"Noun, common, feminine"
+2823_abwischenausloschen,"abwischen, auslöschen",,,Verb
+2824_abwischenabtrocknenmit,"abwischen, abtrocknen mit",,,Verb
+2825_sogro,so groß,,,Adjective
+2826_sobeschaffeneinsolcher,"so beschaffen, ein solcher",,,Adjective
+2827_schwamm,Schwamm,,,"Noun, common"
+2828_schworen,schwören,,,Verb
+2829_beschworen,beschwören,,,Verb
+2830_falschschworen,falsch schwören,,,Verb
+2831_ohnegrundvergebensumsonst,"ohne Grund, vergebens, umsonst",,,Adverb
+2832_tinte,Tinte,,,"Noun, common"
+2833_swartizla,swartizla,,,<none>
+2834_schwarz,schwarz,,,Adjective
+2835_sowiegleichwiewie,"sowie, gleichwie, wie",,,Adverb
+2836_sonun,so nun,,,Unassigned
+2837_so,so,,,Unassigned
+2838_wie,wie,,,Adverb
+2839_jubelfrohlocken,"Jubel, Frohlocken",,,"Noun, common, feminine"
+2840_jubelntriumphieren,"jubeln, triumphieren",,,Verb
+2841_ablassen,ablassen,,,Verb
+2842_schwein,Schwein,,,"Noun, common, neuter"
+2843_ehren,ehren,,,Verb
+2844_verherrlichen,verherrlichen,,,Verb
+2845_verunehrenbeschimpfen,"verunehren, beschimpfen",,,Verb
+2846_ehre,Ehre,,,"Noun, common, feminine"
+2847_geehrtgeachtet,"geehrt, geachtet",,,Adjective
+2848_eigenangehorig,"eigen, angehörig",,,Adjective
+2849_eigentumvermogen,"Eigentum, Vermögen",,,"Noun, common, neuter"
+2850_dochzwarwenigstens,"doch zwar, wenigstens",,,Particle
+2851_schwefel,Schwefel,,,"Noun, common"
+2852_flotenspieler,Flötenspieler,,,"Noun, common, masculine"
+2853_floteblasenaufspielen,"Flöte blasen, aufspielen",,,Verb
+2854_jubelfrohlocken,"Jubel, Frohlocken",,,<none>
+2856_reinigung,Reinigung,,,"Noun, common, feminine"
+2857_reinheitkeuschheit,"Reinheit, Keuschheit",,,"Noun, common, feminine"
+2858_reinunschuldigunstraflich,"rein, unschuldig; unsträflich",,,Adjective
+2860_offenkundigoffenbarbekannt,"offenkundig, offenbar, bekannt",,,Adjective
+2861_imsterbenliegen,im Sterben liegen,,,Verb
+2862_sterben,sterben,,,Verb
+2863_migaswiltan,miþ-gaswiltan,,,Verb
+2864_starkekraft,"Stärke, Kraft",,,"Noun, common, feminine"
+2866_starken,stärken,,,Verb
+2867_starkwerden,stark werden,,,Verb
+2868_erstarken,erstarken,,,Verb
+2869_starkkraftiggesund,"stark, kräftig, gesund",,,Adjective
+2870_schwester,Schwester,,,"Noun, common, feminine"
+2871_swmaion,Swmaion,,,"Noun, proper"
+2872_synagogenvorsteher,Synagogenvorsteher,,,"Noun, common, masculine"
+2875_seufzen,seufzen,,,Verb
+2876_erseufzen,erseufzen,,,Verb
+2877_aufseufzen,aufseufzen,,,Verb
+2879_demtodenahe,dem Tode nahe,,,"Noun, common, masculine"
+2881_haar,Haar,,,"Noun, common, neuter"
+2882_zahretrane,"Zähre, Träne",,,"Noun, common, neuter"
+2883_weinen,weinen,,,Verb
+2884_reienzerren,"reißen, zerren",,,Verb
+2885_zerstreuen,zerstreuen,,,Verb
+2886_rechts,rechts,,,Adjective
+2887_dierechte,die Rechte,,,"Noun, common, feminine"
+2888_zehn,zehn,,,"Numeral, cardinal"
+2889_derzehnte,der zehnte,,,"Numeral, ordinal"
+2890_hundertfaltig,hundertfältig,,,Adjective
+2891_hundert, Hundert,,,"Numeral, cardinal"
+2892_mitfunfzehnreihigenhundert,mit fünf zehnreihigen  Hundert,,,Adjective
+2893_anzeichnen,Anzeichnen,,,"Noun, common, neuter"
+2894_einemetwaszeigen,einem etwas Zeigen,,,Verb
+2895_einzeichengebenbelehren,"ein Zeichen geben, belehren",,,Verb
+2896_bezeichnenauszeichnenerweisen,bezeichnen; auszeichnen; erweisen,,,Verb
+2897_zeichenwunder,"Zeichen, Wunder",,,"Noun, common, feminine"
+2898_korb,korb,,,"Noun, common, feminine"
+2899_zweig,Zweig,,,"Noun, common, masculine"
+2901_zerreienzerstorenaufheben,"zerreißen, zerstören, aufheben",,,Verb
+2902_tairtius,Tairtius,,,"Noun, proper"
+2903_taitrarkes,taitrarkes,,,"Noun, common"
+2904_magdlein,Mägdlein,,,Foreign word
+2905_lehreunterweisung,"Lehre, Unterweisung",,,"Noun, common, feminine"
+2906_lehrenziehenunterrichten,"lehren, ziehen, unterrichten",,,Verb
+2907_lehrer,Lehrer,,,"Noun, common"
+2908_belehrenerziehen,"belehren, erziehen",,,Verb
+2909_bezahmenbezwingen,"bezähmen, bezwingen",,,Verb
+2910_brennenmachenzunden,"brennen machen, zünden",,,Verb
+2911_miteinembrandmalversehn,mit einem Brandmal versehn,,,Verb
+2912_inbrandsetzenverbrennen,"in Brand setzen, verbrennen",,,Verb
+2913_kennzeichnen,kennzeichnen,,,Verb
+2914_brichlosbrichinjubelaus,"brich los, brich in Jubel aus",,,Verb
+2915_berauben,berauben,,,Verb
+2916_werktat,"Werk, Tat",,,"Noun, common, neuter"
+2917_tunmachen,"tun, machen",,,Verb
+2918_vollbringenbewirken,", vollbringen, bewirken",,,Verb
+2919_ubeltater,Übeltäter,,,Verb
+2920_abreien,abreißen,,,Verb
+2921_zerreien,zerreißen,,,Verb
+2922_waszunichtewirddasvergangliche,"was zu nichte wird, das Vergängliche",,,Verb
+2923_teibairius,Teibairius,,,"Noun, proper"
+2924_anzeigenverkundigen,"anzeigen, verkündigen",,,Verb
+2925_vorherverkundigenvorhersagen,"vorherverkündigen, vorhersagen",,,Verb
+2926_anruhren,anrühren,,,<none>
+2927_teimaius,Teimaius,,,"Noun, proper"
+2928_teimauaius,Teimauþaius,,,"Noun, proper"
+2929_teitus,Teitus,,,"Noun, proper"
+2930_anruhren,anrühren,,,Verb
+2931_beruhren,berühren,,,Verb
+2932_ordnung,Ordnung,,,"Noun, common, feminine"
+2933_durchwahlbestimmtverordnet,"durch Wahl bestimmt, verordnet",,,Verb
+2934_tibairiadau,Tibairiadau,,,"Noun, proper"
+2935_bewohnervontiberias,Bewohner von Tiberias,,,"Noun, proper"
+2936_dekadenbildetdiezehnervon,Dekaden; bildet die Zehner von,,,Unassigned
+2937_einemanhangen,einem anhangen,,,Verb
+2938_erlangen,erlangen,,,Verb
+2939_zusammenfugen,zusammenfügen,,,Verb
+2940_damitsiegelegenheitfandenihnanzuklagen,damit sie Gelegenheit fänden ihn anzuklagen,,,Unassigned
+2941_geziemenfur,geziemen für ,,,Verb
+2942_bauen,bauen,,,<none>
+2943_erbauung,Erbauung,,,"Noun, common, feminine"
+2944_zimmermann,Zimmermann,,,"Noun, common, masculine"
+2945_bauen,bauen,,,Verb
+2946_daraufbauen,daraufbauen,,,Verb
+2947_erbauen,erbauen,,,Verb
+2949_ziehnfuhren,"ziehn, führen",,,Verb
+2950_wegziehn,wegziehn,,,Verb
+2951_herbeiziehnherbeifuhrenherbeibringen,"herbeiziehn, herbeiführen, herbeibringen",,,Verb
+2952_hineinziehnhineinfuhren,"hineinziehn, hineinführen",,,Verb
+2953_umherfuhren, umherführen,,,Verb
+2954_wegziehnwegfuhren,"wegziehn, wegführen",,,Verb
+2955_mit,mit,,,Verb
+2956_hinausfuhrenwegfuhren,"hinausführen, wegführen",,,Verb
+2957_tobeias,Tobeias,,,"Noun, proper"
+2958_trakauneitidaus,Trakauneitidaus,,,"Noun, proper"
+2959_vertrauenzuversicht,"Vertrauen, Zuversicht",,,"Noun, common, feminine"
+2960_trauenzutrauenhaben,"trauen, Zutrauen haben",,,Verb
+2961_vertrauen,vertrauen,,,Verb
+2962_trauadai,Trauadai,,,"Noun, proper"
+2963_bundnisbund,"Bündnis, Bund",,,"Noun, common, neuter"
+2964_bundnisbund,"Bündnis, Bund",,,"Noun, common, feminine"
+2965_treuzuverlassig,"treu, zuverlässig",,,Adjective
+2966_treulichzuverlassig,"treulich, zuverlässig",,,"Adverb, Comparative"
+2967_trauer,Trauer,,,"Noun, common, feminine"
+2968_einenbedrangen,einen bedrängen,,,Verb
+2969_holzprugel,"Holz, Prügel",,,"Noun, common, neuter"
+2970_holzern,hölzern,,,Adjective
+2971_treten,treten,,,Verb
+2972_zertreten,zertreten,,,Verb
+2973_einpfropfen,einpfropfen,,,Verb
+2974_uberstreuen,überstreuen,,,Verb
+2975_gestirn,Gestirn,,,"Noun, common, neuter"
+2976_zunge,Zunge,,,"Noun, common, feminine"
+2977_festigkeitsicherheitfundamentfestebollwerk,"Festigkeit, Sicherheit; Fundament ; Feste, Bollwerk",,,"Noun, common, feminine"
+2978_festigenstarken,"festigen, stärken",,,Verb
+2979_befestigenbestarken,"befestigen, bestärken",,,Verb
+2980_festbestandig,"fest, beständig",,,Adjective
+2981_brennen,brennen,,,Verb
+2982_verbrennen,verbrennen,,,Verb
+2983_zahn,Zahn,,,"Noun, common, masculine"
+2984_twai,twai,,,"Numeral, cardinal"
+2985_zwolfjahrig,zwölfjährig,,,Adjective
+2986_zwolf,zwölf,,,"Numeral, cardinal"
+2987_daszweifeln,das Zweifeln,,,"Noun, common, feminine"
+2989_zweifel,Zweifel,,,"Noun, common"
+2990_zwischenbeidengrenzen,zwischen beiden Grenzen,,,"Numeral, other"
+2991_zwistigkeit,Zwistigkeit,,,"Noun, common, feminine"
+2992_twkeikus,Twkeikus,,,"Noun, proper"
+2994_addaius,Þaddaius,,,"Noun, proper"
+2995_wohin,wohin,,,Adverb
+2996_dank,Dank,,,<none>
+2997_denkenuberlegen,"denken, überlegen",,,Verb
+2998_mirfallteinwasichtunsoll,"mir fällt ein, was ich tun soll",,,Verb
+3000_dasschweigen,das Schweigen,,,"Noun, common, feminine"
+3001_schweigen,schweigen,,,Verb
+3002_verstummen,verstummen,,,Verb
+3003_lehm,Lehm,,,"Noun, common, feminine"
+3004_aiaufeilus,Þaiaufeilus,,,"Noun, proper"
+3005_durch,durch,,,"Preposition, +A"
+3006_lochnadelohr,"Loch, Nadelöhr",,,"Noun, common, neuter"
+3007_verdorren,verdorren,,,Verb
+3008_aissaloneikai,Þaissaloneikai,,,"Noun, proper"
+3009_aissalauneikaie,Þaissalauneikaie,,,"Noun, proper"
+3010_danndarauf,"dann, darauf",,,"Adverb, temporal"
+3011_weiternochmehr,"weiter, noch mehr",,,Adverb
+3012_weiternoch,"weiter, noch",,,Adverb
+3013_solangeals,so lange als,,,Conjunction
+3014_wann,wann,,,Conjunction
+3015_ausdehnensichausstrecken,"ausdehnen, sich ausstrecken",,,Verb
+3016_dank,Dank,,,"Noun, common"
+3017_jawohlalsodarum,"ja, wohl, also darum",,,Adverb
+3018_anuh,þanuh,,,Adverb
+3019_dort,dort,,,"Adverb, locative"
+3020_ara,Þara,,,"Noun, proper"
+3021_mangelarmut,"Mangel, Armut",,,"Noun, common, feminine"
+3022_sichenthalten,sich enthalten,,,Verb
+3024_wo,wo,,,Adverb
+3025_notighabenbedurfenmangelleiden,"nötig haben, bedürfen, Mangel leiden",,,<none>
+3026_ungewalkt,ungewalkt,,,Adjective
+3027_da,da,,,Adverb
+3028_derdieser,"der, dieser",,,<none>
+3029_daseine,das eine,,,Unassigned
+3030_nur,nur,,,Adverb
+3031_da,daß,,,Conjunction
+3032_dasistnamlich,"das ist, nämlich",,,Unassigned
+3034_dahervonda,"daher, von da",,,Adverb
+3035_vonwannen,von wannen,,,Adverb
+3036_vondadaher,"von da, daher",,,Adverb
+3037_als,als,,,Unassigned
+3038_wennauch,wenn auch,,,Conjunction
+3039_notighabenbedurfenmangelleiden,"nötig haben, bedürfen, Mangel leiden",,,Verb
+3040_notig,nötig,,,Adjective
+3041_bedurfnisnot,"Bedürfnis, Not",,,"Noun, common, feminine"
+3042_vondornen,von Dornen,,,Adjective
+3043_dorn,Dorn,,,"Noun, common, masculine"
+3044_bebauteslandacker,"bebautes Land, Acker",,,"Noun, common, neuter"
+3045_michdurstet,mich dürstet,,,Verb
+3046_dursten,dursten,,,Verb
+3047_verdorrenvertrocknen,"verdorren, vertrocknen",,,Verb
+3048_durst,Durst,,,"Noun, common, feminine"
+3049_durr,dürr,,,Adjective
+3050_umso,um so,,,Unassigned
+3051_darumda,"darum, daß",,,Unassigned
+3052_solangeals,so lange als,,,Particle
+3053_gedeihnfortschrittemachen,"gedeihn, Fortschritte machen",,,Verb
+3054_vorwartskommen,vorwärtskommen,,,Verb
+3055_ubertreffen,übertreffen,,,Verb
+3056_zeit,Zeit,,,"Noun, common, neuter"
+3057_donner,Donner,,,"Noun, common, feminine"
+3058_dein,dein,,,"Pronoun, possesive"
+3059_knechte,Knechte,,,"Noun, common, neuter"
+3060_heranziehn,heranziehn,,,Verb
+3061_meistvorzuglich,"meist, vorzüglich",,,Adverb
+3062_wohinauchimmer,wohin auch immer,,,Adverb
+3063_werauchimmer,wer auch immer,,,<none>
+3064_woauchimmer,wo auch immer,,,Adverb
+3065_werauchimmer,wer auch immer,,,"Pronoun, indefinite"
+3066_diebstahl,Diebstahl,,,"Noun, common, neuter"
+3067_verstohlenheimlich,"verstohlen, heimlich",,,Adverb
+3068_heiden,Heiden,,,"Noun, common, feminine"
+3069_konigsschloss,Königsschloss,,,"Noun, common, feminine"
+3070_herrschen,herrschen,,,Verb
+3071_mitherrschenmit,mitherrschen mit,,,Verb
+3072_konig,König,,,"Noun, common, masculine"
+3073_regierung,Regierung,,,"Noun, common, masculine"
+3074_heidnisch,heidnisch,,,Adverb
+3075_dieb,Dieb,,,"Noun, common, masculine"
+3076_knecht,Knecht,,,"Noun, common, masculine"
+3077_haussklavediener,"Haussklave, Diener",,,"Noun, common, masculine"
+3078_dasgutediegutesache,"das Gute, die gute Sache",,,"Noun, common, neuter"
+3079_gutgepriesen,"gut, gepriesen",,,Adjective
+3080_gute,Güte,,,"Noun, common, feminine"
+3082_segnen,segnen,,,Verb
+3083_einemdensegengeben,einem  den Segen geben,,,Verb
+3084_fluchen,fluchen,,,Verb
+3085_knechtschaft,Knechtschaft,,,"Noun, common"
+3087_unterjochenindienstbarkeitbringen,"unterjochen, in Dienstbarkeit bringen",,,Verb
+3088_magd,Magd,,,"Noun, common, feminine"
+3089_schrecken,schrecken,,,Verb
+3090_erschrecken,erschrecken,,,Verb
+3091_ermahnen,ermahnen,,,Verb
+3092_zart,zart,,,Adjective
+3093_flucht,Flucht,,,"Noun, common, masculine"
+3094_liuhan,þliuhan,,,Verb
+3095_wegfliehn,wegfliehn,,,Verb
+3096_diefluchtergreifenentfliehn,"die Flucht ergreifen, entfliehn",,,Verb
+3097_entfliehneinementrinnen,"entfliehn, einem entrinnen",,,Verb
+3098_omas,Þomas,,,"Noun, proper"
+3099_trostung,Tröstung,,,"Noun, common, feminine"
+3100_trostenmahnen,"trösten, mahnen",,,Verb
+3101_erquicken,erquicken,,,Verb
+3102_garafstjan,ga-þrafstjan,,,Verb
+3103_laufen,laufen,,,Verb
+3104_herbeilaufen,herbeilaufen,,,Verb
+3105_heuschrecke,Heuschrecke,,,"Noun, common, feminine"
+3106_streitsucht,Streitsucht,,,"Noun, common, feminine"
+3107_drangen,drängen,,,Verb
+3108_bedrangen,bedrängen,,,Verb
+3109_teich,Teich,,,"Noun, common, neuter"
+3110_drei,drei,,,"Numeral, cardinal"
+3111_derdritte,der dritte,,,"Numeral, ordinal"
+3112_dreschen,dreschen,,,Verb
+3113_einembeschwerdebringen,einem Beschwerde bringen,,,Verb
+3114_uben,üben,,,Verb
+3115_ubungstahlung,"Übung, Stählung",,,Verb
+3116_aussatz,Aussatz,,,"Noun, common, neuter"
+3117_aussatzig,aussätzig,,,Adjective
+3118_du,du,,,"Pronoun, personal"
+3119_derdu,der du,,,"Pronoun, personal, relative"
+3120_glaubenmeinengelten,"glauben, meinen; gelten",,,Verb
+3121_gewissen,Gewissen,,,"Noun, common, masculine"
+3122_dasduldenleidendiegeduld,"das Dulden, Leiden, die Geduld",,,"Noun, common, feminine"
+3123_dulden,dulden,,,Verb
+3124_erdulden,erdulden,,,Verb
+3125_erduldenertragen,"erdulden, ertragen",,,Verb
+3126_tausend,tausend,,,"Noun, common, feminine"
+3127_anfuhrervontausend,Anführer von Tausend,,,"Noun, common, masculine"
+3128_trompete,Trompete,,,"Noun, common, neuter"
+3129_trompeten,trompeten,,,Verb
+3132_sichabwaschen,sich abwaschen,,,Verb
+3133_etwasauswaschenabwaschen,"etwas auswaschen, abwaschen",,,Verb
+3134_badtaufe,"Bad, Taufe",,,"Noun, common, neuter"
+3135_zornstreitstreitigkeit,"Zorn, Streit, Streitigkeit",,,"Noun, common, feminine"
+3136_zornig,zornig,,,Adjective
+3137_sicherheit,Sicherheit,,,"Noun, common, feminine"
+3138_befestigen,befestigen,,,Verb
+3139_rauchopfer,Rauchopfer,,,"Noun, common, masculine"
+3140_u,-u,,,"Particle, enclitic"
+3142_ubeltaterisch,übeltäterisch,,,Adjective
+3143_schmahn,schmähn,,,<none>
+3144_schmahsuchtig,schmähsüchtig,,,Adjective
+3145_halle,Halle,,,"Noun, common, feminine"
+3146_unter,unter,,,"Preposition, +AD"
+3147_durcheidverpflichtetverbunden,"durch Eid verpflichtet, verbunden",,,Adjective
+3148_uber,über,,,"Preposition, +AD"
+3149_uberflieenduberschwanglichmachen,"überfließend, überschwänglich machen",,,Verb
+3150_uberfluuberma,"Überfluß, Übermaß",,,"Noun, common, masculine"
+3151_uberfulleuberflu,"Überfülle, Überfluß",,,"Noun, common, feminine"
+3152_ubervoll,übervoll,,,Adjective
+3153_oberpriester,Oberpriester,,,"Noun, common, masculine"
+3154_dasuberhorenderungehorsam,"das Überhören, der Ungehorsam",,,"Noun, common, feminine"
+3155_himmlisch,himmlisch,,,Adjective
+3156_daruberhinaus,darüber hinaus,,,Unassigned
+3157_vergessenheit,Vergessenheit,,,"Noun, common, feminine"
+3158_uberschrift,Überschrift,,,"Noun, common, feminine"
+3159_uberschrift,Überschrift,,,"Noun, common, neuter"
+3160_daruber,darüber,,,Adverb
+3161_besprengung,Besprengung,,,"Noun, common, feminine"
+3162_erstlingsfrucht,Erstlingsfrucht,,,"Noun, common, feminine"
+3163_meineidiger,Meineidiger,,,"Noun, common, masculine"
+3164_gehorsam,Gehorsam,,,"Noun, common, feminine"
+3165_unterordnunggehorsam,"Unterordnung, Gehorsam",,,"Noun, common, feminine"
+3166_ufitahari,Ufitahari,,,"Noun, proper"
+3167_esistuberflussigfurmicheuchzuschreiben,es ist überflüssig für mich euch zu schreiben,,,Unassigned
+3168_erkenntnis,Erkenntnis,,,"Noun, common, neuter"
+3169_aufgeblasenheithochmut,"Aufgeblasenheit, Hochmut",,,"Noun, common, feminine"
+3170_oft,oft,,,"Adverb, temporal"
+3171_vielleicht,vielleicht,,,Adverb
+3172_dieverheiratetefrau,die verheiratete Frau,,,Unassigned
+3173_unsbeide,uns beide,,,"Pronoun, personal"
+3174_undnunalso,"und, nun, also",,,"Particle, enclitic"
+3175_sichfurchtenvor,sich fürchten vor ,,,<none>
+3176_zeithabend,Zeit habend,,,Adjective
+3177_zurrechtenzeit,zur rechten Zeit,,,"Adverb, Comparative"
+3178_gelegen,gelegen,,,Adjective
+3179_morgendammerung,Morgendämmerung,,,"Noun, common, feminine"
+3180_kamel,Kamel,,,"Noun, common"
+3181_furchtlos,furchtlos,,,"Participle, present"
+3182_furchtlos,furchtlos,,,Unassigned
+3183_unheiliggottlos,"unheilig, gottlos",,,Adjective
+3184_dersichnichtzuschamenbrauchtohneschande,"der sich nicht zu schämen braucht, ohne Schande",,,Adjective
+3185_unsichtbar,unsichtbar,,,Adverb
+3186_unenthullt,unenthüllt,,,"Participle, past"
+3187_unbestritten,unbestritten,,,"Participle, past"
+3188_unbestreitbar,unbestreitbar,,,Adjective
+3189_unzuganglich,unzugänglich,,,Adjective
+3190_nichttragend,nicht tragend,,,"Participle, present"
+3191_kinderlos,kinderlos,,,Adjective
+3192_ungeboren,ungeboren,,,"Participle, past"
+3193_dasungesauertsein,das Ungesäuertsein,,,"Noun, common, feminine"
+3194_ungesauert,ungesäuert,,,"Participle, past"
+3195_wildestierbestie,"wildes Tier, Bestie",,,"Noun, common, neuter"
+3196_unaufspurbarunbegreiflich,"unaufspürbar, unbegreiflich",,,"Participle, past"
+3197_nichtbeschneidigungvorhaut,"Nichtbeschneidigung, Vorhaut",,,"Noun, common, neuter"
+3198_unbeschnitten,unbeschnitten,,,"Participle, past"
+3199_unbrauchbar,unbrauchbar,,,Adjective
+3200_biszu,bis zu,,,"Preposition, +AD"
+3201_unteretw,unter etw,,,"Preposition, +A"
+3202_dasinnere,das Innere,,,"Adjective, Superlative"
+3203_derallergeringste,der Allergeringste,,,"Noun, common, masculine"
+3204_unter,unter,,,"Preposition, +D"
+3205_fruhstuck,Frühstück,,,"Noun, common, masculine"
+3206_unsterblichkeit,Unsterblichkeit,,,"Noun, common, feminine"
+3207_unpassendundankbar,"unpassend, undankbar",,,Adjective
+3209_untadelig,untadelig,,,Adverb
+3210_unaufspurbarunerforschlich,"unaufspürbar, unerforschlich",,,"Participle, past"
+3211_geschwatzig,geschwätzig,,,Adjective
+3212_unvorsatzlichohnevorbedacht,"unvorsätzlich, ohne Vorbedacht",,,Adjective
+3213_unverstandig,unverständig,,,"Participle, present"
+3214_schonungslosigkeitharte,"Schonungslosigkeit, Härte",,,"Noun, common, feminine"
+3215_unverstandtorheit,"Unverstand, Torheit",,,"Noun, common, feminine"
+3216_unverstandig,unverständig,,,Adjective
+3217_tadellosunbescholten,tadellos; unbescholten,,,"Participle, present"
+3218_tadellos,tadellos,,,"Participle, past"
+3219_zugellossichnichtbeherrschend,"zügellos, sich nicht beherrschend",,,"Participle, present"
+3220_unmaigkeitunenthaltsamkeit,"Unmäßigkeit, Unenthaltsamkeit",,,"Noun, common, feminine"
+3221_unfugsamungehorsam,"unfügsam, ungehorsam",,,Adjective
+3222_nichtprobehaltigverwerflich,"nicht probehaltig, verwerflich",,,"Participle, past"
+3223_unglaubeungehorsam,"Unglaube, Ungehorsam",,,"Noun, common, feminine"
+3224_unglaubigungehorsam,"ungläubig, ungehorsam",,,"Participle, present"
+3225_wertlos,wertlos,,,Adjective
+3226_gesetzlosigkeitungerechtigkeit,"Gesetzlosigkeit, Ungerechtigkeit",,,"Noun, common, feminine"
+3227_ungesehnunsichtbar,"ungesehn, unsichtbar",,,"Participle, past"
+3228_ohnefestenstandohnebleibendestatte,"ohne festen Stand, ohne bleibende Stätte",,,Adjective
+3229_ungeordnetzugellos,"ungeordnet, zügellos",,,Adjective
+3230_ungeordnet,ungeordnet,,,"Participle, past"
+3231_unbewegtunbeweglich,"unbewegt, unbeweglich",,,"Participle, past"
+3232_nichthabend,nicht habend,,,"Participle, present"
+3233_schwachekrankheit,"Schwäche, Krankheit",,,"Noun, common, neuter"
+3234_krank,krank,,,Adjective
+3235_nichtmitderhandgemacht,nicht mit der Hand gemacht,,,Adjective
+3236_ungeheuchelt,ungeheuchelt,,,Adjective
+3238_unreinigkeit,Unreinigkeit,,,"Noun, common, feminine"
+3239_unreinungebildet,unrein; ungebildet,,,Adjective
+3240_unholdteufel,"Unhold, Teufel",,,"Noun, common, masculine"
+3241_unholdindamon,"Unholdin, Dämon",,,"Noun, common, feminine"
+3242_ohneopferunversohnlich,"ohne Opfer, unversöhnlich",,,Adjective
+3243_unausloschlich,unauslöschlich,,,"Participle, present"
+3244_unablassig,unablässig,,,Adjective
+3245_sorglos,sorglos,,,Adjective
+3247_unze,Unze,,,"Noun, common, masculine"
+3248_nichtkennendunwissend,"nicht kennend, unwissend",,,"Participle, present"
+3249_unkunde,Unkunde,,,"Noun, common, neuter"
+3250_unbekannt,unbekannt,,,Adjective
+3251_armut,Armut,,,"Noun, common, neuter"
+3252_arm,arm,,,Adjective
+3253_ungeliebtunlieb,"ungeliebt, unlieb",,,Adjective
+3254_unverheiratet,unverheiratet,,,"Participle, past"
+3255_nichtlugend,nicht lügend,,,"Participle, present"
+3256_ungeheucheltohnefalsch,"ungeheuchelt, ohne Falsch",,,Adjective
+3257_unlust,Unlust,,,"Noun, common, masculine"
+3258_ohnmachtigschwach,"ohnmächtig, schwach",,,Adjective
+3259_ohnmachtschwachekrankheit,"Ohnmacht, Schwäche, Krankheit",,,"Noun, common, feminine"
+3260_ungezahmtwildoderunfreundlichbarsch,"ungezähmt, wild oder unfreundlich, barsch",,,Adjective
+3261_unvorbereitet,unvorbereitet,,,Adjective
+3262_lieblos,lieblos,,,Adjective
+3263_unnutztoricht,"unnütz, töricht",,,Adjective
+3264_unbeweibt,unbeweibt,,,"Participle, past"
+3265_unaussprechlich,unaussprechlich,,,Adjective
+3266_unverganglichkeit,Unvergänglichkeit,,,"Noun, common, feminine"
+3267_unverganglich,unvergänglich,,,Adjective
+3269_nichtredendstumm,"nicht redend, stumm",,,"Participle, present"
+3270_unbestritten,unbestritten,,,Adverb
+3271_nichtsehend,nicht sehend,,,"Participle, present"
+3272_ungesalzen,ungesalzen,,,"Participle, past"
+3273_unser,unser,,,"Pronoun, possesive"
+3274_bosheitschlechtigkeit,"Bosheit, Schlechtigkeit",,,"Noun, common, feminine"
+3275_ubelbose,"übel, böse",,,Adjective
+3276_ungesetzlichgottlos,"ungesetzlich, gottlos",,,Adjective
+3277_latunsnuchternsein,laßt uns nüchtern sein,,,Adjective
+3278_aufstand,Aufstand,,,"Noun, common, neuter"
+3279_unaufhorlich,unaufhörlich,,,"Participle, present"
+3281_unehre,Unehre,,,"Noun, common, feminine"
+3282_nichtgeachtetverachtet,"nicht geachtet, verachtet",,,Adjective
+3283_unbekannter,unbekannter,,,Adjective
+3284_unfugsamunbotmaigungehorsam,"unfügsam, unbotmäßig, ungehorsam",,,Adjective
+3285_bissolangeals,"bis, so lange als",,,Conjunction
+3286_voreiligunbesonnen,"voreilig, unbesonnen",,,Adjective
+3287_untreu,untreu,,,Adjective
+3288_unvolknicht,"Unvolk, Nicht",,,"Noun, common, feminine"
+3289_dasbose,das Böse,,,"Noun, common, neuter"
+3290_ungewaschen,ungewaschen,,,"Participle, past"
+3291_unanstoig,unanstößig,,,"Participle, present"
+3292_zurunzeit,zur Unzeit,,,Adverb
+3293_unbelehrt,unbelehrt,,,"Participle, past"
+3294_nichtauszuerzahlenunerforschlich,"nicht auszuerzählen, unerforschlich",,,"Participle, past"
+3296_unwurdig,unwürdig,,,Adverb
+3297_unbeflecktheit,Unbeflecktheit,,,"Noun, common, feminine"
+3298_fleckenlostadellos,"fleckenlos, tadellos",,,Adjective
+3299_untatigmuig,"untätig, müßig",,,"Noun, common, feminine"
+3300_ungebildetunwissend,"ungebildet, unwissend",,,Adjective
+3301_unerwartetplotzlich,"unerwartet, plötzlich",,,Adverb
+3302_unwille,Unwille,,,"Noun, common, feminine"
+3303_ungewiinsungewisse,"ungewiß, ins ungewisse",,,Adjective
+3304_unwissenderunverstandiger,"Unwissender, Unverständiger",,,"Noun, common, masculine"
+3305_unwissend,unwissend,,,"Participle, present"
+3306_unwissenheitunverstand,"Unwissenheit, Unverstand",,,"Noun, common, neuter"
+3307_beangstigtbekummert,"beängstigt, bekümmert",,,"Participle, present"
+3310_verworfen,verworfen,,,Adjective
+3311_abtritt,Abtritt,,,"Noun, common, masculine"
+3312_ausgang,Ausgang,,,"Noun, common, feminine"
+3313_ausvon,"aus, von ",,,"Preposition, +D"
+3314_frechheitfortwahrendezankerei,Frechheit; fortwährende Zänkerei,,,"Noun, common, feminine"
+3315_geduldlangmut,"Geduld, Langmut",,,"Noun, common, feminine"
+3316_geduldiglangmutig,"geduldig, langmütig",,,Adjective
+3317_erwartunggeduldlangmut,"Erwartung; Geduld, Langmut",,,"Noun, common, feminine"
+3318_bitteflehn,"Bitte, Flehn",,,"Noun, common, feminine"
+3319_ausdauereifer,Ausdauer; Eifer,,,"Noun, common, feminine"
+3320_eifrig,eifrig,,,Adjective
+3321_usdaudoza,usdaudoza,,,"Adjective, Comparative"
+3322_eifrig,eifrig,,,Adverb
+3323_rauhewege,rauhe Wege,,,"Noun, common, feminine"
+3324_tadellos,tadellos,,,Adjective
+3325_ausfahrt,Ausfahrt,,,"Noun, common, feminine"
+3326_begrabnis,Begräbnis,,,"Noun, common, neuter"
+3327_sieentsetztensichuber,sie entsetzten sich über,,,Adjective
+3328_entsetzen,Entsetzen,,,"Noun, common, feminine"
+3329_nahrung,Nahrung,,,"Noun, common, feminine"
+3330_erfullung,Erfüllung,,,"Noun, common, feminine"
+3331_mutlos,mutlos,,,Adjective
+3332_mangelleidend,Mangel leidend,,,Adjective
+3333_bekanntoffenbar,"bekannt, offenbar",,,Adjective
+3335_gichtbruchiggichtbruchiger,"gichtbrüchig, Gichtbrüchiger",,,Adjective
+3336_erschlieenoffnen,"erschließen, öffnen",,,<none>
+3337_eroffnungoffnung,"Eröffnung, Öffnung",,,"Noun, common, neuter"
+3338_erlosung,Erlösung,,,"Noun, common, feminine"
+3339_lebensfuhrunglebenswandel,Lebensführung; Lebenswandel,,,"Noun, common, neuter"
+3340_beschuldigunganklage,"Beschuldigung, Anklage",,,"Noun, common, feminine"
+3341_ursprung,Ursprung,,,"Noun, common, feminine"
+3342_ammeistenbesonders,"am meisten, besonders",,,Adverb
+3343_latunsnuchternsein,laßt uns nüchtern sein,,,<none>
+3344_auferstehung,Auferstehung,,,"Noun, common, feminine"
+3345_zugellosigkeitluderlichkeit,"Zügellosigkeit, Lüderlichkeit",,,"Noun, common, feminine"
+3346_zugellos,zügellos,,,Adverb
+3347_auszeichnungbezeichnungbekanntmachunganzeichenbeweis,"Auszeichnung, Bezeichnung; Bekanntmachung; Anzeichen, Beweis",,,"Noun, common, feminine"
+3348_vollendungvervollkommnungendeerfullung,"Vollendung, Vervollkommnung; Ende; Erfüllung",,,"Noun, common, feminine"
+3349_ubungstahlung,"Übung, Stählung",,,"Noun, common, feminine"
+3350_geduld,Geduld,,,"Noun, common, feminine"
+3351_erwachsen,erwachsen,,,"Participle, past"
+3352_wachstum,Wachstum,,,"Noun, common, feminine"
+3353_umwalzungzusammensturzzerstorunguntergang,Umwälzung; Zusammensturz; Zerstörung; Untergang,,,"Noun, common, feminine"
+3354_dasabwendenirreleiten,"das Abwenden, Irreleiten",,,"Noun, common, feminine"
+3355_gerecht,gerecht,,,Adjective
+3356_gerechtigkeit,Gerechtigkeit,,,"Noun, common, feminine"
+3357_auswurfverwerfungfehlgeburt,Auswurf; Verwerfung; Fehlgeburt,,,"Noun, common, feminine"
+3358_auerderweihe,außer der Weihe,,,Adjective
+3359_hoffnungslos,hoffnungslos,,,Adjective
+3360_losgebunden,losgebunden,,,Adjective
+3361_leichtfertigkeiteitelkeit,"Leichtfertigkeit, Eitelkeit",,,"Noun, common, neuter"
+3362_hinausheraus,"hinaus, heraus",,,"Adverb, directional"
+3363_auerhalbdrauen,"außerhalb, draußen",,,"Adverb, locative"
+3364_vonauenauen,"von außen, außen",,,"Adverb, directional"
+3365_vonauen,von außen,,,"Adverb, directional"
+3366_krippe,Krippe,,,"Noun, common, masculine"
+3367_ausvon,"aus, von ",,,<none>
+3368_pfand,Pfand,,,"Noun, common, neuter"
+3369_handscheinschuldschein,"Handschein, Schuldschein",,,"Noun, common, feminine"
+3370_zusammenfugenverloben,"zusammenfügen, verloben",,,Verb
+3371_kopfkissen,Kopfkissen,,,"Noun, common"
+3372_paradies,Paradies,,,"Noun, common, masculine"
+3374_bewegenabbringen,"bewegen, abbringen",,,Verb
+3375_eineninbewegungsetzen,einen in Bewegung setzen,,,Verb
+3376_erregenaufwiegeln,"erregen, aufwiegeln",,,Verb
+3377_erregen,erregen,,,Verb
+3378_wachsen,wachsen,,,Verb
+3379_uberauswachsensichstarkvermehren,"überaus wachsen, sich stark vermehren",,,Verb
+3380_erwachsen,erwachsen,,,<none>
+3381_wuchs,Wuchs,,,"Noun, common, masculine"
+3382_wache,Wache,,,"Noun, common, feminine"
+3383_wehe,wehe,,,Interjection
+3384_wehn,wehn,,,Verb
+3385_umwindenumgebenumkleiden,"umwinden, umgeben, umkleiden",,,Verb
+3386_ubeltaterrauber,"Übeltäter, Räuber",,,"Noun, common, masculine"
+3387_kampf,Kampf,,,"Noun, common, feminine"
+3388_winkelecke,"Winkel, Ecke",,,"Noun, common, masculine"
+3389_eckstein,Eckstein,,,"Noun, common, masculine"
+3390_nichts,nichts,,,"Noun, common, neuter"
+3391_dingsacheetwas,"Ding, Sache, Etwas",,,"Noun, common"
+3392_wohlgut,"wohl, gut",,,Adverb
+3393_wohltat,Wohltat,,,"Noun, common, feminine"
+3394_guterruf,guter Ruf,,,"Noun, common, feminine"
+3395_verkundigung,Verkündigung,,,"Noun, common, feminine"
+3396_wohllautendloblich,"wohllautend, löblich",,,Adjective
+3397_segen,Segen,,,"Noun, common, feminine"
+3398_victusgutenahrung,"victus, gute Nahrung",,,"Noun, common, feminine"
+3399_elendgeplagt,"elend, geplagt",,,Adjective
+3400_dadochwenndoch,"daß doch, wenn doch",,,Interjection
+3401_verbinden,verbinden,,,Verb
+3402_kranz,Kranz,,,"Noun, common, masculine"
+3403_mann,Mann,,,"Noun, common, masculine"
+3404_mannlich,männlich,,,Adverb
+3405_gastfreundhauswirt,"Gastfreund, Hauswirt",,,"Noun, common, masculine"
+3406_lippe,Lippe,,,"Noun, common, feminine"
+3407_werfen,werfen,,,Verb
+3410_verwerfenzerstreuen,"verwerfen, zerstreuen",,,Verb
+3411_hinwerfen,hinwerfen,,,Verb
+3412_hineinwerfen,hineinwerfen,,,Verb
+3413_hinauswerfenwegwerfenaustreiben,"hinauswerfen, wegwerfen, austreiben",,,Verb
+3414_schlimmer,schlimmer,,,"Adverb, Comparative"
+3415_schlimmer,schlimmer,,,"Adjective, Comparative"
+3416_preis,Preis,,,"Noun, common"
+3417_werden,werden,,,Verb
+3419_tuchtigkeitfahigkeit,"Tüchtigkeit, Fähigkeit",,,"Noun, common, feminine"
+3420_versohnenmit,versöhnen mit,,,Verb
+3421_sichversohnenmit,sich versöhnen mit,,,Verb
+3422_schatzen,schätzen,,,Verb
+3423_wertwurdigtauglich,"wert, würdig, tauglich",,,Adjective
+3425_vielleichtetwa,"vielleicht, etwa",,,Adverb
+3426_schlechterruf,schlechter Ruf,,,"Noun, common, feminine"
+3427_lasterung,Lästerung,,,"Noun, common, feminine"
+3428_wachen,wachen,,,Verb
+3429_durchwachen,durchwachen,,,Verb
+3430_erwecken,erwecken,,,Verb
+3431_erwachen,erwachen,,,Verb
+3432_walten,walten,,,Verb
+3433_sichderherrschaftbemachtigeneinenvergewaltigen,"sich der Herrschaft bemächtigen, einen vergewaltigen",,,Verb
+3434_gewaltmachtuber,"Gewalt, Macht über",,,"Noun, common, neuter"
+3435_echtlauter,"echt, lauter",,,Adjective
+3436_wahlen,wählen,,,Verb
+3437_erwahlen,erwählen,,,Verb
+3440_hinundherwalzen,hin und her wälzen,,,Verb
+3441_stab,Stab,,,"Noun, common, masculine"
+3442_sichwalzen,sich wälzen,,,Verb
+3443_wegwalzen,wegwälzen,,,Verb
+3444_hinzuwalzen,hinzuwälzen,,,Verb
+3445_vorwalzen,vorwälzen,,,Verb
+3446_bauchscho,"Bauch, Schoß",,,"Noun, common, feminine"
+3447_fleck,Fleck,,,"Noun, common"
+3448_beflecken,beflecken,,,Verb
+3449_mangel,Mangel,,,"Noun, common, neuter"
+3450_mangel,Mangel,,,"Noun, common, feminine"
+3452_abwenden,abwenden,,,Verb
+3453_zuwenden,zuwenden,,,Verb
+3454_vermeiden,vermeiden,,,Verb
+3455_wenden,wenden,,,Verb
+3456_verdrehn,verdrehn,,,Verb
+3457_sichwegwenden,sich wegwenden,,,Verb
+3458_rute,Rute,,,"Noun, common, masculine"
+3459_mangel,Mangel,,,"Noun, common, masculine"
+3460_mangelhaftfehlend,"mangelhaft, fehlend",,,Adjective
+3461_wachter,Wächter,,,"Noun, common, masculine"
+3462_verderben,verderben,,,Verb
+3463_tuckeverschlagenheit,"Tücke, Verschlagenheit",,,"Noun, common, feminine"
+3464_verdammungsurteilverurteilung,"Verdammungsurteil, Verurteilung",,,"Noun, common, feminine"
+3465_einenverurteilenzu,einen verurteilen zu ,,,Verb
+3466_wehren,wehren,,,Verb
+3467_warmen,wärmen,,,Verb
+3468_behutsamnuchtern,"behutsam, nüchtern",,,Adjective
+3469_einenkleiden,einen kleiden,,,Verb
+3470_entkleiden,entkleiden,,,Verb
+3471_bekleidenmit,bekleiden mit,,,Verb
+3472_kleid,Kleid,,,"Noun, common, feminine"
+3473_wasser,Wasser,,,"Noun, common, neuter"
+3474_wort,Wort,,,"Noun, common, neuter"
+3475_seinervernunftigennaturgema,seiner vernünftigen Natur gemäß,,,Adjective
+3476_wortstreit,Wortstreit,,,"Noun, common, feminine"
+3477_widersprechen,widersprechen,,,Verb
+3478_vielwortemachen,viel Worte machen,,,Verb
+3480_machenwirken,"machen, wirken",,,Verb
+3482_einesundebegehen,eine Sünde begehen,,,Verb
+3483_bewirkenerwirkenbereiten,"bewirken, erwirken, bereiten",,,Verb
+3484_ausfuhrenvollbringen,"ausführen, vollbringen",,,Verb
+3485_wurmschlange,"Wurm, Schlange",,,"Noun, common, masculine"
+3486_werktatwirksamkeit,"Werk, Tat; Wirksamkeit",,,"Noun, common, neuter"
+3488_dastun,das Tun,,,"Noun, common, feminine"
+3489_wirksam,wirksam,,,Adjective
+3490_arbeiter,Arbeiter,,,"Noun, common, masculine"
+3491_wurzel,Wurzel,,,"Noun, common, feminine"
+3492_erschutterungsturmwellenschlagbrandung,"Erschütterung, Sturm; Wellenschlag, Brandung",,,"Noun, common, masculine"
+3493_priester,Priester,,,"Noun, common, masculine"
+3494_kampfen,kämpfen,,,Verb
+3495_widerstreiten,widerstreiten,,,Verb
+3497_weihenheiligen,"weihen, heiligen",,,Verb
+3498_weiheheiligungheiligkeit,"Weihe, Heiligung, Heiligkeit",,,"Noun, common, feminine"
+3499_heiligwerden,heilig werden,,,Verb
+3500_heilig,heilig,,,Adjective
+3501_dorfweiler,"Dorf, Weiler",,,"Noun, common, neuter"
+3502_wein,Wein,,,"Noun, common, neuter"
+3503_weinbeere,Weinbeere,,,"Noun, common, neuter"
+3504_weingartenweinberg,"Weingarten, Weinberg",,,"Noun, common, masculine"
+3505_weinrebe,Weinrebe,,,"Noun, common, masculine"
+3506_weinstock,Weinstock,,,"Noun, common, neuter"
+3507_weintrinkersaufer,"Weintrinker, Säufer",,,"Noun, common, masculine"
+3508_trunkentrunkenbold,"trunken, Trunkenbold",,,Unassigned
+3509_kranzenkronen,"kränzen, krönen",,,Verb
+3510_wir,wir,,,"Pronoun, personal"
+3511_uberreden,überreden,,,Verb
+3512_vollendenoderbeglaubigen,vollenden oder beglaubigen,,,Verb
+3513_heimsuchenbesuchenbesorgen,"heimsuchen, besuchen, besorgen",,,Verb
+3514_einemrechtverschaffenihnrachenan,"einem Recht verschaffen, ihn rächen an",,,Verb
+3515_dieproskynesisverehrungerweisenbegruen,"die Proskynesis, Verehrung erweisen, begrüßen",,,Verb
+3516_gespannthinblickenauf,gespannt hinblicken auf,,,Verb
+3517_schmahn,schmähn,,,Verb
+3518_zeugnis,Zeugnis,,,"Noun, common, feminine"
+3520_zeugnis,Zeugnis,,,"Noun, common, neuter"
+3521_zeugnisablegungzeugnis,"Zeugnisablegung, Zeugnis",,,"Noun, common, feminine"
+3522_zeugenbezeugen,"zeugen, bezeugen",,,Verb
+3523_mitzeugen,mitzeugen,,,Verb
+3524_zeuge,Zeuge,,,"Noun, common, masculine"
+3525_wartenhoffenauf,"warten, hoffen auf ",,,Verb
+3526_aufeinenvorherhoffen,auf einen vorher hoffen,,,Verb
+3527_erwartenannehmen,"erwarten, annehmen",,,Verb
+3528_hoffnung,Hoffnung,,,"Noun, common, feminine"
+3529_waffen,Waffen,,,"Noun, common, neuter"
+3530_wereka,Wereka,,,"Noun, proper"
+3531_zweifeln,zweifeln,,,Verb
+3532_unwilligseinzurnen,"unwillig sein, zürnen",,,Verb
+3533_zusammenbindenverbinden,"zusammenbinden, verbinden",,,Verb
+3534_verleugnen,verleugnen,,,Verb
+3535_waise,Waise,,,"Noun, common, masculine"
+3536_witwe,Witwe,,,"Noun, common, feminine"
+3537_dornpflanzen,Dornpflanzen,,,"Noun, common, feminine"
+3538_bewegen,bewegen,,,Verb
+3539_zumkriege,zum Kriege,,,"Noun, common"
+3540_weg,Weg,,,"Noun, common, masculine"
+3541_inderreihenfolgeseinertagesklassedaseinetagesklasseanderreihewar,"in der Reihenfolge seiner Tagesklasse, da seine Tagesklasse an der Reihe war",,,"Noun, common, feminine"
+3542_wille,Wille,,,"Noun, common, masculine"
+3543_parteilichkeit,Parteilichkeit,,,"Noun, common, feminine"
+3544_wollen,wollen,,,Verb
+3545_wiljari,Wiljariþ,,,"Noun, proper"
+3546_wild,wild,,,Adjective
+3547_rauberischrauber,"räuberisch, Räuber",,,"Noun, common, masculine"
+3548_rauben,rauben,,,Verb
+3549_ausplundernberauben,"ausplündern, berauben",,,Verb
+3550_fortreien,fortreißen,,,Verb
+3551_umwinden,umwinden,,,Verb
+3552_dugawindan,du-gawindan,,,Verb
+3553_flechten,flechten,,,Verb
+3554_wind,Wind,,,"Noun, common, masculine"
+3555_weide,Weide,,,"Noun, common, feminine"
+3557_leiden,leiden,,,Verb
+3558_erleiden,erleiden,,,Verb
+3560_jahr,Jahr,,,"Noun, common, masculine"
+3561_worfschaufel,Worfschaufel,,,"Noun, common, feminine"
+3562_zermalmen,zermalmen,,,Verb
+3563_kranz,Kranz,,,"Noun, common, feminine"
+3564_meeresstille,Meeresstille,,,"Noun, common, neuter"
+3565_seindaseinexistieren,"sein, dasein, existieren",,,Verb
+3566_dasein,da sein,,,Verb
+3567_vorhandenist,vorhanden ist,,,Verb
+3568_verbrauchenvergeuden,"verbrauchen, vergeuden",,,Verb
+3569_alsdersabbatvoruberwar,als der Sabbat vorüber war,,,Verb
+3570_beistehnzuhilfekommen,"beistehn, zu Hilfe kommen",,,Verb
+3571_uberragendsein,überragend sein,,,Verb
+3573_sichfreuenschwelgenschmausen,"sich freuen, schwelgen, schmausen",,,Verb
+3574_weilenbleiben,"weilen, bleiben",,,Verb
+3575_verweilenverbleiben,"verweilen, verbleiben",,,Verb
+3576_miteinemzusammenverweilen,mit einem zusammen verweilen,,,Verb
+3577_verbleibenverharren,"verbleiben, verharren",,,Verb
+3578_wesennatur,"Wesen, Natur",,,"Noun, common, feminine"
+3579_wit,wit,,,"Pronoun, personal"
+3580_wissen,wissen,,,Verb
+3581_ichbinmirnichtsbewut,ich bin mir nichts bewußt,,,Verb
+3583_gesetzeskundiger,Gesetzeskundiger,,,"Noun, common, masculine"
+3584_gesetzeslehrer,Gesetzeslehrer,,,"Noun, common, masculine"
+3585_gesetzlos,gesetzlos,,,Adjective
+3586_gesetzlich,gesetzlich,,,Adverb
+3587_gesetz,Gesetz,,,"Noun, common, neuter"
+3588_kenntniserkenntnis,"Kenntnis, Erkenntnis",,,"Noun, common, neuter"
+3589_schutteln,schütteln,,,Verb
+3590_widergegen,"wider, gegen",,,"Preposition, +A"
+3591_gegenuberliegendentgegengesetzt,"gegenüberliegend, entgegengesetzt",,,Adjective
+3592_lamm, Lamm,,,"Noun, common, masculine"
+3593_dieschwelgende,die Schwelgende,,,Verb
+3594_sichumsehn,sich umsehn,,,Verb
+3595_angesichtansehngestalt,"Angesicht; Ansehn, Gestalt",,,"Noun, common, masculine"
+3596_insgesichtschlagenkasteien,"ins Gesicht schlagen, kasteien",,,Verb
+3597_wmainaius,Wmainaius,,,<none>
+3598_daswachen,das Wachen,,,"Noun, common, feminine"
+3599_zins,Zins,,,"Noun, common"
+3600_rufen,rufen,,,Verb
+3601_herbeirufen,herbeirufen,,,Verb
+3602_aufschreienausrufen,"aufschreien, ausrufen",,,Verb
+3603_angenehm,angenehm,,,Adjective
+3604_wutendbesessen,"wütend, besessen",,,Adjective
+3605_krumm,krumm,,,Adjective
+3609_verfolger,Verfolger,,,"Noun, common, masculine"
+3610_reise,Reise,,,"Noun, common, masculine"
+3611_reisen,reisen,,,Verb
+3612_verfolgung,Verfolgung,,,"Noun, common, feminine"
+3613_herde,Herde,,,"Noun, common, masculine"
+3615_verfolgen,verfolgen,,,Verb
+3616_bestrafenrachenehmenan,"bestrafen, Rache nehmen an ",,,Verb
+3617_fruchtbringen,Frucht bringen,,,Verb
+3618_strich,Strich,,,"Noun, common, masculine"
+3619_herde,Herde,,,<none>
+3620_anklagenbeschuldigen,"anklagen, beschuldigen",,,Verb
+3621_verklagenverdachtigen,"verklagen, verdächtigen",,,Verb
+3622_klageanklagegegen,"Klage, Anklage gegen",,,"Noun, common, feminine"
+3623_schlinge,Schlinge,,,"Noun, common, feminine"
+3624_wallensieden,"wallen, sieden",,,Verb
+3625_wolf,Wolf,,,"Noun, common, masculine"
+3626_wolle,Wolle,,,"Noun, common, feminine"
+3627_tuchwalker,Tuchwalker,,,"Noun, common, masculine"
+3628_herrlichwunderbar,"herrlich, wunderbar",,,Adjective
+3629_wertvoller,wertvoller,,,"Adjective, Comparative"
+3630_wert,Wert,,,"Noun, common, feminine"
+3631_herrlichkeit,Herrlichkeit,,,"Noun, common, masculine"
+3632_raub,Raub,,,"Noun, common, feminine"
+3633_verwunden,verwunden,,,Verb
+3634_wund,wund,,,Adjective
+3635_geielplage,"Geißel, Plage",,,"Noun, common, feminine"
+3636_leiden,Leiden,,,"Noun, common, feminine"
+3637_xafira,Xafira,,,"Noun, proper"
+3638_xreskus,Xreskus,,,"Noun, proper"
+3639_christus,Christus,,,"Noun, proper"
+3640_zaibaidaius,Zaibaidaius,,,"Noun, proper"
+3641_zakarias,Zakarias,,,"Noun, proper"
+3642_zakkaius,Zakkaius,,,"Noun, proper"
+3643_zauraubabil,Zauraubabil,,,"Noun, proper"
+3644_zaxxaius,Zaxxaius,,,"Noun, proper"
+3645_eifererbeinamedessimon,"Eiferer, Beiname des Simon",,,"Noun, proper"

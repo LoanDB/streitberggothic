@@ -1,8 +1,13 @@
 {
-    "@context": "http://www.w3.org/ns/csvw",
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
     "aboutUrl": null,
     "dc:bibliographicCitation": "Streitberg 1910, Van Loon 2004",
-    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
     "dc:identifier": "http://www.wulfila.be/lib/streitberg/1910/text/html/",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -38,10 +43,6 @@
     ],
     "prov:wasGeneratedBy": [
         {
-            "dc:title": "lingpy-rcParams",
-            "dc:relation": "lingpy-rcParams.json"
-        },
-        {
             "dc:title": "python",
             "dc:description": "3.9.9"
         },
@@ -57,77 +58,38 @@
     },
     "tables": [
         {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 3503,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
+            "dc:extent": 3645,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "ID"
                     },
                     {
-                        "datatype": "string",
-                        "propertyUrl": "http://purl.org/dc/terms/identifier",
-                        "name": "Local_ID"
-                    },
-                    {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
-                        "name": "Parameter_ID",
-                        "titles": "Concept_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#headword",
                         "required": true,
-                        "name": "Value"
+                        "name": "Headword"
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
-                        "required": true,
-                        "name": "Form"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
-                        "separator": " ",
-                        "name": "Segments"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "name": "Comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": ";",
-                        "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Cognacy"
-                    },
-                    {
-                        "datatype": "boolean",
-                        "name": "Loan"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Graphemes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Profile"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#partOfSpeech",
+                        "required": false,
+                        "name": "Part_Of_Speech"
                     }
                 ],
                 "foreignKeys": [
@@ -141,13 +103,48 @@
                                 "ID"
                             ]
                         }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "entries.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
+            "dc:extent": 4569,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
                     },
                     {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": true,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#entryReference",
+                        "required": true,
+                        "name": "Entry_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
                         "columnReference": [
-                            "Parameter_ID"
+                            "Entry_ID"
                         ],
                         "reference": {
-                            "resource": "parameters.csv",
+                            "resource": "entries.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -158,7 +155,7 @@
                     "ID"
                 ]
             },
-            "url": "forms.csv"
+            "url": "senses.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
@@ -225,42 +222,6 @@
                 ]
             },
             "url": "languages.csv"
-        },
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 3249,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
-                        "name": "Concepticon_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "POS"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "parameters.csv"
         }
     ]
 }

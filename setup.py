@@ -14,7 +14,12 @@ setup(
     py_modules=["lexibank_streitberggothic"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["streitberggothic=lexibank_streitberggothic:Dataset"]},
-    install_requires=["pylexibank>=3.0"],
+    entry_points={
+        "lexibank.dataset": ["streitberggothic=lexibank_streitberggothic:Dataset"],
+        'cldfbench.commands': [
+            'streitberggothic=streitberggothiccommands',
+        ],
+        },
+    install_requires=["pylexibank>=3.0", "pysem"],
     extras_require={"test": ["pytest-cldf"]},
 )
