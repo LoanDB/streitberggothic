@@ -78,15 +78,12 @@ class Dataset(BaseDataset):
             ## add forms
             for idx, row in enumerate(self.raw_dir.read_csv(
                     "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)[1:]):
-                try:
                     writer.add_forms_from_value(
                         Local_ID=idx,
                         Language_ID="Gothic",
-                        Parameter_ID=concepts[row["sense"], row["pos"]],
+                        Parameter_ID=concepts[cln(row["sense"]), row["pos"]],
                         Value=row["form"],
                         Source="557564")
-                except:
-                    pass
 
         with self.cldf_writer(args, cldf_spec="dictionary", clean=False) as writer:
 

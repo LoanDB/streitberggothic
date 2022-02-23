@@ -2,6 +2,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2_ehemann,Ehemann,,,"Noun, common, masculine"
 3_vater,Vater,,,Foreign word
 4_abeileni,Abeileni,,,"Noun, proper"
+5_abia,Abia,,,"Noun, proper"
 6_abiaar,Abiaþar,,,"Noun, proper"
 7_abraham,Abraham,,,"Noun, proper"
 8_vorfurchtstaunenauersichgeratenuber,"vor Furcht, Staunen außer sich geraten über",,,Verb
@@ -9,11 +10,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 10_sehr,sehr,,,"Adverb, Comparative"
 11_vonvonwegvonher,"von, von __ weg, von __ her",,,<none>
 12_adam,Adam,,,"Noun, proper"
+13_addei,Addei,,,"Noun, proper"
 14_addin,Addin,,,"Noun, proper"
+15_adoneikam,Adoneikam,,,"Noun, proper"
 16_vonvonwegvonher,"von, von __ weg, von __ her",,,"Preposition, +D"
 17_nachher,nachher,,,Adverb
 18_nachkomme,Nachkomme,,,"Noun, common, masculine"
 19_derfolgendetag,der folgende Tag,,,"Noun, common, masculine"
+20_desnachsabbatsdhdeserstenwochentags,des Nachsabbats dh des ersten Wochentags,,,"Noun, common"
 21_geplagt,geplagt,,,"Participle, past"
 22_verdammung,Verdammung,,,"Noun, common, feminine"
 23_trunkenbold,Trunkenbold,,,"Noun, common, masculine"
@@ -72,6 +76,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 79_opfergabe,Opfergabe,,,"Noun, common"
 80_aiddua,Aiddua,,,"Noun, proper"
 81_aieira,Aieira,,,"Noun, proper"
+82_aifaisius,Aifaisius,,,"Noun, proper"
+83_aifaiso,Aifaiso,,,"Noun, proper"
 84_offnedich,öffne dich,,,Foreign word
 85_haben,haben,,,Verb
 86_teilhabenan,teilhaben an,,,Verb
@@ -88,6 +94,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 98_aileisabai,Aileisabaiþ,,,"Noun, proper"
 99_ailoe,ailoe,,,Foreign word
 100_ailul,[Ailul],,,<none>
+101_aimmeira,Aimmeira,,,"Noun, proper"
 102_eingeboren,eingeboren,,,"Noun, common, masculine"
 103_einzig,einzig,,,Adjective
 104_vereinzeltalleinstehend,"vereinzelt, alleinstehend",,,Adjective
@@ -150,6 +157,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 166_ewigkeit,Ewigkeit,,,"Noun, common, feminine"
 167_sondern,sondern,,,Conjunction
 168_akaja,Akaja,,,"Noun, proper"
+169_akajus,Akajus,,,"Noun, proper"
 170_akaikus,Akaïkus,,,"Noun, proper"
 172_essig,Essig,,,"Noun, common"
 173_frucht,Frucht,,,"Noun, common, neuter"
@@ -161,6 +169,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 179_alaiksandrus,Alaiksandrus,,,"Noun, proper"
 180_insgesamt,insgesamt,,,Adverb
 181_gesamtheitdermenschen,Gesamtheit der Menschen,,,"Noun, common, masculine"
+182_alamannans,alamannans,,,<none>
 183_alamod,Alamod,,,"Noun, proper"
 185_anallemmangelleidend,an allem Mangel leidend,,,Adjective
 186_alter,Alter,,,"Noun, common"
@@ -192,8 +201,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 213_allmachtiger,Allmächtiger,,,"Noun, common, masculine"
 214_altwerden,alt werden,,,Verb
 216_alul,[Alul],,,"Noun, proper"
+217_ameinadab,Ameinadab,,,"Noun, proper"
 218_amen,amen,,,Foreign word
+219_ammo,Ammo,,,"Noun, proper"
 220_schulter,Schulter,,,"Noun, common, masculine"
+221_amsa,amsa,,,"Noun, common, masculine"
 222_dennnun,"denn, nun",,,Particle
 223_daraufauerdem,"darauf, außerdem",,,Adverb
 224_gebot,Gebot,,,"Noun, common, feminine"
@@ -207,6 +219,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 233_ubermachtmihandlung,"Übermacht, Mißhandlung",,,"Noun, common, feminine"
 234_verstecktemeinungvermutung,"versteckte Meinung, vermutung",,,"Noun, common, feminine"
 235_ausatmen,ausatmen,,,Verb
+236_ananias,Ananias,,,"Noun, proper"
+237_ananeias,Ananeias,,,<none>
 239_ruhe,Ruhe,,,"Noun, common"
 241_sichtbar,sichtbar,,,Adjective
 242_anfang,Anfang,,,"Noun, common, feminine"
@@ -250,20 +264,25 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 281_anna,Anna,,,"Noun, proper"
 282_annas,Annas,,,"Noun, proper"
 283_sold,Sold,,,"Noun, common, feminine"
+284_ano,Ano,,,"Noun, proper"
 285_balken,Balken,,,"Noun, common, masculine"
 286_gnadig,gnädig,,,Adjective
 287_freudedankgnadegunst,"Freude; Dank; Gnade, Gunst",,,"Noun, common, feminine"
+288_antiaukiaantiokia,"Antiaukia, Antiokia",,,"Noun, proper"
 289_andererzweiter,"anderer, zweiter",,,Adjective
 290_verschiedenheit,Verschiedenheit,,,"Noun, common, feminine"
 291_anders,anders,,,Adverb
+292_appaullo,Appaullo,,,"Noun, proper"
 293_apostolat,Apostolat,,,"Noun, common, feminine"
 294_apostel,Apostel,,,"Noun, common, masculine"
 295_axt,Axt,,,"Noun, common, feminine"
 296_aar,Aar,,,"Noun, common, masculine"
 297_arabia,Arabia,,,"Noun, proper"
+298_araita,Araita,,,"Noun, proper"
 299_aram,Aram,,,"Noun, proper"
 300_arbeitendulden,arbeiten; dulden,,,Verb
 301_seineehresetzenintrachtennach,"seine Ehre setzen in, trachten nach",,,Verb
+302_mitjemarbeitenmitjemleiden,mit Jem arbeiten; mit Jem leiden,,,Verb
 303_durcharbeiten,dúrcharbeiten,,,Verb
 304_arbeitdrangsal,"Arbeit, Drangsal",,,"Noun, common, feminine"
 305_daserbe,das Erbe,,,"Noun, common, neuter"
@@ -271,6 +290,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 308_erbin,Erbin,,,"Noun, common, feminine"
 309_areimaaia,Areimaþaia,,,"Noun, proper"
 310_areistarkus,Areistarkus,,,"Noun, proper"
+311_arfaksad,Arfaksad,,,"Noun, proper"
 312_pfeil,Pfeil,,,"Noun, common, feminine"
 313_pflugen,pflügen,,,Verb
 314_holzernerkastenarchefutteralbeutel,"hölzerner Kasten, Arche; Futteral, Beutel",,,"Noun, common, feminine"
@@ -286,7 +306,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 326_aromata,aromata,,,"Noun, common"
 327_artaksairksus,[Artaksairksus],,,"Noun, proper"
 328_umsonst,umsonst,,,Adverb
+329_asaf,Asaf,,,"Noun, proper"
 330_sommer,Sommer,,,"Noun, common, feminine"
+331_aser,Aser,,,"Noun, proper"
+332_asgad,Asgad,,,"Noun, proper"
 333_asia,Asia,,,"Noun, proper"
 334_eselsmuhle,Eselsmühle,,,"Noun, common, feminine"
 335_esel,Esel,,,"Noun, common, masculine"
@@ -297,6 +320,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 340_sicherheit,Sicherheit,,,"Noun, common"
 341_ast,Ast,,,"Noun, common, masculine"
 342_von,von,,,"Preposition, +AD"
+344_aterateir,"Ater, Ateir",,,"Noun, proper"
 345_zugang,Zugang,,,"Noun, common, neuter"
 346_saat,Saat,,,"Noun, common"
 347_zumessenausteilen,zum Essen austeilen,,,Verb
@@ -329,11 +353,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 378_grabdenkmalergraber,"Grabdenkmäler, Gräber",,,"Noun, common"
 379_schweituch,Schweißtuch,,,"Noun, common, neuter"
 380_krug,Krug,,,"Noun, common, masculine"
+381_aurkeis,aurkeis,,,"Noun, common, masculine"
 382_garten,Garten,,,"Noun, common, masculine"
 383_landmannwinzer,"Landmann, Winzer",,,"Noun, common, masculine"
 384_ohr,Ohr,,,"Noun, common, neuter"
 385_wuste,Wüste,,,"Noun, common, feminine"
 386_ode,öde,,,Adjective
+387_aus,auþs,,,<none>
 388_schafherde,Schafherde,,,"Noun, common, neuter"
 389_einemdanken,einem  danken,,,Verb
 390_dank,Dank,,,"Noun, common, neuter"
@@ -359,6 +385,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 414_vertragen,vertragen,,,Verb
 415_vergleichen,vergleichen,,,Verb
 416_hindurchtragen,hindurchtragen,,,Verb
+417_hinaustragenhervorbringenvorbringendiantwortenertragen,hinaustragen; hervorbringen; vorbringen di antworten; ertragen,,,Verb
 418_hinaustragen,hinaustragen,,,Verb
 419_beroiainthrakien,Beroia in Thrakien,,,"Noun, proper"
 420_gebirgsgegend,Gebirgsgegend,,,"Noun, common, feminine"
@@ -391,6 +418,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 450_schlagwunde,"Schlag, Wunde",,,"Noun, common, feminine"
 451_scheuer,Scheuer,,,"Noun, common, masculine"
 452_barabba,Barabba,,,"Noun, proper"
+453_barakeias,Barakeias,,,"Noun, proper"
 454_nicht,Nicht,,,"Noun, common, masculine"
 455_vongerstebereitet,von Gerste bereitet,,,Adjective
 456_busenscho,"Busen, Schoß",,,"Noun, common, masculine"
@@ -403,13 +431,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 463_barteimaiaus,Barteimaiaus,,,"Noun, proper"
 464_baraulaumaius,Barþaulaumaius,,,"Noun, proper"
 465_frommverehren,fromm verehren,,,Verb
+466_bassus,Bassus,,,"Noun, proper"
 467_besser,besser,,,Adjective
 468_batista,batista,,,"Adjective, Superlative"
 469_vorteilerlangen,Vorteil erlangen,,,Verb
+470_batwins,Batwins,,,"Noun, proper"
 471_wohnung,Wohnung,,,"Noun, common, feminine"
 472_wohnenbewohnen,"wohnen, bewohnen",,,Verb
 473_wohnungaufschlagen,Wohnung aufschlagen,,,Verb
 474_bauanairgais,Bauanairgais,,,"Noun, proper"
+475_bauauz,Bauauz,,,"Noun, proper"
 478_dergeborene,der Geborene,,,"Noun, common, masculine"
 479_burger,Bürger,,,"Noun, common, masculine"
 480_turmburgstadt,"Turm, Burg; Stadt",,,"Noun, common, feminine"
@@ -511,6 +542,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 586_saugen,säugen,,,Verb
 587_tag,Tag,,,"Noun, common, masculine"
 588_teig,Teig,,,"Noun, common, masculine"
+589_daikapaulis,Daikapaulis,,,"Noun, proper"
 590_teilnahmegemeinschaft,"Teilnahme, Gemeinschaft",,,"Noun, common, feminine"
 591_teilenzuteilenmitteilen,"teilen, zuteilen, mitteilen",,,Verb
 592_abteileneinenteilabgeben,"abteilen, einen Teil abgeben ",,,Verb
@@ -541,6 +573,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 619_tor, Tor,,,"Noun, common, neuter"
 621_turhuterin,Türhüterin,,,"Noun, common, feminine"
 622_turhuter,Türhüter,,,"Noun, common, masculine"
+623_dauriaius,Dauriþaius,,,"Noun, proper"
 624_tortur," Tor, Tür",,,"Noun, common, feminine"
 625_sicherkuhnenwagen,"sich erkühnen, wagen",,,Verb
 626_dasabsterben,das Absterben,,,"Noun, common, feminine"
@@ -558,6 +591,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 641_didimus,Didimus,,,"Noun, proper"
 643_knetenaustonbilden,"kneten, aus Ton bilden",,,Verb
 645_zerstreuung,Zerstreuung,,,"Noun, common, feminine"
+646_auflosungdiabmarschdasscheiden,"Auflösung di Abmarsch, das Scheiden",,,"Noun, common, feminine"
 648_tiefe,Tiefe,,,"Noun, common, feminine"
 649_vertiefen,vertiefen,,,Verb
 650_tief,tief,,,Adjective
@@ -623,6 +657,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 714_eisenbandkette,"Eisenband, Kette",,,"Noun, common, feminine"
 715_eisern,eisern,,,Adjective
 716_dahersomit,daher somit,,,Conjunction
+717_eiau,eiþau,,,Unassigned
 718_esaias,Esaïas,,,"Noun, proper"
 719_esaw,Esaw,,,"Noun, proper"
 720_vater,Vater,,,"Noun, common, masculine"
@@ -656,11 +691,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 754_schauspiel,Schauspiel,,,"Noun, common, neuter"
 755_ferse,Ferse,,,"Noun, common, feminine"
 756_falaig,Falaig,,,"Noun, proper"
+757_fallasur,Fallasur,,,<none>
 758_faltenzusammenrollen,"falten, zusammenrollen",,,Verb
 759_stuckzeug,Stück Zeug,,,"Noun, common, masculine"
 760_schlamm,Schlamm,,,"Noun, common, neuter"
 761_fanuel,Fanuel,,,"Noun, proper"
+762_farais,Farais,,,"Noun, proper"
 763_wandernziehen,"wandern, ziehen",,,Verb
+764_farao,Farao,,,"Noun, proper"
 765_fareisaius,Fareisaius,,,"Noun, proper"
 766_fahren,fahren,,,Verb
 767_einlaufenlanden,"einlaufen, landen",,,Verb
@@ -802,6 +840,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 915_fullen,Füllen,,,"Noun, common, masculine"
 916_verborgen,verborgen,,,Adjective
 917_fulhsni,fulhsni,,,"Noun, common, neuter"
+919_p,P,,,<none>
 920_vollkommen,vollkommen,,,Adjective
 921_vollkommen,vollkommen ,,,Adjective
 922_uberreden,überreden,,,<none>
@@ -842,6 +881,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 961_brocken,Brocken,,,"Noun, common, feminine"
 962_band,Band,,,"Noun, common, feminine"
 963_teilnehmergenosse,"Teilnehmer, Genosse",,,"Noun, common, masculine"
+965_gaddarenus,Gaddarenus,,,"Noun, proper"
 966_tat,Tat,,,"Noun, common, feminine"
 967_gebilde,Gebilde,,,"Noun, common, neuter"
 968_vetter,Vetter,,,"Noun, common, masculine"
@@ -867,6 +907,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 991_einemvorausgehn,einem vorausgehn,,,Verb
 995_mitgehnmit,mitgehn mit,,,Verb
 996_hindurchgehnvorubergehn,"hindurchgehn, vorübergehn",,,Verb
+997_etwubertreten,etw übertreten,,,Verb
 998_ausgehnhinausgehn,"ausgehn, hinausgehn",,,Verb
 999_hinausgehnausgehn,"hinausgehn, ausgehn",,,Verb
 1000_entgegengehn,entgegengehn,,,Verb
@@ -889,6 +930,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1020_gainnesarai,Gainnesaraiþ,,,"Noun, proper"
 1021_gurtel,Gürtel,,,"Noun, common, feminine"
 1023_umgurten,umgürten,,,Verb
+1024_gairgaisainus,Gairgaisainus,,,"Noun, proper"
 1025_verlangenwunsch,"Verlangen, Wunsch",,,"Noun, common, feminine"
 1026_begehrenverlangennachbedurfen,"begehren, verlangen nach; bedürfen",,,Verb
 1027_leidenschaft,Leidenschaft,,,"Noun, common, neuter"
@@ -903,6 +945,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1037_probe,Probe,,,"Noun, common, feminine"
 1038_nachfolger,Nachfolger,,,"Noun, common, masculine"
 1039_galateis,Galateis,,,"Noun, proper"
+1040_galatia,Galatia,,,"Noun, proper"
 1041_glaubig,gläubig,,,Adjective
 1042_glaube,Glaube,,,"Noun, common, feminine"
 1043_wertvoll,wertvoll,,,Adjective
@@ -929,6 +972,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1065_verkruppeltverwundet,verkrüppelt; verwundet,,,Adjective
 1066_auflosung,Auflösung,,,"Noun, common, feminine"
 1067_teilnehmergenosse,Teilnehmer; Genosse,,,"Noun, common, neuter"
+1068_gamarko,gamarko,,,<none>
 1070_erinnerung,Erinnerung,,,"Noun, common, feminine"
 1071_schriftbuchstabenschrift,Schrift; Buchstabenschrift,,,"Noun, common, feminine"
 1072_gedachtniserinnerung,"Gedächtnis, Erinnerung",,,"Noun, common, neuter"
@@ -991,6 +1035,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1139_friedfertig,friedfertig,,,Adjective
 1140_friede,Friede,,,"Noun, common, neuter"
 1141_erwahlung,Erwählung,,,"Noun, common, feminine"
+1142_gemeindiunrein,gemein di unrein,,,Adjective
 1143_bekehrung,Bekehrung,,,"Noun, common, feminine"
 1144_verurteilung,Verurteilung,,,"Noun, common, feminine"
 1145_bekleidung,Bekleidung,,,"Noun, common, feminine"
@@ -1021,6 +1066,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1174_morgen,morgen,,,"Adverb, temporal"
 1175_finden,finden,,,Verb
 1176_gieen,gießen,,,Verb
+1177_ubergieendiubervollgieen,übergießen di übervoll gießen,,,Verb
 1178_sorgsam,sorgsam,,,Adverb
 1180_genau,genau,,,Adverb
 1181_glanzen,glänzen,,,Verb
@@ -1081,7 +1127,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1247_sicherhangen,sich erhängen,,,Verb
 1248_hangen,hangen,,,Verb
 1249_haibraius,Haibraius,,,"Noun, proper"
+1250_artuweise,Art u Weise,,,"Noun, common, masculine"
 1253_einaugig,einäugig,,,Adjective
+1254_haileias,Haileias,,,<none>
 1255_haileisaius,Haileisaius,,,"Noun, proper"
 1256_einenheilen,einen  heilen,,,Verb
 1258_hergestelltwerden,hergestellt werden,,,Verb
@@ -1092,12 +1140,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1263_herde,Herde,,,"Noun, common, feminine"
 1264_hirt,Hirt,,,"Noun, common, masculine"
 1265_hairmaugaineis,Hairmaugaineis,,,"Noun, proper"
+1266_hairodia,Hairodia,,,<none>
 1267_herz,Herz,,,"Noun, common, neuter"
 1268_eingeweideherz,"Eingeweide, Herz",,,"Noun, common"
 1269_schwert,Schwert,,,"Noun, common, masculine"
 1270_fakkeln,Fakkeln,,,"Noun, common"
 1271_heiennennen,"heißen, nennen",,,Verb
 1272_anrufen,anrufen,,,Verb
+1273_einenetwbekennensichbekennenzuetwbekennen,"einen, etw bekennen; sich bekennen zu; etw bekennen",,,Verb
 1274_herzurufen,herzurufen,,,Verb
 1275_verheien,verheißen,,,Verb
 1276_zusammenrufen,zusammenrufen,,,Verb
@@ -1156,6 +1206,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1338_dashornformiggebogenejohannisbrot,das hornförmig gebogene Johannisbrot,,,"Noun, common, neuter"
 1339_hornist,Hornist,,,"Noun, common, masculine"
 1340_dashornblasen,das Horn blasen,,,Verb
+1341_gehordiohr,Gehör di Ohr,,,"Noun, common, feminine"
 1344_dasgehorbekommen,das Gehör bekommen,,,Verb
 1345_gehorchen,gehorchen,,,Verb
 1346_horen,hören,,,Verb
@@ -1165,11 +1216,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1350_fieber,Fieber,,,"Noun, common, feminine"
 1351_hausherr,Hausherr,,,"Noun, common, masculine"
 1352_helei,helei,,,Foreign word
+1353_helei,Helei,,,"Noun, proper"
 1354_helias,Helias,,,"Noun, proper"
 1355_her,Her,,,"Noun, proper"
 1356_hierher,"hier, her",,,"Adverb, locative"
 1357_herodes,Herodes,,,"Noun, proper"
 1358_herodia,Herodia,,,"Noun, proper"
+1359_herodianus,Herodianus,,,"Noun, proper"
 1360_kammer,Kammer,,,"Noun, common, feminine"
 1361_dieser,dieser,,,"Pronoun, demonstrative"
 1362_hierher,hierher,,,"Adverb, directional"
@@ -1249,6 +1302,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1450_hungern,hungern,,,Verb
 1451_denkenmeinen,"denken, meinen",,,Verb
 1452_bezaubern,bezaubern,,,Verb
+1453_andhugjan,and-hugjan,,,Verb
 1454_sichvornehmen,sich vornehmen,,,Verb
 1455_sichuberheben,sich überheben,,,Verb
 1456_verstand,Verstand,,,"Noun, common, masculine"
@@ -1305,6 +1359,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1517_weien,weißen,,,Verb
 1518_wei,weiß,,,Adjective
 1519_wiegro,wie groß,,,Adjective
+1520_wiebeschaffen,wie beschaffen,,,Adjective
 1521_totenkistesarg,"Totenkiste, Sarg",,,"Noun, common, feminine"
 1522_dasruhmenderruhm,"Das Rühmen, der Ruhm",,,"Noun, common, feminine"
 1523_jeder,jeder,,,<none>
@@ -1313,6 +1368,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1526_drohen,drohen,,,Verb
 1527_einenbedrohn,einen bedrohn,,,Verb
 1528_iaeirus,Iaeirus,,,"Noun, proper"
+1529_iairaimias,Iairaimias,,,"Noun, proper"
 1531_iericho,Iericho,,,"Noun, proper"
 1532_iairusalem,Iairusalem,,,"Noun, proper"
 1533_iairusaulwma,Iairusaulwma,,,"Noun, proper"
@@ -1324,6 +1380,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1539_iaredis,Iaredis,,,"Noun, proper"
 1540_iareim,Iareim,,,"Noun, proper"
 1541_iasson,Iasson,,,"Noun, proper"
+1542_iaurdanus,Iaurdanus,,,"Noun, proper"
+1543_dochnicht,doch nicht,,,Particle
 1544_berglehne,Berglehne,,,"Noun, common"
 1546_gleichenkorpers,gleichen Körpers,,,Adjective
 1547_gleichschon,gleichschön,,,Adjective
@@ -1377,6 +1435,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1599_iskariotes,Iskariotes,,,"Noun, proper"
 1600_israel,Israel,,,"Noun, proper"
 1601_israeleites,Israeleites,,,"Noun, proper"
+1603_etwverzehrenfressen,"etw verzehren, fressen",,,Verb
 1604_ituraia,Ituraia,,,"Noun, proper"
 1605_aber,aber,,,Conjunction
 1606_iudaia,Iudaia,,,"Noun, proper"
@@ -1405,6 +1464,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1633_dorthingewandt,dorthin gewandt,,,Adjective
 1634_jener,jener,,,"Pronoun, demonstrative"
 1635_dorther,dorther,,,"Adverb, directional"
+1636_p,P,,,"Noun, proper"
 1637_janna,Janna,,,"Noun, proper"
 1638_jannes,Jannes,,,"Noun, proper"
 1639_undwenn,und wenn,,,Conjunction
@@ -1441,6 +1501,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1670_kalt,kalt,,,Adjective
 1671_hurerei,Hurerei,,,"Noun, common, masculine"
 1672_hure,Hure,,,"Noun, common, feminine"
+1673_kananeites,Kananeites,,,"Noun, proper"
 1674_kennenwissen,"kennen, wissen",,,<none>
 1675_einemkundtun,einem  kund tun,,,Verb
 1678_dashaarabschneiden,das Haar abschneiden,,,Verb
@@ -1476,6 +1537,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1709_hervorkeimen,hervorkeimen,,,Verb
 1710_mithervorkeimen,mithervorkeimen,,,Verb
 1711_turmspeisesaalimobergeschoss,Turm; Speisesaal im Obergeschoss,,,"Noun, common, neuter"
+1712_kileikia,Kileikia,,,"Noun, proper"
 1713_mutterleib,Mutterleib,,,"Noun, common, feminine"
 1714_statthalter,Statthalter,,,"Noun, common, masculine"
 1715_wange,Wange,,,"Noun, common, feminine"
@@ -1509,6 +1571,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1744_verachten,verachten,,,Verb
 1745_sichunterordnengehorchen,"sich unterordnen, gehorchen",,,Verb
 1746_kunnan,-kunnan,,,Verb
+1747_etwlesen,etw lesen,,,Verb
 1748_gewahren,gewähren,,,Verb
 1749_kennenlernenerfahren,"kennen lernen, erfahren",,,Verb
 1750_erkennen,erkennen,,,Verb
@@ -1526,13 +1589,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1762_etwasablegen,etwas ablegen,,,Verb
 1763_einemauflegen,einem  auflegen,,,Verb
 1764_hinlegenauflegen,"hinlegen, auflegen",,,Verb
+1765_einemetwvorlegen,einem  etw vorlegen,,,Verb
 1766_hinlegen,hinlegen,,,Verb
 1767_uberdecken,überdecken,,,Verb
 1768_uslagjan,us-lagjan,,,Verb
+1770_lauan,lauan,,,<none>
 1771_uberbleibsel,Überbleibsel,,,"Noun, common, feminine"
 1772_ubriglassen,übrig lassen,,,Verb
 1773_bleiben,bleiben,,,<none>
 1774_legion,Legion,,,Foreign word
+1775_etwbelecken,etw belecken,,,Verb
 1776_hupfenspringen,"hüpfen, springen",,,Verb
 1777_einenverspotten,einen  verspotten,,,Verb
 1778_tanz,Tanz,,,"Noun, common, masculine"
@@ -1565,6 +1631,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1806_einladungberufung,"Einladung, Berufung",,,"Noun, common, feminine"
 1808_glauben,glauben,,,Verb
 1809_einemerlauben,einem erlauben,,,Verb
+1810_laudeikaia,Laudeikaia,,,"Noun, proper"
 1811_gestalt,Gestalt,,,"Noun, common, feminine"
 1812_laubblatt,"Laub, Blatt",,,"Noun, common, masculine"
 1813_leugnen,leugnen,,,Verb
@@ -1653,10 +1720,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1900_lugenprophet,Lügenprophet,,,"Noun, common, masculine"
 1901_lugenredend,Lügen redend,,,Adjective
 1902_lugner,Lügner,,,"Noun, common, masculine"
+1903_liuhadei,liuhadei,,,"Noun, common, feminine"
 1904_helleglanz,"Helle, Glanz",,,"Noun, common, feminine"
 1905_hell,hell,,,Adjective
 1906_licht,Licht,,,"Noun, common, neuter"
 1907_leuchten,leuchten,,,Verb
+1908_etwerleuchtenanslichtbringen,"etw erleuchten, ans Licht bringen",,,Verb
 1909_erleuchten,erleuchten,,,Verb
 1910_etwasverlieren,etwas verlieren,,,Verb
 1911_heuchelei,Heuchelei,,,"Noun, common, feminine"
@@ -1664,6 +1733,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1913_sanger,Sänger,,,"Noun, common, masculine"
 1914_einemlobsingen,einem lobsingen,,,Verb
 1915_flachehand,flache Hand,,,"Noun, common, masculine"
+1916_lo,Loþ,,,"Noun, proper"
 1918_giftkundig,giftkundig,,,Adjective
 1919_giftmischereizauberei,"Giftmischerei, Zauberei",,,"Noun, common, feminine"
 1920_angesicht,Angesicht,,,"Noun, common, feminine"
@@ -1684,7 +1754,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1935_tauschen,taüschen,,,Verb
 1936_verfuhrenirrefuhren,"verführen, irre führen",,,Verb
 1937_lwddomaeis,Lwddomaeis,,,"Noun, proper"
+1938_lwsanius,Lwsanius,,,"Noun, proper"
 1939_lwstrws,Lwstrws,,,"Noun, proper"
+1940_maeinan,Maeinan,,,"Noun, proper"
 1941_konnenvermogen,"können, vermögen",,,Verb
 1942_geltenbedeuten,"gelten, bedeuten",,,Verb
 1943_jungfrauschaft,Jungfrauschaft,,,"Noun, common, feminine"
@@ -1701,13 +1773,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1954_tauschen,tauschen,,,Verb
 1955_verwandeln,verwandeln,,,Verb
 1956_mist,Mist,,,"Noun, common, masculine"
+1957_mailaian,Mailaian,,,"Noun, proper"
 1958_runzel,Runzel,,,"Noun, common"
+1959_mailkei,Mailkei,,,"Noun, proper"
 1960_pergament,Pergament,,,"Noun, common, masculine"
 1961_gemeinmachen,gemein machen,,,Verb
 1962_verunreinigen,verunreinigen,,,Verb
 1963_mehr,mehr,,,"Adverb, Comparative"
+1964_maisaullam,Maisaullam,,,"Noun, proper"
 1965_dergrote,der größte,,,"Adverb, Superlative"
 1966_hochstens,höchstens,,,"Adverb, Comparative"
+1967_etwschneidenhauenvon,"etw schneiden, hauen von",,,Verb
 1968_abhauenabschneiden,"abhauen, abschneiden",,,Verb
 1969_beschneiden,beschneiden,,,Verb
 1970_zerschneidenverschneiden,"zerschneiden, verschneiden",,,Verb
@@ -1725,11 +1801,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 1982_motte,Motte,,,"Noun, common"
 1984_mambres,Mambres,,,"Noun, proper"
 1985_fleisch,Fleisch,,,"Noun, common, feminine"
+1986_mammona,mammona,,,"Noun, common"
 1987_verhohnen,verhöhnen,,,Verb
 1988_meinenglaubendafurhalten,"meinen, glauben, dafür halten",,,<none>
 1989_fulle,Fülle,,,"Noun, common, feminine"
 1990_menge,Menge,,,"Noun, common, feminine"
 1991_mannigfaltig,mannigfaltig,,,Adjective
+1992_etwmehren,etw mehren,,,Verb
 1993_reichlichvorhandenseinuberfluhabenan,"reichlich vorhanden sein, Überfluß haben an",,,Verb
 1994_sichvermehrenzu,sich vermehren zu,,,Verb
 1995_mancherviel,"mancher, viel",,,Adjective
@@ -1743,6 +1821,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2003_menschlichkeit,Menschlichkeit,,,"Noun, common, masculine"
 2004_menschlich,menschlich,,,Adjective
 2005_bereitschaft,Bereitschaft,,,"Noun, common, feminine"
+2006_etwbereitmachenzurechtmachen,"etw bereitmachen, zurechtmachen",,,Verb
+2007_etwvorbereiten,etw vorbereiten,,,Verb
+2008_einemetwbereitenzu,einem etw bereiten zu,,,Verb
+2009_etwvorherzubereiten,etw vorher zubereiten,,,Verb
 2010_bereit,bereit,,,Adjective
 2011_derherrkommt,der Herr kommt,,,Foreign word
 2012_meer,Meer,,,"Noun, common, feminine"
@@ -1763,6 +1845,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2029_essen,essen,,,Verb
 2030_speise,Speise,,,"Noun, common, masculine"
 2031_mattaanis,Mattaþanis,,,"Noun, proper"
+2032_mattaius,Mattaþius,,,"Noun, proper"
+2033_mataius,Matþaius,,,"Noun, proper"
 2034_matat,Matþat,,,"Noun, proper"
 2035_wurm,Wurm,,,"Noun, common, masculine"
 2036_versammlungsortmarktplatz,"Versammlungsort, Marktplatz",,,"Noun, common"
@@ -1787,11 +1871,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2057_schreiben,schreiben,,,Verb
 2058_vorherschreiben,vorher schreiben,,,Verb
 2059_unterschreiben,unterschreiben,,,Verb
+2060_etwuberschreiben,etw überschreiben,,,Verb
 2061_mond,Mond,,,"Noun, common, masculine"
 2062_monat,Monat,,,"Noun, common, masculine"
 2063_verkundigungpredigt,"Verkündigung, Predigt",,,"Noun, common, feminine"
 2064_merila,Merila,,,"Noun, proper"
 2065_geruchtkunde,"Gerücht, Kunde",,,"Noun, common, feminine"
+2066_etwkundenkundtun,"etw künden, kund tun",,,Verb
 2067_verkundigerprediger,"Verkündiger, Prediger",,,"Noun, common, masculine"
 2069_einemeinefrohebotschaftkunden,einem eine frohe Botschaft künden,,,Verb
 2070_lastern,lästern,,,Verb
@@ -1799,6 +1885,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2072_tischschusselplattekelter,"Tisch; Schüssel, Platte; Kelter",,,"Noun, common, neuter"
 2073_zwischenwand,Zwischenwand,,,"Noun, common"
 2074_uberflutungsintflut,"Überflutung, Sintflut",,,"Noun, common, feminine"
+2075_midjis,midjis,,,Adjective
 2076_diebewohnteerdedererdkreis,"die bewohnte Erde, der Erdkreis",,,"Noun, common, masculine"
 2077_mitte,Mitte,,,"Noun, common, feminine"
 2078_mittler,Mittler,,,"Noun, common, masculine"
@@ -1849,13 +1936,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2128_einemdasmaulverbinden,einem das Maul verbinden,,,Verb
 2129_meinenglaubendafurhalten,"meinen, glauben, dafür halten",,,Verb
 2130_sicheinersache,sich einer Sache,,,Verb
+2131_etwzutungedenkenwollen,"etw zu tun gedenken, wollen",,,Verb
 2132_einenbesehnsehenauf,"einen besehn, sehen auf",,,Verb
 2133_ziel,Ziel,,,"Noun, common, feminine"
 2134_vergessen,vergessen,,,Verb
 2135_gedankemeinung,"Gedanke, Meinung",,,"Noun, common, masculine"
 2136_mund,Mund,,,"Noun, common, masculine"
+2137_nabaw,Nabaw,,,"Noun, proper"
 2138_natter,Natter,,,"Noun, common"
 2139_naem,[Naem],,,"Noun, proper"
+2140_naggai,Naggai,,,"Noun, proper"
 2141_festnagelnan,festnageln an,,,Verb
 2142_esisterlaubtnotig,"es ist erlaubt, nötig",,,Verb
 2143_esgenugteinem,es genügt einem,,,Verb
@@ -1912,6 +2002,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2198_esaufjemandabgesehnhaben,es auf jemand abgesehn haben,,,Verb
 2199_nerins,Nerins,,,"Noun, proper"
 2200_nadel,Nadel,,,"Noun, common, feminine"
+2202_dochnichtetwa,doch nicht etwa,,,Unassigned
 2203_dasverzehrenderrost,"das Verzehren, der Rost",,,"Noun, common"
 2204_undnichtauchnichtnicht,"und nicht, auch nicht, nicht",,,Unassigned
 2205_nikaudemus,Nikaudemus,,,"Noun, proper"
@@ -1954,6 +2045,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2242_fangerfischer,"Fänger, Fischer",,,"Noun, common, masculine"
 2243_nwmfan,Nwmfan,,,"Noun, proper"
 2244_achpfui,"ach, pfui",,,Interjection
+2245_obeid,Obeid,,,"Noun, proper"
+2246_odueia,Odueia,,,"Noun, proper"
 2247_sichfurchtenvor,sich fürchten vor ,,,Verb
 2248_einenschrecken,einen schrecken,,,Verb
 2249_zeithabend,Zeit habend,,,<none>
@@ -1961,22 +2054,27 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2251_osanna,osanna,,,Foreign word
 2252_leibrockunterkleid,"Leibrock, Unterkleid",,,"Noun, common, feminine"
 2253_bekleiden, bekleiden,,,Verb
+2254_paintekuste,paintekuste,,,"Noun, common"
 2255_paitrus,Paitrus,,,"Noun, proper"
 2256_presbytergeistlicher,"Presbyter, Geistlicher",,,"Noun, common"
 2257_troster,Tröster,,,"Noun, common, masculine"
 2258_rusttag,Rüsttag,,,"Noun, common"
 2259_paska,paska,,,"Noun, common"
 2260_pasxa,pasxa,,,<none>
+2261_pauntius,Pauntius,,,"Noun, proper"
 2262_purpur,Purpur,,,"Noun, common"
 2263_paurpaura,paurpaura,,,<none>
 2264_purpurn,purpurn,,,Adjective
 2265_pawlus,Pawlus,,,"Noun, proper"
 2266_palmbaum,Palmbaum,,,"Noun, common, masculine"
 2267_peilatus,Peilatus,,,"Noun, proper"
+2268_unverfalschteoflussigenarde,unverfälschte o flüssige Narde,,,Adjective
 2269_strae,Straße,,,"Noun, common, feminine"
 2270_flicken,Flicken,,,"Noun, common"
 2271_tanzen,tanzen,,,Verb
 2273_praitoriaun,praitoriaun,,,"Noun, common"
+2274_christlichgemeindebehorde,christlich Gemeindebehörde,,,"Noun, common, feminine"
+2275_praizbwtairi,praizbwtairi,,,"Noun, common, neuter"
 2276_prophetin,Prophetin,,,"Noun, common, feminine"
 2277_prophet,Prophet,,,"Noun, common"
 2278_weissagung,Weissagung,,,"Noun, common"
@@ -1995,6 +2093,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2291_hinzutreten,hinzutreten,,,Verb
 2292_einenuberfallen,einen überfallen,,,Verb
 2293_vorjemandhergehn,vor jemand hergehn,,,Verb
+2294_etwverzehrenausgebenvertun,"etw verzehren, ausgeben, vertun",,,Verb
 2295_zusammenkommen,zusammenkommen,,,Verb
 2296_mitkommenmit,mitkommen mit,,,Verb
 2297_umbringendentodgeben,"umbringen, den Tod geben",,,Verb
@@ -2024,8 +2123,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2324_daskommengegenwartankunftwiederkunftchristi,"das Kommen; Gegenwart, Ankunft, Wiederkunft Christi",,,"Noun, common, masculine"
 2325_rabbaunei,rabbaunei,,,Foreign word
 2326_rabbei,rabbei,,,Foreign word
+2327_ragaw,Ragaw,,,"Noun, proper"
 2328_ratbeschlu,"Rat, Beschluß",,,"Noun, common, neuter"
 2329_ratgeberratsherr,"Ratgeber, Ratsherr",,,"Noun, common, masculine"
+2330_etwverwalten,etw verwalten,,,Verb
 2331_einenratgeben,einen Rat geben,,,Verb
 2332_rechnen,rechnen,,,Verb
 2333_einenubertreffenan,einen übertreffen an,,,Verb
@@ -2061,11 +2162,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2363_warumlassetihreuchsatzungenauflegenalslebtetihrinderwelt,"warum lasset ihr euch Satzungen auflegen, als lebtet ihr in der Welt",,,Verb
 2364_reichherrschaftobrigkeit,"Reich, Herrschaft, Obrigkeit",,,"Noun, common, neuter"
 2365_herrschenuber,herrschen über,,,Verb
+2366_reikeis,reikeis,,,Adjective
+2367_reiks,reiks,,,Adjective
 2368_herrscherobrigkeit,"Herrscher, Obrigkeit",,,"Noun, common, masculine"
 2369_zittern,zittern,,,Verb
 2370_erzitternerbeben,"erzittern, erbeben",,,Verb
 2371_daszittern,das Zittern,,,"Noun, common, feminine"
 2372_erstehnsicherheben,"erstehn, sich erheben",,,Verb
+2373_resa,Resa,,,"Noun, proper"
 2374_regen,Regen,,,"Noun, common, neuter"
 2375_regnen,regnen,,,Verb
 2376_haufen,häufen,,,Verb
@@ -2085,13 +2189,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2393_finsterwerden,finster werden,,,Verb
 2394_vernichtungvomewigentodgesagt,"Vernichtung, vom ewigen Tod gesagt",,,"Noun, common, feminine"
 2396_verganglichsterblich,"vergänglich, sterblich",,,Adjective
+2397_riurs,riurs,,,Adjective
 2398_sprechenreden,"sprechen, reden",,,Verb
 2399_murrendredenmurren,"murrend reden, murren",,,Verb
 2400_miteinemreden,mit einem reden,,,Verb
 2401_hof,Hof,,,"Noun, common, feminine"
 2402_rufus,Rufus,,,"Noun, proper"
 2403_raum,Raum,,,"Noun, common"
+2404_ruma,Rūma,,,"Noun, proper"
 2405_sicherweitern,sich erweitern,,,Verb
+2406_rumoneis,Rūmoneis,,,"Noun, proper"
 2407_geraumig,geräumig,,,Adjective
 2408_geheimnis,Geheimnis,,,"Noun, common, feminine"
 2409_lauf,Lauf,,,"Noun, common, masculine"
@@ -2108,6 +2215,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2420_ufsaggqjan,uf-saggqjan,,,<none>
 2421_untergangwesten,"Untergang, Westen",,,"Noun, common"
 2422_vorlesungrezitation,"Vorlesung, Rezitation",,,"Noun, common, masculine"
+2423_derukeinandrerebender,"der u kein andrer, eben der",,,"Pronoun, demonstrative"
 2424_wasauchimmer,was auch immer,,,"Pronoun, indefinite"
 2425_eccesieh,"ecce, sieh",,,Adverb
 2426_saen,säen,,,Verb
@@ -2115,8 +2223,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2428_sechs,sechs,,,"Numeral, cardinal"
 2429_dersechste,der sechste,,,"Numeral, ordinal"
 2430_sehn,sehn,,,Verb
+2431_aufetwsehnesberucksichtigen,"auf etw sehn, es berücksichtigen",,,Verb
+2432_aufetwsehnachtgeben,"auf etw sehn, acht geben",,,Verb
 2433_umsehn,umsehn,,,Verb
 2434_erblicken,erblicken,,,Verb
+2435_hinsehnaufetwsehnnachetwsehn,"hinsehn; auf etw sehn, nach etw sehn",,,Verb
 2436_durchschauen,dúrchschauen,,,Verb
 2437_aufblicken,aufblicken,,,Verb
 2438_anseilen,anseilen,,,Verb
@@ -2153,6 +2264,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2470_salz,Salz,,,"Noun, common, neuter"
 2471_salzen,salzen,,,Verb
 2472_derselbedernamliche,"derselbe, der nämliche",,,Pronoun
+2473_samafrajis,samafraþjis,,,Adjective
 2474_desselbengeschlechtsverwandt,"desselben Geschlechts, verwandt",,,Adjective
 2475_gleichgro,gleich groß,,,Adjective
 2476_gleich,gleich,,,Adjective
@@ -2196,6 +2308,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2517_grund,Grund,,,"Noun, common, feminine"
 2518_opfer,Opfer,,,"Noun, common, masculine"
 2519_sei,sei,,,<none>
+2520_seidona,Seidona,,,"Noun, proper"
+2521_seidoneis,Seidoneis,,,"Noun, proper"
 2522_seimon,Seimon,,,"Noun, proper"
 2523_seina,Seina,,,"Noun, proper"
 2524_sich,sich,,,"Pronoun, personal, reflexive"
@@ -2205,6 +2319,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2529_tuchtigkeitgute,"Tüchtigkeit, Güte",,,"Noun, common, feminine"
 2530_gutgutig,"gut, gütig",,,Adjective
 2531_sem,Sem,,,"Noun, proper"
+2532_se,Seþ,,,"Noun, proper"
 2533_sibakanei,sibakþanei,,,Foreign word
 2534_sippenverhaltnisverwandtschaft,"Sippenverhältnis, Verwandtschaft",,,"Noun, common, feminine"
 2535_sichmiteinemversohnen,sich mit einem  versöhnen,,,Verb
@@ -2223,6 +2338,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2549_sinken,sinken,,,Verb
 2550_untersinken,untersinken,,,Verb
 2551_versinkenuntergehn,"versinken, untergehn",,,Verb
+2552_sihw,sihw,,,Unassigned
 2553_sekel,Sekel,,,"Noun, common, masculine"
 2555_selbst,selbst,,,Pronoun
 2556_silvanus,Silvanus,,,"Noun, proper"
@@ -2288,6 +2404,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2617_schadlich,schädlich,,,Adjective
 2618_riemen,Riemen,,,"Noun, common"
 2619_anmutig,anmutig,,,Adjective
+2620_skauneis,skauneis,,,Adjective
 2621_skorpion,Skorpion,,,"Noun, common, feminine"
 2622_zipfel,Zipfel,,,"Noun, common"
 2623_dasienuchternwerdenzurbesinnungkommenausdenschlingendesteufels,"daß sie nüchtern werden, zur Besinnung kommen aus den Schlingen des Teufels",,,<none>
@@ -2305,6 +2422,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2635_verstoenvonsichwegstoen,"verstoßen, von sich wegstoßen",,,Verb
 2636_schuh,Schuh,,,"Noun, common, masculine"
 2637_bosergeistdamon,"böser Geist, Dämon",,,"Noun, common, neuter"
+2638_etwzerreien,etw zerreißen,,,Verb
 2640_haupthaar,Haupthaar,,,"Noun, common"
 2641_spiegel,Spiegel,,,"Noun, common, masculine"
 2642_schuldnerderschuldige,"Schuldner, der Schuldige",,,"Noun, common, masculine"
@@ -2323,6 +2441,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2659_gefahr,Gefahr,,,"Noun, common, feminine"
 2660_beschadigen,beschädigen,,,Verb
 2661_schlimmgefahrlich,"schlimm, gefährlich",,,Adjective
+2662_sleideis,sleideis,,,Adjective
 2663_schlafen,schlafen,,,Verb
 2665_entschlummernentschlafen,"entschlummern, entschlafen",,,Verb
 2666_schlaf,Schlaf,,,"Noun, common"
@@ -2342,6 +2461,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2680_schnee,Schnee,,,"Noun, common, masculine"
 2681_anfassenanruhren,"anfassen, anrühren",,,Verb
 2682_schneidenernten,schneiden; ernten,,,Verb
+2683_afsneian,af-sneiþan,,,Verb
 2684_schlachten,schlachten,,,Verb
 2686_hineilenkommen,"hineilen, kommen",,,Verb
 2687_eilends,eilends,,,Adverb
@@ -2385,6 +2505,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2727_verkundenerzahlen,"verkünden, erzählen",,,Verb
 2728_spinnen,spinnen,,,Verb
 2729_schnellbald,"schnell, bald",,,Adverb
+2730_ausbinsenopalmblatterngeflochtenerkorb,aus Binsen o Palmblättern geflochtener Korb,,,"Noun, common, masculine"
 2731_grundstoffeelemente,"Grundstoffe, Elemente",,,"Noun, common, masculine"
 2732_stichaus,stich aus,,,Verb
 2733_etwasanstoenan,etwas anstoßen an,,,Verb
@@ -2509,6 +2630,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2856_reinigung,Reinigung,,,"Noun, common, feminine"
 2857_reinheitkeuschheit,"Reinheit, Keuschheit",,,"Noun, common, feminine"
 2858_reinunschuldigunstraflich,"rein, unschuldig; unsträflich",,,Adjective
+2859_etwbekanntgeben,etw bekannt geben,,,Verb
 2860_offenkundigoffenbarbekannt,"offenkundig, offenbar, bekannt",,,Adjective
 2861_imsterbenliegen,im Sterben liegen,,,Verb
 2862_sterben,sterben,,,Verb
@@ -2521,9 +2643,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2870_schwester,Schwester,,,"Noun, common, feminine"
 2871_swmaion,Swmaion,,,"Noun, proper"
 2872_synagogenvorsteher,Synagogenvorsteher,,,"Noun, common, masculine"
+2873_swnagoge,swnagoge,,,"Noun, common, feminine"
+2874_swntwke,Swntwke,,,"Noun, proper"
 2875_seufzen,seufzen,,,Verb
 2876_erseufzen,erseufzen,,,Verb
 2877_aufseufzen,aufseufzen,,,Verb
+2878_swria,Swria,,,"Noun, proper"
 2879_demtodenahe,dem Tode nahe,,,"Noun, common, masculine"
 2881_haar,Haar,,,"Noun, common, neuter"
 2882_zahretrane,"Zähre, Träne",,,"Noun, common, neuter"
@@ -2630,15 +2755,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 2985_zwolfjahrig,zwölfjährig,,,Adjective
 2986_zwolf,zwölf,,,"Numeral, cardinal"
 2987_daszweifeln,das Zweifeln,,,"Noun, common, feminine"
+2988_zweifelnozweifelerregen,zweifeln o Zweifel erregen,,,Verb
 2989_zweifel,Zweifel,,,"Noun, common"
 2990_zwischenbeidengrenzen,zwischen beiden Grenzen,,,"Numeral, other"
 2991_zwistigkeit,Zwistigkeit,,,"Noun, common, feminine"
 2992_twkeikus,Twkeikus,,,"Noun, proper"
+2993_twra,Twra,,,"Noun, proper"
 2994_addaius,Þaddaius,,,"Noun, proper"
 2995_wohin,wohin,,,Adverb
 2996_dank,Dank,,,<none>
 2997_denkenuberlegen,"denken, überlegen",,,Verb
 2998_mirfallteinwasichtunsoll,"mir fällt ein, was ich tun soll",,,Verb
+2999_etwbedenken,etw bedenken,,,Verb
 3000_dasschweigen,das Schweigen,,,"Noun, common, feminine"
 3001_schweigen,schweigen,,,Verb
 3002_verstummen,verstummen,,,Verb
@@ -2671,6 +2799,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3030_nur,nur,,,Adverb
 3031_da,daß,,,Conjunction
 3032_dasistnamlich,"das ist, nämlich",,,Unassigned
+3033_derukeinandrerebender,"der u kein andrer, eben der",,,<none>
 3034_dahervonda,"daher, von da",,,Adverb
 3035_vonwannen,von wannen,,,Adverb
 3036_vondadaher,"von da, daher",,,Adverb
@@ -2765,6 +2894,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3127_anfuhrervontausend,Anführer von Tausend,,,"Noun, common, masculine"
 3128_trompete,Trompete,,,"Noun, common, neuter"
 3129_trompeten,trompeten,,,Verb
+3130_etwwaschen,etw waschen,,,Verb
 3132_sichabwaschen,sich abwaschen,,,Verb
 3133_etwasauswaschenabwaschen,"etwas auswaschen, abwaschen",,,Verb
 3134_badtaufe,"Bad, Taufe",,,"Noun, common, neuter"
@@ -2876,6 +3006,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3243_unausloschlich,unauslöschlich,,,"Participle, present"
 3244_unablassig,unablässig,,,Adjective
 3245_sorglos,sorglos,,,Adjective
+3246_unkaureins,unkaureins,,,"Noun, common, feminine"
 3247_unze,Unze,,,"Noun, common, masculine"
 3248_nichtkennendunwissend,"nicht kennend, unwissend",,,"Participle, present"
 3249_unkunde,Unkunde,,,"Noun, common, neuter"
@@ -2897,6 +3028,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3265_unaussprechlich,unaussprechlich,,,Adjective
 3266_unverganglichkeit,Unvergänglichkeit,,,"Noun, common, feminine"
 3267_unverganglich,unvergänglich,,,Adjective
+3268_unriurs,unriurs,,,Adjective
 3269_nichtredendstumm,"nicht redend, stumm",,,"Participle, present"
 3270_unbestritten,unbestritten,,,Adverb
 3271_nichtsehend,nicht sehend,,,"Participle, present"
@@ -3030,6 +3162,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3405_gastfreundhauswirt,"Gastfreund, Hauswirt",,,"Noun, common, masculine"
 3406_lippe,Lippe,,,"Noun, common, feminine"
 3407_werfen,werfen,,,Verb
+3408_etwwegwerfen,etw wegwerfen,,,Verb
 3410_verwerfenzerstreuen,"verwerfen, zerstreuen",,,Verb
 3411_hinwerfen,hinwerfen,,,Verb
 3412_hineinwerfen,hineinwerfen,,,Verb
@@ -3043,6 +3176,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3421_sichversohnenmit,sich versöhnen mit,,,Verb
 3422_schatzen,schätzen,,,Verb
 3423_wertwurdigtauglich,"wert, würdig, tauglich",,,Adjective
+3424_aufetwsehnachtgebenesbewachenhutenetwhalten,"auf etw sehn, acht geben, es bewachen, hüten, etw halten",,,<none>
 3425_vielleichtetwa,"vielleicht, etwa",,,Adverb
 3426_schlechterruf,schlechter Ruf,,,"Noun, common, feminine"
 3427_lasterung,Lästerung,,,"Noun, common, feminine"
@@ -3056,6 +3190,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3435_echtlauter,"echt, lauter",,,Adjective
 3436_wahlen,wählen,,,Verb
 3437_erwahlen,erwählen,,,Verb
+3439_etwumwalzenumsturzen,"etw umwälzen, umstürzen",,,Verb
 3440_hinundherwalzen,hin und her wälzen,,,Verb
 3441_stab,Stab,,,"Noun, common, masculine"
 3442_sichwalzen,sich wälzen,,,Verb
@@ -3095,6 +3230,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3477_widersprechen,widersprechen,,,Verb
 3478_vielwortemachen,viel Worte machen,,,Verb
 3480_machenwirken,"machen, wirken",,,Verb
+3481_etwerwirken,etw erwirken,,,Verb
 3482_einesundebegehen,eine Sünde begehen,,,Verb
 3483_bewirkenerwirkenbereiten,"bewirken, erwirken, bereiten",,,Verb
 3484_ausfuhrenvollbringen,"ausführen, vollbringen",,,Verb
@@ -3189,6 +3325,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,POS
 3579_wit,wit,,,"Pronoun, personal"
 3580_wissen,wissen,,,Verb
 3581_ichbinmirnichtsbewut,ich bin mir nichts bewußt,,,Verb
+3582_aufetwsehnachtgebenesbewachenhutenetwhalten,"auf etw sehn, acht geben, es bewachen, hüten, etw halten",,,Verb
 3583_gesetzeskundiger,Gesetzeskundiger,,,"Noun, common, masculine"
 3584_gesetzeslehrer,Gesetzeslehrer,,,"Noun, common, masculine"
 3585_gesetzlos,gesetzlos,,,Adjective

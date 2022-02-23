@@ -2,6 +2,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 Gothic-2_ehemann-1,0,Gothic,2_ehemann,aba,aba,a β a,,557564,,,^ aba $,default
 Gothic-3_vater-1,1,Gothic,3_vater,abba,abba,a bː a,,557564,,,^ abba $,default
 Gothic-4_abeileni-1,2,Gothic,4_abeileni,Abeileni,Abeileni,a β i l e n ɪ,,557564,,,^ Abeileni $,default
+Gothic-5_abia-1,3,Gothic,5_abia,Abia*,Abia,a β ɪ a,,557564,,,^ Abia $,default
 Gothic-6_abiaar-1,4,Gothic,6_abiaar,Abiaþar,Abiaþar,a β ɪ a θ a r,,557564,,,^ Abiaþar $,default
 Gothic-7_abraham-1,5,Gothic,7_abraham,Abraham,Abraham,a β r a h a m,,557564,,,^ Abraham $,default
 Gothic-8_vorfurchtstaunenauersichgeratenuber-1,6,Gothic,8_vorfurchtstaunenauersichgeratenuber,bi-abrjan,biabrjan,b ɪ a β r j a n,,557564,,,^ biabrjan $,default
@@ -9,11 +10,14 @@ Gothic-9_starkheftig-1,7,Gothic,9_starkheftig,abrs,abrs,a β r̥ s,,557564,,,^ a
 Gothic-10_sehr-1,8,Gothic,10_sehr,abraba,abraba,a β r a β a,,557564,,,^ abraba $,default
 Gothic-11_vonvonwegvonher-1,9,Gothic,11_vonvonwegvonher,abu,abu,a β u,,557564,,,^ abu $,default
 Gothic-12_adam-1,10,Gothic,12_adam,Adam,Adam,a ð a m,,557564,,,^ Adam $,default
+Gothic-13_addei-1,11,Gothic,13_addei,Addei*,Addei,a dː i,,557564,,,^ Addei $,default
 Gothic-14_addin-1,12,Gothic,14_addin,Addin,Addin,a dː ɪ n,,557564,,,^ Addin $,default
+Gothic-15_adoneikam-1,13,Gothic,15_adoneikam,Adoneikam*,Adoneikam,a ð o n i k a m,,557564,,,^ Adoneikam $,default
 Gothic-16_vonvonwegvonher-1,14,Gothic,16_vonvonwegvonher,af,af,a ɸ,,557564,,,^ af $,default
 Gothic-17_nachher-1,15,Gothic,17_nachher,afar,afar,a ɸ a r,,557564,,,^ afar $,default
 Gothic-18_nachkomme-1,16,Gothic,18_nachkomme,[afara],afara,a ɸ a r a,,557564,,,^ afara $,default
 Gothic-19_derfolgendetag-1,17,Gothic,19_derfolgendetag,afardags,afardags,a ɸ a r d a ɣ s,,557564,,,^ afardags $,default
+Gothic-20_desnachsabbatsdhdeserstenwochentags-1,18,Gothic,20_desnachsabbatsdhdeserstenwochentags,afarsabbate,afarsabbate,a ɸ a r s a bː a t e,,557564,,,^ afarsabbate $,default
 Gothic-21_geplagt-1,19,Gothic,21_geplagt,afdauiþs*,afdauiþs,a ɸ d ɔ ɪ θ s,,557564,,,^ afdauiþs $,default
 Gothic-22_verdammung-1,20,Gothic,22_verdammung,afdomeins,afdomeins,a ɸ d o m i n s,,557564,,,^ afdomeins $,default
 Gothic-23_trunkenbold-1,21,Gothic,23_trunkenbold,afdrugkja,afdrugkja,a ɸ d r u ŋ k j a,,557564,,,^ afdrugkja $,default
@@ -75,6 +79,8 @@ Gothic-78_aibair-1,76,Gothic,78_aibair,Aibair,Aibair,ɛ β ɛ r,,557564,,,^ Aiba
 Gothic-79_opfergabe-1,77,Gothic,79_opfergabe,†aibr,aibr,ɛ β r̥,,557564,,,^ aibr $,default
 Gothic-80_aiddua-1,78,Gothic,80_aiddua,Aiddua,Aiddua,ɛ dː u a,,557564,,,^ Aiddua $,default
 Gothic-81_aieira-1,79,Gothic,81_aieira,Aieira,Aieira,ɛ i r a,,557564,,,^ Aieira $,default
+Gothic-82_aifaisius-1,80,Gothic,82_aifaisius,Aifaisius*,Aifaisius,ɛ ɸ ɛ s ɪ u s,,557564,,,^ Aifaisius $,default
+Gothic-83_aifaiso-1,81,Gothic,83_aifaiso,Aifaiso*,Aifaiso,ɛ ɸ ɛ s o,,557564,,,^ Aifaiso $,default
 Gothic-84_offnedich-1,82,Gothic,84_offnedich,aiffaþa,aiffaþa,ɛ ɸː a θ a,,557564,,,^ aiffaþa $,default
 Gothic-85_haben-1,83,Gothic,85_haben,aigan*,aigan,ɛ ɣ a n,,557564,,,^ aigan $,default
 Gothic-86_teilhabenan-1,84,Gothic,86_teilhabenan,fair-aihan,fairaihan,ɸ ɛ r ɛ h a n,,557564,,,^ fairaihan $,default
@@ -92,6 +98,7 @@ Gothic-97_aileiakeim-1,95,Gothic,97_aileiakeim,Aileiakeim,Aileiakeim,ɛ l i a k 
 Gothic-98_aileisabai-1,96,Gothic,98_aileisabai,Aileisabaiþ,Aileisabaiþ,ɛ l i s a β ɛ θ,,557564,,,^ Aileisabaiþ $,default
 Gothic-99_ailoe-1,97,Gothic,99_ailoe,ailoe,ailoe,ɛ l o e,,557564,,,^ ailoe $,default
 Gothic-100_ailul-1,98,Gothic,100_ailul,[Ailul],Ailul,ɛ l u l,,557564,,,^ Ailul $,default
+Gothic-101_aimmeira-1,99,Gothic,101_aimmeira,Aimmeira*,Aimmeira,ɛ mː i r a,,557564,,,^ Aimmeira $,default
 Gothic-102_eingeboren-1,100,Gothic,102_eingeboren,ainabaur,ainabaur,ɛ n a β ɔ r,,557564,,,^ ainabaur $,default
 Gothic-103_einzig-1,101,Gothic,103_einzig,ainaha,ainaha,ɛ n a h a,,557564,,,^ ainaha $,default
 Gothic-104_vereinzeltalleinstehend-1,102,Gothic,104_vereinzeltalleinstehend,ainakls,ainakls,ɛ n a k l̥ s,,557564,,,^ ainakls $,default
@@ -159,6 +166,7 @@ Gothic-165_aizor-1,163,Gothic,165_aizor,Aizor,Aizor,ɛ z o r,,557564,,,^ Aizor $
 Gothic-166_ewigkeit-1,164,Gothic,166_ewigkeit,ajukdūþs*,ajukduþs,a j u k d u θ s,,557564,,,^ ajukduþs $,default
 Gothic-167_sondern-1,165,Gothic,167_sondern,ak,ak,a k,,557564,,,^ ak $,default
 Gothic-168_akaja-1,166,Gothic,168_akaja,Akaja,Akaja,a k a j a,,557564,,,^ Akaja $,default
+Gothic-169_akajus-1,167,Gothic,169_akajus,Akajus*,Akajus,a k a j u s,,557564,,,^ Akajus $,default
 Gothic-170_akaikus-1,168,Gothic,170_akaikus,Akaïkus,Akaɪkus,a k a ɪ k u s,,557564,,,^ Akaɪkus $,default
 Gothic-1605_aber-1,169,Gothic,1605_aber,akei,akei,a k i,,557564,,,^ akei $,default
 Gothic-172_essig-1,170,Gothic,172_essig,aket*,aket,a k e t,,557564,,,^ aket $,default
@@ -171,6 +179,7 @@ Gothic-178_brandopfer-1,176,Gothic,178_brandopfer,alabrunsts,alabrunsts,a l a β
 Gothic-179_alaiksandrus-1,177,Gothic,179_alaiksandrus,Alaiksandrus,Alaiksandrus,a l ɛ k s a n d r u s,,557564,,,^ Alaiksandrus $,default
 Gothic-180_insgesamt-1,178,Gothic,180_insgesamt,alakjo,alakjo,a l a k j o,,557564,,,^ alakjo $,default
 Gothic-181_gesamtheitdermenschen-1,179,Gothic,181_gesamtheitdermenschen,alamans*,alamans,a l a m a n s,,557564,,,^ alamans $,default
+Gothic-182_alamannans-1,180,Gothic,182_alamannans,alamannans*,alamannans,a l a m a nː a n s,,557564,,,^ alamannans $,default
 Gothic-183_alamod-1,181,Gothic,183_alamod,Alamod,Alamod,a l a m o ð,,557564,,,^ Alamod $,default
 Gothic-3378_wachsen-1,182,Gothic,3378_wachsen,alan,alan,a l a n,,557564,,,^ alan $,default
 Gothic-185_anallemmangelleidend-1,183,Gothic,185_anallemmangelleidend,alaþarba,alaþarba,a l a θ a r b a,,557564,,,^ alaþarba $,default
@@ -205,8 +214,11 @@ Gothic-213_allmachtiger-1,211,Gothic,213_allmachtiger,allwaldands,allwaldands,a 
 Gothic-214_altwerden-1,212,Gothic,214_altwerden,us-alþan,usalþan,u s a l θ a n,,557564,,,^ usalþan $,default
 Gothic-749_alt-1,213,Gothic,749_alt,alþeis,alþeis,a l θ i s,,557564,,,^ alþeis $,default
 Gothic-216_alul-1,214,Gothic,216_alul,[Alul],Alul,a l u l,,557564,,,^ Alul $,default
+Gothic-217_ameinadab-1,215,Gothic,217_ameinadab,Ameinadab*,Ameinadab,a m i n a ð a β,,557564,,,^ Ameinadab $,default
 Gothic-218_amen-1,216,Gothic,218_amen,amen,amen,a m e n,,557564,,,^ amen $,default
+Gothic-219_ammo-1,217,Gothic,219_ammo,Ammo*,Ammo,a mː o,,557564,,,^ Ammo $,default
 Gothic-220_schulter-1,218,Gothic,220_schulter,ams*,ams,a m s,,557564,,,^ ams $,default
+Gothic-221_amsa-1,219,Gothic,221_amsa,amsa*,amsa,a m s a,,557564,,,^ amsa $,default
 Gothic-222_dennnun-1,220,Gothic,222_dennnun,an,an,a n,,557564,,,^ an $,default
 Gothic-223_daraufauerdem-1,221,Gothic,223_daraufauerdem,ana,ana,a n a,,557564,,,^ ana $,default
 Gothic-224_gebot-1,222,Gothic,224_gebot,anabusns,anabusns,a n a β u s n̥ s,,557564,,,^ anabusns $,default
@@ -221,6 +233,8 @@ Gothic-232_aufgleicheweise-1,230,Gothic,232_aufgleicheweise,analeiko,analeiko,a 
 Gothic-233_ubermachtmihandlung-1,231,Gothic,233_ubermachtmihandlung,anamahts,anamahts,a n a m a h t s,,557564,,,^ anamahts $,default
 Gothic-234_verstecktemeinungvermutung-1,232,Gothic,234_verstecktemeinungvermutung,anaminds,anaminds,a n a m ɪ n d s,,557564,,,^ anaminds $,default
 Gothic-235_ausatmen-1,233,Gothic,235_ausatmen,uz-anan,uzanan,u z a n a n,,557564,,,^ uzanan $,default
+Gothic-236_ananias-1,234,Gothic,236_ananias,Ananias*,Ananias,a n a n ɪ a s,,557564,,,^ Ananias $,default
+Gothic-237_ananeias-1,235,Gothic,237_ananeias,Ananeias*,Ananeias,a n a n i a s,,557564,,,^ Ananeias $,default
 Gothic-1580_erneuerung-1,236,Gothic,1580_erneuerung,ananiujiþa*,ananiujiþa,a n a n ɪ u j ɪ θ a,,557564,,,^ ananiujiþa $,default
 Gothic-239_ruhe-1,237,Gothic,239_ruhe,anaqal,anaqal,a n a kʷ a l,,557564,,,^ anaqal $,default
 Gothic-3427_lasterung-1,238,Gothic,3427_lasterung,anaqiss,anaqiss,a n a kʷ ɪ sː,,557564,,,^ anaqiss $,default
@@ -267,20 +281,25 @@ Gothic-280_gegenwartig-1,278,Gothic,280_gegenwartig,andwairþs,andwairþs,a n d 
 Gothic-281_anna-1,279,Gothic,281_anna,Anna,Anna,a nː a,,557564,,,^ Anna $,default
 Gothic-282_annas-1,280,Gothic,282_annas,Annas,Annas,a nː a s,,557564,,,^ Annas $,default
 Gothic-283_sold-1,281,Gothic,283_sold,anno*,anno,a nː o,,557564,,,^ anno $,default
+Gothic-284_ano-1,282,Gothic,284_ano,Ano*,Ano,a n o,,557564,,,^ Ano $,default
 Gothic-285_balken-1,283,Gothic,285_balken,ans*,ans,a n s,,557564,,,^ ans $,default
 Gothic-286_gnadig-1,284,Gothic,286_gnadig,ansteigs,ansteigs,a n s t i ɣ s,,557564,,,^ ansteigs $,default
 Gothic-287_freudedankgnadegunst-1,285,Gothic,287_freudedankgnadegunst,ansts,ansts,a n s t s,,557564,,,^ ansts $,default
+Gothic-288_antiaukiaantiokia-1,286,Gothic,288_antiaukiaantiokia,"Antiaukia*, Antiokia*",Antiaukia,a n t ɪ ɔ k ɪ a,,557564,,,^ Antiaukia $,default
 Gothic-289_andererzweiter-1,287,Gothic,289_andererzweiter,anþar,anþar,a n θ a r,,557564,,,^ anþar $,default
 Gothic-290_verschiedenheit-1,288,Gothic,290_verschiedenheit,anþarleikei,anþarleikei,a n θ a r l i k i,,557564,,,^ anþarleikei $,default
 Gothic-291_anders-2,289,Gothic,291_anders,anþarleiko,anþarleiko,a n θ a r l i k o,,557564,,,^ anþarleiko $,default
+Gothic-292_appaullo-1,290,Gothic,292_appaullo,Appaullo*,Appaullo,a pː ɔ lː o,,557564,,,^ Appaullo $,default
 Gothic-293_apostolat-1,291,Gothic,293_apostolat,apaustaulei,apaustaulei,a p ɔ s t ɔ l i,,557564,,,^ apaustaulei $,default
 Gothic-294_apostel-1,292,Gothic,294_apostel,apaustaulus,apaustaulus,a p ɔ s t ɔ l u s,,557564,,,^ apaustaulus $,default
 Gothic-295_axt-1,293,Gothic,295_axt,aqizi,aqizi,a kʷ ɪ z ɪ,,557564,,,^ aqizi $,default
 Gothic-296_aar-1,294,Gothic,296_aar,ara,ara,a r a,,557564,,,^ ara $,default
 Gothic-297_arabia-1,295,Gothic,297_arabia,Arabia,Arabia,a r a β ɪ a,,557564,,,^ Arabia $,default
+Gothic-298_araita-1,296,Gothic,298_araita,Araita*,Araita,a r ɛ t a,,557564,,,^ Araita $,default
 Gothic-299_aram-1,297,Gothic,299_aram,Aram,Aram,a r a m,,557564,,,^ Aram $,default
 Gothic-300_arbeitendulden-1,298,Gothic,300_arbeitendulden,arbaidjan,arbaidjan,a r b ɛ ð j a n,,557564,,,^ arbaidjan $,default
 Gothic-301_seineehresetzenintrachtennach-1,299,Gothic,301_seineehresetzenintrachtennach,bi-arbaidjan,biarbaidjan,b ɪ a r b ɛ ð j a n,,557564,,,^ biarbaidjan $,default
+Gothic-302_mitjemarbeitenmitjemleiden-1,300,Gothic,302_mitjemarbeitenmitjemleiden,miþ-arbaidjan,miþarbaidjan,m ɪ θ a r b ɛ ð j a n,,557564,,,^ miþarbaidjan $,default
 Gothic-303_durcharbeiten-1,301,Gothic,303_durcharbeiten,þairh-arbaidjan,þairharbaidjan,θ ɛ r h a r b ɛ ð j a n,,557564,,,^ þairharbaidjan $,default
 Gothic-304_arbeitdrangsal-1,302,Gothic,304_arbeitdrangsal,arbaiþs,arbaiþs,a r b ɛ θ s,,557564,,,^ arbaiþs $,default
 Gothic-305_daserbe-1,303,Gothic,305_daserbe,arbi,arbi,a r b ɪ,,557564,,,^ arbi $,default
@@ -289,6 +308,7 @@ Gothic-307_dererbe-2,305,Gothic,307_dererbe,arbja,arbja,a r b j a,,557564,,,^ ar
 Gothic-308_erbin-1,306,Gothic,308_erbin,arbjo,arbjo,a r b j o,,557564,,,^ arbjo $,default
 Gothic-309_areimaaia-1,307,Gothic,309_areimaaia,Areimaþaia,Areimaþaia,a r i m a θ ɛ a,,557564,,,^ Areimaþaia $,default
 Gothic-310_areistarkus-1,308,Gothic,310_areistarkus,Areistarkus,Areistarkus,a r i s t a r k u s,,557564,,,^ Areistarkus $,default
+Gothic-311_arfaksad-1,309,Gothic,311_arfaksad,Arfaksad*,Arfaksad,a r ɸ a k s a ð,,557564,,,^ Arfaksad $,default
 Gothic-312_pfeil-1,310,Gothic,312_pfeil,arƕazna,arƕazna,a r ʍ a z n a,,557564,,,^ arƕazna $,default
 Gothic-313_pflugen-1,311,Gothic,313_pflugen,arjan,arjan,a r j a n,,557564,,,^ arjan $,default
 Gothic-314_holzernerkastenarchefutteralbeutel-1,312,Gothic,314_holzernerkastenarchefutteralbeutel,arka,arka,a r k a,,557564,,,^ arka $,default
@@ -306,7 +326,10 @@ Gothic-325_sicher-1,323,Gothic,325_sicher,arniba,arniba,a r n ɪ β a,,557564,,,
 Gothic-326_aromata-1,324,Gothic,326_aromata,aromata,aromata,a r o m a t a,,557564,,,^ aromata $,default
 Gothic-327_artaksairksus-1,325,Gothic,327_artaksairksus,[Artaksairksus],Artaksairksus,a r t a k s ɛ r k s u s,,557564,,,^ Artaksairksus $,default
 Gothic-328_umsonst-1,326,Gothic,328_umsonst,arwjo,arwjo,a r w j o,,557564,,,^ arwjo $,default
+Gothic-329_asaf-1,327,Gothic,329_asaf,Asaf*,Asaf,a s a ɸ,,557564,,,^ Asaf $,default
 Gothic-330_sommer-1,328,Gothic,330_sommer,asans,asans,a s a n s,,557564,,,^ asans $,default
+Gothic-331_aser-1,329,Gothic,331_aser,Aser*,Aser,a s e r,,557564,,,^ Aser $,default
+Gothic-332_asgad-1,330,Gothic,332_asgad,Asgad*,Asgad,a s ɡ a ð,,557564,,,^ Asgad $,default
 Gothic-333_asia-1,331,Gothic,333_asia,Asia,Asia,a s ɪ a,,557564,,,^ Asia $,default
 Gothic-334_eselsmuhle-1,332,Gothic,334_eselsmuhle,asiluqairnus,asiluqairnus,a s ɪ l u kʷ ɛ r n u s,,557564,,,^ asiluqairnus $,default
 Gothic-335_esel-1,333,Gothic,335_esel,asilus,asilus,a s ɪ l u s,,557564,,,^ asilus $,default
@@ -318,6 +341,7 @@ Gothic-340_sicherheit-1,338,Gothic,340_sicherheit,astaþ,astaþ,a s t a θ,,5575
 Gothic-341_ast-1,339,Gothic,341_ast,asts,asts,a s t s,,557564,,,^ asts $,default
 Gothic-342_von-1,340,Gothic,342_von,at,at,a t,,557564,,,^ at $,default
 Gothic-1642_jahr-1,341,Gothic,1642_jahr,ataþni*,ataþni,a t a θ n ɪ,,557564,,,^ ataþni $,default
+Gothic-344_aterateir-1,342,Gothic,344_aterateir,"Ater*, Ateir*",Ater,a t e r,,557564,,,^ Ater $,default
 Gothic-345_zugang-1,343,Gothic,345_zugang,atgagg*,atgagg,a t ɡ a ŋ ɡ,,557564,,,^ atgagg $,default
 Gothic-346_saat-1,344,Gothic,346_saat,atisk,atisk,a t ɪ s k,,557564,,,^ atisk $,default
 Gothic-347_zumessenausteilen-1,345,Gothic,347_zumessenausteilen,fra-atjan,fraatjan,ɸ r a a t j a n,,557564,,,^ fraatjan $,default
@@ -354,11 +378,13 @@ Gothic-377_aunisimus-1,375,Gothic,377_aunisimus,Aunisimus,Aunisimus,ɔ n ɪ s ɪ
 Gothic-378_grabdenkmalergraber-1,376,Gothic,378_grabdenkmalergraber,aurahjom,aurahjom,ɔ r a h j o m,,557564,,,^ aurahjom $,default
 Gothic-379_schweituch-1,377,Gothic,379_schweituch,aurali*,aurali,ɔ r a l ɪ,,557564,,,^ aurali $,default
 Gothic-380_krug-1,378,Gothic,380_krug,aurkjus*,aurkjus,ɔ r k j u s,,557564,,,^ aurkjus $,default
+Gothic-381_aurkeis-1,379,Gothic,381_aurkeis,aurkeis*,aurkeis,ɔ r k i s,,557564,,,^ aurkeis $,default
 Gothic-382_garten-1,380,Gothic,382_garten,aurtigards,aurtigards,ɔ r t ɪ ɣ a r d s,,557564,,,^ aurtigards $,default
 Gothic-383_landmannwinzer-1,381,Gothic,383_landmannwinzer,aurtja,aurtja,ɔ r t j a,,557564,,,^ aurtja $,default
 Gothic-384_ohr-1,382,Gothic,384_ohr,auso,auso,ɔ s o,,557564,,,^ auso $,default
 Gothic-385_wuste-1,383,Gothic,385_wuste,auþida,auþida,ɔ θ ɪ ð a,,557564,,,^ auþida $,default
 Gothic-386_ode-1,384,Gothic,386_ode,auþeis*,auþeis,ɔ θ i s,,557564,,,^ auþeis $,default
+Gothic-387_aus-1,385,Gothic,387_aus,auþs*,auþs,ɔ θ s,,557564,,,^ auþs $,default
 Gothic-388_schafherde-1,386,Gothic,388_schafherde,aweþi,aweþi,a w e θ ɪ,,557564,,,^ aweþi $,default
 Gothic-389_einemdanken-1,387,Gothic,389_einemdanken,awiliudon,awiliudon,a w ɪ l ɪ u ð o n,,557564,,,^ awiliudon $,default
 Gothic-390_dank-1,388,Gothic,390_dank,awiliuþ,awiliuþ,a w ɪ l ɪ u θ,,557564,,,^ awiliuþ $,default
@@ -388,6 +414,7 @@ Gothic-413_hineinbringen-1,411,Gothic,413_hineinbringen,inn-atbairan,innatbairan
 Gothic-414_vertragen-1,412,Gothic,414_vertragen,fra-bairan,frabairan,ɸ r a β ɛ r a n,,557564,,,^ frabairan $,default
 Gothic-415_vergleichen-1,413,Gothic,415_vergleichen,ga-bairan,gabairan,ɡ a β ɛ r a n,,557564,,,^ gabairan $,default
 Gothic-416_hindurchtragen-1,414,Gothic,416_hindurchtragen,þairh-bairan,þairhbairan,θ ɛ r h b ɛ r a n,,557564,,,^ þairhbairan $,default
+Gothic-417_hinaustragenhervorbringenvorbringendiantwortenertragen-1,415,Gothic,417_hinaustragenhervorbringenvorbringendiantwortenertragen,us-bairan,usbairan,u s b ɛ r a n,,557564,,,^ usbairan $,default
 Gothic-418_hinaustragen-1,416,Gothic,418_hinaustragen,ūt-bairan,utbairan,u t b ɛ r a n,,557564,,,^ utbairan $,default
 Gothic-419_beroiainthrakien-1,417,Gothic,419_beroiainthrakien,Bairauja,Bairauja,b ɛ r ɔ j a,,557564,,,^ Bairauja $,default
 Gothic-420_gebirgsgegend-1,418,Gothic,420_gebirgsgegend,bairgahei,bairgahei,b ɛ r ɡ a h i,,557564,,,^ bairgahei $,default
@@ -423,6 +450,7 @@ Gothic-449_zeichen-2,447,Gothic,449_zeichen,bandwo,bandwo,b a n d w o,,557564,,,
 Gothic-450_schlagwunde-1,448,Gothic,450_schlagwunde,banja*,banja,b a n j a,,557564,,,^ banja $,default
 Gothic-451_scheuer-1,449,Gothic,451_scheuer,bansts,bansts,b a n s t s,,557564,,,^ bansts $,default
 Gothic-452_barabba-1,450,Gothic,452_barabba,Barabba(s),Barabba,b a r a bː a,,557564,,,^ Barabba $,default
+Gothic-453_barakeias-1,451,Gothic,453_barakeias,Barakeias*,Barakeias,b a r a k i a s,,557564,,,^ Barakeias $,default
 Gothic-454_nicht-1,452,Gothic,454_nicht,barbarus,barbarus,b a r b a r u s,,557564,,,^ barbarus $,default
 Gothic-455_vongerstebereitet-1,453,Gothic,455_vongerstebereitet,barizeins,barizeins,b a r ɪ z i n s,,557564,,,^ barizeins $,default
 Gothic-456_busenscho-1,454,Gothic,456_busenscho,barms,barms,b a r m̥ s,,557564,,,^ barms $,default
@@ -435,13 +463,16 @@ Gothic-462_kindlich-1,460,Gothic,462_kindlich,barnisks,barnisks,b a r n ɪ s k s
 Gothic-463_barteimaiaus-1,461,Gothic,463_barteimaiaus,Barteimaiaus,Barteimaiaus,b a r t i m ɛ ɔ s,,557564,,,^ Barteimaiaus $,default
 Gothic-464_baraulaumaius-1,462,Gothic,464_baraulaumaius,Barþaulaumaius,Barþaulaumaius,b a r θ ɔ l ɔ m ɛ u s,,557564,,,^ Barþaulaumaius $,default
 Gothic-465_frommverehren-1,463,Gothic,465_frommverehren,barusnjan,barusnjan,b a r u s n j a n,,557564,,,^ barusnjan $,default
+Gothic-466_bassus-1,464,Gothic,466_bassus,Bassus*,Bassus,b a sː u s,,557564,,,^ Bassus $,default
 Gothic-467_besser-1,465,Gothic,467_besser,batiza,batiza,b a t ɪ z a,,557564,,,^ batiza $,default
 Gothic-468_batista-1,466,Gothic,468_batista,batista,batista,b a t ɪ s t a,,557564,,,^ batista $,default
 Gothic-469_vorteilerlangen-1,467,Gothic,469_vorteilerlangen,ga-batnan,gabatnan,ɡ a β a t n a n,,557564,,,^ gabatnan $,default
+Gothic-470_batwins-1,468,Gothic,470_batwins,Batwins*,Batwins,b a t w ɪ n s,,557564,,,^ Batwins $,default
 Gothic-471_wohnung-1,469,Gothic,471_wohnung,bauains,bauains,b ɔ ɛ n s,,557564,,,^ bauains $,default
 Gothic-472_wohnenbewohnen-1,470,Gothic,472_wohnenbewohnen,bauan,bauan,b ɔ a n,,557564,,,^ bauan $,default
 Gothic-473_wohnungaufschlagen-1,471,Gothic,473_wohnungaufschlagen,ga-bauan,gabauan,ɡ a β ɔ a n,,557564,,,^ gabauan $,default
 Gothic-474_bauanairgais-1,472,Gothic,474_bauanairgais,Bauanairgais,Bauanairgais,b ɔ a n ɛ r ɡ ɛ s,,557564,,,^ Bauanairgais $,default
+Gothic-475_bauauz-1,473,Gothic,475_bauauz,Bauauz*,Bauauz,b ɔ ɔ z,,557564,,,^ Bauauz $,default
 Gothic-1434_ausfegen-1,474,Gothic,1434_ausfegen,us-baugjan,usbaugjan,u s b ɔ ɣ j a n,,557564,,,^ usbaugjan $,default
 Gothic-538_aufblasen-1,475,Gothic,538_aufblasen,uf-bauljan,ufbauljan,u ɸ b ɔ l j a n,,557564,,,^ ufbauljan $,default
 Gothic-478_dergeborene-1,476,Gothic,478_dergeborene,baur,baur,b ɔ r,,557564,,,^ baur $,default
@@ -555,6 +586,7 @@ Gothic-585_wasihmbevorstand-1,583,Gothic,585_wasihmbevorstand,ga-daban,gadaban,�
 Gothic-586_saugen-1,584,Gothic,586_saugen,daddjan,daddjan,d a dː j a n,,557564,,,^ daddjan $,default
 Gothic-587_tag-1,585,Gothic,587_tag,dags,dags,d a ɣ s,,557564,,,^ dags $,default
 Gothic-588_teig-1,586,Gothic,588_teig,daigs,daigs,d ɛ ɣ s,,557564,,,^ daigs $,default
+Gothic-589_daikapaulis-1,587,Gothic,589_daikapaulis,Daikapaulis*,Daikapaulis,d ɛ k a p ɔ l ɪ s,,557564,,,^ Daikapaulis $,default
 Gothic-590_teilnahmegemeinschaft-1,588,Gothic,590_teilnahmegemeinschaft,daila,daila,d ɛ l a,,557564,,,^ daila $,default
 Gothic-591_teilenzuteilenmitteilen-1,589,Gothic,591_teilenzuteilenmitteilen,dailjan,dailjan,d ɛ l j a n,,557564,,,^ dailjan $,default
 Gothic-592_abteileneinenteilabgeben-1,590,Gothic,592_abteileneinenteilabgeben,af-dailjan,afdailjan,a ɸ d ɛ l j a n,,557564,,,^ afdailjan $,default
@@ -588,6 +620,7 @@ Gothic-619_tor-1,617,Gothic,619_tor,daur,daur,d ɔ r,,557564,,,^ daur $,default
 Gothic-621_turhuterin-1,618,Gothic,621_turhuterin,daurawarda,daurawarda,d ɔ r a w a r d a,,557564,,,^ daurawarda $,default
 Gothic-621_turhuterin-2,619,Gothic,621_turhuterin,daurawardo,daurawardo,d ɔ r a w a r d o,,557564,,,^ daurawardo $,default
 Gothic-622_turhuter-1,620,Gothic,622_turhuter,daurawards,daurawards,d ɔ r a w a r d s,,557564,,,^ daurawards $,default
+Gothic-623_dauriaius-1,621,Gothic,623_dauriaius,Dauriþaius*,Dauriþaius,d ɔ r ɪ θ ɛ u s,,557564,,,^ Dauriþaius $,default
 Gothic-624_tortur-1,622,Gothic,624_tortur,daurons,daurons,d ɔ r o n s,,557564,,,^ daurons $,default
 Gothic-625_sicherkuhnenwagen-1,623,Gothic,625_sicherkuhnenwagen,ga-daursan,gadaursan,ɡ a ð ɔ r s a n,,557564,,,^ gadaursan $,default
 Gothic-626_dasabsterben-1,624,Gothic,626_dasabsterben,dauþeins,dauþeins,d ɔ θ i n s,,557564,,,^ dauþeins $,default
@@ -610,6 +643,7 @@ Gothic-643_knetenaustonbilden-1,640,Gothic,643_knetenaustonbilden,digan,digan,d 
 Gothic-643_knetenaustonbilden-2,641,Gothic,643_knetenaustonbilden,ga-digan,gadigan,ɡ a ð ɪ ɣ a n,,557564,,,^ gadigan $,default
 Gothic-1989_fulle-1,642,Gothic,1989_fulle,digrei,digrei,d ɪ ɣ r i,,557564,,,^ digrei $,default
 Gothic-645_zerstreuung-1,643,Gothic,645_zerstreuung,distaheins*,distaheins,d ɪ s t a h i n s,,557564,,,^ distaheins $,default
+Gothic-646_auflosungdiabmarschdasscheiden-1,644,Gothic,646_auflosungdiabmarschdasscheiden,diswiss,diswiss,d ɪ s w ɪ sː,,557564,,,^ diswiss $,default
 Gothic-648_tiefe-1,645,Gothic,648_tiefe,diupei,diupei,d ɪ u p i,,557564,,,^ diupei $,default
 Gothic-648_tiefe-2,646,Gothic,648_tiefe,diupiþa,diupiþa,d ɪ u p ɪ θ a,,557564,,,^ diupiþa $,default
 Gothic-649_vertiefen-1,647,Gothic,649_vertiefen,ga-diupjan,gadiupjan,ɡ a ð ɪ u p j a n,,557564,,,^ gadiupjan $,default
@@ -680,6 +714,7 @@ Gothic-713_eisen-1,711,Gothic,713_eisen,eisarn,eisarn,i s a r n̥,,557564,,,^ ei
 Gothic-714_eisenbandkette-1,712,Gothic,714_eisenbandkette,eisarnabandi,eisarnabandi,i s a r n a β a n d ɪ,,557564,,,^ eisarnabandi $,default
 Gothic-715_eisern-1,713,Gothic,715_eisern,eisarneins,eisarneins,i s a r n i n s,,557564,,,^ eisarneins $,default
 Gothic-716_dahersomit-1,714,Gothic,716_dahersomit,eiþan,eiþan,i θ a n,,557564,,,^ eiþan $,default
+Gothic-717_eiau-1,715,Gothic,717_eiau,†eiþau,eiþau,i θ ɔ,,557564,,,^ eiþau $,default
 Gothic-718_esaias-1,716,Gothic,718_esaias,Esaïas,Esaɪas,e s a ɪ a s,,557564,,,^ Esaɪas $,default
 Gothic-719_esaw-1,717,Gothic,719_esaw,Esaw,Esaw,e s a w,,557564,,,^ Esaw $,default
 Gothic-720_vater-2,718,Gothic,720_vater,fadar,fadar,ɸ a ð a r,,557564,,,^ fadar $,default
@@ -719,11 +754,14 @@ Gothic-753_vonfern-1,751,Gothic,753_vonfern,fairraþro,fairraþro,ɸ ɛ rː a θ
 Gothic-754_schauspiel-1,752,Gothic,754_schauspiel,fairweitl,fairweitl,ɸ ɛ r w i t l̥,,557564,,,^ fairweitl $,default
 Gothic-755_ferse-1,753,Gothic,755_ferse,fairzna,fairzna,ɸ ɛ r z n a,,557564,,,^ fairzna $,default
 Gothic-756_falaig-1,754,Gothic,756_falaig,Falaig,Falaig,ɸ a l ɛ ɣ,,557564,,,^ Falaig $,default
+Gothic-757_fallasur-1,755,Gothic,757_fallasur,†Fallasur,Fallasur,ɸ a lː a s u r,,557564,,,^ Fallasur $,default
 Gothic-758_faltenzusammenrollen-1,756,Gothic,758_faltenzusammenrollen,falþan,falþan,ɸ a l θ a n,,557564,,,^ falþan $,default
 Gothic-759_stuckzeug-1,757,Gothic,759_stuckzeug,fana,fana,ɸ a n a,,557564,,,^ fana $,default
 Gothic-760_schlamm-1,758,Gothic,760_schlamm,fani,fani,ɸ a n ɪ,,557564,,,^ fani $,default
 Gothic-761_fanuel-1,759,Gothic,761_fanuel,Fanuel,Fanuel,ɸ a n u e l,,557564,,,^ Fanuel $,default
+Gothic-762_farais-1,760,Gothic,762_farais,Farais*,Farais,ɸ a r ɛ s,,557564,,,^ Farais $,default
 Gothic-763_wandernziehen-1,761,Gothic,763_wandernziehen,faran,faran,ɸ a r a n,,557564,,,^ faran $,default
+Gothic-764_farao-1,762,Gothic,764_farao,Farao*,Farao,ɸ a r a o,,557564,,,^ Farao $,default
 Gothic-765_fareisaius-1,763,Gothic,765_fareisaius,Fareisaius,Fareisaius,ɸ a r i s ɛ u s,,557564,,,^ Fareisaius $,default
 Gothic-766_fahren-1,764,Gothic,766_fahren,farjan,farjan,ɸ a r j a n,,557564,,,^ farjan $,default
 Gothic-767_einlaufenlanden-1,765,Gothic,767_einlaufenlanden,at-farjan,atfarjan,a t ɸ a r j a n,,557564,,,^ atfarjan $,default
@@ -877,6 +915,8 @@ Gothic-914_vogel-1,912,Gothic,914_vogel,fugls,fugls,ɸ u ɣ l̥ s,,557564,,,^ fu
 Gothic-915_fullen-1,913,Gothic,915_fullen,fula,fula,ɸ u l a,,557564,,,^ fula $,default
 Gothic-916_verborgen-2,914,Gothic,916_verborgen,fulgins,fulgins,ɸ u l ɡ ɪ n s,,557564,,,^ fulgins $,default
 Gothic-917_fulhsni-1,915,Gothic,917_fulhsni,fulhsni,fulhsni,ɸ u l h s n ɪ,,557564,,,^ fulhsni $,default
+Gothic-919_p-1,916,Gothic,919_p,fulla-fahjan,fullafahjan,ɸ u lː a ɸ a h j a n,,557564,,,^ fullafahjan $,default
+Gothic-919_p-2,917,Gothic,919_p,fulla-fraþjan,fullafraþjan,ɸ u lː a ɸ r a θ j a n,,557564,,,^ fullafraþjan $,default
 Gothic-920_vollkommen-1,918,Gothic,920_vollkommen,fullatojis,fullatojis,ɸ u lː a t o j ɪ s,,557564,,,^ fullatojis $,default
 Gothic-921_vollkommen-1,919,Gothic,921_vollkommen,fullaweis,fullaweis,ɸ u lː a w i s,,557564,,,^ fullaweis $,default
 Gothic-922_uberreden-1,920,Gothic,922_uberreden,fulla-weisjan,fullaweisjan,ɸ u lː a w i s j a n,,557564,,,^ fullaweisjan $,default
@@ -922,6 +962,7 @@ Gothic-961_brocken-1,959,Gothic,961_brocken,gabruka,gabruka,ɡ a β r u k a,,557
 Gothic-962_band-3,960,Gothic,962_band,gabundi,gabundi,ɡ a β u n d ɪ,,557564,,,^ gabundi $,default
 Gothic-963_teilnehmergenosse-1,961,Gothic,963_teilnehmergenosse,gadaila,gadaila,ɡ a ð ɛ l a,,557564,,,^ gadaila $,default
 Gothic-1569_hausgenosse-1,962,Gothic,1569_hausgenosse,gadauka*,gadauka,ɡ a ð ɔ k a,,557564,,,^ gadauka $,default
+Gothic-965_gaddarenus-1,963,Gothic,965_gaddarenus,Gaddarenus*,Gaddarenus,ɡ a dː a r e n u s,,557564,,,^ Gaddarenus $,default
 Gothic-966_tat-1,964,Gothic,966_tat,gadeþs*,gadeþs,ɡ a ð e θ s,,557564,,,^ gadeþs $,default
 Gothic-967_gebilde-1,965,Gothic,967_gebilde,[gadigis],gadigis,ɡ a ð ɪ ɣ ɪ s,,557564,,,^ gadigis $,default
 Gothic-968_vetter-1,966,Gothic,968_vetter,gadiliggs,gadiliggs,ɡ a ð ɪ l ɪ ŋ ɡ s,,557564,,,^ gadiliggs $,default
@@ -953,6 +994,7 @@ Gothic-2295_zusammenkommen-1,991,Gothic,2295_zusammenkommen,ga-gaggan,gagaggan,�
 Gothic-1853_hineingehn-1,992,Gothic,1853_hineingehn,inn-gaggan,inngaggan,ɪ nː ɣ a ŋ ɡ a n,,557564,,,^ inngaggan $,default
 Gothic-995_mitgehnmit-1,993,Gothic,995_mitgehnmit,miþ-gaggan,miþgaggan,m ɪ θ ɡ a ŋ ɡ a n,,557564,,,^ miþgaggan $,default
 Gothic-996_hindurchgehnvorubergehn-1,994,Gothic,996_hindurchgehnvorubergehn,þairh-gaggan,þairhgaggan,θ ɛ r h ɡ a ŋ ɡ a n,,557564,,,^ þairhgaggan $,default
+Gothic-997_etwubertreten-1,995,Gothic,997_etwubertreten,ufar-gaggan,ufargaggan,u ɸ a r ɡ a ŋ ɡ a n,,557564,,,^ ufargaggan $,default
 Gothic-998_ausgehnhinausgehn-1,996,Gothic,998_ausgehnhinausgehn,us-gaggan,usgaggan,u s ɡ a ŋ ɡ a n,,557564,,,^ usgaggan $,default
 Gothic-999_hinausgehnausgehn-1,997,Gothic,999_hinausgehnausgehn,ūt-gaggan,utgaggan,u t ɡ a ŋ ɡ a n,,557564,,,^ utgaggan $,default
 Gothic-1000_entgegengehn-1,998,Gothic,1000_entgegengehn,wiþra-gaggan,wiþragaggan,w ɪ θ r a ɣ a ŋ ɡ a n,,557564,,,^ wiþragaggan $,default
@@ -979,6 +1021,7 @@ Gothic-1020_gainnesarai-1,1018,Gothic,1020_gainnesarai,Gainnesaraiþ,Gainnesarai
 Gothic-1021_gurtel-1,1019,Gothic,1021_gurtel,gairda,gairda,ɡ ɛ r d a,,557564,,,^ gairda $,default
 Gothic-1023_umgurten-1,1020,Gothic,1023_umgurten,bi-gairdan,bigairdan,b ɪ ɣ ɛ r d a n,,557564,,,^ bigairdan $,default
 Gothic-1023_umgurten-2,1021,Gothic,1023_umgurten,uf-gairdan,ufgairdan,u ɸ ɡ ɛ r d a n,,557564,,,^ ufgairdan $,default
+Gothic-1024_gairgaisainus-1,1022,Gothic,1024_gairgaisainus,Gairgaisainus*,Gairgaisainus,ɡ ɛ r ɡ ɛ s ɛ n u s,,557564,,,^ Gairgaisainus $,default
 Gothic-1025_verlangenwunsch-1,1023,Gothic,1025_verlangenwunsch,gairnei,gairnei,ɡ ɛ r n i,,557564,,,^ gairnei $,default
 Gothic-1026_begehrenverlangennachbedurfen-1,1024,Gothic,1026_begehrenverlangennachbedurfen,gairnjan,gairnjan,ɡ ɛ r n j a n,,557564,,,^ gairnjan $,default
 Gothic-1027_leidenschaft-1,1025,Gothic,1027_leidenschaft,gairuni*,gairuni,ɡ ɛ r u n ɪ,,557564,,,^ gairuni $,default
@@ -994,6 +1037,7 @@ Gothic-1036_gakuns-1,1034,Gothic,1036_gakuns,gakunþs,gakunþs,ɡ a k u n θ s,,
 Gothic-1037_probe-1,1035,Gothic,1037_probe,gakusts,gakusts,ɡ a k u s t s,,557564,,,^ gakusts $,default
 Gothic-1038_nachfolger-1,1036,Gothic,1038_nachfolger,galaista,galaista,ɡ a l ɛ s t a,,557564,,,^ galaista $,default
 Gothic-1039_galateis-1,1037,Gothic,1039_galateis,Galateis,Galateis,ɡ a l a t i s,,557564,,,^ Galateis $,default
+Gothic-1040_galatia-1,1038,Gothic,1040_galatia,Galatia*,Galatia,ɡ a l a t ɪ a,,557564,,,^ Galatia $,default
 Gothic-1041_glaubig-1,1039,Gothic,1041_glaubig,galaubeins,galaubeins,ɡ a l ɔ β i n s,,557564,,,^ galaubeins $,default
 Gothic-1042_glaube-1,1040,Gothic,1042_glaube,galaubeins,galaubeins,ɡ a l ɔ β i n s,,557564,,,^ galaubeins $,default
 Gothic-1043_wertvoll-1,1041,Gothic,1043_wertvoll,galaufs*,galaufs,ɡ a l ɔ ɸ s,,557564,,,^ galaufs $,default
@@ -1021,6 +1065,7 @@ Gothic-1064_versammlung-1,1062,Gothic,1064_versammlung,gamainþs,gamainþs,ɡ a 
 Gothic-1065_verkruppeltverwundet-1,1063,Gothic,1065_verkruppeltverwundet,gamaiþs*,gamaiþs,ɡ a m ɛ θ s,,557564,,,^ gamaiþs $,default
 Gothic-1066_auflosung-1,1064,Gothic,1066_auflosung,gamalteins,gamalteins,ɡ a m a l t i n s,,557564,,,^ gamalteins $,default
 Gothic-1067_teilnehmergenosse-1,1065,Gothic,1067_teilnehmergenosse,gaman,gaman,ɡ a m a n,,557564,,,^ gaman $,default
+Gothic-1068_gamarko-1,1066,Gothic,1068_gamarko,†gamarko,gamarko,ɡ a m a r k o,,557564,,,^ gamarko $,default
 Gothic-2023_argernis-1,1067,Gothic,2023_argernis,gamarzeins,gamarzeins,ɡ a m a r z i n s,,557564,,,^ gamarzeins $,default
 Gothic-1070_erinnerung-1,1068,Gothic,1070_erinnerung,gamaudeins,gamaudeins,ɡ a m ɔ ð i n s,,557564,,,^ gamaudeins $,default
 Gothic-1071_schriftbuchstabenschrift-1,1069,Gothic,1071_schriftbuchstabenschrift,gameleins,gameleins,ɡ a m e l i n s,,557564,,,^ gameleins $,default
@@ -1094,6 +1139,7 @@ Gothic-1138_betrubttraurig-1,1136,Gothic,1138_betrubttraurig,gáurs,gaurs,ɡ ɔ 
 Gothic-1139_friedfertig-1,1137,Gothic,1139_friedfertig,gawairþeigs,gawairþeigs,ɡ a w ɛ r θ i ɣ s,,557564,,,^ gawairþeigs $,default
 Gothic-1140_friede-1,1138,Gothic,1140_friede,gawairþi,gawairþi,ɡ a w ɛ r θ ɪ,,557564,,,^ gawairþi $,default
 Gothic-1141_erwahlung-1,1139,Gothic,1141_erwahlung,gawaleins,gawaleins,ɡ a w a l i n s,,557564,,,^ gawaleins $,default
+Gothic-1142_gemeindiunrein-1,1140,Gothic,1142_gemeindiunrein,gawamms,gawamms,ɡ a w a mː s,,557564,,,^ gawamms $,default
 Gothic-1143_bekehrung-1,1141,Gothic,1143_bekehrung,[gawandeins],gawandeins,ɡ a w a n d i n s,,557564,,,^ gawandeins $,default
 Gothic-1144_verurteilung-1,1142,Gothic,1144_verurteilung,gawargeins,gawargeins,ɡ a w a r ɡ i n s,,557564,,,^ gawargeins $,default
 Gothic-1145_bekleidung-1,1143,Gothic,1145_bekleidung,gawaseins,gawaseins,ɡ a w a s i n s,,557564,,,^ gawaseins $,default
@@ -1128,6 +1174,7 @@ Gothic-1173_beginnen-1,1171,Gothic,1173_beginnen,du-ginnan,duginnan,d u ɣ ɪ n�
 Gothic-1174_morgen-1,1172,Gothic,1174_morgen,gistradagis,gistradagis,ɡ ɪ s t r a ð a ɣ ɪ s,,557564,,,^ gistradagis $,default
 Gothic-1175_finden-1,1173,Gothic,1175_finden,bi-gitan,bigitan,b ɪ ɣ ɪ t a n,,557564,,,^ bigitan $,default
 Gothic-1176_gieen-1,1174,Gothic,1176_gieen,giutan,giutan,ɡ ɪ u t a n,,557564,,,^ giutan $,default
+Gothic-1177_ubergieendiubervollgieen-1,1175,Gothic,1177_ubergieendiubervollgieen,ufar-giutan,ufargiutan,u ɸ a r ɡ ɪ u t a n,,557564,,,^ ufargiutan $,default
 Gothic-1178_sorgsam-1,1176,Gothic,1178_sorgsam,glaggwaba,glaggwaba,ɡ l a ɡ ɡ w a β a,,557564,,,^ glaggwaba $,default
 Gothic-1180_genau-1,1177,Gothic,1180_genau,glaggwo,glaggwo,ɡ l a ɡ ɡ w o,,557564,,,^ glaggwo $,default
 Gothic-1180_genau-2,1178,Gothic,1180_genau,glaggwuba,glaggwuba,ɡ l a ɡ ɡ w u β a,,557564,,,^ glaggwuba $,default
@@ -1200,9 +1247,11 @@ Gothic-1246_hinabhangenhinablassen-1,1244,Gothic,1246_hinabhangenhinablassen,at-
 Gothic-1247_sicherhangen-1,1245,Gothic,1247_sicherhangen,us-hahan,ushahan,u s h a h a n,,557564,,,^ ushahan $,default
 Gothic-1248_hangen-1,1246,Gothic,1248_hangen,hāhan,hahan,h a h a n,,557564,,,^ hahan $,default
 Gothic-1249_haibraius-1,1247,Gothic,1249_haibraius,Haibraius,Haibraius,h ɛ β r ɛ u s,,557564,,,^ Haibraius $,default
+Gothic-1250_artuweise-1,1248,Gothic,1250_artuweise,haidus,haidus,h ɛ ð u s,,557564,,,^ haidus $,default
 Gothic-2447_streiten-1,1249,Gothic,2447_streiten,haifstjan,haifstjan,h ɛ ɸ s t j a n,,557564,,,^ haifstjan $,default
 Gothic-2453_streit-1,1250,Gothic,2453_streit,haifsts,haifsts,h ɛ ɸ s t s,,557564,,,^ haifsts $,default
 Gothic-1253_einaugig-1,1251,Gothic,1253_einaugig,háihs,haihs,h ɛ h s,,557564,,,^ haihs $,default
+Gothic-1254_haileias-1,1252,Gothic,1254_haileias,Haileias*,Haileias,h ɛ l i a s,,557564,,,^ Haileias $,default
 Gothic-1255_haileisaius-1,1253,Gothic,1255_haileisaius,Haileisaius,Haileisaius,h ɛ l i s ɛ u s,,557564,,,^ Haileisaius $,default
 Gothic-1256_einenheilen-1,1254,Gothic,1256_einenheilen,hailjan,hailjan,h ɛ l j a n,,557564,,,^ hailjan $,default
 Gothic-1863_herstellen-1,1255,Gothic,1863_herstellen,ga-hailjan,gahailjan,ɡ a h ɛ l j a n,,557564,,,^ gahailjan $,default
@@ -1214,12 +1263,14 @@ Gothic-1262_parteien-1,1260,Gothic,1262_parteien,hairaiseis,hairaiseis,h ɛ r ɛ
 Gothic-1263_herde-1,1261,Gothic,1263_herde,hairda,hairda,h ɛ r d a,,557564,,,^ hairda $,default
 Gothic-1264_hirt-1,1262,Gothic,1264_hirt,hairdeis,hairdeis,h ɛ r d i s,,557564,,,^ hairdeis $,default
 Gothic-1265_hairmaugaineis-1,1263,Gothic,1265_hairmaugaineis,Hairmaugaineis,Hairmaugaineis,h ɛ r m ɔ ɣ ɛ n i s,,557564,,,^ Hairmaugaineis $,default
+Gothic-1266_hairodia-1,1264,Gothic,1266_hairodia,Hairodia*,Hairodia,h ɛ r o ð ɪ a,,557564,,,^ Hairodia $,default
 Gothic-1267_herz-1,1265,Gothic,1267_herz,hairto,hairto,h ɛ r t o,,557564,,,^ hairto $,default
 Gothic-1268_eingeweideherz-1,1266,Gothic,1268_eingeweideherz,hairþra,hairþra,h ɛ r θ r a,,557564,,,^ hairþra $,default
 Gothic-1269_schwert-1,1267,Gothic,1269_schwert,hairus,hairus,h ɛ r u s,,557564,,,^ hairus $,default
 Gothic-1270_fakkeln-1,1268,Gothic,1270_fakkeln,haizam,haizam,h ɛ z a m,,557564,,,^ haizam $,default
 Gothic-1271_heiennennen-1,1269,Gothic,1271_heiennennen,haitan,haitan,h ɛ t a n,,557564,,,^ haitan $,default
 Gothic-1272_anrufen-1,1270,Gothic,1272_anrufen,ana-haitan,anahaitan,a n a h ɛ t a n,,557564,,,^ anahaitan $,default
+Gothic-1273_einenetwbekennensichbekennenzuetwbekennen-1,1271,Gothic,1273_einenetwbekennensichbekennenzuetwbekennen,and-haitan,andhaitan,a n d h ɛ t a n,,557564,,,^ andhaitan $,default
 Gothic-1274_herzurufen-1,1272,Gothic,1274_herzurufen,at-haitan,athaitan,a t h ɛ t a n,,557564,,,^ athaitan $,default
 Gothic-1275_verheien-1,1273,Gothic,1275_verheien,fair-haitan,fairhaitan,ɸ ɛ r h ɛ t a n,,557564,,,^ fairhaitan $,default
 Gothic-1276_zusammenrufen-1,1274,Gothic,1276_zusammenrufen,ga-haitan,gahaitan,ɡ a h ɛ t a n,,557564,,,^ gahaitan $,default
@@ -1287,6 +1338,7 @@ Gothic-1337_kohle-1,1335,Gothic,1337_kohle,hauri,hauri,h ɔ r ɪ,,557564,,,^ hau
 Gothic-1338_dashornformiggebogenejohannisbrot-1,1336,Gothic,1338_dashornformiggebogenejohannisbrot,haurn,haurn,h ɔ r n̥,,557564,,,^ haurn $,default
 Gothic-1339_hornist-1,1337,Gothic,1339_hornist,haurnja,haurnja,h ɔ r n j a,,557564,,,^ haurnja $,default
 Gothic-1340_dashornblasen-1,1338,Gothic,1340_dashornblasen,haurnjan,haurnjan,h ɔ r n j a n,,557564,,,^ haurnjan $,default
+Gothic-1341_gehordiohr-1,1339,Gothic,1341_gehordiohr,hauseins,hauseins,h ɔ s i n s,,557564,,,^ hauseins $,default
 Gothic-1346_horen-1,1340,Gothic,1346_horen,hausjan,hausjan,h ɔ s j a n,,557564,,,^ hausjan $,default
 Gothic-1345_gehorchen-1,1341,Gothic,1345_gehorchen,and-hausjan,andhausjan,a n d h ɔ s j a n,,557564,,,^ andhausjan $,default
 Gothic-1344_dasgehorbekommen-1,1342,Gothic,1344_dasgehorbekommen,ga-hausjan,gahausjan,ɡ a h ɔ s j a n,,557564,,,^ gahausjan $,default
@@ -1298,11 +1350,13 @@ Gothic-1349_lobenpreisenwegen-1,1347,Gothic,1349_lobenpreisenwegen,hazjan,hazjan
 Gothic-1350_fieber-2,1348,Gothic,1350_fieber,heito,heito,h i t o,,557564,,,^ heito $,default
 Gothic-1351_hausherr-2,1349,Gothic,1351_hausherr,heiwafrauja,heiwafrauja,h i w a ɸ r ɔ j a,,557564,,,^ heiwafrauja $,default
 Gothic-1352_helei-1,1350,Gothic,1352_helei,helei,helei,h e l i,,557564,,,^ helei $,default
+Gothic-1353_helei-1,1351,Gothic,1353_helei,Helei*,Helei,h e l i,,557564,,,^ Helei $,default
 Gothic-1354_helias-1,1352,Gothic,1354_helias,Helias,Helias,h e l ɪ a s,,557564,,,^ Helias $,default
 Gothic-1355_her-1,1353,Gothic,1355_her,Her,Her,h e r,,557564,,,^ Her $,default
 Gothic-1356_hierher-1,1354,Gothic,1356_hierher,her,her,h e r,,557564,,,^ her $,default
 Gothic-1357_herodes-1,1355,Gothic,1357_herodes,Herodes,Herodes,h e r o ð e s,,557564,,,^ Herodes $,default
 Gothic-1358_herodia-1,1356,Gothic,1358_herodia,Herodia,Herodia,h e r o ð ɪ a,,557564,,,^ Herodia $,default
+Gothic-1359_herodianus-1,1357,Gothic,1359_herodianus,Herodianus*,Herodianus,h e r o ð ɪ a n u s,,557564,,,^ Herodianus $,default
 Gothic-1360_kammer-1,1358,Gothic,1360_kammer,heþjo,heþjo,h e θ j o,,557564,,,^ heþjo $,default
 Gothic-1361_dieser-1,1359,Gothic,1361_dieser,hi-,hi,h ɪ,,557564,,,^ hi $,default
 Gothic-1362_hierher-1,1360,Gothic,1362_hierher,hidre,hidre,h ɪ ð r e,,557564,,,^ hidre $,default
@@ -1396,6 +1450,7 @@ Gothic-1449_nachforschen-1,1447,Gothic,1449_nachforschen,and-hruskan,andhruskan,
 Gothic-1450_hungern-2,1448,Gothic,1450_hungern,huggrjan,huggrjan,h u ŋ ɡ r j a n,,557564,,,^ huggrjan $,default
 Gothic-1451_denkenmeinen-1,1449,Gothic,1451_denkenmeinen,hugjan,hugjan,h u ɣ j a n,,557564,,,^ hugjan $,default
 Gothic-1452_bezaubern-1,1450,Gothic,1452_bezaubern,af-hugjan,afhugjan,a ɸ h u ɣ j a n,,557564,,,^ afhugjan $,default
+Gothic-1453_andhugjan-1,1451,Gothic,1453_andhugjan,†and-hugjan,andhugjan,a n d h u ɣ j a n,,557564,,,^ andhugjan $,default
 Gothic-1454_sichvornehmen-1,1452,Gothic,1454_sichvornehmen,faura-gahugjan,fauragahugjan,ɸ ɔ r a ɣ a h u ɣ j a n,,557564,,,^ fauragahugjan $,default
 Gothic-1455_sichuberheben-3,1453,Gothic,1455_sichuberheben,ufar-hugjan,ufarhugjan,u ɸ a r h u ɣ j a n,,557564,,,^ ufarhugjan $,default
 Gothic-1456_verstand-1,1454,Gothic,1456_verstand,hugs*,hugs,h u ɣ s,,557564,,,^ hugs $,default
@@ -1439,6 +1494,7 @@ Gothic-3024_wo-1,1491,Gothic,3024_wo,ƕar,ƕar,ʍ a r,,557564,,,^ ƕar $,default
 Gothic-1494_wandeln-2,1492,Gothic,1494_wandeln,ƕarbon,ƕarbon,ʍ a r b o n,,557564,,,^ ƕarbon $,default
 Gothic-1497_wer-1,1493,Gothic,1497_wer,ƕarjis,ƕarjis,ʍ a r j ɪ s,,557564,,,^ ƕarjis $,default
 Gothic-1508_jeder-1,1494,Gothic,1508_jeder,ƕarjizuh,ƕarjizuh,ʍ a r j ɪ z u h,,557564,,,^ ƕarjizuh $,default
+Gothic-1497_wer-2,1495,Gothic,1497_wer,ƕas,ƕas,ʍ a s,,557564,,,^ ƕas $,default
 Gothic-1498_jemand-1,1496,Gothic,1498_jemand,ƕashun,ƕashun,ʍ a s h u n,,557564,,,^ ƕashun $,default
 Gothic-1499_scharfstreng-1,1497,Gothic,1499_scharfstreng,ƕassaba,ƕassaba,ʍ a sː a β a,,557564,,,^ ƕassaba $,default
 Gothic-1500_scharfestrenge-1,1498,Gothic,1500_scharfestrenge,ƕassei,ƕassei,ʍ a sː i,,557564,,,^ ƕassei $,default
@@ -1461,6 +1517,7 @@ Gothic-1516_nichteinestundelang-1,1514,Gothic,1516_nichteinestundelang,ƕeilohun
 Gothic-1517_weien-1,1515,Gothic,1517_weien,ga-ƕeitjan,gaƕeitjan,ɡ a ʍ i t j a n,,557564,,,^ gaƕeitjan $,default
 Gothic-1518_wei-1,1516,Gothic,1518_wei,ƕeits,ƕeits,ʍ i t s,,557564,,,^ ƕeits $,default
 Gothic-1519_wiegro-1,1517,Gothic,1519_wiegro,ƕelauþs*,ƕelauþs,ʍ e l ɔ θ s,,557564,,,^ ƕelauþs $,default
+Gothic-1520_wiebeschaffen-1,1518,Gothic,1520_wiebeschaffen,ƕileiks,ƕileiks,ʍ ɪ l i k s,,557564,,,^ ƕileiks $,default
 Gothic-1521_totenkistesarg-1,1519,Gothic,1521_totenkistesarg,ƕilftrjom,ƕilftrjom,ʍ ɪ l ɸ t r j o m,,557564,,,^ ƕilftrjom $,default
 Gothic-1522_dasruhmenderruhm-1,1520,Gothic,1522_dasruhmenderruhm,ƕoftuli,ƕoftuli,ʍ o ɸ t u l ɪ,,557564,,,^ ƕoftuli $,default
 Gothic-1523_jeder-2,1521,Gothic,1523_jeder,ƕoh,ƕoh,ʍ o h,,557564,,,^ ƕoh $,default
@@ -1469,6 +1526,8 @@ Gothic-1525_drohung-1,1523,Gothic,1525_drohung,ƕota,ƕota,ʍ o t a,,557564,,,^ 
 Gothic-1526_drohen-1,1524,Gothic,1526_drohen,ƕotjan,ƕotjan,ʍ o t j a n,,557564,,,^ ƕotjan $,default
 Gothic-1527_einenbedrohn-1,1525,Gothic,1527_einenbedrohn,ga-ƕotjan,gaƕotjan,ɡ a ʍ o t j a n,,557564,,,^ gaƕotjan $,default
 Gothic-1528_iaeirus-1,1526,Gothic,1528_iaeirus,Iaeirus,Iaeirus,ɪ a i r u s,,557564,,,^ Iaeirus $,default
+Gothic-1529_iairaimias-1,1527,Gothic,1529_iairaimias,Iairaimias*,Iairaimias,ɪ ɛ r ɛ m ɪ a s,,557564,,,^ Iairaimias $,default
+Gothic-1636_p-1,1528,Gothic,1636_p,Iairaupaulein,Iairaupaulein,ɪ ɛ r ɔ p ɔ l i n,,557564,,,^ Iairaupaulein $,default
 Gothic-1531_iericho-1,1529,Gothic,1531_iericho,"Iaireiko*, Iairiko*",Iaireiko,ɪ ɛ r i k o,,557564,,,^ Iaireiko $,default
 Gothic-1532_iairusalem-1,1530,Gothic,1532_iairusalem,Iairusalem,Iairusalem,ɪ ɛ r u s a l e m,,557564,,,^ Iairusalem $,default
 Gothic-1533_iairusaulwma-1,1531,Gothic,1533_iairusaulwma,Iairusaulwma,Iairusaulwma,ɪ ɛ r u s ɔ l w m a,,557564,,,^ Iairusaulwma $,default
@@ -1480,10 +1539,13 @@ Gothic-1538_iakobus-1,1536,Gothic,1538_iakobus,Iakobus,Iakobus,ɪ a k o β u s,,
 Gothic-1539_iaredis-1,1537,Gothic,1539_iaredis,Iaredis,Iaredis,ɪ a r e ð ɪ s,,557564,,,^ Iaredis $,default
 Gothic-1540_iareim-1,1538,Gothic,1540_iareim,Iareim,Iareim,ɪ a r i m,,557564,,,^ Iareim $,default
 Gothic-1541_iasson-1,1539,Gothic,1541_iasson,Iasson,Iasson,ɪ a sː o n,,557564,,,^ Iasson $,default
+Gothic-1542_iaurdanus-1,1540,Gothic,1542_iaurdanus,Iaurdanus*,Iaurdanus,ɪ ɔ r d a n u s,,557564,,,^ Iaurdanus $,default
+Gothic-1543_dochnicht-1,1541,Gothic,1543_dochnicht,ibai,ibai,ɪ β ɛ,,557564,,,^ ibai $,default
 Gothic-1544_berglehne-1,1542,Gothic,1544_berglehne,ibdaljin,ibdaljin,ɪ β d a l j ɪ n,,557564,,,^ ibdaljin $,default
 Gothic-2476_gleich-1,1543,Gothic,2476_gleich,ibna,ibna,ɪ β n a,,557564,,,^ ibna $,default
 Gothic-1546_gleichenkorpers-1,1544,Gothic,1546_gleichenkorpers,ibnaleiks,ibnaleiks,ɪ β n a l i k s,,557564,,,^ ibnaleiks $,default
 Gothic-1547_gleichschon-1,1545,Gothic,1547_gleichschon,ibnaskauns*,ibnaskauns,ɪ β n a s k ɔ n s,,557564,,,^ ibnaskauns $,default
+Gothic-2620_skauneis-1,1546,Gothic,2620_skauneis,~skauneis*,skauneis,s k ɔ n i s,,557564,,,^ skauneis $,default
 Gothic-1549_gleichheit-1,1547,Gothic,1549_gleichheit,ibnassus,ibnassus,ɪ β n a sː u s,,557564,,,^ ibnassus $,default
 Gothic-1550_gleichmachen-1,1548,Gothic,1550_gleichmachen,ga-ïbnjan,gaɪbnjan,ɡ a ɪ β n j a n,,557564,,,^ gaɪbnjan $,default
 Gothic-1551_ebenflach-1,1549,Gothic,1551_ebenflach,ibns,ibns,ɪ β n̥ s,,557564,,,^ ibns $,default
@@ -1538,6 +1600,7 @@ Gothic-1599_iskariotes-1,1597,Gothic,1599_iskariotes,Iskariotes,Iskariotes,ɪ s 
 Gothic-1600_israel-1,1598,Gothic,1600_israel,Israel,Israel,ɪ s r a e l,,557564,,,^ Israel $,default
 Gothic-1601_israeleites-1,1599,Gothic,1601_israeleites,Israeleites,Israeleites,ɪ s r a e l i t e s,,557564,,,^ Israeleites $,default
 Gothic-2029_essen-1,1600,Gothic,2029_essen,itan,itan,ɪ t a n,,557564,,,^ itan $,default
+Gothic-1603_etwverzehrenfressen-1,1601,Gothic,1603_etwverzehrenfressen,fra-ïtan,fraɪtan,ɸ r a ɪ t a n,,557564,,,^ fraɪtan $,default
 Gothic-1604_ituraia-1,1602,Gothic,1604_ituraia,Ituraia,Ituraia,ɪ t u r ɛ a,,557564,,,^ Ituraia $,default
 Gothic-1605_aber-2,1603,Gothic,1605_aber,iþ,iþ,ɪ θ,,557564,,,^ iþ $,default
 Gothic-1606_iudaia-1,1604,Gothic,1606_iudaia,Iudaia,Iudaia,ɪ u ð ɛ a,,557564,,,^ Iudaia $,default
@@ -1570,6 +1633,7 @@ Gothic-1632_dorthin-2,1630,Gothic,1632_dorthin,jaindre,jaindre,j ɛ n d r e,,557
 Gothic-1633_dorthingewandt-1,1631,Gothic,1633_dorthingewandt,jaindwairþs,jaindwairþs,j ɛ n d w ɛ r θ s,,557564,,,^ jaindwairþs $,default
 Gothic-1634_jener-1,1632,Gothic,1634_jener,jains,jains,j ɛ n s,,557564,,,^ jains $,default
 Gothic-1635_dorther-1,1633,Gothic,1635_dorther,jainþro,jainþro,j ɛ n θ r o,,557564,,,^ jainþro $,default
+Gothic-1636_p-2,1634,Gothic,1636_p,Jairupulai,Jairupulai,j ɛ r u p u l ɛ,,557564,,,^ Jairupulai $,default
 Gothic-1637_janna-1,1635,Gothic,1637_janna,Janna,Janna,j a nː a,,557564,,,^ Janna $,default
 Gothic-1638_jannes-1,1636,Gothic,1638_jannes,Jannes,Jannes,j a nː e s,,557564,,,^ Jannes $,default
 Gothic-1639_undwenn-1,1637,Gothic,1639_undwenn,jaþþe,jaþþe,j a θː e,,557564,,,^ jaþþe $,default
@@ -1606,6 +1670,7 @@ Gothic-1669_kalbe-1,1667,Gothic,1669_kalbe,kalbo,kalbo,k a l b o,,557564,,,^ kal
 Gothic-1670_kalt-1,1668,Gothic,1670_kalt,kalds,kalds,k a l d s,,557564,,,^ kalds $,default
 Gothic-1671_hurerei-1,1669,Gothic,1671_hurerei,kalkinassus,kalkinassus,k a l k ɪ n a sː u s,,557564,,,^ kalkinassus $,default
 Gothic-1672_hure-1,1670,Gothic,1672_hure,kalkjom,kalkjom,k a l k j o m,,557564,,,^ kalkjom $,default
+Gothic-1673_kananeites-1,1671,Gothic,1673_kananeites,Kananeites*,Kananeites,k a n a n i t e s,,557564,,,^ Kananeites $,default
 Gothic-1674_kennenwissen-1,1672,Gothic,1674_kennenwissen,kann,kann,k a nː,,557564,,,^ kann $,default
 Gothic-1675_einemkundtun-1,1673,Gothic,1675_einemkundtun,kannjan,kannjan,k a nː j a n,,557564,,,^ kannjan $,default
 Gothic-2724_verkunden-1,1674,Gothic,2724_verkunden,ga-kannjan,gakannjan,ɡ a k a nː j a n,,557564,,,^ gakannjan $,default
@@ -1644,6 +1709,7 @@ Gothic-1708_keimen-1,1706,Gothic,1708_keimen,keinan,keinan,k i n a n,,557564,,,^
 Gothic-1709_hervorkeimen-1,1707,Gothic,1709_hervorkeimen,us-keinan,uskeinan,u s k i n a n,,557564,,,^ uskeinan $,default
 Gothic-1710_mithervorkeimen-1,1708,Gothic,1710_mithervorkeimen,miþ-uskeinan,miþuskeinan,m ɪ θ u s k i n a n,,557564,,,^ miþuskeinan $,default
 Gothic-1711_turmspeisesaalimobergeschoss-1,1709,Gothic,1711_turmspeisesaalimobergeschoss,kelikn,kelikn,k e l ɪ k n̥,,557564,,,^ kelikn $,default
+Gothic-1712_kileikia-1,1710,Gothic,1712_kileikia,Kileikia*,Kileikia,k ɪ l i k ɪ a,,557564,,,^ Kileikia $,default
 Gothic-1713_mutterleib-1,1711,Gothic,1713_mutterleib,kilþei,kilþei,k ɪ l θ i,,557564,,,^ kilþei $,default
 Gothic-1714_statthalter-1,1712,Gothic,1714_statthalter,kindins,kindins,k ɪ n d ɪ n s,,557564,,,^ kindins $,default
 Gothic-1715_wange-1,1713,Gothic,1715_wange,kinnus,kinnus,k ɪ nː u s,,557564,,,^ kinnus $,default
@@ -1678,6 +1744,7 @@ Gothic-1743_kennenwissen-1,1741,Gothic,1743_kennenwissen,kunnan,kunnan,k u nː a
 Gothic-1744_verachten-1,1742,Gothic,1744_verachten,fra-kunnan,frakunnan,ɸ r a k u nː a n,,557564,,,^ frakunnan $,default
 Gothic-1745_sichunterordnengehorchen-1,1743,Gothic,1745_sichunterordnengehorchen,ga-kunnan,gakunnan,ɡ a k u nː a n,,557564,,,^ gakunnan $,default
 Gothic-1746_kunnan-1,1744,Gothic,1746_kunnan,-kunnan,kunnan,k u nː a n,,557564,,,^ kunnan $,default
+Gothic-1747_etwlesen-1,1745,Gothic,1747_etwlesen,ana-kunnan,anakunnan,a n a k u nː a n,,557564,,,^ anakunnan $,default
 Gothic-1748_gewahren-1,1746,Gothic,1748_gewahren,at-kunnan,atkunnan,a t k u nː a n,,557564,,,^ atkunnan $,default
 Gothic-1749_kennenlernenerfahren-1,1747,Gothic,1749_kennenlernenerfahren,ga-kunnan,gakunnan,ɡ a k u nː a n,,557564,,,^ gakunnan $,default
 Gothic-1750_erkennen-1,1748,Gothic,1750_erkennen,uf-kunnan,ufkunnan,u ɸ k u nː a n,,557564,,,^ ufkunnan $,default
@@ -1695,14 +1762,17 @@ Gothic-1761_legenauflegenhinlegen-1,1759,Gothic,1761_legenauflegenhinlegen,lagja
 Gothic-1762_etwasablegen-1,1760,Gothic,1762_etwasablegen,af-lagjan,aflagjan,a ɸ l a ɣ j a n,,557564,,,^ aflagjan $,default
 Gothic-1763_einemauflegen-1,1761,Gothic,1763_einemauflegen,ana-lagjan,analagjan,a n a l a ɣ j a n,,557564,,,^ analagjan $,default
 Gothic-1764_hinlegenauflegen-1,1762,Gothic,1764_hinlegenauflegen,at-lagjan,atlagjan,a t l a ɣ j a n,,557564,,,^ atlagjan $,default
+Gothic-1765_einemetwvorlegen-1,1763,Gothic,1765_einemetwvorlegen,faur-lagjan,faurlagjan,ɸ ɔ r l a ɣ j a n,,557564,,,^ faurlagjan $,default
 Gothic-1766_hinlegen-1,1764,Gothic,1766_hinlegen,ga-lagjan,galagjan,ɡ a l a ɣ j a n,,557564,,,^ galagjan $,default
 Gothic-1767_uberdecken-1,1765,Gothic,1767_uberdecken,ufar-lagjan,ufarlagjan,u ɸ a r l a ɣ j a n,,557564,,,^ ufarlagjan $,default
 Gothic-1768_uslagjan-1,1766,Gothic,1768_uslagjan,us-lagjan,uslagjan,u s l a ɣ j a n,,557564,,,^ uslagjan $,default
 Gothic-3517_schmahn-1,1767,Gothic,3517_schmahn,laian*,laian,l ɛ a n,,557564,,,^ laian $,default
+Gothic-1770_lauan-1,1768,Gothic,1770_lauan,lauan*,lauan,l ɔ a n,,557564,,,^ lauan $,default
 Gothic-1771_uberbleibsel-1,1769,Gothic,1771_uberbleibsel,laiba,laiba,l ɛ β a,,557564,,,^ laiba $,default
 Gothic-1772_ubriglassen-1,1770,Gothic,1772_ubriglassen,bi-laibjan,bilaibjan,b ɪ l ɛ β j a n,,557564,,,^ bilaibjan $,default
 Gothic-1773_bleiben-1,1771,Gothic,1773_bleiben,bilaif,bilaif,b ɪ l ɛ ɸ,,557564,,,^ bilaif $,default
 Gothic-1774_legion-1,1772,Gothic,1774_legion,laigaion,laigaion,l ɛ ɣ ɛ o n,,557564,,,^ laigaion $,default
+Gothic-1775_etwbelecken-1,1773,Gothic,1775_etwbelecken,bi-laigon,bilaigon,b ɪ l ɛ ɣ o n,,557564,,,^ bilaigon $,default
 Gothic-1776_hupfenspringen-1,1774,Gothic,1776_hupfenspringen,laikan,laikan,l ɛ k a n,,557564,,,^ laikan $,default
 Gothic-1777_einenverspotten-1,1775,Gothic,1777_einenverspotten,bi-laikan,bilaikan,b ɪ l ɛ k a n,,557564,,,^ bilaikan $,default
 Gothic-1778_tanz-1,1776,Gothic,1778_tanz,laiks,laiks,l ɛ k s,,557564,,,^ laiks $,default
@@ -1737,6 +1807,7 @@ Gothic-1806_einladungberufung-1,1804,Gothic,1806_einladungberufung,laþons,laþo
 Gothic-3143_schmahn-2,1805,Gothic,3143_schmahn,lauan*,lauan,l ɔ a n,,557564,,,^ lauan $,default
 Gothic-1808_glauben-1,1806,Gothic,1808_glauben,ga-laubjan,galaubjan,ɡ a l ɔ β j a n,,557564,,,^ galaubjan $,default
 Gothic-1809_einemerlauben-1,1807,Gothic,1809_einemerlauben,us-laubjan,uslaubjan,u s l ɔ β j a n,,557564,,,^ uslaubjan $,default
+Gothic-1810_laudeikaia-1,1808,Gothic,1810_laudeikaia,Laudeikaia*,Laudeikaia,l ɔ ð i k ɛ a,,557564,,,^ Laudeikaia $,default
 Gothic-1811_gestalt-1,1809,Gothic,1811_gestalt,laudi,laudi,l ɔ ð ɪ,,557564,,,^ laudi $,default
 Gothic-1812_laubblatt-1,1810,Gothic,1812_laubblatt,laufs,laufs,l ɔ ɸ s,,557564,,,^ laufs $,default
 Gothic-1813_leugnen-2,1811,Gothic,1813_leugnen,laugnjan,laugnjan,l ɔ ɣ n j a n,,557564,,,^ laugnjan $,default
@@ -1829,10 +1900,12 @@ Gothic-1899_luge-1,1897,Gothic,1899_luge,liugn,liugn,l ɪ u ɣ n̥,,557564,,,^ l
 Gothic-1900_lugenprophet-1,1898,Gothic,1900_lugenprophet,liugnapraufetus*,liugnapraufetus,l ɪ u ɣ n a p r ɔ ɸ e t u s,,557564,,,^ liugnapraufetus $,default
 Gothic-1901_lugenredend-1,1899,Gothic,1901_lugenredend,liugnawaurds,liugnawaurds,l ɪ u ɣ n a w ɔ r d s,,557564,,,^ liugnawaurds $,default
 Gothic-1902_lugner-1,1900,Gothic,1902_lugner,liugnja,liugnja,l ɪ u ɣ n j a,,557564,,,^ liugnja $,default
+Gothic-1903_liuhadei-1,1901,Gothic,1903_liuhadei,liuhadei*,liuhadei,l ɪ u h a ð i,,557564,,,^ liuhadei $,default
 Gothic-1904_helleglanz-1,1902,Gothic,1904_helleglanz,liuhadeins,liuhadeins,l ɪ u h a ð i n s,,557564,,,^ liuhadeins $,default
 Gothic-1905_hell-1,1903,Gothic,1905_hell,liuhadeins*,liuhadeins,l ɪ u h a ð i n s,,557564,,,^ liuhadeins $,default
 Gothic-1906_licht-1,1904,Gothic,1906_licht,liuhaþ,liuhaþ,l ɪ u h a θ,,557564,,,^ liuhaþ $,default
 Gothic-1907_leuchten-1,1905,Gothic,1907_leuchten,liuhtjan,liuhtjan,l ɪ u h t j a n,,557564,,,^ liuhtjan $,default
+Gothic-1908_etwerleuchtenanslichtbringen-1,1906,Gothic,1908_etwerleuchtenanslichtbringen,ga-liuhtjan,galiuhtjan,ɡ a l ɪ u h t j a n,,557564,,,^ galiuhtjan $,default
 Gothic-1909_erleuchten-1,1907,Gothic,1909_erleuchten,in-liuhtjan,inliuhtjan,ɪ n l ɪ u h t j a n,,557564,,,^ inliuhtjan $,default
 Gothic-1910_etwasverlieren-1,1908,Gothic,1910_etwasverlieren,fra-liusan,fraliusan,ɸ r a l ɪ u s a n,,557564,,,^ fraliusan $,default
 Gothic-1911_heuchelei-2,1909,Gothic,1911_heuchelei,liutei,liutei,l ɪ u t i,,557564,,,^ liutei $,default
@@ -1840,6 +1913,7 @@ Gothic-1912_gaukler-1,1910,Gothic,1912_gaukler,liuts,liuts,l ɪ u t s,,557564,,,
 Gothic-1913_sanger-1,1911,Gothic,1913_sanger,liuþareis,liuþareis,l ɪ u θ a r i s,,557564,,,^ liuþareis $,default
 Gothic-1914_einemlobsingen-1,1912,Gothic,1914_einemlobsingen,liuþon,liuþon,l ɪ u θ o n,,557564,,,^ liuþon $,default
 Gothic-1915_flachehand-1,1913,Gothic,1915_flachehand,lofa*,lofa,l o ɸ a,,557564,,,^ lofa $,default
+Gothic-1916_lo-1,1914,Gothic,1916_lo,Loþ*,Loþ,l o θ,,557564,,,^ Loþ $,default
 Gothic-3528_hoffnung-1,1915,Gothic,3528_hoffnung,lubains,lubains,l u β ɛ n s,,557564,,,^ lubains $,default
 Gothic-1918_giftkundig-1,1916,Gothic,1918_giftkundig,lubjaleis,lubjaleis,l u β j a l i s,,557564,,,^ lubjaleis $,default
 Gothic-1919_giftmischereizauberei-1,1917,Gothic,1919_giftmischereizauberei,lubjaleisei,lubjaleisei,l u β j a l i s i,,557564,,,^ lubjaleisei $,default
@@ -1861,7 +1935,9 @@ Gothic-1934_ersehnt-1,1932,Gothic,1934_ersehnt,lustusama,lustusama,l u s t u s a
 Gothic-1935_tauschen-1,1933,Gothic,1935_tauschen,luton,luton,l u t o n,,557564,,,^ luton $,default
 Gothic-1936_verfuhrenirrefuhren-1,1934,Gothic,1936_verfuhrenirrefuhren,us-luton,usluton,u s l u t o n,,557564,,,^ usluton $,default
 Gothic-1937_lwddomaeis-1,1935,Gothic,1937_lwddomaeis,Lwddomaeis,Lwddomaeis,l w dː o m a i s,,557564,,,^ Lwddomaeis $,default
+Gothic-1938_lwsanius-1,1936,Gothic,1938_lwsanius,Lwsanius*,Lwsanius,l w s a n ɪ u s,,557564,,,^ Lwsanius $,default
 Gothic-1939_lwstrws-1,1937,Gothic,1939_lwstrws,Lwstrws,Lwstrws,l w s t r w s,,557564,,,^ Lwstrws $,default
+Gothic-1940_maeinan-1,1938,Gothic,1940_maeinan,Maeinan*,Maeinan,m a i n a n,,557564,,,^ Maeinan $,default
 Gothic-1941_konnenvermogen-1,1939,Gothic,1941_konnenvermogen,magan*,magan,m a ɣ a n,,557564,,,^ magan $,default
 Gothic-1942_geltenbedeuten-1,1940,Gothic,1942_geltenbedeuten,ga-magan*,gamagan,ɡ a m a ɣ a n,,557564,,,^ gamagan $,default
 Gothic-1943_jungfrauschaft-1,1941,Gothic,1943_jungfrauschaft,magaþei,magaþei,m a ɣ a θ i,,557564,,,^ magaþei $,default
@@ -1878,13 +1954,17 @@ Gothic-1953_machtkraftvermogen-1,1951,Gothic,1953_machtkraftvermogen,mahts,mahts
 Gothic-1954_tauschen-1,1952,Gothic,1954_tauschen,maidjan,maidjan,m ɛ ð j a n,,557564,,,^ maidjan $,default
 Gothic-1955_verwandeln-2,1953,Gothic,1955_verwandeln,in-maidjan,inmaidjan,ɪ n m ɛ ð j a n,,557564,,,^ inmaidjan $,default
 Gothic-1956_mist-1,1954,Gothic,1956_mist,maihstus,maihstus,m ɛ h s t u s,,557564,,,^ maihstus $,default
+Gothic-1957_mailaian-1,1955,Gothic,1957_mailaian,Mailaian*,Mailaian,m ɛ l ɛ a n,,557564,,,^ Mailaian $,default
 Gothic-1958_runzel-1,1956,Gothic,1958_runzel,maile,maile,m ɛ l e,,557564,,,^ maile $,default
+Gothic-1959_mailkei-1,1957,Gothic,1959_mailkei,Mailkei*,Mailkei,m ɛ l k i,,557564,,,^ Mailkei $,default
 Gothic-1960_pergament-1,1958,Gothic,1960_pergament,maimbrana,maimbrana,m ɛ m b r a n a,,557564,,,^ maimbrana $,default
 Gothic-1961_gemeinmachen-1,1959,Gothic,1961_gemeinmachen,gámainjan,gamainjan,ɡ a m ɛ n j a n,,557564,,,^ gamainjan $,default
 Gothic-1962_verunreinigen-1,1960,Gothic,1962_verunreinigen,ga-gámainjan,gagamainjan,ɡ a ɣ a m ɛ n j a n,,557564,,,^ gagamainjan $,default
 Gothic-1963_mehr-1,1961,Gothic,1963_mehr,mais,mais,m ɛ s,,557564,,,^ mais $,default
+Gothic-1964_maisaullam-1,1962,Gothic,1964_maisaullam,Maisaullam*,Maisaullam,m ɛ s ɔ lː a m,,557564,,,^ Maisaullam $,default
 Gothic-1965_dergrote-1,1963,Gothic,1965_dergrote,maists,maists,m ɛ s t s,,557564,,,^ maists $,default
 Gothic-1966_hochstens-1,1964,Gothic,1966_hochstens,maist,maist,m ɛ s t,,557564,,,^ maist $,default
+Gothic-1967_etwschneidenhauenvon-1,1965,Gothic,1967_etwschneidenhauenvon,maitan,maitan,m ɛ t a n,,557564,,,^ maitan $,default
 Gothic-1968_abhauenabschneiden-1,1966,Gothic,1968_abhauenabschneiden,af-maitan,afmaitan,a ɸ m ɛ t a n,,557564,,,^ afmaitan $,default
 Gothic-1969_beschneiden-1,1967,Gothic,1969_beschneiden,bi-maitan,bimaitan,b ɪ m ɛ t a n,,557564,,,^ bimaitan $,default
 Gothic-1970_zerschneidenverschneiden-1,1968,Gothic,1970_zerschneidenverschneiden,ga-maitan,gamaitan,ɡ a m ɛ t a n,,557564,,,^ gamaitan $,default
@@ -1903,11 +1983,13 @@ Gothic-1982_motte-1,1980,Gothic,1982_motte,malo,malo,m a l o,,557564,,,^ malo $,
 Gothic-3562_zermalmen-1,1981,Gothic,3562_zermalmen,ga-malwjan,gamalwjan,ɡ a m a l w j a n,,557564,,,^ gamalwjan $,default
 Gothic-1984_mambres-1,1982,Gothic,1984_mambres,Mambres,Mambres,m a m b r e s,,557564,,,^ Mambres $,default
 Gothic-1985_fleisch-1,1983,Gothic,1985_fleisch,mammo,mammo,m a mː o,,557564,,,^ mammo $,default
+Gothic-1986_mammona-1,1984,Gothic,1986_mammona,mammona*,mammona,m a mː o n a,,557564,,,^ mammona $,default
 Gothic-1987_verhohnen-1,1985,Gothic,1987_verhohnen,bi-mampjan,bimampjan,b ɪ m a m p j a n,,557564,,,^ bimampjan $,default
 Gothic-1988_meinenglaubendafurhalten-1,1986,Gothic,1988_meinenglaubendafurhalten,man,man,m a n,,557564,,,^ man $,default
 Gothic-1989_fulle-2,1987,Gothic,1989_fulle,managdūþs,managduþs,m a n a ɣ d u θ s,,557564,,,^ managduþs $,default
 Gothic-1990_menge-1,1988,Gothic,1990_menge,managei,managei,m a n a ɣ i,,557564,,,^ managei $,default
 Gothic-1991_mannigfaltig-1,1989,Gothic,1991_mannigfaltig,managfalþs,managfalþs,m a n a ɣ ɸ a l θ s,,557564,,,^ managfalþs $,default
+Gothic-1992_etwmehren-1,1990,Gothic,1992_etwmehren,managjan,managjan,m a n a ɣ j a n,,557564,,,^ managjan $,default
 Gothic-1993_reichlichvorhandenseinuberfluhabenan-1,1991,Gothic,1993_reichlichvorhandenseinuberfluhabenan,managnan,managnan,m a n a ɣ n a n,,557564,,,^ managnan $,default
 Gothic-1994_sichvermehrenzu-1,1992,Gothic,1994_sichvermehrenzu,us-managnan,usmanagnan,u s m a n a ɣ n a n,,557564,,,^ usmanagnan $,default
 Gothic-1995_mancherviel-1,1993,Gothic,1995_mancherviel,manags,manags,m a n a ɣ s,,557564,,,^ manags $,default
@@ -1921,6 +2003,10 @@ Gothic-2002_niemand-1,2000,Gothic,2002_niemand,mannahun,mannahun,m a nː a h u n
 Gothic-2003_menschlichkeit-1,2001,Gothic,2003_menschlichkeit,manniskodus,manniskodus,m a nː ɪ s k o ð u s,,557564,,,^ manniskodus $,default
 Gothic-2004_menschlich-1,2002,Gothic,2004_menschlich,mannisks,mannisks,m a nː ɪ s k s,,557564,,,^ mannisks $,default
 Gothic-2005_bereitschaft-1,2003,Gothic,2005_bereitschaft,manwiþa,manwiþa,m a n w ɪ θ a,,557564,,,^ manwiþa $,default
+Gothic-2006_etwbereitmachenzurechtmachen-1,2004,Gothic,2006_etwbereitmachenzurechtmachen,manwjan,manwjan,m a n w j a n,,557564,,,^ manwjan $,default
+Gothic-2007_etwvorbereiten-1,2005,Gothic,2007_etwvorbereiten,faura-manwjan,fauramanwjan,ɸ ɔ r a m a n w j a n,,557564,,,^ fauramanwjan $,default
+Gothic-2008_einemetwbereitenzu-1,2006,Gothic,2008_einemetwbereitenzu,ga-manwjan,gamanwjan,ɡ a m a n w j a n,,557564,,,^ gamanwjan $,default
+Gothic-2009_etwvorherzubereiten-1,2007,Gothic,2009_etwvorherzubereiten,faura-gamanwjan,fauragamanwjan,ɸ ɔ r a ɣ a m a n w j a n,,557564,,,^ fauragamanwjan $,default
 Gothic-2010_bereit-1,2008,Gothic,2010_bereit,manwus,manwus,m a n w u s,,557564,,,^ manwus $,default
 Gothic-2011_derherrkommt-1,2009,Gothic,2011_derherrkommt,maran aþa,maran_aþa,m a r a n a θ a,,557564,,,^ maran_aþa $,default
 Gothic-2012_meer-1,2010,Gothic,2012_meer,marei,marei,m a r i,,557564,,,^ marei $,default
@@ -1943,6 +2029,8 @@ Gothic-2029_essen-2,2026,Gothic,2029_essen,matjan,matjan,m a t j a n,,557564,,,^
 Gothic-2029_essen-3,2027,Gothic,2029_essen,ga-matjan,gamatjan,ɡ a m a t j a n,,557564,,,^ gamatjan $,default
 Gothic-2030_speise-1,2028,Gothic,2030_speise,mats,mats,m a t s,,557564,,,^ mats $,default
 Gothic-2031_mattaanis-1,2029,Gothic,2031_mattaanis,Mattaþanis,Mattaþanis,m a tː a θ a n ɪ s,,557564,,,^ Mattaþanis $,default
+Gothic-2032_mattaius-1,2030,Gothic,2032_mattaius,Mattaþius*,Mattaþius,m a tː a θ ɪ u s,,557564,,,^ Mattaþius $,default
+Gothic-2033_mataius-1,2031,Gothic,2033_mataius,Matþaius*,Matþaius,m a t θ ɛ u s,,557564,,,^ Matþaius $,default
 Gothic-2034_matat-1,2032,Gothic,2034_matat,Matþat,Matþat,m a t θ a t,,557564,,,^ Matþat $,default
 Gothic-2035_wurm-1,2033,Gothic,2035_wurm,maþa,maþa,m a θ a,,557564,,,^ maþa $,default
 Gothic-2036_versammlungsortmarktplatz-1,2034,Gothic,2036_versammlungsortmarktplatz,maþl*,maþl,m a θ l̥,,557564,,,^ maþl $,default
@@ -1969,11 +2057,13 @@ Gothic-2056_vorzeichnenvormalen-1,2054,Gothic,2056_vorzeichnenvormalen,faura-mel
 Gothic-2057_schreiben-2,2055,Gothic,2057_schreiben,ga-meljan,gameljan,ɡ a m e l j a n,,557564,,,^ gameljan $,default
 Gothic-2058_vorherschreiben-1,2056,Gothic,2058_vorherschreiben,faura-gameljan,fauragameljan,ɸ ɔ r a ɣ a m e l j a n,,557564,,,^ fauragameljan $,default
 Gothic-2059_unterschreiben-1,2057,Gothic,2059_unterschreiben,uf-meljan,ufmeljan,u ɸ m e l j a n,,557564,,,^ ufmeljan $,default
+Gothic-2060_etwuberschreiben-1,2058,Gothic,2060_etwuberschreiben,ufar-meljan,ufarmeljan,u ɸ a r m e l j a n,,557564,,,^ ufarmeljan $,default
 Gothic-2061_mond-1,2059,Gothic,2061_mond,mena,mena,m e n a,,557564,,,^ mena $,default
 Gothic-2062_monat-1,2060,Gothic,2062_monat,menoþs,menoþs,m e n o θ s,,557564,,,^ menoþs $,default
 Gothic-2063_verkundigungpredigt-1,2061,Gothic,2063_verkundigungpredigt,mereins,mereins,m e r i n s,,557564,,,^ mereins $,default
 Gothic-2064_merila-1,2062,Gothic,2064_merila,Merila,Merila,m e r ɪ l a,,557564,,,^ Merila $,default
 Gothic-2065_geruchtkunde-1,2063,Gothic,2065_geruchtkunde,meriþa,meriþa,m e r ɪ θ a,,557564,,,^ meriþa $,default
+Gothic-2066_etwkundenkundtun-1,2064,Gothic,2066_etwkundenkundtun,merjan,merjan,m e r j a n,,557564,,,^ merjan $,default
 Gothic-2067_verkundigerprediger-1,2065,Gothic,2067_verkundigerprediger,merjands,merjands,m e r j a n d s,,557564,,,^ merjands $,default
 Gothic-2724_verkunden-3,2066,Gothic,2724_verkunden,us-merjan,usmerjan,u s m e r j a n,,557564,,,^ usmerjan $,default
 Gothic-2069_einemeinefrohebotschaftkunden-1,2067,Gothic,2069_einemeinefrohebotschaftkunden,wailamerjan,wailamerjan,w ɛ l a m e r j a n,,557564,,,^ wailamerjan $,default
@@ -1982,6 +2072,7 @@ Gothic-2071_sichverbreiten-1,2069,Gothic,2071_sichverbreiten,us-mernan,usmernan,
 Gothic-2072_tischschusselplattekelter-1,2070,Gothic,2072_tischschusselplattekelter,mes,mes,m e s,,557564,,,^ mes $,default
 Gothic-2073_zwischenwand-1,2071,Gothic,2073_zwischenwand,midgardiwaddjus,midgardiwaddjus,m ɪ ð ɡ a r d ɪ w a dː j u s,,557564,,,^ midgardiwaddjus $,default
 Gothic-2074_uberflutungsintflut-1,2072,Gothic,2074_uberflutungsintflut,midjasweipains,midjasweipains,m ɪ ð j a s w i p ɛ n s,,557564,,,^ midjasweipains $,default
+Gothic-2075_midjis-1,2073,Gothic,2075_midjis,midjis*,midjis,m ɪ ð j ɪ s,,557564,,,^ midjis $,default
 Gothic-2076_diebewohnteerdedererdkreis-1,2074,Gothic,2076_diebewohnteerdedererdkreis,midjungards,midjungards,m ɪ ð j u n ɡ a r d s,,557564,,,^ midjungards $,default
 Gothic-2077_mitte-1,2075,Gothic,2077_mitte,miduma*,miduma,m ɪ ð u m a,,557564,,,^ miduma $,default
 Gothic-2078_mittler-1,2076,Gothic,2078_mittler,midumonds,midumonds,m ɪ ð u m o n d s,,557564,,,^ midumonds $,default
@@ -2037,13 +2128,16 @@ Gothic-2127_vonstaubirdisch-1,2125,Gothic,2127_vonstaubirdisch,muldeins,muldeins
 Gothic-2128_einemdasmaulverbinden-1,2126,Gothic,2128_einemdasmaulverbinden,faur-mūljan,faurmuljan,ɸ ɔ r m u l j a n,,557564,,,^ faurmuljan $,default
 Gothic-2129_meinenglaubendafurhalten-1,2127,Gothic,2129_meinenglaubendafurhalten,munan,munan,m u n a n,,557564,,,^ munan $,default
 Gothic-2130_sicheinersache-1,2128,Gothic,2130_sicheinersache,ga-munan,gamunan,ɡ a m u n a n,,557564,,,^ gamunan $,default
+Gothic-2131_etwzutungedenkenwollen-1,2129,Gothic,2131_etwzutungedenkenwollen,munan,munan,m u n a n,,557564,,,^ munan $,default
 Gothic-2132_einenbesehnsehenauf-1,2130,Gothic,2132_einenbesehnsehenauf,mundon,mundon,m u n d o n,,557564,,,^ mundon $,default
 Gothic-2133_ziel-1,2131,Gothic,2133_ziel,mundrei*,mundrei,m u n d r i,,557564,,,^ mundrei $,default
 Gothic-2134_vergessen-2,2132,Gothic,2134_vergessen,ufar-munnon,ufarmunnon,u ɸ a r m u nː o n,,557564,,,^ ufarmunnon $,default
 Gothic-2135_gedankemeinung-1,2133,Gothic,2135_gedankemeinung,muns,muns,m u n s,,557564,,,^ muns $,default
 Gothic-2136_mund-1,2134,Gothic,2136_mund,munþs,munþs,m u n θ s,,557564,,,^ munþs $,default
+Gothic-2137_nabaw-1,2135,Gothic,2137_nabaw,Nabaw*,Nabaw,n a β a w,,557564,,,^ Nabaw $,default
 Gothic-2138_natter-1,2136,Gothic,2138_natter,nadre,nadre,n a ð r e,,557564,,,^ nadre $,default
 Gothic-2139_naem-1,2137,Gothic,2139_naem,[Naem],Naem,n a e m,,557564,,,^ Naem $,default
+Gothic-2140_naggai-1,2138,Gothic,2140_naggai,Naggai*,Naggai,n a ŋ ɡ ɛ,,557564,,,^ Naggai $,default
 Gothic-2141_festnagelnan-1,2139,Gothic,2141_festnagelnan,ga-nagljan,ganagljan,ɡ a n a ɣ l j a n,,557564,,,^ ganagljan $,default
 Gothic-2142_esisterlaubtnotig-1,2140,Gothic,2142_esisterlaubtnotig,bi-nah,binah,b ɪ n a h,,557564,,,^ binah $,default
 Gothic-2143_esgenugteinem-1,2141,Gothic,2143_esgenugteinem,ga-nah,ganah,ɡ a n a h,,557564,,,^ ganah $,default
@@ -2105,6 +2199,7 @@ Gothic-2198_esaufjemandabgesehnhaben-1,2196,Gothic,2198_esaufjemandabgesehnhaben
 Gothic-2199_nerins-1,2197,Gothic,2199_nerins,Nerins,Nerins,n e r ɪ n s,,557564,,,^ Nerins $,default
 Gothic-2200_nadel-1,2198,Gothic,2200_nadel,neþla,neþla,n e θ l a,,557564,,,^ neþla $,default
 Gothic-2222_nicht-2,2199,Gothic,2222_nicht,ni,ni,n ɪ,,557564,,,^ ni $,default
+Gothic-2202_dochnichtetwa-1,2200,Gothic,2202_dochnichtetwa,"nibai, niba",nibai,n ɪ β ɛ,,557564,,,^ nibai $,default
 Gothic-2203_dasverzehrenderrost-1,2201,Gothic,2203_dasverzehrenderrost,nidwa,nidwa,n ɪ ð w a,,557564,,,^ nidwa $,default
 Gothic-2204_undnichtauchnichtnicht-1,2202,Gothic,2204_undnichtauchnichtnicht,nih,nih,n ɪ h,,557564,,,^ nih $,default
 Gothic-2205_nikaudemus-1,2203,Gothic,2205_nikaudemus,Nikaudemus,Nikaudemus,n ɪ k ɔ ð e m u s,,557564,,,^ Nikaudemus $,default
@@ -2147,6 +2242,8 @@ Gothic-2241_demnachdaher-1,2239,Gothic,2241_demnachdaher,nunu,nunu,n u n u,,5575
 Gothic-2242_fangerfischer-1,2240,Gothic,2242_fangerfischer,nuta,nuta,n u t a,,557564,,,^ nuta $,default
 Gothic-2243_nwmfan-1,2241,Gothic,2243_nwmfan,Nwmfan,Nwmfan,n w m ɸ a n,,557564,,,^ Nwmfan $,default
 Gothic-2244_achpfui-1,2242,Gothic,2244_achpfui,o,o,o,,557564,,,^ o $,default
+Gothic-2245_obeid-1,2243,Gothic,2245_obeid,Obeid*,Obeid,o β i ð,,557564,,,^ Obeid $,default
+Gothic-2246_odueia-1,2244,Gothic,2246_odueia,Odueia*,Odueia,o ð u i a,,557564,,,^ Odueia $,default
 Gothic-2247_sichfurchtenvor-1,2245,Gothic,2247_sichfurchtenvor,ogan*,ogan,o ɣ a n,,557564,,,^ ogan $,default
 Gothic-2248_einenschrecken-1,2246,Gothic,2248_einenschrecken,ogjan,ogjan,o ɣ j a n,,557564,,,^ ogjan $,default
 Gothic-2249_zeithabend-1,2247,Gothic,2249_zeithabend,ohteigo,ohteigo,o h t i ɣ o,,557564,,,^ ohteigo $,default
@@ -2154,23 +2251,28 @@ Gothic-2250_osaiin-1,2248,Gothic,2250_osaiin,Osaiin,Osaiin,o s ɛ ɪ n,,557564,,
 Gothic-2251_osanna-1,2249,Gothic,2251_osanna,osanna,osanna,o s a nː a,,557564,,,^ osanna $,default
 Gothic-2252_leibrockunterkleid-1,2250,Gothic,2252_leibrockunterkleid,paida,paida,p ɛ ð a,,557564,,,^ paida $,default
 Gothic-2253_bekleiden-1,2251,Gothic,2253_bekleiden,ga-paidon,gapaidon,ɡ a p ɛ ð o n,,557564,,,^ gapaidon $,default
+Gothic-2254_paintekuste-1,2252,Gothic,2254_paintekuste,paintekuste*,paintekuste,p ɛ n t e k u s t e,,557564,,,^ paintekuste $,default
 Gothic-2255_paitrus-1,2253,Gothic,2255_paitrus,Paitrus,Paitrus,p ɛ t r u s,,557564,,,^ Paitrus $,default
 Gothic-2256_presbytergeistlicher-1,2254,Gothic,2256_presbytergeistlicher,papan,papan,p a p a n,,557564,,,^ papan $,default
 Gothic-2257_troster-1,2255,Gothic,2257_troster,parakletus,parakletus,p a r a k l e t u s,,557564,,,^ parakletus $,default
 Gothic-2258_rusttag-1,2256,Gothic,2258_rusttag,paraskaiwe,paraskaiwe,p a r a s k ɛ w e,,557564,,,^ paraskaiwe $,default
 Gothic-2259_paska-1,2257,Gothic,2259_paska,paska,paska,p a s k a,,557564,,,^ paska $,default
 Gothic-2260_pasxa-1,2258,Gothic,2260_pasxa,pasxa,pasxa,p a s χ a,,557564,,,^ pasxa $,default
+Gothic-2261_pauntius-1,2259,Gothic,2261_pauntius,Pauntius*,Pauntius,p ɔ n t ɪ u s,,557564,,,^ Pauntius $,default
 Gothic-2262_purpur-1,2260,Gothic,2262_purpur,paurpura,paurpura,p ɔ r p u r a,,557564,,,^ paurpura $,default
 Gothic-2263_paurpaura-1,2261,Gothic,2263_paurpaura,paurpaura,paurpaura,p ɔ r p ɔ r a,,557564,,,^ paurpaura $,default
 Gothic-2264_purpurn-1,2262,Gothic,2264_purpurn,paurpuroþs,paurpuroþs,p ɔ r p u r o θ s,,557564,,,^ paurpuroþs $,default
 Gothic-2265_pawlus-1,2263,Gothic,2265_pawlus,Pawlus,Pawlus,p a w l u s,,557564,,,^ Pawlus $,default
 Gothic-2266_palmbaum-1,2264,Gothic,2266_palmbaum,peikabagms,peikabagms,p i k a β a ɣ m̥ s,,557564,,,^ peikabagms $,default
 Gothic-2267_peilatus-1,2265,Gothic,2267_peilatus,Peilatus,Peilatus,p i l a t u s,,557564,,,^ Peilatus $,default
+Gothic-2268_unverfalschteoflussigenarde-1,2266,Gothic,2268_unverfalschteoflussigenarde,[pistikeins],pistikeins,p ɪ s t ɪ k i n s,,557564,,,^ pistikeins $,default
 Gothic-2269_strae-1,2267,Gothic,2269_strae,plapja,plapja,p l a p j a,,557564,,,^ plapja $,default
 Gothic-2270_flicken-1,2268,Gothic,2270_flicken,plat,plat,p l a t,,557564,,,^ plat $,default
 Gothic-2271_tanzen-1,2269,Gothic,2271_tanzen,plinsjan,plinsjan,p l ɪ n s j a n,,557564,,,^ plinsjan $,default
 Gothic-3108_bedrangen-2,2270,Gothic,3108_bedrangen,ana-praggan,anapraggan,a n a p r a ŋ ɡ a n,,557564,,,^ anapraggan $,default
 Gothic-2273_praitoriaun-1,2271,Gothic,2273_praitoriaun,praitoriaun,praitoriaun,p r ɛ t o r ɪ ɔ n,,557564,,,^ praitoriaun $,default
+Gothic-2274_christlichgemeindebehorde-1,2272,Gothic,2274_christlichgemeindebehorde,praizbwtairei,praizbwtairei,p r ɛ z b w t ɛ r i,,557564,,,^ praizbwtairei $,default
+Gothic-2275_praizbwtairi-1,2273,Gothic,2275_praizbwtairi,praizbwtairi*,praizbwtairi,p r ɛ z b w t ɛ r ɪ,,557564,,,^ praizbwtairi $,default
 Gothic-2276_prophetin-1,2274,Gothic,2276_prophetin,praufeteis,praufeteis,p r ɔ ɸ e t i s,,557564,,,^ praufeteis $,default
 Gothic-2277_prophet-1,2275,Gothic,2277_prophet,praufetes,praufetes,p r ɔ ɸ e t e s,,557564,,,^ praufetes $,default
 Gothic-2278_weissagung-1,2276,Gothic,2278_weissagung,praufetja,praufetja,p r ɔ ɸ e t j a,,557564,,,^ praufetja $,default
@@ -2189,6 +2291,7 @@ Gothic-2290_kommen-2,2288,Gothic,2290_kommen,qiman,qiman,kʷ ɪ m a n,,557564,,,
 Gothic-2291_hinzutreten-1,2289,Gothic,2291_hinzutreten,ana-qiman,anaqiman,a n a kʷ ɪ m a n,,557564,,,^ anaqiman $,default
 Gothic-2292_einenuberfallen-1,2290,Gothic,2292_einenuberfallen,bi-qiman,biqiman,b ɪ kʷ ɪ m a n,,557564,,,^ biqiman $,default
 Gothic-2293_vorjemandhergehn-1,2291,Gothic,2293_vorjemandhergehn,faura-qiman,fauraqiman,ɸ ɔ r a kʷ ɪ m a n,,557564,,,^ fauraqiman $,default
+Gothic-2294_etwverzehrenausgebenvertun-1,2292,Gothic,2294_etwverzehrenausgebenvertun,fra-qiman,fraqiman,ɸ r a kʷ ɪ m a n,,557564,,,^ fraqiman $,default
 Gothic-2295_zusammenkommen-2,2293,Gothic,2295_zusammenkommen,ga-qiman,gaqiman,ɡ a kʷ ɪ m a n,,557564,,,^ gaqiman $,default
 Gothic-2296_mitkommenmit-1,2294,Gothic,2296_mitkommenmit,miþ-qiman,miþqiman,m ɪ θ kʷ ɪ m a n,,557564,,,^ miþqiman $,default
 Gothic-2297_umbringendentodgeben-1,2295,Gothic,2297_umbringendentodgeben,us-qiman,usqiman,u s kʷ ɪ m a n,,557564,,,^ usqiman $,default
@@ -2221,8 +2324,10 @@ Gothic-2323_feuchtigkeit-1,2321,Gothic,2323_feuchtigkeit,†qrammiþa,qrammiþa,
 Gothic-2324_daskommengegenwartankunftwiederkunftchristi-1,2322,Gothic,2324_daskommengegenwartankunftwiederkunftchristi,qums,qums,kʷ u m s,,557564,,,^ qums $,default
 Gothic-2325_rabbaunei-1,2323,Gothic,2325_rabbaunei,rabbaunei,rabbaunei,r a bː ɔ n i,,557564,,,^ rabbaunei $,default
 Gothic-2326_rabbei-1,2324,Gothic,2326_rabbei,rabbei,rabbei,r a bː i,,557564,,,^ rabbei $,default
+Gothic-2327_ragaw-1,2325,Gothic,2327_ragaw,Ragaw*,Ragaw,r a ɣ a w,,557564,,,^ Ragaw $,default
 Gothic-2328_ratbeschlu-1,2326,Gothic,2328_ratbeschlu,ragin,ragin,r a ɣ ɪ n,,557564,,,^ ragin $,default
 Gothic-2329_ratgeberratsherr-1,2327,Gothic,2329_ratgeberratsherr,ragineis,ragineis,r a ɣ ɪ n i s,,557564,,,^ ragineis $,default
+Gothic-2330_etwverwalten-1,2328,Gothic,2330_etwverwalten,raginon,raginon,r a ɣ ɪ n o n,,557564,,,^ raginon $,default
 Gothic-2331_einenratgeben-1,2329,Gothic,2331_einenratgeben,ga-raginon,garaginon,ɡ a r a ɣ ɪ n o n,,557564,,,^ garaginon $,default
 Gothic-2332_rechnen-1,2330,Gothic,2332_rechnen,rahnjan,rahnjan,r a h n j a n,,557564,,,^ rahnjan $,default
 Gothic-2333_einenubertreffenan-1,2331,Gothic,2333_einenubertreffenan,faura-rahnjan,faurarahnjan,ɸ ɔ r a r a h n j a n,,557564,,,^ faurarahnjan $,default
@@ -2258,11 +2363,14 @@ Gothic-2362_besorgengewahren-1,2360,Gothic,2362_besorgengewahren,und-redan,undre
 Gothic-2363_warumlassetihreuchsatzungenauflegenalslebtetihrinderwelt-1,2361,Gothic,2363_warumlassetihreuchsatzungenauflegenalslebtetihrinderwelt,ur-redan,urredan,u rː e ð a n,,557564,,,^ urredan $,default
 Gothic-2364_reichherrschaftobrigkeit-1,2362,Gothic,2364_reichherrschaftobrigkeit,reiki,reiki,r i k ɪ,,557564,,,^ reiki $,default
 Gothic-2365_herrschenuber-2,2363,Gothic,2365_herrschenuber,reikinon,reikinon,r i k ɪ n o n,,557564,,,^ reikinon $,default
+Gothic-2366_reikeis-1,2364,Gothic,2366_reikeis,reikeis*,reikeis,r i k i s,,557564,,,^ reikeis $,default
+Gothic-2367_reiks-1,2365,Gothic,2367_reiks,reiks*,reiks,r i k s,,557564,,,^ reiks $,default
 Gothic-2368_herrscherobrigkeit-1,2366,Gothic,2368_herrscherobrigkeit,reiks,reiks,r i k s,,557564,,,^ reiks $,default
 Gothic-2369_zittern-1,2367,Gothic,2369_zittern,reiran,reiran,r i r a n,,557564,,,^ reiran $,default
 Gothic-2370_erzitternerbeben-1,2368,Gothic,2370_erzitternerbeben,in-reiran,inreiran,ɪ n r i r a n,,557564,,,^ inreiran $,default
 Gothic-2371_daszittern-1,2369,Gothic,2371_daszittern,reiro,reiro,r i r o,,557564,,,^ reiro $,default
 Gothic-2372_erstehnsicherheben-1,2370,Gothic,2372_erstehnsicherheben,ur-reisan,urreisan,u rː i s a n,,557564,,,^ urreisan $,default
+Gothic-2373_resa-1,2371,Gothic,2373_resa,Resa*,Resa,r e s a,,557564,,,^ Resa $,default
 Gothic-2374_regen-1,2372,Gothic,2374_regen,rign,rign,r ɪ ɣ n̥,,557564,,,^ rign $,default
 Gothic-2375_regnen-1,2373,Gothic,2375_regnen,rignjan,rignjan,r ɪ ɣ n j a n,,557564,,,^ rignjan $,default
 Gothic-2376_haufen-1,2374,Gothic,2376_haufen,rikan,rikan,r ɪ k a n,,557564,,,^ rikan $,default
@@ -2286,13 +2394,16 @@ Gothic-2393_finsterwerden-1,2391,Gothic,2393_finsterwerden,riqizjan,riqizjan,r �
 Gothic-2394_vernichtungvomewigentodgesagt-1,2392,Gothic,2394_vernichtungvomewigentodgesagt,riurei,riurei,r ɪ u r i,,557564,,,^ riurei $,default
 Gothic-3462_verderben-2,2393,Gothic,3462_verderben,riurjan,riurjan,r ɪ u r j a n,,557564,,,^ riurjan $,default
 Gothic-2396_verganglichsterblich-1,2394,Gothic,2396_verganglichsterblich,riureis*,riureis,r ɪ u r i s,,557564,,,^ riureis $,default
+Gothic-2397_riurs-1,2395,Gothic,2397_riurs,riurs*,riurs,r ɪ u r s,,557564,,,^ riurs $,default
 Gothic-2398_sprechenreden-1,2396,Gothic,2398_sprechenreden,rodjan,rodjan,r o ð j a n,,557564,,,^ rodjan $,default
 Gothic-2399_murrendredenmurren-1,2397,Gothic,2399_murrendredenmurren,bi-rodjan,birodjan,b ɪ r o ð j a n,,557564,,,^ birodjan $,default
 Gothic-2400_miteinemreden-1,2398,Gothic,2400_miteinemreden,miþ-rodjan,miþrodjan,m ɪ θ r o ð j a n,,557564,,,^ miþrodjan $,default
 Gothic-2401_hof-1,2399,Gothic,2401_hof,rohsns,rohsns,r o h s n̥ s,,557564,,,^ rohsns $,default
 Gothic-2402_rufus-1,2400,Gothic,2402_rufus,Rufus,Rufus,r u ɸ u s,,557564,,,^ Rufus $,default
 Gothic-2403_raum-1,2401,Gothic,2403_raum,rūmis,rumis,r u m ɪ s,,557564,,,^ rumis $,default
+Gothic-2404_ruma-1,2402,Gothic,2404_ruma,Rūma*,Ruma,r u m a,,557564,,,^ Ruma $,default
 Gothic-2405_sicherweitern-1,2403,Gothic,2405_sicherweitern,ur-rūmnan,urrumnan,u rː u m n a n,,557564,,,^ urrumnan $,default
+Gothic-2406_rumoneis-1,2404,Gothic,2406_rumoneis,Rūmoneis*,Rumoneis,r u m o n i s,,557564,,,^ Rumoneis $,default
 Gothic-2407_geraumig-1,2405,Gothic,2407_geraumig,rūms,rums,r u m s,,557564,,,^ rums $,default
 Gothic-2408_geheimnis-1,2406,Gothic,2408_geheimnis,rūna,runa,r u n a,,557564,,,^ runa $,default
 Gothic-2409_lauf-1,2407,Gothic,2409_lauf,runs,runs,r u n s,,557564,,,^ runs $,default
@@ -2309,6 +2420,7 @@ Gothic-2419_versenken-1,2417,Gothic,2419_versenken,uf-saggqjan,ufsaggqjan,u ɸ s
 Gothic-2420_ufsaggqjan-1,2418,Gothic,2420_ufsaggqjan,uf-saggqjan,ufsaggqjan,u ɸ s a ŋ ɡ kʷ j a n,,557564,,,^ ufsaggqjan $,default
 Gothic-2421_untergangwesten-1,2419,Gothic,2421_untergangwesten,saggqa,saggqa,s a ŋ ɡ kʷ a,,557564,,,^ saggqa $,default
 Gothic-2422_vorlesungrezitation-1,2420,Gothic,2422_vorlesungrezitation,saggws,saggws,s a ɡ ɡ w s,,557564,,,^ saggws $,default
+Gothic-2423_derukeinandrerebender-1,2421,Gothic,2423_derukeinandrerebender,sah,sah,s a h,,557564,,,^ sah $,default
 Gothic-2424_wasauchimmer-1,2422,Gothic,2424_wasauchimmer,saƕazuh,saƕazuh,s a ʍ a z u h,,557564,,,^ saƕazuh $,default
 Gothic-2425_eccesieh-1,2423,Gothic,2425_eccesieh,sai,sai,s ɛ,,557564,,,^ sai $,default
 Gothic-2426_saen-1,2424,Gothic,2426_saen,saian,saian,s ɛ a n,,557564,,,^ saian $,default
@@ -2316,8 +2428,11 @@ Gothic-2427_einsaen-1,2425,Gothic,2427_einsaen,in-saian,insaian,ɪ n s ɛ a n,,5
 Gothic-2428_sechs-1,2426,Gothic,2428_sechs,saihs,saihs,s ɛ h s,,557564,,,^ saihs $,default
 Gothic-2429_dersechste-1,2427,Gothic,2429_dersechste,saihsta,saihsta,s ɛ h s t a,,557564,,,^ saihsta $,default
 Gothic-2430_sehn-1,2428,Gothic,2430_sehn,saiƕan,saiƕan,s ɛ ʍ a n,,557564,,,^ saiƕan $,default
+Gothic-2431_aufetwsehnesberucksichtigen-1,2429,Gothic,2431_aufetwsehnesberucksichtigen,and-saiƕan,andsaiƕan,a n d s ɛ ʍ a n,,557564,,,^ andsaiƕan $,default
+Gothic-2432_aufetwsehnachtgeben-1,2430,Gothic,2432_aufetwsehnachtgeben,at-saiƕan,atsaiƕan,a t s ɛ ʍ a n,,557564,,,^ atsaiƕan $,default
 Gothic-2433_umsehn-1,2431,Gothic,2433_umsehn,bi-saiƕan,bisaiƕan,b ɪ s ɛ ʍ a n,,557564,,,^ bisaiƕan $,default
 Gothic-2434_erblicken-1,2432,Gothic,2434_erblicken,ga-saiƕan,gasaiƕan,ɡ a s ɛ ʍ a n,,557564,,,^ gasaiƕan $,default
+Gothic-2435_hinsehnaufetwsehnnachetwsehn-1,2433,Gothic,2435_hinsehnaufetwsehnnachetwsehn,in-saiƕan,insaiƕan,ɪ n s ɛ ʍ a n,,557564,,,^ insaiƕan $,default
 Gothic-2436_durchschauen-1,2434,Gothic,2436_durchschauen,þairh-saiƕan,þairhsaiƕan,θ ɛ r h s ɛ ʍ a n,,557564,,,^ þairhsaiƕan $,default
 Gothic-2437_aufblicken-1,2435,Gothic,2437_aufblicken,us-saiƕan,ussaiƕan,u sː ɛ ʍ a n,,557564,,,^ ussaiƕan $,default
 Gothic-2438_anseilen-1,2436,Gothic,2438_anseilen,in-sailjan,insailjan,ɪ n s ɛ l j a n,,557564,,,^ insailjan $,default
@@ -2355,6 +2470,7 @@ Gothic-2469_salome-1,2467,Gothic,2469_salome,Salome,Salome,s a l o m e,,557564,,
 Gothic-2470_salz-1,2468,Gothic,2470_salz,salt,salt,s a l t,,557564,,,^ salt $,default
 Gothic-2471_salzen-1,2469,Gothic,2471_salzen,saltan,saltan,s a l t a n,,557564,,,^ saltan $,default
 Gothic-2472_derselbedernamliche-1,2470,Gothic,2472_derselbedernamliche,sama,sama,s a m a,,557564,,,^ sama $,default
+Gothic-2473_samafrajis-1,2471,Gothic,2473_samafrajis,samafraþjis*,samafraþjis,s a m a ɸ r a θ j ɪ s,,557564,,,^ samafraþjis $,default
 Gothic-2474_desselbengeschlechtsverwandt-1,2472,Gothic,2474_desselbengeschlechtsverwandt,samakuns*,samakuns,s a m a k u n s,,557564,,,^ samakuns $,default
 Gothic-2475_gleichgro-1,2473,Gothic,2475_gleichgro,samalauþs*,samalauþs,s a m a l ɔ θ s,,557564,,,^ samalauþs $,default
 Gothic-2476_gleich-2,2474,Gothic,2476_gleich,samaleiks,samaleiks,s a m a l i k s,,557564,,,^ samaleiks $,default
@@ -2401,6 +2517,8 @@ Gothic-2516_syrerin-1,2514,Gothic,2516_syrerin,Saurini,Saurini,s ɔ r ɪ n ɪ,,5
 Gothic-2517_grund-1,2515,Gothic,2517_grund,sauþa,sauþa,s ɔ θ a,,557564,,,^ sauþa $,default
 Gothic-2518_opfer-1,2516,Gothic,2518_opfer,sauþs,sauþs,s ɔ θ s,,557564,,,^ sauþs $,default
 Gothic-2519_sei-1,2517,Gothic,2519_sei,sei,sei,s i,,557564,,,^ sei $,default
+Gothic-2520_seidona-1,2518,Gothic,2520_seidona,Seidona*,Seidona,s i ð o n a,,557564,,,^ Seidona $,default
+Gothic-2521_seidoneis-1,2519,Gothic,2521_seidoneis,Seidoneis*,Seidoneis,s i ð o n i s,,557564,,,^ Seidoneis $,default
 Gothic-2522_seimon-1,2520,Gothic,2522_seimon,Seimon,Seimon,s i m o n,,557564,,,^ Seimon $,default
 Gothic-2523_seina-1,2521,Gothic,2523_seina,Seina,Seina,s i n a,,557564,,,^ Seina $,default
 Gothic-2524_sich-1,2522,Gothic,2524_sich,sik,sik,s ɪ k,,557564,,,^ sik $,default
@@ -2411,6 +2529,7 @@ Gothic-2528_spat-1,2526,Gothic,2528_spat,seiþus,seiþus,s i θ u s,,557564,,,^ 
 Gothic-2529_tuchtigkeitgute-1,2527,Gothic,2529_tuchtigkeitgute,selei,selei,s e l i,,557564,,,^ selei $,default
 Gothic-2530_gutgutig-1,2528,Gothic,2530_gutgutig,sels,sels,s e l s,,557564,,,^ sels $,default
 Gothic-2531_sem-1,2529,Gothic,2531_sem,Sem,Sem,s e m,,557564,,,^ Sem $,default
+Gothic-2532_se-1,2530,Gothic,2532_se,Seþ*,Seþ,s e θ,,557564,,,^ Seþ $,default
 Gothic-2533_sibakanei-1,2531,Gothic,2533_sibakanei,sibakþanei,sibakþanei,s ɪ β a k θ a n i,,557564,,,^ sibakþanei $,default
 Gothic-2534_sippenverhaltnisverwandtschaft-1,2532,Gothic,2534_sippenverhaltnisverwandtschaft,sibja,sibja,s ɪ β j a,,557564,,,^ sibja $,default
 Gothic-2535_sichmiteinemversohnen-1,2533,Gothic,2535_sichmiteinemversohnen,ga-sibjon,gasibjon,ɡ a s ɪ β j o n,,557564,,,^ gasibjon $,default
@@ -2430,6 +2549,7 @@ Gothic-2548_siegel-1,2546,Gothic,2548_siegel,sigljo,sigljo,s ɪ ɣ l j o,,557564
 Gothic-2549_sinken-1,2547,Gothic,2549_sinken,sigqan,sigqan,s ɪ ŋ kʷ a n,,557564,,,^ sigqan $,default
 Gothic-2550_untersinken-1,2548,Gothic,2550_untersinken,dis-sig(g)qan,dissigqan,d ɪ sː ɪ ŋ kʷ a n,,557564,,,^ dissigqan $,default
 Gothic-2551_versinkenuntergehn-1,2549,Gothic,2551_versinkenuntergehn,ga-siggqan,gasiggqan,ɡ a s ɪ ŋ ɡ kʷ a n,,557564,,,^ gasiggqan $,default
+Gothic-2552_sihw-1,2550,Gothic,2552_sihw,†sihw,sihw,s ɪ h w,,557564,,,^ sihw $,default
 Gothic-2553_sekel-1,2551,Gothic,2553_sekel,sikls*,sikls,s ɪ k l̥ s,,557564,,,^ sikls $,default
 Gothic-3002_verstummen-2,2552,Gothic,3002_verstummen,ana-silan,anasilan,a n a s ɪ l a n,,557564,,,^ anasilan $,default
 Gothic-2555_selbst-1,2553,Gothic,2555_selbst,silba,silba,s ɪ l b a,,557564,,,^ silba $,default
@@ -2497,6 +2617,7 @@ Gothic-2616_einemschadenzufugenin-1,2614,Gothic,2616_einemschadenzufugenin,ga-sk
 Gothic-2617_schadlich-1,2615,Gothic,2617_schadlich,skaþuls,skaþuls,s k a θ u l s,,557564,,,^ skaþuls $,default
 Gothic-2618_riemen-1,2616,Gothic,2618_riemen,skaudaraip,skaudaraip,s k ɔ ð a r ɛ p,,557564,,,^ skaudaraip $,default
 Gothic-2619_anmutig-1,2617,Gothic,2619_anmutig,skauns*,skauns,s k ɔ n s,,557564,,,^ skauns $,default
+Gothic-2620_skauneis-2,2618,Gothic,2620_skauneis,skauneis*,skauneis,s k ɔ n i s,,557564,,,^ skauneis $,default
 Gothic-2621_skorpion-1,2619,Gothic,2621_skorpion,skaurpjo,skaurpjo,s k ɔ r p j o,,557564,,,^ skaurpjo $,default
 Gothic-2622_zipfel-1,2620,Gothic,2622_zipfel,skauta,skauta,s k ɔ t a,,557564,,,^ skauta $,default
 Gothic-2623_dasienuchternwerdenzurbesinnungkommenausdenschlingendesteufels-1,2621,Gothic,2623_dasienuchternwerdenzurbesinnungkommenausdenschlingendesteufels,[us-skaujan],usskaujan,u sː k ɔ j a n,,557564,,,^ usskaujan $,default
@@ -2514,6 +2635,7 @@ Gothic-2634_schiff-1,2632,Gothic,2634_schiff,skip,skip,s k ɪ p,,557564,,,^ skip
 Gothic-2635_verstoenvonsichwegstoen-1,2633,Gothic,2635_verstoenvonsichwegstoen,af-skiuban,afskiuban,a ɸ s k ɪ u β a n,,557564,,,^ afskiuban $,default
 Gothic-2636_schuh-1,2634,Gothic,2636_schuh,skohs,skohs,s k o h s,,557564,,,^ skohs $,default
 Gothic-2637_bosergeistdamon-1,2635,Gothic,2637_bosergeistdamon,skohsl,skohsl,s k o h s l̥,,557564,,,^ skohsl $,default
+Gothic-2638_etwzerreien-1,2636,Gothic,2638_etwzerreien,dis-skreitan,disskreitan,d ɪ sː k r i t a n,,557564,,,^ disskreitan $,default
 Gothic-2921_zerreien-3,2637,Gothic,2921_zerreien,dis-skritnan,disskritnan,d ɪ sː k r ɪ t n a n,,557564,,,^ disskritnan $,default
 Gothic-2640_haupthaar-1,2638,Gothic,2640_haupthaar,skufta,skufta,s k u ɸ t a,,557564,,,^ skufta $,default
 Gothic-2641_spiegel-1,2639,Gothic,2641_spiegel,skuggwa,skuggwa,s k u ɡ ɡ w a,,557564,,,^ skuggwa $,default
@@ -2537,6 +2659,7 @@ Gothic-2658_schaden-1,2656,Gothic,2658_schaden,sleiþa,sleiþa,s l i θ a,,55756
 Gothic-2659_gefahr-2,2657,Gothic,2659_gefahr,sleiþei,sleiþei,s l i θ i,,557564,,,^ sleiþei $,default
 Gothic-2660_beschadigen-1,2658,Gothic,2660_beschadigen,ga-sleiþjan,gasleiþjan,ɡ a s l i θ j a n,,557564,,,^ gasleiþjan $,default
 Gothic-2661_schlimmgefahrlich-1,2659,Gothic,2661_schlimmgefahrlich,sleiþs*,sleiþs,s l i θ s,,557564,,,^ sleiþs $,default
+Gothic-2662_sleideis-1,2660,Gothic,2662_sleideis,sleideis*,sleideis,s l i ð i s,,557564,,,^ sleideis $,default
 Gothic-2663_schlafen-1,2661,Gothic,2663_schlafen,slepan,slepan,s l e p a n,,557564,,,^ slepan $,default
 Gothic-2665_entschlummernentschlafen-1,2662,Gothic,2665_entschlummernentschlafen,ana-slepan,anaslepan,a n a s l e p a n,,557564,,,^ anaslepan $,default
 Gothic-2665_entschlummernentschlafen-2,2663,Gothic,2665_entschlummernentschlafen,ga-slepan,gaslepan,ɡ a s l e p a n,,557564,,,^ gaslepan $,default
@@ -2557,6 +2680,7 @@ Gothic-2679_gewandmantel-1,2677,Gothic,2679_gewandmantel,snaga,snaga,s n a ɣ a,
 Gothic-2680_schnee-1,2678,Gothic,2680_schnee,snaiws,snaiws,s n ɛ w s,,557564,,,^ snaiws $,default
 Gothic-2681_anfassenanruhren-1,2679,Gothic,2681_anfassenanruhren,at-snarpjan,atsnarpjan,a t s n a r p j a n,,557564,,,^ atsnarpjan $,default
 Gothic-2682_schneidenernten-1,2680,Gothic,2682_schneidenernten,sneiþan,sneiþan,s n i θ a n,,557564,,,^ sneiþan $,default
+Gothic-2683_afsneian-1,2681,Gothic,2683_afsneian,†af-sneiþan,afsneiþan,a ɸ s n i θ a n,,557564,,,^ afsneiþan $,default
 Gothic-2684_schlachten-1,2682,Gothic,2684_schlachten,uf-sneiþan,ufsneiþan,u ɸ s n i θ a n,,557564,,,^ ufsneiþan $,default
 Gothic-2689_eilen-1,2683,Gothic,2689_eilen,sniumjan,sniumjan,s n ɪ u m j a n,,557564,,,^ sniumjan $,default
 Gothic-2686_hineilenkommen-1,2684,Gothic,2686_hineilenkommen,ga-sniumjan,gasniumjan,ɡ a s n ɪ u m j a n,,557564,,,^ gasniumjan $,default
@@ -2603,6 +2727,7 @@ Gothic-2727_verkundenerzahlen-1,2724,Gothic,2727_verkundenerzahlen,us-spillon,us
 Gothic-2727_verkundenerzahlen-2,2725,Gothic,2727_verkundenerzahlen,waila-spillon,wailaspillon,w ɛ l a s p ɪ lː o n,,557564,,,^ wailaspillon $,default
 Gothic-2728_spinnen-1,2726,Gothic,2728_spinnen,spinnan,spinnan,s p ɪ nː a n,,557564,,,^ spinnan $,default
 Gothic-2729_schnellbald-1,2727,Gothic,2729_schnellbald,sprauto,sprauto,s p r ɔ t o,,557564,,,^ sprauto $,default
+Gothic-2730_ausbinsenopalmblatterngeflochtenerkorb-1,2728,Gothic,2730_ausbinsenopalmblatterngeflochtenerkorb,spwreidans,spwreidans,s p w r i ð a n s,,557564,,,^ spwreidans $,default
 Gothic-2731_grundstoffeelemente-1,2729,Gothic,2731_grundstoffeelemente,stabeis,stabeis,s t a β i s,,557564,,,^ stabeis $,default
 Gothic-2732_stichaus-1,2730,Gothic,2732_stichaus,†us-stagg,usstagg,u sː t a ŋ ɡ,,557564,,,^ usstagg $,default
 Gothic-2733_etwasanstoenan-1,2731,Gothic,2733_etwasanstoenan,ga-stagqjan,gastagqjan,ɡ a s t a ŋ kʷ j a n,,557564,,,^ gastagqjan $,default
@@ -2731,6 +2856,7 @@ Gothic-2857_reinheitkeuschheit-1,2853,Gothic,2857_reinheitkeuschheit,swiknei,swi
 Gothic-2856_reinigung-3,2854,Gothic,2856_reinigung,swikneins*,swikneins,s w ɪ k n i n s,,557564,,,^ swikneins $,default
 Gothic-2857_reinheitkeuschheit-2,2855,Gothic,2857_reinheitkeuschheit,swikniþa,swikniþa,s w ɪ k n ɪ θ a,,557564,,,^ swikniþa $,default
 Gothic-2858_reinunschuldigunstraflich-1,2856,Gothic,2858_reinunschuldigunstraflich,swikns,swikns,s w ɪ k n̥ s,,557564,,,^ swikns $,default
+Gothic-2859_etwbekanntgeben-1,2857,Gothic,2859_etwbekanntgeben,ga-swikunþjan,gaswikunþjan,ɡ a s w ɪ k u n θ j a n,,557564,,,^ gaswikunþjan $,default
 Gothic-2860_offenkundigoffenbarbekannt-1,2858,Gothic,2860_offenkundigoffenbarbekannt,swikunþs,swikunþs,s w ɪ k u n θ s,,557564,,,^ swikunþs $,default
 Gothic-2861_imsterbenliegen-1,2859,Gothic,2861_imsterbenliegen,swiltan,swiltan,s w ɪ l t a n,,557564,,,^ swiltan $,default
 Gothic-2862_sterben-3,2860,Gothic,2862_sterben,ga-swiltan,gaswiltan,ɡ a s w ɪ l t a n,,557564,,,^ gaswiltan $,default
@@ -2744,9 +2870,12 @@ Gothic-2869_starkkraftiggesund-1,2867,Gothic,2869_starkkraftiggesund,swinþs,swi
 Gothic-2870_schwester-1,2868,Gothic,2870_schwester,swistar,swistar,s w ɪ s t a r,,557564,,,^ swistar $,default
 Gothic-2871_swmaion-1,2869,Gothic,2871_swmaion,Swmaion,Swmaion,s w m ɛ o n,,557564,,,^ Swmaion $,default
 Gothic-2872_synagogenvorsteher-1,2870,Gothic,2872_synagogenvorsteher,swnagogafaþs*,swnagogafaþs,s w n a ɣ o ɣ a ɸ a θ s,,557564,,,^ swnagogafaþs $,default
+Gothic-2873_swnagoge-1,2871,Gothic,2873_swnagoge,swnagoge*,swnagoge,s w n a ɣ o ɣ e,,557564,,,^ swnagoge $,default
+Gothic-2874_swntwke-1,2872,Gothic,2874_swntwke,Swntwke*,Swntwke,s w n t w k e,,557564,,,^ Swntwke $,default
 Gothic-2875_seufzen-1,2873,Gothic,2875_seufzen,swogatjan,swogatjan,s w o ɣ a t j a n,,557564,,,^ swogatjan $,default
 Gothic-2876_erseufzen-1,2874,Gothic,2876_erseufzen,ga-swogjan,gaswogjan,ɡ a s w o ɣ j a n,,557564,,,^ gaswogjan $,default
 Gothic-2877_aufseufzen-1,2875,Gothic,2877_aufseufzen,uf-swogjan,ufswogjan,u ɸ s w o ɣ j a n,,557564,,,^ ufswogjan $,default
+Gothic-2878_swria-1,2876,Gothic,2878_swria,Swria*,Swria,s w r ɪ a,,557564,,,^ Swria $,default
 Gothic-2879_demtodenahe-1,2877,Gothic,2879_demtodenahe,swultawairþja,swultawairþja,s w u l t a w ɛ r θ j a,,557564,,,^ swultawairþja $,default
 Gothic-3109_teich-1,2878,Gothic,3109_teich,swumfsl,swumfsl,s w u m ɸ s l̥,,557564,,,^ swumfsl $,default
 Gothic-2881_haar-1,2879,Gothic,2881_haar,tagl,tagl,t a ɣ l̥,,557564,,,^ tagl $,default
@@ -2856,15 +2985,18 @@ Gothic-2984_twai-1,2982,Gothic,2984_twai,twai,twai,t w ɛ,,557564,,,^ twai $,def
 Gothic-2985_zwolfjahrig-1,2983,Gothic,2985_zwolfjahrig,twalibwintrus,twalibwintrus,t w a l ɪ β w ɪ n t r u s,,557564,,,^ twalibwintrus $,default
 Gothic-2986_zwolf-1,2984,Gothic,2986_zwolf,twalif,twalif,t w a l ɪ ɸ,,557564,,,^ twalif $,default
 Gothic-2987_daszweifeln-1,2985,Gothic,2987_daszweifeln,tweifleins,tweifleins,t w i ɸ l i n s,,557564,,,^ tweifleins $,default
+Gothic-2988_zweifelnozweifelerregen-1,2986,Gothic,2988_zweifelnozweifelerregen,tweifljan,tweifljan,t w i ɸ l j a n,,557564,,,^ tweifljan $,default
 Gothic-2989_zweifel-1,2987,Gothic,2989_zweifel,tweifl,tweifl,t w i ɸ l̥,,557564,,,^ tweifl $,default
 Gothic-2990_zwischenbeidengrenzen-1,2988,Gothic,2990_zwischenbeidengrenzen,tweihnai,tweihnai,t w i h n ɛ,,557564,,,^ tweihnai $,default
 Gothic-2991_zwistigkeit-1,2989,Gothic,2991_zwistigkeit,twisstass,twisstass,t w ɪ sː t a sː,,557564,,,^ twisstass $,default
 Gothic-2992_twkeikus-1,2990,Gothic,2992_twkeikus,Twkeikus,Twkeikus,t w k i k u s,,557564,,,^ Twkeikus $,default
+Gothic-2993_twra-1,2991,Gothic,2993_twra,Twra*,Twra,t w r a,,557564,,,^ Twra $,default
 Gothic-2994_addaius-1,2992,Gothic,2994_addaius,Þaddaius,Þaddaius,θ a dː ɛ u s,,557564,,,^ Þaddaius $,default
 Gothic-2995_wohin-1,2993,Gothic,2995_wohin,þadei,þadei,θ a ð i,,557564,,,^ þadei $,default
 Gothic-2996_dank-1,2994,Gothic,2996_dank,þagk*,þagk,θ a ŋ k,,557564,,,^ þagk $,default
 Gothic-2997_denkenuberlegen-1,2995,Gothic,2997_denkenuberlegen,þagkjan,þagkjan,θ a ŋ k j a n,,557564,,,^ þagkjan $,default
 Gothic-2998_mirfallteinwasichtunsoll-1,2996,Gothic,2998_mirfallteinwasichtunsoll,and-þagkjan,andþagkjan,a n d θ a ŋ k j a n,,557564,,,^ andþagkjan $,default
+Gothic-2999_etwbedenken-1,2997,Gothic,2999_etwbedenken,bi-þagkjan,biþagkjan,b ɪ θ a ŋ k j a n,,557564,,,^ biþagkjan $,default
 Gothic-3000_dasschweigen-1,2998,Gothic,3000_dasschweigen,þahains,þahains,θ a h ɛ n s,,557564,,,^ þahains $,default
 Gothic-3001_schweigen-2,2999,Gothic,3001_schweigen,þahan,þahan,θ a h a n,,557564,,,^ þahan $,default
 Gothic-3002_verstummen-5,3000,Gothic,3002_verstummen,ga-þahan,gaþahan,ɡ a θ a h a n,,557564,,,^ gaþahan $,default
@@ -2898,6 +3030,7 @@ Gothic-3029_daseine-1,3027,Gothic,3029_daseine,þatain,þatain,θ a t ɛ n,,5575
 Gothic-3030_nur-1,3028,Gothic,3030_nur,þatainei,þatainei,θ a t ɛ n i,,557564,,,^ þatainei $,default
 Gothic-3031_da-1,3029,Gothic,3031_da,þatei,þatei,θ a t i,,557564,,,^ þatei $,default
 Gothic-3032_dasistnamlich-1,3030,Gothic,3032_dasistnamlich,þat-ist,þatist,θ a t ɪ s t,,557564,,,^ þatist $,default
+Gothic-3033_derukeinandrerebender-1,3031,Gothic,3033_derukeinandrerebender,þatuh,þatuh,θ a t u h,,557564,,,^ þatuh $,default
 Gothic-3034_dahervonda-1,3032,Gothic,3034_dahervonda,þaþro,þaþro,θ a θ r o,,557564,,,^ þaþro $,default
 Gothic-3035_vonwannen-1,3033,Gothic,3035_vonwannen,þaþroei,þaþroei,θ a θ r o i,,557564,,,^ þaþroei $,default
 Gothic-3036_vondadaher-1,3034,Gothic,3036_vondadaher,þaþroh,þaþroh,θ a θ r o h,,557564,,,^ þaþroh $,default
@@ -2994,6 +3127,7 @@ Gothic-3126_tausend-1,3124,Gothic,3126_tausend,þūsundi,þusundi,θ u s u n d �
 Gothic-3127_anfuhrervontausend-1,3125,Gothic,3127_anfuhrervontausend,þusundifaþs,þusundifaþs,θ u s u n d ɪ ɸ a θ s,,557564,,,^ þusundifaþs $,default
 Gothic-3128_trompete-1,3126,Gothic,3128_trompete,þuthaurn,þuthaurn,θ u t h ɔ r n̥,,557564,,,^ þuthaurn $,default
 Gothic-3129_trompeten-1,3127,Gothic,3129_trompeten,þuthaurnjan,þuthaurnjan,θ u t h ɔ r n j a n,,557564,,,^ þuthaurnjan $,default
+Gothic-3130_etwwaschen-1,3128,Gothic,3130_etwwaschen,þwahan,þwahan,θ w a h a n,,557564,,,^ þwahan $,default
 Gothic-3132_sichabwaschen-1,3129,Gothic,3132_sichabwaschen,af-þwahan,afþwahan,a ɸ θ w a h a n,,557564,,,^ afþwahan $,default
 Gothic-3132_sichabwaschen-2,3130,Gothic,3132_sichabwaschen,bi-þwahan,biþwahan,b ɪ θ w a h a n,,557564,,,^ biþwahan $,default
 Gothic-3133_etwasauswaschenabwaschen-1,3131,Gothic,3133_etwasauswaschenabwaschen,us-þwahan,usþwahan,u s θ w a h a n,,557564,,,^ usþwahan $,default
@@ -3109,6 +3243,7 @@ Gothic-3242_ohneopferunversohnlich-1,3240,Gothic,3242_ohneopferunversohnlich,unh
 Gothic-3243_unausloschlich-1,3241,Gothic,3243_unausloschlich,unƕapnands,unƕapnands,u n ʍ a p n a n d s,,557564,,,^ unƕapnands $,default
 Gothic-3244_unablassig-1,3242,Gothic,3244_unablassig,unƕeila,unƕeila,u n ʍ i l a,,557564,,,^ unƕeila $,default
 Gothic-3245_sorglos-1,3243,Gothic,3245_sorglos,unkarja,unkarja,u n k a r j a,,557564,,,^ unkarja $,default
+Gothic-3246_unkaureins-1,3244,Gothic,3246_unkaureins,unkaureins*,unkaureins,u n k ɔ r i n s,,557564,,,^ unkaureins $,default
 Gothic-3247_unze-1,3245,Gothic,3247_unze,unkja,unkja,u n k j a,,557564,,,^ unkja $,default
 Gothic-3248_nichtkennendunwissend-1,3246,Gothic,3248_nichtkennendunwissend,unkunnands,unkunnands,u n k u nː a n d s,,557564,,,^ unkunnands $,default
 Gothic-3249_unkunde-1,3247,Gothic,3249_unkunde,unkunþi,unkunþi,u n k u n θ ɪ,,557564,,,^ unkunþi $,default
@@ -3130,6 +3265,7 @@ Gothic-3264_unbeweibt-1,3262,Gothic,3264_unbeweibt,unqeniþs*,unqeniþs,u n kʷ 
 Gothic-3265_unaussprechlich-1,3263,Gothic,3265_unaussprechlich,unqeþs*,unqeþs,u n kʷ e θ s,,557564,,,^ unqeþs $,default
 Gothic-3266_unverganglichkeit-1,3264,Gothic,3266_unverganglichkeit,unriurei,unriurei,u n r ɪ u r i,,557564,,,^ unriurei $,default
 Gothic-3267_unverganglich-1,3265,Gothic,3267_unverganglich,unriureis*,unriureis,u n r ɪ u r i s,,557564,,,^ unriureis $,default
+Gothic-3268_unriurs-1,3266,Gothic,3268_unriurs,unriurs*,unriurs,u n r ɪ u r s,,557564,,,^ unriurs $,default
 Gothic-3269_nichtredendstumm-1,3267,Gothic,3269_nichtredendstumm,unrodjands,unrodjands,u n r o ð j a n d s,,557564,,,^ unrodjands $,default
 Gothic-3270_unbestritten-1,3268,Gothic,3270_unbestritten,[unsahtaba],unsahtaba,u n s a h t a β a,,557564,,,^ unsahtaba $,default
 Gothic-3271_nichtsehend-1,3269,Gothic,3271_nichtsehend,unsaiƕands,unsaiƕands,u n s ɛ ʍ a n d s,,557564,,,^ unsaiƕands $,default
@@ -3269,6 +3405,7 @@ Gothic-3404_mannlich-1,3402,Gothic,3404_mannlich,wairaleiko,wairaleiko,w ɛ r a 
 Gothic-3405_gastfreundhauswirt-1,3403,Gothic,3405_gastfreundhauswirt,wairdus,wairdus,w ɛ r d u s,,557564,,,^ wairdus $,default
 Gothic-3406_lippe-1,3404,Gothic,3406_lippe,wairilom,wairilom,w ɛ r ɪ l o m,,557564,,,^ wairilom $,default
 Gothic-3407_werfen-1,3405,Gothic,3407_werfen,wairpan,wairpan,w ɛ r p a n,,557564,,,^ wairpan $,default
+Gothic-3408_etwwegwerfen-1,3406,Gothic,3408_etwwegwerfen,af-wairpan,afwairpan,a ɸ w ɛ r p a n,,557564,,,^ afwairpan $,default
 Gothic-3411_hinwerfen-1,3407,Gothic,3411_hinwerfen,at-wairpan,atwairpan,a t w ɛ r p a n,,557564,,,^ atwairpan $,default
 Gothic-3410_verwerfenzerstreuen-1,3408,Gothic,3410_verwerfenzerstreuen,fra-wairpan,frawairpan,ɸ r a w ɛ r p a n,,557564,,,^ frawairpan $,default
 Gothic-3411_hinwerfen-2,3409,Gothic,3411_hinwerfen,ga-wairpan,gawairpan,ɡ a w ɛ r p a n,,557564,,,^ gawairpan $,default
@@ -3284,6 +3421,7 @@ Gothic-3420_versohnenmit-2,3418,Gothic,3420_versohnenmit,ga-gáwairþjan,gagawai
 Gothic-3421_sichversohnenmit-1,3419,Gothic,3421_sichversohnenmit,ga-gáwairþnan,gagawairþnan,ɡ a ɣ a w ɛ r θ n a n,,557564,,,^ gagawairþnan $,default
 Gothic-3422_schatzen-1,3420,Gothic,3422_schatzen,wairþon,wairþon,w ɛ r θ o n,,557564,,,^ wairþon $,default
 Gothic-3423_wertwurdigtauglich-1,3421,Gothic,3423_wertwurdigtauglich,wairþs,wairþs,w ɛ r θ s,,557564,,,^ wairþs $,default
+Gothic-3424_aufetwsehnachtgebenesbewachenhutenetwhalten-1,3422,Gothic,3424_aufetwsehnachtgebenesbewachenhutenetwhalten,wait,wait,w ɛ t,,557564,,,^ wait $,default
 Gothic-3425_vielleichtetwa-1,3423,Gothic,3425_vielleichtetwa,waitei,waitei,w ɛ t i,,557564,,,^ waitei $,default
 Gothic-3426_schlechterruf-1,3424,Gothic,3426_schlechterruf,wajamerei,wajamerei,w a j a m e r i,,557564,,,^ wajamerei $,default
 Gothic-3427_lasterung-3,3425,Gothic,3427_lasterung,wajamereins,wajamereins,w a j a m e r i n s,,557564,,,^ wajamereins $,default
@@ -3298,6 +3436,7 @@ Gothic-3435_echtlauter-1,3433,Gothic,3435_echtlauter,walisa,walisa,w a l ɪ s a,
 Gothic-3436_wahlen-1,3434,Gothic,3436_wahlen,waljan,waljan,w a l j a n,,557564,,,^ waljan $,default
 Gothic-3437_erwahlen-1,3435,Gothic,3437_erwahlen,ga-waljan,gawaljan,ɡ a w a l j a n,,557564,,,^ gawaljan $,default
 Gothic-3442_sichwalzen-1,3436,Gothic,3442_sichwalzen,waltjan,waltjan,w a l t j a n,,557564,,,^ waltjan $,default
+Gothic-3439_etwumwalzenumsturzen-1,3437,Gothic,3439_etwumwalzenumsturzen,us-waltjan,uswaltjan,u s w a l t j a n,,557564,,,^ uswaltjan $,default
 Gothic-3440_hinundherwalzen-1,3438,Gothic,3440_hinundherwalzen,us-walugjan,uswalugjan,u s w a l u ɣ j a n,,557564,,,^ uswalugjan $,default
 Gothic-3441_stab-1,3439,Gothic,3441_stab,walus,walus,w a l u s,,557564,,,^ walus $,default
 Gothic-3442_sichwalzen-2,3440,Gothic,3442_sichwalzen,walwison,walwison,w a l w ɪ s o n,,557564,,,^ walwison $,default
@@ -3339,6 +3478,7 @@ Gothic-3477_widersprechen-1,3475,Gothic,3477_widersprechen,and-waurdjan,andwaurd
 Gothic-3478_vielwortemachen-1,3476,Gothic,3478_vielwortemachen,filu-waurdjan,filuwaurdjan,ɸ ɪ l u w ɔ r d j a n,,557564,,,^ filuwaurdjan $,default
 Gothic-3517_schmahn-2,3477,Gothic,3517_schmahn,ubil-waurdjan,ubilwaurdjan,u β ɪ l w ɔ r d j a n,,557564,,,^ ubilwaurdjan $,default
 Gothic-3480_machenwirken-1,3478,Gothic,3480_machenwirken,waurkjan,waurkjan,w ɔ r k j a n,,557564,,,^ waurkjan $,default
+Gothic-3481_etwerwirken-1,3479,Gothic,3481_etwerwirken,fair-waurkjan,fairwaurkjan,ɸ ɛ r w ɔ r k j a n,,557564,,,^ fairwaurkjan $,default
 Gothic-3482_einesundebegehen-1,3480,Gothic,3482_einesundebegehen,fra-waurkjan,frawaurkjan,ɸ r a w ɔ r k j a n,,557564,,,^ frawaurkjan $,default
 Gothic-3483_bewirkenerwirkenbereiten-1,3481,Gothic,3483_bewirkenerwirkenbereiten,ga-waurkjan,gawaurkjan,ɡ a w ɔ r k j a n,,557564,,,^ gawaurkjan $,default
 Gothic-3484_ausfuhrenvollbringen-1,3482,Gothic,3484_ausfuhrenvollbringen,us-waurkjan,uswaurkjan,u s w ɔ r k j a n,,557564,,,^ uswaurkjan $,default
@@ -3439,6 +3579,7 @@ Gothic-3578_wesennatur-1,3576,Gothic,3578_wesennatur,wists,wists,w ɪ s t s,,557
 Gothic-3579_wit-1,3577,Gothic,3579_wit,wit,wit,w ɪ t,,557564,,,^ wit $,default
 Gothic-3580_wissen-1,3578,Gothic,3580_wissen,witan,witan,w ɪ t a n,,557564,,,^ witan $,default
 Gothic-3581_ichbinmirnichtsbewut-1,3579,Gothic,3581_ichbinmirnichtsbewut,miþ-witan,miþwitan,m ɪ θ w ɪ t a n,,557564,,,^ miþwitan $,default
+Gothic-3582_aufetwsehnachtgebenesbewachenhutenetwhalten-1,3580,Gothic,3582_aufetwsehnachtgebenesbewachenhutenetwhalten,witan,witan,w ɪ t a n,,557564,,,^ witan $,default
 Gothic-3583_gesetzeskundiger-1,3581,Gothic,3583_gesetzeskundiger,witodafasteis,witodafasteis,w ɪ t o ð a ɸ a s t i s,,557564,,,^ witodafasteis $,default
 Gothic-3584_gesetzeslehrer-1,3582,Gothic,3584_gesetzeslehrer,witodalaisareis,witodalaisareis,w ɪ t o ð a l ɛ s a r i s,,557564,,,^ witodalaisareis $,default
 Gothic-3585_gesetzlos-1,3583,Gothic,3585_gesetzlos,witodalaus,witodalaus,w ɪ t o ð a l ɔ s,,557564,,,^ witodalaus $,default
