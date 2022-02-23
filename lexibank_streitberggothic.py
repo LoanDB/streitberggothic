@@ -87,7 +87,7 @@ class Dataset(BaseDataset):
                         Source="557564")
                 except:
                     pass
-            #args.log.info("added forms")
+
         with self.cldf_writer(args, cldf_spec="dictionary", clean=False) as writer:
 
             # we use the same language table for the data
@@ -112,6 +112,7 @@ class Dataset(BaseDataset):
                         "Entry_ID": fidx
                         })
             for fidx, row in idxs.items():
+
                 writer.objects["EntryTable"].append({
                     "ID": fidx,
                     "Language_ID": "Gothic",
