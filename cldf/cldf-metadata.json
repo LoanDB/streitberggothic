@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/streitberggothic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-14-gf0f0022",
+            "dc:created": "v1.0-17-g8b428c2",
             "dc:title": "Repository"
         },
         {

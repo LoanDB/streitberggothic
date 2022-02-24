@@ -59,7 +59,7 @@ class Dataset(BaseDataset):
                 writer.add_concept(
                         ID=idx,
                         Name=concept["sense"],
-                        POS=concept["pos"],
+                        POS = concept["pos"]
                         )
                 concepts[concept["sense"], concept["pos"]] = idx
             args.log.info("added concepts")
@@ -98,14 +98,14 @@ class Dataset(BaseDataset):
                 if row["sense"].strip():
                     fidx = str(idx+1)+"-"+slug(row["form"])
                     idxs[fidx] = row
-                    for sense in row["sense"].split(","):
+                    for sense in re.split("[,;]", row["sense"]):
                         if row["form"].strip() and sense.strip():
-                            senses[slug(sense.strip(), lowercase=False)] += [fidx]
+                            senses[slug(sense.strip(), lowercase=False)] += [(fidx, sense)]
             for sense, values in senses.items():
-                for i, fidx in enumerate(values):
+                for i, (fidx, sense_desc) in enumerate(values):
                     writer.objects["SenseTable"].append({
                         "ID": sense+"-"+str(i+1),
-                        "Description": sense,
+                        "Description": sense_desc,
                         "Entry_ID": fidx
                         })
             for fidx, row in idxs.items():
@@ -120,7 +120,7 @@ class Dataset(BaseDataset):
             #for idx, row in enumerate(self.raw_dir.read_csv(
             #    "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)):
             #    entry_id = "{0}-{1}".format(idx+1, slug(row["form"]))
-            #    sense_id = "{0}-{1}".format(idx+1, slug(row["sense"]))
+            #    sense_id = "{0}-{1}".format(idx+1, slug(row["SENSE"]))
             #    writer.objects["EntryTable"].append({
             #        "ID": entry_id,
             #        "Language_ID": "Gothic",
@@ -129,6 +129,6 @@ class Dataset(BaseDataset):
             #        })
             #    writer.objects["SenseTable"].append({
             #        "ID": sense_id,
-            #        "Description": row["sense"],
+            #        "Description": row["SENSE"],
             #        "Entry_ID": entry_id
             #        })
