@@ -112,7 +112,7 @@ class Dataset(BaseDataset):
                     "ID": fidx,
                     "Language_ID": "Gothic",
                     "Headword": row["form"],
-                    "Part_of_Speech": row["pos"]
+                    "Part_Of_Speech": row["pos"]
                     })
 
             #for idx, row in enumerate(self.raw_dir.read_csv(

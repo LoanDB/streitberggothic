@@ -29,11 +29,11 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 1
 - **Concepts:** 496
-- **Lexemes:** 788
+- **Lexemes:** 659
 - **Sources:** 1
-- **Synonymy:** 1.59
+- **Synonymy:** 1.33
 - **Invalid lexemes:** 0
-- **Tokens:** 4,551
+- **Tokens:** 3,725
 - **Segments:** 44 (0 BIPA errors, 0 CTLS sound class errors, 44 CLTS modified)
 - **Inventory size (avg):** 44.00
 

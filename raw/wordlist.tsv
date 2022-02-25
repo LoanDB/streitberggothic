@@ -26,13 +26,7 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 36	2915	AT FIRST	frumist	zuerst	zuerst	zuerst-1
 52	972	BE ABLE	magan*	können;  vermögen	können	konnen-1
 53	1422	BE ALIVE	liban	leben	leben	leben-1
-54	1422	BE ALIVE	us-mitan	wandeln;  leben;  sich benehmen	leben	leben-2
-55	1422	BE ALIVE	qius*	lebendig	lebendig	lebendig-1
 56	2223	BE ANGRY	hatizon	zürnen	zürnen	zurnen-1
-57	2223	BE ANGRY	un-werjan	zürnen; unwillig sein	zürnen	zurnen-2
-58	2223	BE ANGRY	woþs*	wütend;  besessen	wütend	wutend-1
-60	1533	BE HUNGRY	gredags	hungrig	hungrig	hungrig-1
-61	1533	BE HUNGRY	gredon	hungern	hungern	hungern-1
 62	1533	BE HUNGRY	huggrjan	hungern	hungern	hungern-2
 67	1990	BECOME	wairþan	werden	werden	werden-1
 69	1663	BED	badi	Bett	Bett	Bett-1
@@ -43,9 +37,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 74	1686	BEHIND	hindana	hinter;  jenseits	hinter	hinter-1
 75	1686	BEHIND	hindar	hinter;  jenseits	hinter	hinter-2
 76	1890	BELIEVE	ga-laubjan	glauben	glauben	glauben-1
-77	1890	BELIEVE	man	meinen;  glauben;  dafür halten	glauben	glauben-2
-78	1890	BELIEVE	munan	meinen;  glauben;  dafür halten; etw. zu tun gedenken;  wollen	glauben	glauben-3
-79	1890	BELIEVE	þugkjan	meinen; glauben;  gelten	glauben	glauben-4
 80	1251	BELLY	wamba	Schoß; Bauch	Bauch	Bauch-1
 85	1485	BELOW OR UNDER	undaro	unter	unter	unter-5
 86	772	BELT	gairda	Gürtel	Gürtel	Gurtel-1
@@ -71,42 +62,30 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 127	2558	BREAK (CLEAVE)	ga-kroton	zerbrechen;  zerschellen	zerbrechen	zerbrechen-2
 128	680	BREAK (DESTROY OR GET DESTROYED)	brikan	brechen;  zerstören	brechen	brechen-1
 130	1402	BREAST	barms	Busen;  Schoß	Busen	Busen-1
-134	679	BRIGHT	bairhts	hell;  offenbar	hell	hell-1
 135	679	BRIGHT	liuhadeins*	hell	hell	hell-2
-136	692	BRING	at-bairan	bringen	bringen	bringen-1
 137	692	BRING	briggan	bringen	bringen	bringen-2
 139	1262	BROTHER	broþar	Bruder	Bruder	Bruder-1
-142	1840	BUILD	timbrjan	bauen	bauen	bauen-1
 143	1840	BUILD	timrjan	bauen	bauen	bauen-2
 144	1008	BULL	stiur	Stier;  Kalb	Stier	Stier-1
 146	141	BURN (SOMETHING)	ga-brannjan	verbrennen	verbrennen	verbrennen-1
-147	141	BURN (SOMETHING)	uf-brinnan	verbrennen	verbrennen	verbrennen-2
-148	141	BURN (SOMETHING)	in-tandjan	verbrennen; in Brand setzen	verbrennen	verbrennen-3
-149	141	BURN (SOMETHING)	in-tundnan	verbrennen	verbrennen	verbrennen-4
 150	1428	BURNING	brinnan	brennen	brennen	brennen-1
-151	1428	BURNING	tundnan	brennen	brennen	brennen-2
 152	2931	BUSINESS	gawaurki	Erwerb; Geschäft;  Gewinn	Geschäft	Geschaft-1
 156	1869	BUY	bugjan	kaufen	kaufen	kaufen-1
 157	2867	CALCULATE	rahnjan	rechnen	rechnen	rechnen-1
 158	1084	CALL	hropjan	rufen	rufen	rufen-1
 159	1084	CALL	wopjan	rufen	rufen	rufen-2
 160	2944	CALL (APPEAL)	hrops	Ruf;  Geschrei	Ruf	Ruf-1
-161	180	CALL BY NAME	haitan	heißen;  nennen	nennen	nennen-1
 162	180	CALL BY NAME	namnjan	nennen	nennen	nennen-2
-163	180	CALL BY NAME	ga-namnjan	benennen	benennen	benennen-1
 168	700	CARRY	bairan	tragen	tragen	tragen-1
 169	700	CARRY	†dragan	tragen	tragen	tragen-2
 171	702	CATCH	fāhan	fangen;  greifen	fangen	fangen-1
 172	702	CATCH	niman	fangen; nehmen;  annehmen;  aufnehmen;  empfangen	fangen	fangen-2
 173	2896	CAUSE TO (LET)	leitan	lassen	lassen	lassen-1
 174	2896	CAUSE TO (LET)	letan	lassen	lassen	lassen-2
-176	1155	CAVE	filegri	Höhle	Höhle	Hohle-1
 177	1155	CAVE	filigri*	Höhle	Höhle	Hohle-2
 178	1155	CAVE	groba	Grube;  Höhle	Höhle	Hohle-3
-179	1155	CAVE	hulundi	Höhle	Höhle	Hohle-4
 180	1928	CEASE	ƕeilan	aufhören	aufhören	aufhoren-1
 181	1928	CEASE	ga-ƕeilan	aufhören; zur Ruhe kommen	aufhören	aufhoren-2
-182	1928	CEASE	†ga-nanþjan	aufhören	aufhören	aufhoren-3
 183	1476	CHAIR	stols	Stuhl;  Thron	Stuhl	Stuhl-1
 186	1024	CHARACTER	boka	Buchstabe	Buchstabe	Buchstabe-1
 189	1730	CHEEK	kinnus	Wange	Wange	Wange-1
@@ -123,13 +102,8 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 211	2658	COAL	hauri	Kohle	Kohle	Kohle-1
 213	1287	COLD	kalds	kalt	kalt	kalt-1
 220	1446	COME	ana-gaggan	kommen	kommen	kommen-1
-221	1446	COME	at-gaggan	kommen; hinzugehen	kommen	kommen-2
-222	1446	COME	ga-leiþan	kommen;  gehn	kommen	kommen-3
 223	1446	COME	qiman	kommen	kommen	kommen-4
-224	1446	COME	ga-sniumjan	kommen; hineilen	kommen	kommen-5
-225	1446	COME	qums	Gegenwart; das Kommen;  Ankunft;  Wiederkunft Christi	das Kommen	dasKommen-1
 227	3455	COMMEND	hazjan	loben;  preisen wegen	loben	loben-1
-229	2862	CONNECT	ga-gáhaftjan	zusammenheften;  verbinden	verbinden	verbinden-1
 230	2862	CONNECT	faur-waipjan	verbinden	verbinden	verbinden-2
 231	2862	CONNECT	ga-widan	verbinden; zusammenbinden	verbinden	verbinden-3
 232	2933	CONVERSATION	gawaurdi	Gespräch	Gespräch	Gesprach-1
@@ -139,14 +113,11 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 241	1300	COUNTRY	land	Land;  Gegend	Land	Land-2
 246	3215	CREEP	sliupan	schleichen;  schlüpfen	schleichen	schleichen-1
 247	1367	CROSS	galga	Pfahl;  Kreuz	Kreuz	Kreuz-1
-249	1839	CRY	gretan	klagen; weinen	weinen	weinen-1
 250	1839	CRY	qainon	weinen;  trauern	weinen	weinen-2
 251	1839	CRY	tagrjan	weinen	weinen	weinen-3
-252	1839	CRY	grets	das Weinen	das Weinen	dasWeinen-1
 254	476	CUP	stikls	Becher;  Kelch	Becher	Becher-1
 256	1432	CUT	sneiþan	schneiden;  ernten	schneiden	schneiden-1
 257	1116	DAMAGE	ga-sleiþjan	beschädigen	beschädigen	beschadigen-1
-258	2947	DAMAGE (INJURY)	skaþis	Schaden;  Unrecht	Schaden	Schaden-1
 259	2947	DAMAGE (INJURY)	sleiþa	Schaden	Schaden	Schaden-2
 260	2947	DAMAGE (INJURY)	skaþjan	schaden	schaden	schaden-1
 262	1879	DANCE	plinsjan	tanzen	tanzen	tanzen-1
@@ -165,18 +136,12 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 280	1824	DEXTEROUS	fagrs*	geschickt;  geeignet	geschickt	geschickt-1
 281	1494	DIE	ga-dauþnan	sterben	sterben	sterben-1
 282	1494	DIE	diwan	sterben	sterben	sterben-2
-283	1494	DIE	ga-swiltan	sterben	sterben	sterben-3
 284	2865	DIE (FROM ACCIDENT)	fra-qistnan	umkommen;  zugrunde gehn	umkommen	umkommen-1
 285	2504	DIFFERENT	aljaleiko	anders	anders	anders-1
-286	2504	DIFFERENT	aljaleikos	anders	anders	anders-2
-287	2504	DIFFERENT	andizuh	anders;  sonst	anders	anders-3
-288	2504	DIFFERENT	anþarleiko	anders	anders	anders-4
 289	2504	DIFFERENT	missaleiks	verschieden	verschieden	verschieden-1
 290	1418	DIG	graban	graben	graben	graben-1
 295	1986	DISEASE	sauhts*	Krankheit	Krankheit	Krankheit-1
 296	1986	DISEASE	siukei	Krankheit	Krankheit	Krankheit-2
-297	1986	DISEASE	unhaili	Krankheit; Schwäche	Krankheit	Krankheit-3
-298	1986	DISEASE	unmahts	Krankheit;  Schwäche; Ohnmacht	Krankheit	Krankheit-4
 299	481	DISH	mats	Speise	Speise	Speise-1
 303	1119	DIVIDE	dailjan	teilen;  zuteilen;  mitteilen	teilen	teilen-1
 304	813	DO	taujan	tun;  machen	tun	tun-1
@@ -188,17 +153,14 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 311	1326	DOWN	dalaþ	zu Tal;  abwärts;  nieder;  auf die Erde	abwärts	abwarts-1
 316	1401	DRINK	ga-drigkan	trinken	trinken	trinken-1
 317	741	DRIVE	farjan	fahren	fahren	fahren-1
-318	2868	DRIVE (CATTLE)	draibjan	treiben;  plagen	treiben	treiben-1
 319	2868	DRIVE (CATTLE)	dreiban	treiben	treiben	treiben-2
 325	2	DUST	mulda	Staub	Staub	Staub-1
 326	2	DUST	stubjus	Staub	Staub	Staub-2
 327	363	DWELL (LIVE, RESIDE)	bauan	wohnen;  bewohnen	wohnen	wohnen-1
-328	363	DWELL (LIVE, RESIDE)	wisan	bleiben; sein; sich freuen;  dasein;  existieren;  schwelgen;  schmausen; weilen	weilen	weilen-1
 331	1247	EAR	auso	Ohr	Ohr	Ohr-1
 332	1228	EARTH (SOIL)	airþa	Erde;  Land	Erde	Erde-1
 334	1336	EAT	itan	essen	essen	essen-1
 335	1336	EAT	matjan	essen	essen	essen-2
-336	1336	EAT	ga-matjan	essen	essen	essen-3
 339	1705	EIGHT	ahtau	acht	acht	acht-1
 340	1722	EIGHTY	ahtautehund	achtzig	achtzig	achtzig-1
 343	1706	ELEVEN	ainlif*	elf	elf	elf-1
@@ -210,7 +172,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 354	1358	ENEMY	fijands	Feind	Feind	Feind-1
 357	1629	EVENING	andanahti	Abend	Abend	Abend-1
 359	45	EVIL	ubils	übel;  böse	böse	bose-1
-360	45	EVIL	unsels	übel;  böse	böse	bose-2
 361	45	EVIL	unþiuþ	das Böse	das Böse	dasBose-1
 363	1248	EYE	augo	Auge	Auge	Auge-1
 364	1560	FACE	andaugi	Antlitz	Antlitz	Antlitz-1
@@ -220,7 +181,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 374	1406	FAR	fairra	fern	fern	fern-1
 376	323	FAT (ORGANIC SUBSTANCE)	smairþr*	Fett	Fett	Fett-1
 377	1217	FATHER	abba	Vater	Vater	Vater-1
-378	1217	FATHER	atta	Vater	Vater	Vater-2
 379	1217	FATHER	fadar	Vater	Vater	Vater-3
 380	134	FAULT	dulgis	Schuld	Schuld	Schuld-1
 381	134	FAULT	fairina	Schuld;  Grund;  Vorwurf	Schuld	Schuld-2
@@ -239,7 +199,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 405	493	FIVE	fimf	fünf	fünf	funf-1
 406	1633	FLAT	ibns	eben;  flach	flach	flach-1
 408	2939	FLOCK (OF ANIMALS)	hairda	Herde	Herde	Herde-1
-409	2939	FLOCK (OF ANIMALS)	[wreþus]	Herde	Herde	Herde-2
 410	2939	FLOCK (OF ANIMALS)	wriþus	Herde	Herde	Herde-3
 413	239	FLOWER	bloma*	Blume	Blume	Blume-1
 416	1768	FOAM	ƕaþo	Schaum	Schaum	Schaum-1
@@ -258,9 +217,7 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 447	2940	GATE	daurons	Tor;  Tür	Tor	Tor-2
 448	7	GATHER	huhjan	häufen;  sammeln	sammeln	sammeln-1
 449	7	GATHER	lisan	sammeln; lesen	sammeln	sammeln-2
-451	694	GET	andanem	das Empfangen	das Empfangen	dasEmpfangen-1
 452	694	GET	niman	fangen; nehmen;  annehmen;  aufnehmen;  empfangen	empfangen	empfangen-1
-453	694	GET	and-niman	annehmen;  aufnehmen;  empfangen	empfangen	empfangen-2
 454	694	GET	ga-staldan	erwerben;  bekommen	bekommen	bekommen-1
 456	2982	GIFT	giba	Gabe;  Geschenk	Geschenk	Geschenk-1
 457	2982	GIFT	maiþms	Geschenk	Geschenk	Geschenk-2
@@ -269,8 +226,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 460	1447	GIVE	giban	geben	geben	geben-1
 464	1369	GOLD	gulþ	Gold	Gold	Gold-1
 465	1035	GOOD	goþs	gut	gut	gut-1
-466	1035	GOOD	sels	gut;  gütig	gut	gut-2
-467	1035	GOOD	þiuþeigs	gut;  gepriesen	gut	gut-3
 468	1035	GOOD	wáila	wohl;  gut	gut	gut-4
 471	605	GRAIN	kaurn	Getreide	Getreide	Getreide-1
 472	605	GRAIN	kaurno	Korn	Korn	Korn-1
@@ -279,9 +234,7 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 477	1773	GRAVE	hlaiw	Grab	Grab	Grab-1
 480	1668	GRIEF	kara	Sorge	Sorge	Sorge-1
 481	1668	GRIEF	saurga	Sorge;  Kummer	Sorge	Sorge-2
-482	1668	GRIEF	saurga	Sorge;  Kummer	Kummer	Kummer-1
 485	479	GROW	alan	wachsen	wachsen	wachsen-1
-486	479	GROW	liudan	wachsen	wachsen	wachsen-2
 487	479	GROW	wahsjan	wachsen	wachsen	wachsen-3
 488	1940	GUARD	fastan	halten;  festhalten;  beobachten;  bewachen	bewachen	bewachen-1
 489	1940	GUARD	wahtwom	Wache	Wache	Wache-1
@@ -304,8 +257,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 517	2985	HEIGHT	hauhei	Höhe	Höhe	Hohe-1
 518	2985	HEIGHT	hauhiþa	Höhe	Höhe	Hohe-2
 520	2885	HERD (SOMETHING)	haldan	hüten;  weiden	hüten	huten-1
-521	2885	HERD (SOMETHING)	wait	hüten; auf etw. sehn;  acht geben;  es bewachen;  etw. halten	hüten	huten-2
-522	2885	HERD (SOMETHING)	witan	hüten; wissen; auf etw. sehn;  acht geben;  es bewachen;  etw. halten	hüten	huten-3
 523	136	HERE	her	hier;  her	hier	hier-1
 524	602	HIDE (CONCEAL)	filhan	verbergen	verbergen	verbergen-1
 526	1265	HIGH	háuhs	hoch	hoch	hoch-1
@@ -316,11 +267,9 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 533	1448	HOLD	fastan	halten;  festhalten;  beobachten;  bewachen	halten	halten-1
 535	1667	HOLE	þairko	Loch;  Nadelöhr	Loch	Loch-1
 537	942	HONEY	miliþ	Honig	Honig	Honig-1
-542	1252	HOUSE	gards	Haus;  Hauswesen;  Familie	Haus	Haus-1
 543	1252	HOUSE	hrot	Haus; Dach	Haus	Haus-2
 544	1252	HOUSE	razn	Haus	Haus	Haus-3
 545	1239	HOW	ƕaiwa	wie	wie	wie-1
-546	1239	HOW	swaswe	wie; sowie;  gleichwie	wie	wie-2
 547	1239	HOW	swe	wie	wie	wie-3
 550	1634	HUNDRED	taihuntehund	Hundert	Hundert	Hundert-1
 551	1864	HUNGER	gredus	Hunger	Hunger	Hunger-1
@@ -344,16 +293,11 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 583	854	KETTLE	katile	Kessel	Kessel	Kessel-1
 584	1135	KICK	trudan	treten	treten	treten-1
 585	1417	KILL	dauþjan	töten	töten	toten-1
-586	1417	KILL	af-dauþjan	töten	töten	toten-2
-587	1417	KILL	ga-dauþjan	töten; Tod bringen	töten	toten-3
 588	1417	KILL	us-qiman	umbringen;  den Tod geben	umbringen	umbringen-1
-589	1417	KILL	fra-qistjan	umbringen; verderben	umbringen	umbringen-2
-590	1417	KILL	us-qistjan	umbringen; verderben	umbringen	umbringen-3
 592	1508	KING	þiudans	König	König	Konig-1
 594	1371	KNEE	kniu*	Knie	Knie	Knie-1
 599	1410	KNOW (SOMETHING)	kann	kennen;  wissen	wissen	wissen-1
 600	1410	KNOW (SOMETHING)	kunnan	kennen;  wissen	wissen	wissen-2
-601	1410	KNOW (SOMETHING)	witan	hüten; wissen; auf etw. sehn;  acht geben;  es bewachen;  etw. halten	wissen	wissen-3
 604	624	LAKE	marisaiws*	See	See	See-1
 605	624	LAKE	saiws	See	See	See-2
 606	1307	LANGUAGE	razda	Sprache;  Sprechweise	Sprache	Sprache-1
@@ -366,9 +310,7 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 614	43	LEAD (GUIDE)	tiuhan	ziehn;  führen	führen	fuhren-1
 615	628	LEAF	laufs	Laub;  Blatt	Blatt	Blatt-1
 619	1752	LEAVE	af-leiþan	weggehn;  entweichen;  verreisen	weggehn	weggehn-1
-620	1752	LEAVE	us-leiþan	hinausgehn;  weggehn;  verreisen	weggehn	weggehn-2
 621	1752	LEAVE	af-linnan	weggehn	weggehn	weggehn-3
-622	1752	LEAVE	bi-leiþan	verlassen;  zurücklassen	verlassen	verlassen-1
 625	2537	LENGTH	laggei	Länge	Länge	Lange-1
 626	1612	LETTER	aipistaule	Brief	Brief	Brief-1
 629	2826	LIE (FALSEHOOD)	galiug	Lüge	Lüge	Luge-1
@@ -391,7 +333,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 654	721	LOW	dalaþro	unten; von unten	unten	unten-2
 656	734	MAKE	taujan	tun;  machen	machen	machen-1
 657	734	MAKE	waurkjan	machen;  wirken	machen	machen-2
-659	1554	MAN	guma	Mann	Mann	Mann-1
 660	1554	MAN	wair	Mann	Mann	Mann-2
 661	1554	MAN	manna	manna; Mensch;  mann	mann	mann-1
 669	1506	MEASURE	mitan	messen	messen	messen-1
@@ -403,8 +344,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 680	635	MILK	miluks*	Milch	Milch	Milch-1
 681	1562	MIND	aha	Sinn;  Verstand	Verstand	Verstand-1
 682	1562	MIND	fraþi	Sinn; Verstand	Verstand	Verstand-2
-683	1562	MIND	frodei	Verstand; Klugheit	Verstand	Verstand-3
-684	1562	MIND	hugs*	Verstand; Landgut;  Feld	Verstand	Verstand-4
 685	1171	MIRROR	skuggwa	Spiegel	Spiegel	Spiegel-1
 689	1559	MONEY	skatts	Geld;  Geldstück;  Mine	Geld	Geld-1
 690	1370	MONTH	menoþs	Monat	Monat	Monat-1
@@ -420,7 +359,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 709	1267	NARROW	aggwus	eng	eng	eng-1
 711	1942	NEAR	neƕ	nahe	nahe	nahe-1
 712	1942	NEAR	neƕa	nahe	nahe	nahe-2
-713	1333	NECK	†balsagga	Hals;  Nacken	Hals	Hals-1
 714	1333	NECK	hals	Hals	Hals	Hals-2
 715	1333	NECK	[halsagga]	Hals;  Nacken	Hals	Hals-3
 716	1382	NEEDLE (FOR SEWING)	neþla	Nadel	Nadel	Nadel-1
@@ -433,16 +371,13 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 728	2604	NOOSE	hlamma	Schlinge	Schlinge	Schlinge-1
 729	2604	NOOSE	wruggo	Schlinge	Schlinge	Schlinge-2
 734	1240	NOT	nei	nicht	nicht	nicht-1
-735	1240	NOT	ni	nicht	nicht	nicht-2
 736	1240	NOT	nih	nicht; und nicht;  auch nicht	nicht	nicht-3
-737	1240	NOT	niu	nicht	nicht	nicht-4
 738	2893	NOTICE (SOMETHING)	gaumjan	bemerken	bemerken	bemerken-1
 739	2854	NOVEMBER	Naubaimbair	November	November	November-1
 740	1376	NOW	nu	nun;  jetzt	jetzt	jetzt-1
 743	3704	ODOR (SMELL)	dauns	Geruch	Geruch	Geruch-1
 744	2336	OF THIS KIND (SUCH)	swa	so	so	so-1
 745	2336	OF THIS KIND (SUCH)	swah	so	so	so-2
-746	2336	OF THIS KIND (SUCH)	swau	so	so	so-3
 747	1852	OFTEN	ufta	oft	oft	oft-1
 748	1484	OIL (ORGANIC SUBSTANCE)	alew*	Öl	Öl	Ol-1
 749	1484	OIL (ORGANIC SUBSTANCE)	alewja	Öl	Öl	Ol-2
@@ -452,22 +387,18 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 757	1580	ONLY	ƕeh	jedenfalls;  nur	nur	nur-1
 758	1580	ONLY	þatainei	nur	nur	nur-2
 759	1156	OPEN	us-lukan	erschließen;  öffnen	öffnen	offnen-1
-760	1156	OPEN	us-luknan	öffnen; sich erschließen	öffnen	offnen-2
 761	1156	OPEN	†uslukns	erschließen;  öffnen	öffnen	offnen-3
-762	3235	OPEN (STATE)	andaugiba	freimütig;  offen	offen	offen-1
 763	3235	OPEN (STATE)	andaugjo	offen	offen	offen-2
 764	3235	OPEN (STATE)	bairhtaba	offen	offen	offen-3
 765	1014	OR	aiþþau	oder	oder	oder-1
 766	197	OTHER	anþar	anderer;  zweiter	anderer	anderer-1
 768	684	OWN	haban	haben;  besitzen	besitzen	besitzen-1
-769	684	OWN	ana-haban	besitzen	besitzen	besitzen-2
 770	684	OWN	dis-niman	besitzen	besitzen	besitzen-3
 771	1783	PAIN	sáir	Schmerz	Schmerz	Schmerz-1
 775	505	PARENTS	berusjos	Eltern	Eltern	Eltern-1
 776	505	PARENTS	birusjos	Eltern	Eltern	Eltern-2
 777	779	PART	dails	Teil	Teil	Teil-1
 779	649	PASTURE	winja	Weide	Weide	Weide-1
-780	2252	PATH	gagg*	Straße; Weg	Weg	Weg-1
 781	2252	PATH	staiga	Weg; Steig	Weg	Weg-2
 782	2252	PATH	wigs	Weg	Weg	Weg-3
 786	718	PAY	us-giban	erstatten;  bezahlen	bezahlen	bezahlen-1
@@ -490,16 +421,12 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 818	3002	PRECIOUS	galaufs*	wertvoll	wertvoll	wertvoll-1
 819	3002	PRECIOUS	†galubaim	wertvoll	wertvoll	wertvoll-2
 821	1997	PRESERVE	bairgan	einen bergen;  bewahren	bewahren	bewahren-1
-822	1997	PRESERVE	ga-bairgan	einen bergen;  bewahren	bewahren	bewahren-2
 823	1997	PRESERVE	ga-fastan	bewahren; behalten	bewahren	bewahren-3
 824	1913	PRESS	kaurjan	drücken;  belästigen	drücken	drucken-1
 825	657	PRICE	andawairþi	Preis	Preis	Preis-1
-826	657	PRICE	hauheins	Preis;  Ehre	Preis	Preis-2
 827	657	PRICE	wairþ	Preis	Preis	Preis-3
-828	2886	PRODUCE	ga-botjan	verbessern;  herstellen	herstellen	herstellen-1
 829	2886	PRODUCE	ga-hailjan	herstellen	herstellen	herstellen-2
 830	2886	PRODUCE	ga-leikinon	herstellen	herstellen	herstellen-3
-831	2886	PRODUCE	ga-nasjan	herstellen; erretten	herstellen	herstellen-4
 836	1452	PUSH	stigqan	stoßen	stoßen	stoen-1
 838	658	RAIN (PRECIPITATION)	rign	Regen	Regen	Regen-1
 839	1253	RAIN (RAINING)	rignjan	regnen	regnen	regnen-1
@@ -511,21 +438,13 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 849	156	RED	rauþs*	rot	rot	rot-1
 850	987	REMAIN	bilaif	bleiben	bleiben	bleiben-1
 851	987	REMAIN	bi-leiban*	bleiben	bleiben	bleiben-2
-852	987	REMAIN	saljan	opfern;  bleiben; herbergen	bleiben	bleiben-3
-853	987	REMAIN	wisan	bleiben; sein; sich freuen;  dasein;  existieren;  schwelgen;  schmausen; weilen	bleiben	bleiben-4
-854	987	REMAIN	þairh-wisan	verbleiben;  verharren	verharren	verharren-1
 857	2008	RESCUE	nasjan	retten	retten	retten-1
 860	2969	RIBBON	bandi	Band;  Fessel	Band	Band-1
 861	2969	RIBBON	gabinda	Band	Band	Band-2
-862	2969	RIBBON	gabindi	Band	Band	Band-3
-863	2969	RIBBON	gabundi	Band	Band	Band-4
-864	2969	RIBBON	gawiss	Band ; Verbindung	Band	Band-5
 865	712	RICH	reiki	Herrschaft; Reich;  Obrigkeit	Reich	Reich-1
 866	1019	RIGHT	taihswa	rechts; die Rechte	rechts	rechts-1
 873	666	RIVER	flodus	Strom;  Flut	Strom	Strom-1
 874	667	ROAD	fauradauri	Straße	Straße	Strae-1
-875	667	ROAD	gagg*	Straße; Weg	Straße	Strae-2
-876	667	ROAD	garuns	Straße; Markt	Straße	Strae-3
 877	667	ROAD	plapja	Straße	Straße	Strae-4
 879	769	ROOF	hrot	Haus; Dach	Dach	Dach-1
 880	1511	ROOSTER	hana	Hahn	Hahn	Hahn-1
@@ -544,14 +463,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 901	714	SEED	fraiw	Same	Same	Same-1
 903	855	SEIZE	fāhan	fangen;  greifen	greifen	greifen-1
 904	855	SEIZE	greipan	greifen	greifen	greifen-2
-905	855	SEIZE	ga-fahan	ergreifen;  erfassen ;  ertappen	ergreifen	ergreifen-1
-906	855	SEIZE	fair-greipan	ergreifen	ergreifen	ergreifen-2
-907	855	SEIZE	und-greipan	ergreifen	ergreifen	ergreifen-3
-908	855	SEIZE	dis-haban	ergreifen	ergreifen	ergreifen-4
-909	855	SEIZE	ga-haban	ergreifen	ergreifen	ergreifen-5
-910	855	SEIZE	ga-niutan	ergreifen;  erwischen	ergreifen	ergreifen-6
-911	855	SEIZE	dis-sitan	ergreifen	ergreifen	ergreifen-7
-914	1359	SEPARATE	[ga-ainan]	vereinzeln;  trennen	trennen	trennen-1
 915	1359	SEPARATE	skaidan	trennen; scheiden	trennen	trennen-2
 916	1359	SEPARATE	twis-standan	sich trennen;  Abschied nehmen von	sich trennen	sichtrennen-1
 919	1704	SEVEN	sibun	sieben	sieben	sieben-1
@@ -569,17 +480,13 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 937	3464	SHORE OF LAKE	staþa	Ufer;  Gestade	Ufer	Ufer-1
 939	1482	SHOULDER	ams*	Schulter	Schulter	Schulter-1
 942	1039	SHOW	augjan	zeigen	zeigen	zeigen-1
-944	1847	SICK	siukan	siechen;  krank sein	krank sein	kranksein-1
 945	1847	SICK	siuks	schwach; krank	krank	krank-1
 946	1847	SICK	unhails	krank	krank	krank-2
 947	682	SIDE	fera	Seite;  Gegend	Seite	Seite-1
 948	682	SIDE	halba	Seite; Hälfte	Seite	Seite-2
 949	1720	SIGN	bandwa	Zeichen	Zeichen	Zeichen-1
-950	1720	SIGN	bandwo	Zeichen	Zeichen	Zeichen-2
 951	1720	SIGN	taikns	Zeichen;  Wunder	Zeichen	Zeichen-3
-952	1720	SIGN	bandwjan	ein Zeichen;  einen Wink geben;  andeuten	ein Zeichen	einZeichen-1
 953	3458	SILENCE	anaqal	Ruhe	Ruhe	Ruhe-1
-954	3458	SILENCE	gaƕeilains	Ruhe; Verweilen	Ruhe	Ruhe-2
 955	3458	SILENCE	rimis*	Ruhe	Ruhe	Ruhe-3
 956	759	SILVER	silubr	Silber	Silber	Silber-1
 957	2971	SIN	frawaurhts	sündig; Sünde	Sünde	Sunde-1
@@ -611,20 +518,13 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 1002	1115	SPEECH	maþlein	Rede;  Redeweise	Rede	Rede-1
 1004	53	SPIRIT	ahma	Geist	Geist	Geist-1
 1006	92	SPOIL (SOMEBODY OR SOMETHING)	fralusts	Verderben	Verderben	Verderben-1
-1007	92	SPOIL (SOMEBODY OR SOMETHING)	frawardeins*	Verderben	Verderben	Verderben-2
 1008	92	SPOIL (SOMEBODY OR SOMETHING)	qisteins	Verderben	Verderben	Verderben-3
-1009	92	SPOIL (SOMEBODY OR SOMETHING)	qistjan	verderben	verderben	verderben-1
-1012	92	SPOIL (SOMEBODY OR SOMETHING)	riurjan	verderben	verderben	verderben-4
-1013	92	SPOIL (SOMEBODY OR SOMETHING)	fra-wairþan	verderben	verderben	verderben-5
-1014	92	SPOIL (SOMEBODY OR SOMETHING)	fra-wardjan	verderben	verderben	verderben-6
 1021	570	STAND UP	ur-reisan	erstehn;  sich erheben	sich erheben	sicherheben-1
 1022	570	STAND UP	us-standan	sich erheben;  aufbrechen;  auferstehn	sich erheben	sicherheben-2
 1023	1430	STAR	stairno	Stern	Stern	Stern-1
 1025	713	STEAL	hlifan	stehlen	stehlen	stehlen-1
 1026	713	STEAL	stilan	stehlen	stehlen	stehlen-2
 1029	2919	STILL (CONTINUING)	nauh	noch	noch	noch-1
-1030	2919	STILL (CONTINUING)	nauhþan	noch	noch	noch-2
-1031	2919	STILL (CONTINUING)	nauhþanuh	noch	noch	noch-3
 1032	2919	STILL (CONTINUING)	þanaseiþs	weiter;  noch	noch	noch-4
 1036	819	STOMACH	qiþus	Magen;  Mutterschoß	Magen	Magen-1
 1037	857	STONE	stains	Stein	Stein	Stein-1
@@ -639,7 +539,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 1049	785	STRONG	abrs	stark;  heftig	stark	stark-1
 1050	785	STRONG	swinþs	stark;  gesund;  kräftig	stark	stark-2
 1053	2920	SUDDENLY	anaks	plötzlich	plötzlich	plotzlich-1
-1054	2920	SUDDENLY	suns	plötzlich; alsbald;  auf einmal	plötzlich	plotzlich-2
 1055	2920	SUDDENLY	unweniggo	plötzlich; unerwartet	plötzlich	plotzlich-3
 1056	1342	SUMMER	asans	Sommer	Sommer	Sommer-1
 1058	1343	SUN	sauïl	Sonne	Sonne	Sonne-1
@@ -652,61 +551,38 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 1079	2708	TALK	rodjan	reden; sprechen	reden	reden-2
 1081	21	TASTE (SOMETHING)	kausjan	kosten;  kennen lernen	kosten	kosten-1
 1084	709	TEACH	laisjan	lehren	lehren	lehren-1
-1085	709	TEACH	ga-laisjan	lehren	lehren	lehren-2
 1086	709	TEACH	talzjan	ziehen; lehren;  unterrichten	lehren	lehren-3
-1087	709	TEACH	talzjan	ziehen; lehren;  unterrichten	unterrichten	unterrichten-1
 1088	1038	TEACHER	laisareis	Lehrer	Lehrer	Lehrer-1
 1089	1038	TEACHER	talzjands	Lehrer	Lehrer	Lehrer-2
 1090	1651	TEAR (OF EYE)	tagr	Zähre;  Träne	Träne	Trane-1
-1091	1735	TEAR (SHRED)	dis-hniupan	zerreißen	zerreißen	zerreien-1
-1092	1735	TEAR (SHRED)	dis-hnupnan	zerreißen	zerreißen	zerreien-2
-1093	1735	TEAR (SHRED)	dis-skritnan	zerreißen	zerreißen	zerreien-3
 1094	1735	TEAR (SHRED)	dis-tairan	zerreißen	zerreißen	zerreien-4
-1095	1735	TEAR (SHRED)	ga-tairan	zerstören;  aufheben; zerreißen	zerreißen	zerreien-5
-1096	1735	TEAR (SHRED)	dis-taurnan	zerreißen	zerreißen	zerreien-6
 1097	1735	TEAR (SHRED)	tahjan	reißen;  zerren	reißen	reien-1
-1098	1735	TEAR (SHRED)	af-taurnan	abreißen	abreißen	abreien-1
 1099	1711	TELL	us-spillon	verkünden;  erzählen	erzählen	erzahlen-1
 1100	1711	TELL	waila-spillon	verkünden;  erzählen	erzählen	erzahlen-2
 1101	1515	TEN	taihun	zehn	zehn	zehn-1
 1103	78	THAT	jains	jener	jener	jener-1
 1105	2921	THEN	þan	darauf; dann	dann	dann-1
-1106	1937	THERE	ei	da	da	da-1
-1107	1937	THERE	þaruh	da	da	da-2
 1108	1937	THERE	jainar	an jenem Ort;  dort	dort	dort-1
 1109	1937	THERE	þar	dort	dort	dort-2
 1114	738	THING	waihts	Ding;  Sache;  Etwas	Ding	Ding-1
 1115	738	THING	waihts	Ding;  Sache;  Etwas	Sache	Sache-1
 1116	1415	THINK (REFLECT)	fraþjan	denken	denken	denken-1
-1117	1415	THINK (REFLECT)	hugjan	meinen; denken	denken	denken-2
-1118	1415	THINK (REFLECT)	miton	denken; ermessen;  überlegen	denken	denken-3
 1119	1415	THINK (REFLECT)	þagkjan	denken;  überlegen	denken	denken-4
 1120	1859	THIRD	þridja	der dritte	der dritte	derdritte-1
-1122	1214	THIS	hi-	dieser	dieser	dieser-1
-1123	1214	THIS	himma, hina	dieser	dieser	dieser-2
 1124	1214	THIS	hita	dieser	dieser	dieser-3
-1125	1214	THIS	sa	dieser; der	dieser	dieser-4
-1126	1214	THIS	so	dieser; der	dieser	dieser-5
 1127	1214	THIS	þata	dieser; der	dieser	dieser-6
 1128	2923	THITHER (THERE TO)	jaind	dorthin	dorthin	dorthin-1
 1129	2923	THITHER (THERE TO)	jaindre	dorthin	dorthin	dorthin-2
 1130	1215	THOU	du	du	du	du-1
 1131	1215	THOU	þu	du	du	du-2
-1132	1215	THOU	izwizei	der du	der du	derdu-1
-1133	1215	THOU	þuei	der du	der du	derdu-2
 1134	2975	THOUGHT	gamitons	Gedanke	Gedanke	Gedanke-1
 1135	2975	THOUGHT	mitons	Gedanke; Überlegung	Gedanke	Gedanke-2
-1136	2975	THOUGHT	muns	Gedanke;  Meinung	Gedanke	Gedanke-3
 1137	1843	THOUSAND	þūsundi	tausend	tausend	tausend-1
 1139	492	THREE	þreis*	drei	drei	drei-1
 1141	97	THROUGH	þairh	durch	durch	durch-1
 1142	1456	THROW	wairpan	werfen	werfen	werfen-1
 1143	1150	THUNDER	þeiƕo	Donner	Donner	Donner-1
 1146	1917	TIE	ga-bindan	binden	binden	binden-1
-1148	892	TIME	aiws	Zeit;  Ewigkeit	Zeit	Zeit-1
-1149	892	TIME	alds	Zeit; Menschenalter	Zeit	Zeit-2
-1150	892	TIME	ƕeila	Zeit; Weile;  Stunde	Zeit	Zeit-3
-1151	892	TIME	mel	Zeit;  Stunde	Zeit	Zeit-4
 1152	892	TIME	þeihs	Zeit	Zeit	Zeit-5
 1157	2482	TOGETHER	samana	zusammen;  zugleich	zusammen	zusammen-1
 1158	2482	TOGETHER	samaþ	zusammen; nach einem und demselben Ort hin	zusammen	zusammen-2
@@ -745,7 +621,6 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 1217	1212	WE	weis	wir	wir	wir-1
 1218	1601	WEAK	lasiws	schwach	schwach	schwach-1
 1219	1601	WEAK	siuks	schwach; krank	schwach	schwach-2
-1220	1601	WEAK	unmahteigs	schwach; ohnmächtig	schwach	schwach-3
 1221	2996	WEALTH	gabei	Reichtum	Reichtum	Reichtum-1
 1226	954	WELL	brunna	Brunnen	Brunnen	Brunnen-1
 1227	1817	WEST	saggqa	Untergang;  Westen	Westen	Westen-1
@@ -755,12 +630,9 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 1233	1335	WHITE	ƕeits	weiß	weiß	wei-1
 1234	1335	WHITE	lais	weiß	weiß	wei-2
 1235	2928	WHITHER (WHERE TO)	ƕad	wohin	wohin	wohin-1
-1236	2928	WHITHER (WHERE TO)	ƕadre	wohin	wohin	wohin-2
-1237	2928	WHITHER (WHERE TO)	ƕaþ	wohin	wohin	wohin-3
 1238	2928	WHITHER (WHERE TO)	þadei	wohin	wohin	wohin-4
 1239	1235	WHO	ƕarjis	wer	wer	wer-1
 1240	1235	WHO	ƕas	wer?	wer?	wer-2
-1241	1235	WHO	ƕe	wem;  mit wem;  womit	mit wem	mitwem-1
 1243	1243	WIDE	braiþs	breit	breit	breit-1
 1247	960	WIND	winds	Wind	Wind	Wind-1
 1248	1375	WINDOW	augadauro	Fenster	Fenster	Fenster-1
@@ -784,6 +656,5 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 1269	1672	WRITE	ga-meljan	schreiben	schreiben	schreiben-2
 1270	1226	YEAR	ataþni*	Jahr	Jahr	Jahr-1
 1271	1226	YEAR	jer	Jahr	Jahr	Jahr-2
-1272	1226	YEAR	wintrus	Jahr	Jahr	Jahr-3
 1275	1213	YOU	jūs	ihr	ihr	ihr-1
 1277	1207	YOUNG	juggs	jung;  jugendlich	jung	jung-1

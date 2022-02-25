@@ -11,7 +11,7 @@ greenlet==1.1.2
 idna==3.3
 iniconfig==1.1.1
 isodate==0.6.1
--e git+https://github.com/martino-vic/streitberggothic@2a6a64c285ebd6555d57bf147a17e01f694121ac#egg=lexibank_streitberggothic
+-e git+https://github.com/martino-vic/streitberggothic.git@3166461f4967ab96a6f61a54ce3d0f7d67f1be1b#egg=lexibank_streitberggothic
 lingpy==2.6.9
 Markdown==3.3.6
 networkx==2.6.3
@@ -27,7 +27,7 @@ pycldf==1.25.1
 pyclts==3.1.1
 pyconcepticon==2.8.0
 pycountry==22.1.10
--e git+https://github.com/clld/pyglottolog.git@13af3b6f070bad186768c589c7b335edc43b7a7f#egg=pyglottolog
+pyglottolog==3.7.0
 pylexibank==3.3.0
 pysem==0.4.0
 pytest==7.0.1
