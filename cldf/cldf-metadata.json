@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "+++ full citation here please +++",
+    "dc:bibliographicCitation": "Streitberg, Wilhelm. (1910). Die Gotische Bibel [The Gothic bible], Carl Winter, Heidelberg.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Dellert-2018-1016"
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/streitberggothic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-20-g3166461",
+            "dc:created": "v1.0-21-gb8bad8c",
             "dc:title": "Repository"
         },
         {
