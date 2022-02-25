@@ -1,10 +1,10 @@
-# CLDF dataset derived from Streitberg's 'Die Gotische Bibel [The Gothic bible]' from 1910
+# CLDF dataset derived from Streitberg's "Gotische Bibel" from 1910
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Streitberg 1910, Van Loon 2004
+  > +++ full citation here please +++
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -14,25 +14,28 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 
+
+Conceptlists in Concepticon:
+- [Dellert-2018-1016](https://concepticon.clld.org/contributions/Dellert-2018-1016)
 ## Statistics
 
 
 [![CLDF validation](https://github.com/martino-vic/streitberggothic/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/streitberggothic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 1
-- **Concepts:** 3,386
-- **Lexemes:** 3,644
+- **Concepts:** 496
+- **Lexemes:** 788
 - **Sources:** 1
-- **Synonymy:** 1.08
+- **Synonymy:** 1.59
 - **Invalid lexemes:** 0
-- **Tokens:** 24,899
-- **Segments:** 50 (0 BIPA errors, 0 CTLS sound class errors, 50 CLTS modified)
-- **Inventory size (avg):** 50.00
+- **Tokens:** 4,551
+- **Segments:** 44 (0 BIPA errors, 0 CTLS sound class errors, 44 CLTS modified)
+- **Inventory size (avg):** 44.00
 
 # Contributors
 

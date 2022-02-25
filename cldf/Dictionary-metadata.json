@@ -6,20 +6,23 @@
         }
     ],
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Streitberg 1910, Van Loon 2004",
+    "dc:bibliographicCitation": "+++ full citation here please +++",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Dellert-2018-1016"
+    ],
     "dc:identifier": "http://www.wulfila.be/lib/streitberg/1910/text/html/",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Streitberg's 'Die Gotische Bibel [The Gothic bible]' from 1910",
+    "dc:title": "CLDF dataset derived from Streitberg's \"Gotische Bibel\" from 1910",
     "dcat:accessURL": "https://github.com/martino-vic/streitberggothic",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/martino-vic/streitberggothic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-17-g8b428c2",
+            "dc:created": "v1.0-18-g2a6a64c",
             "dc:title": "Repository"
         },
         {
@@ -35,16 +38,16 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",

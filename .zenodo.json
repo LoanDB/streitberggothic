@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Streitberg's 'Die Gotische Bibel [The Gothic bible]' from 1910",
+    "title": "CLDF dataset derived from Streitberg's \"Gotische Bibel\" from 1910",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -50,7 +50,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Streitberg 1910, Van Loon 2004</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>+++ full citation here please +++</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
