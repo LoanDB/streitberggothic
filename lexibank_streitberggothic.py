@@ -4,7 +4,7 @@ import re
 import attr
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
-from pylexibank import FormSpec, Concept
+from pylexibank import FormSpec, Lexeme
 import pylexibank
 from cldfbench import CLDFSpec
 from clldutils.misc import slug
@@ -17,16 +17,10 @@ REP = [(x, "") for x in "†*[]~?;+-"] + \
 
 
 @attr.s
-class CustomConcept(Concept):
-    POS = attr.ib(default=None)
-
-
-def cln(word): return re.sub("[†\\d\\.\\*\\?\\~]", "", word)
-
-@attr.s
-class CustomConcept(Concept):
-    POS = attr.ib(default=None)
-
+class CustomLexeme(Lexeme):
+    Meaning = attr.ib(default=None)
+    Sense_ID = attr.ib(default=None)
+    Entry_ID = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -35,8 +29,7 @@ class Dataset(BaseDataset):
 
     form_spec = FormSpec(separators=",", first_form_only=True,
                          replacements=REP)
-
-    concept_class = CustomConcept
+    lexeme_class = CustomLexeme
 
     def cldf_specs(self):
         return {
@@ -48,20 +41,33 @@ class Dataset(BaseDataset):
         }
 
     def cmd_makecldf(self, args):
+        senses = defaultdict(list)
+        idxs = {}
+        form2idx = {}
+        # assemble senses
+        for idx, row in enumerate(self.raw_dir.read_csv(
+            "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)):
+            if row["sense"].strip():
+                fidx = str(idx+1)+"-"+slug(row["form"])
+                idxs[fidx] = row
+                for sense in re.split("[,;]", row["sense"]):
+                    if row["form"].strip() and sense.strip():
+                        senses[slug(sense, lowercase=False)] += [(fidx, sense)]
+                        form2idx[row["form"], sense.strip()] = fidx
+
         with self.cldf_writer(args) as writer:
             writer.add_sources()
-            #args.log.info("added sources")
-
             ## add concept
             concepts = {}
-            for i, concept in enumerate(self.concepts):
-                idx = str(i+1)+"_"+slug(concept["sense"])
+            for concept in self.conceptlists[0].concepts.values():
+                idx = "{0}-{1}".format(concept.number, slug(concept.gloss))
                 writer.add_concept(
                         ID=idx,
-                        Name=concept["sense"],
-                        POS = concept["pos"]
+                        Name=concept.gloss,
+                        Concepticon_ID=concept.concepticon_id,
+                        Concepticon_Gloss=concept.concepticon_gloss,
                         )
-                concepts[concept["sense"], concept["pos"]] = idx
+                concepts[concept.concepticon_id] = idx
             args.log.info("added concepts")
 
             ## add languages
@@ -76,31 +82,24 @@ class Dataset(BaseDataset):
             language_table = writer.cldf["LanguageTable"]
 
             ## add forms
-            for idx, row in enumerate(self.raw_dir.read_csv(
-                    "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)[1:]):
-                    writer.add_forms_from_value(
-                        Local_ID=idx,
-                        Language_ID="Gothic",
-                        Parameter_ID=concepts[cln(row["sense"]), row["pos"]],
-                        Value=row["form"],
-                        Source="557564")
+            for row in self.raw_dir.read_csv(
+                "wordlist.tsv", delimiter="\t", dicts=True):
+                writer.add_forms_from_value(
+                    Local_ID=row["ID"],
+                    Language_ID="Gothic",
+                    Parameter_ID=concepts[row["CONCEPTICON_ID"]],
+                    Value=row["FORM"],
+                    Meaning=row["MEANING"],
+                    Entry_ID=form2idx[row["FORM"], row["SENSE"]],
+                    Sense_ID=row["SENSE_ID"],
+                    Source="557564"
+                    )
 
         with self.cldf_writer(args, cldf_spec="dictionary", clean=False) as writer:
 
             # we use the same language table for the data
             writer.cldf.add_component(language_table)
 
-            # add the senses
-            senses = defaultdict(list)
-            idxs = {}
-            for idx, row in enumerate(self.raw_dir.read_csv(
-                "Streitberg-1910-3645.tsv", delimiter="\t", dicts=True)):
-                if row["sense"].strip():
-                    fidx = str(idx+1)+"-"+slug(row["form"])
-                    idxs[fidx] = row
-                    for sense in re.split("[,;]", row["sense"]):
-                        if row["form"].strip() and sense.strip():
-                            senses[slug(sense.strip(), lowercase=False)] += [(fidx, sense)]
             for sense, values in senses.items():
                 for i, (fidx, sense_desc) in enumerate(values):
                     writer.objects["SenseTable"].append({
@@ -109,7 +108,6 @@ class Dataset(BaseDataset):
                         "Entry_ID": fidx
                         })
             for fidx, row in idxs.items():
-
                 writer.objects["EntryTable"].append({
                     "ID": fidx,
                     "Language_ID": "Gothic",

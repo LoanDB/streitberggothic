@@ -1,8 +1,8 @@
 {
     "id": "streitberggothic",
-    "title": "CLDF dataset derived from Streitberg's 'Die Gotische Bibel [The Gothic bible]' from 1910",
-    "description": null,
+    "title": "CLDF dataset derived from Streitberg's \"Gotische Bibel\" from 1910",
     "license": "CC-BY-4.0",
     "url": "http://www.wulfila.be/lib/streitberg/1910/text/html/",
-    "citation": "Streitberg 1910, Van Loon 2004"
+    "conceptlist": "Dellert-2018-1016",
+    "citation": "+++ full citation here please +++"
 }
