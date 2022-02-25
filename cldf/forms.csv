@@ -1,0 +1,660 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Meaning,Sense_ID,Entry_ID
+Gothic-621-einwenig-1,1,Gothic,621-einwenig,leitils,leitils,l i t ɪ l s,,557564,,,^ leitils $,default,klein;  wenig,wenig-1,1849-leitils
+Gothic-884-hinzufugen-1,4,Gothic,884-hinzufugen,bi-aukan,biaukan,b ɪ ɔ k a n,,557564,,,^ biaukan $,default,hinzufügen,hinzufugen-1,372-biaukan
+Gothic-628-wieder-1,7,Gothic,628-wieder,aftra,aftra,a ɸ t r a,,557564,,,^ aftra $,default,wieder,wieder-1,38-aftra
+Gothic-447-alter-1,8,Gothic,447-alter,aldomin,aldomin,a l d o m ɪ n,,557564,,,^ aldomin $,default,Alter,Alter-1,186-aldomin
+Gothic-447-alter-2,9,Gothic,447-alter,fairniþa,fairniþa,ɸ ɛ r n ɪ θ a,,557564,,,^ fairniþa $,default,Alter,Alter-2,750-fairnia
+Gothic-60-luft-1,10,Gothic,60-luft,luftu,luftu,l u ɸ t u,,557564,,,^ luftu $,default,Luft,Luft-1,1921-luftu
+Gothic-583-allein-1,12,Gothic,583-allein,sundro,sundro,s u n d r o,,557564,,,^ sundro $,default,abgesondert;  besonders;  allein,allein-1,2797-sundro
+Gothic-627-schon-1,13,Gothic,627-schon,ju,ju,j u,,557564,,,^ ju $,default,schon,schon-1,1648-ju
+Gothic-627-schon-2,14,Gothic,627-schon,juþan,juþan,j u θ a n,,557564,,,^ juþan $,default,schon,schon-2,1658-juan
+Gothic-604-immer-1,15,Gothic,604-immer,sinteino,sinteino,s ɪ n t i n o,,557564,,,^ sinteino $,default,immer;  allezeit,immer-1,2571-sinteino
+Gothic-284-menge-1,17,Gothic,284-menge,hiuhma,hiuhma,h ɪ u h m a,,557564,,,^ hiuhma $,default,Menge; Haufe,Menge-2,1380-hiuhma
+Gothic-284-menge-2,18,Gothic,284-menge,managei,managei,m a n a ɣ i,,557564,,,^ managei $,default,Menge,Menge-3,1990-managei
+Gothic-675-und-1,19,Gothic,675-und,jah,jah,j a h,,557564,,,^ jah $,default,und;  und zwar;  auch,und-1,1628-jah
+Gothic-675-und-2,20,Gothic,675-und,-uh,uh,u h,,557564,,,^ uh $,default,nun; und;  also,und-2,3174-uh
+Gothic-265-gegend-1,25,Gothic,265-gegend,fera,fera,ɸ e r a,,557564,,,^ fera $,default,Seite;  Gegend,Gegend-1,798-fera
+Gothic-265-gegend-2,26,Gothic,265-gegend,land,land,l a n d,,557564,,,^ land $,default,Land;  Gegend,Gegend-2,1795-land
+Gothic-26-arm-1,27,Gothic,26-arm,arms,arms,a r m̥ s,,557564,,,^ arms $,default,Arm,Arm-1,324-arms
+Gothic-780-ankommen-1,28,Gothic,780-ankommen,niutan,niutan,n ɪ u t a n,,557564,,,^ niutan $,default,treffen;  erreichen;  einer Sache froh sein,erreichen-1,2234-niutan
+Gothic-440-pfeil-1,29,Gothic,440-pfeil,arƕazna,arƕazna,a r ʍ a z n a,,557564,,,^ arƕazna $,default,Pfeil,Pfeil-1,312-arazna
+Gothic-183-asche-1,30,Gothic,183-asche,azgo,azgo,a z ɡ o,,557564,,,^ azgo $,default,Asche,Asche-1,396-azgo
+Gothic-985-fragen-1,31,Gothic,985-fragen,fragan,fragan,ɸ r a ɣ a n,,557564,,,^ fragan $,default,fragen,fragen-1,854-fragan
+Gothic-985-fragen-2,32,Gothic,985-fragen,fraihnan,fraihnan,ɸ r ɛ h n a n,,557564,,,^ fraihnan $,default,fragen,fragen-2,856-fraihnan
+Gothic-986-bitten-1,33,Gothic,986-bitten,bidjan,bidjan,b ɪ ð j a n,,557564,,,^ bidjan $,default,betteln; bitten;  beten,bitten-1,501-bidjan
+Gothic-986-bitten-2,34,Gothic,986-bitten,ga-bidjan,gabidjan,ɡ a β ɪ ð j a n,,557564,,,^ gabidjan $,default,bitten; beten,bitten-2,502-gabidjan
+Gothic-600-zuerst-1,36,Gothic,600-zuerst,frumist,frumist,ɸ r u m ɪ s t,,557564,,,^ frumist $,default,zuerst,zuerst-1,913-frumist
+Gothic-813-konnen-1,52,Gothic,813-konnen,magan*,magan,m a ɣ a n,,557564,,,^ magan $,default,können;  vermögen,konnen-1,1941-magan
+Gothic-733-leben-1,53,Gothic,733-leben,liban,liban,l ɪ β a n,,557564,,,^ liban $,default,leben,leben-1,1874-liban
+Gothic-795-sichargern-1,56,Gothic,795-sichargern,hatizon,hatizon,h a t ɪ z o n,,557564,,,^ hatizon $,default,zürnen,zurnen-1,1313-hatizon
+Gothic-553-hungrig-1,62,Gothic,553-hungrig,huggrjan,huggrjan,h u ŋ ɡ r j a n,,557564,,,^ huggrjan $,default,hungern,hungern-2,1450-huggrjan
+Gothic-681-werden-1,67,Gothic,681-werden,wairþan,wairþan,w ɛ r θ a n,,557564,,,^ wairþan $,default,werden,werden-1,3417-wairan
+Gothic-314-bett-1,69,Gothic,314-bett,badi,badi,b a ð ɪ,,557564,,,^ badi $,default,Bett,Bett-1,400-badi
+Gothic-314-bett-2,70,Gothic,314-bett,ligrs,ligrs,l ɪ ɣ r̥ s,,557564,,,^ ligrs $,default,Bett; Lager,Bett-2,1880-ligrs
+Gothic-599-vorher-1,71,Gothic,599-vorher,faurþis,faurþis,ɸ ɔ r θ ɪ s,,557564,,,^ faurþis $,default,zuvor;  früher,zuvor-1,794-fauris
+Gothic-815-anfangen-1,72,Gothic,815-anfangen,ana-stodjan,anastodjan,a n a s t o ð j a n,,557564,,,^ anastodjan $,default,anfangen;  anheben,anfangen-1,2781-anastodjan
+Gothic-815-anfangen-2,73,Gothic,815-anfangen,du-stodjan,dustodjan,d u s t o ð j a n,,557564,,,^ dustodjan $,default,anfangen;  anheben,anfangen-2,2782-dustodjan
+Gothic-631-hinter-1,74,Gothic,631-hinter,hindana,hindana,h ɪ n d a n a,,557564,,,^ hindana $,default,hinter;  jenseits,hinter-1,1369-hindana
+Gothic-631-hinter-2,75,Gothic,631-hinter,hindar,hindar,h ɪ n d a r,,557564,,,^ hindar $,default,hinter;  jenseits,hinter-2,1370-hindar
+Gothic-994-glauben-1,76,Gothic,994-glauben,ga-laubjan,galaubjan,ɡ a l ɔ β j a n,,557564,,,^ galaubjan $,default,glauben,glauben-1,1808-galaubjan
+Gothic-21-bauch-1,80,Gothic,21-bauch,wamba,wamba,w a m b a,,557564,,,^ wamba $,default,Schoß; Bauch,Bauch-1,3446-wamba
+Gothic-632-unter-1,85,Gothic,632-unter,undaro,undaro,u n d a r o,,557564,,,^ undaro $,default,unter,unter-5,3204-undaro
+Gothic-376-gurtel-1,86,Gothic,376-gurtel,gairda,gairda,ɡ ɛ r d a,,557564,,,^ gairda $,default,Gürtel,Gurtel-1,1021-gairda
+Gothic-427-nutzen-1,88,Gothic,427-nutzen,bota,bota,b o t a,,557564,,,^ bota $,default,Nutzen,Nutzen-1,552-bota
+Gothic-481-gro-1,91,Gothic,481-gro,mikils,mikils,m ɪ k ɪ l s,,557564,,,^ mikils $,default,groß,gro-1,2084-mikils
+Gothic-148-vogel-1,93,Gothic,148-vogel,fugls,fugls,ɸ u ɣ l̥ s,,557564,,,^ fugls $,default,Vogel,Vogel-1,914-fugls
+Gothic-854-beien-1,94,Gothic,854-beien,beitan,beitan,b i t a n,,557564,,,^ beitan $,default,beißen,beien-1,489-beitan
+Gothic-520-bitter-1,95,Gothic,520-bitter,baitrs,baitrs,b ɛ t r̥ s,,557564,,,^ baitrs $,default,bitter,bitter-1,429-baitrs
+Gothic-524-schwarz-1,96,Gothic,524-schwarz,swarts,swarts,s w a r t s,,557564,,,^ swarts $,default,schwarz,schwarz-1,2834-swarts
+Gothic-535-blind-1,98,Gothic,535-blind,blinds,blinds,b l ɪ n d s,,557564,,,^ blinds $,default,blind,blind-1,543-blinds
+Gothic-41-blut-1,99,Gothic,41-blut,bloþ,bloþ,b l o θ,,557564,,,^ bloþ $,default,Blut,Blut-1,547-blo
+Gothic-991-prahlen-1,105,Gothic,991-prahlen,flautjan,flautjan,ɸ l ɔ t j a n,,557564,,,^ flautjan $,default,prahlen,prahlen-1,842-flautjan
+Gothic-39-korper-1,108,Gothic,39-korper,leik,leik,l i k,,557564,,,^ leik $,default,Körper;  Leib,Leib-1,1834-leik
+Gothic-704-sieden-1,109,Gothic,704-sieden,wulan,wulan,w u l a n,,557564,,,^ wulan $,default,wallen;  sieden,sieden-1,3624-wulan
+Gothic-760-eilen-1,111,Gothic,760-eilen,sniumjan,sniumjan,s n ɪ u m j a n,,557564,,,^ sniumjan $,default,eilen,eilen-1,2685-sniumjan
+Gothic-760-eilen-2,112,Gothic,760-eilen,sniwan,sniwan,s n ɪ w a n,,557564,,,^ sniwan $,default,eilen,eilen-2,2689-sniwan
+Gothic-434-grenze-1,116,Gothic,434-grenze,marka,marka,m a r k a,,557564,,,^ marka $,default,Mark;  Grenze,Grenze-1,2017-marka
+Gothic-940-belastigen-1,118,Gothic,940-belastigen,kaurjan,kaurjan,k ɔ r j a n,,557564,,,^ kaurjan $,default,drücken;  belästigen,belastigen-1,1698-kaurjan
+Gothic-196-junge-1,121,Gothic,196-junge,magus,magus,m a ɣ u s,,557564,,,^ magus $,default,Knabe,Knabe-1,1948-magus
+Gothic-115-ast-1,123,Gothic,115-ast,asts,asts,a s t s,,557564,,,^ asts $,default,Ast,Ast-1,341-asts
+Gothic-353-brot-1,125,Gothic,353-brot,hlaifs,hlaifs,h l ɛ ɸ s,,557564,,,^ hlaifs $,default,Brot;  Brotbissen,Brot-1,1384-hlaifs
+Gothic-894-zerbrechen-1,126,Gothic,894-zerbrechen,ga-brikan,gabrikan,ɡ a β r ɪ k a n,,557564,,,^ gabrikan $,default,zerbrechen,zerbrechen-1,564-gabrikan
+Gothic-894-zerbrechen-2,127,Gothic,894-zerbrechen,ga-kroton,gakroton,ɡ a k r o t o n,,557564,,,^ gakroton $,default,zerbrechen;  zerschellen,zerbrechen-2,1734-gakroton
+Gothic-859-brechen-1,128,Gothic,859-brechen,brikan,brikan,b r ɪ k a n,,557564,,,^ brikan $,default,brechen;  zerstören,brechen-1,563-brikan
+Gothic-23-busen-1,130,Gothic,23-busen,barms,barms,b a r m̥ s,,557564,,,^ barms $,default,Busen;  Schoß,Busen-1,456-barms
+Gothic-522-hell-1,135,Gothic,522-hell,liuhadeins*,liuhadeins,l ɪ u h a ð i n s,,557564,,,^ liuhadeins $,default,hell,hell-2,1905-liuhadeins
+Gothic-883-bringen-1,137,Gothic,883-bringen,briggan,briggan,b r ɪ ŋ ɡ a n,,557564,,,^ briggan $,default,bringen,bringen-2,562-briggan
+Gothic-206-bruder-1,139,Gothic,206-bruder,broþar,broþar,b r o θ a r,,557564,,,^ broþar $,default,Bruder,Bruder-1,569-broar
+Gothic-836-bauen-1,143,Gothic,836-bauen,timrjan,timrjan,t ɪ m r j a n,,557564,,,^ timrjan $,default,bauen,bauen-2,2945-timrjan
+Gothic-135-bulle-1,144,Gothic,135-bulle,stiur,stiur,s t ɪ u r,,557564,,,^ stiur $,default,Stier;  Kalb,Stier-1,2778-stiur
+Gothic-897-verbrennen-1,146,Gothic,897-verbrennen,ga-brannjan,gabrannjan,ɡ a β r a nː j a n,,557564,,,^ gabrannjan $,default,verbrennen,verbrennen-1,560-gabrannjan
+Gothic-697-brennen-1,150,Gothic,697-brennen,brinnan,brinnan,b r ɪ nː a n,,557564,,,^ brinnan $,default,brennen,brennen-1,566-brinnan
+Gothic-423-geschaft-1,152,Gothic,423-geschaft,gawaurki,gawaurki,ɡ a w ɔ r k ɪ,,557564,,,^ gawaurki $,default,Erwerb; Geschäft;  Gewinn,Geschaft-1,1147-gawaurki
+Gothic-1011-kaufen-1,156,Gothic,1011-kaufen,bugjan,bugjan,b u ɣ j a n,,557564,,,^ bugjan $,default,kaufen,kaufen-1,580-bugjan
+Gothic-1005-rechnen-1,157,Gothic,1005-rechnen,rahnjan,rahnjan,r a h n j a n,,557564,,,^ rahnjan $,default,rechnen,rechnen-1,2332-rahnjan
+Gothic-990-rufen-1,158,Gothic,990-rufen,hropjan,hropjan,h r o p j a n,,557564,,,^ hropjan $,default,rufen,rufen-1,1441-hropjan
+Gothic-990-rufen-2,159,Gothic,990-rufen,wopjan,wopjan,w o p j a n,,557564,,,^ wopjan $,default,rufen,rufen-2,3600-wopjan
+Gothic-237-ruf-1,160,Gothic,237-ruf,hrops,hrops,h r o p s,,557564,,,^ hrops $,default,Ruf;  Geschrei,Ruf-1,1443-hrops
+Gothic-989-nennen-1,162,Gothic,989-nennen,namnjan,namnjan,n a m n j a n,,557564,,,^ namnjan $,default,nennen,nennen-2,2152-namnjan
+Gothic-873-tragen-1,168,Gothic,873-tragen,bairan,bairan,b ɛ r a n,,557564,,,^ bairan $,default,tragen,tragen-1,411-bairan
+Gothic-873-tragen-2,169,Gothic,873-tragen,†dragan,dragan,d r a ɣ a n,,557564,,,^ dragan $,default,tragen,tragen-2,661-dragan
+Gothic-878-fangen-1,171,Gothic,878-fangen,fāhan,fahan,ɸ a h a n,,557564,,,^ fahan $,default,fangen;  greifen,fangen-1,727-fahan
+Gothic-878-fangen-2,172,Gothic,878-fangen,niman,niman,n ɪ m a n,,557564,,,^ niman $,default,fangen; nehmen;  annehmen;  aufnehmen;  empfangen,fangen-2,2206-niman
+Gothic-915-lassen-1,173,Gothic,915-lassen,leitan,leitan,l i t a n,,557564,,,^ leitan $,default,lassen,lassen-1,1848-leitan
+Gothic-915-lassen-2,174,Gothic,915-lassen,letan,letan,l e t a n,,557564,,,^ letan $,default,lassen,lassen-2,1864-letan
+Gothic-98-hohle-1,177,Gothic,98-hohle,filigri*,filigri,ɸ ɪ l ɪ ɣ r ɪ,,557564,,,^ filigri $,default,Höhle,Hohle-2,820-filigri
+Gothic-98-hohle-2,178,Gothic,98-hohle,groba,groba,ɡ r o β a,,557564,,,^ groba $,default,Grube;  Höhle,Hohle-3,1206-groba
+Gothic-684-enden-1,180,Gothic,684-enden,ƕeilan,ƕeilan,ʍ i l a n,,557564,,,^ ƕeilan $,default,aufhören,aufhoren-1,1513-eilan
+Gothic-684-enden-2,181,Gothic,684-enden,ga-ƕeilan,gaƕeilan,ɡ a ʍ i l a n,,557564,,,^ gaƕeilan $,default,aufhören; zur Ruhe kommen,aufhoren-2,1515-gaeilan
+Gothic-312-stuhl-1,183,Gothic,312-stuhl,stols,stols,s t o l s,,557564,,,^ stols $,default,Stuhl;  Thron,Stuhl-1,2785-stols
+Gothic-409-buchstabe-1,186,Gothic,409-buchstabe,boka,boka,b o k a,,557564,,,^ boka $,default,Buchstabe,Buchstabe-1,550-boka
+Gothic-8-wange-1,189,Gothic,8-wange,kinnus,kinnus,k ɪ nː u s,,557564,,,^ kinnus $,default,Wange,Wange-1,1715-kinnus
+Gothic-24-brust-1,190,Gothic,24-brust,brusts,brusts,b r u s t s,,557564,,,^ brusts $,default,Brust,Brust-1,577-brusts
+Gothic-888-wahlen-1,195,Gothic,888-wahlen,waljan,waljan,w a l j a n,,557564,,,^ waljan $,default,wählen,wahlen-1,3436-waljan
+Gothic-414-kirche-1,197,Gothic,414-kirche,aikklesjo,aikklesjo,ɛ kː l e s j o,,557564,,,^ aikklesjo $,default,Gemeinde;  Kirche;  Gotteshaus,Kirche-1,94-aikklesjo
+Gothic-190-lehm-1,200,Gothic,190-lehm,þāho,þaho,θ a h o,,557564,,,^ þaho $,default,Lehm,Lehm-1,3003-aho
+Gothic-968-reinigen-1,202,Gothic,968-reinigen,hrainjan,hrainjan,h r ɛ n j a n,,557564,,,^ hrainjan $,default,reinigen,reinigen-1,1431-hrainjan
+Gothic-968-reinigen-2,203,Gothic,968-reinigen,ga-hrainjan,gahrainjan,ɡ a h r ɛ n j a n,,557564,,,^ gahrainjan $,default,reinigen,reinigen-2,1433-gahrainjan
+Gothic-548-klug-1,204,Gothic,548-klug,froþs,froþs,ɸ r o θ s,,557564,,,^ froþs $,default,verständig; klug,klug-1,907-fros
+Gothic-548-klug-2,205,Gothic,548-klug,handugs,handugs,h a n d u ɣ s,,557564,,,^ handugs $,default,klug; weise,klug-2,1303-handugs
+Gothic-371-kleidung-1,209,Gothic,371-kleidung,gafeteins,gafeteins,ɡ a ɸ e t i n s,,557564,,,^ gafeteins $,default,Kleidung,Kleidung-1,975-gafeteins
+Gothic-75-wolke-1,210,Gothic,75-wolke,milhma,milhma,m ɪ l h m a,,557564,,,^ milhma $,default,Wolke,Wolke-1,2087-milhma
+Gothic-188-kohle-1,211,Gothic,188-kohle,hauri,hauri,h ɔ r ɪ,,557564,,,^ hauri $,default,Kohle,Kohle-1,1337-hauri
+Gothic-504-kalt-1,213,Gothic,504-kalt,kalds,kalds,k a l d s,,557564,,,^ kalds $,default,kalt,kalt-1,1670-kalds
+Gothic-779-kommen-1,220,Gothic,779-kommen,ana-gaggan,anagaggan,a n a ɣ a ŋ ɡ a n,,557564,,,^ anagaggan $,default,kommen,kommen-1,986-anagaggan
+Gothic-779-kommen-2,223,Gothic,779-kommen,qiman,qiman,kʷ ɪ m a n,,557564,,,^ qiman $,default,kommen,kommen-4,2290-qiman
+Gothic-903-loben-1,227,Gothic,903-loben,hazjan,hazjan,h a z j a n,,557564,,,^ hazjan $,default,loben;  preisen wegen,loben-1,1349-hazjan
+Gothic-826-verbinden-1,230,Gothic,826-verbinden,faur-waipjan,faurwaipjan,ɸ ɔ r w ɛ p j a n,,557564,,,^ faurwaipjan $,default,verbinden,verbinden-2,3401-faurwaipjan
+Gothic-826-verbinden-2,231,Gothic,826-verbinden,ga-widan,gawidan,ɡ a w ɪ ð a n,,557564,,,^ gawidan $,default,verbinden; zusammenbinden,verbinden-3,3533-gawidan
+Gothic-225-gesprach-1,232,Gothic,225-gesprach,gawaurdi,gawaurdi,ɡ a w ɔ r d ɪ,,557564,,,^ gawaurdi $,default,Gespräch,Gesprach-1,1146-gawaurdi
+Gothic-274-ecke-1,235,Gothic,274-ecke,waihsta,waihsta,w ɛ h s t a,,557564,,,^ waihsta $,default,Winkel;  Ecke,Ecke-1,3388-waihsta
+Gothic-560-richtig-1,236,Gothic,560-richtig,raihtaba,raihtaba,r ɛ h t a β a,,557564,,,^ raihtaba $,default,recht;  richtig,richtig-1,2343-raihtaba
+Gothic-1004-zahlen-1,238,Gothic,1004-zahlen,ga-raþjan,garaþjan,ɡ a r a θ j a n,,557564,,,^ garaþjan $,default,zählen,zahlen-1,2350-garajan
+Gothic-430-land-1,241,Gothic,430-land,land,land,l a n d,,557564,,,^ land $,default,Land;  Gegend,Land-2,1795-land
+Gothic-767-kriechen-1,246,Gothic,767-kriechen,sliupan,sliupan,s l ɪ u p a n,,557564,,,^ sliupan $,default,schleichen;  schlüpfen,schleichen-1,2668-sliupan
+Gothic-260-kreuz-1,247,Gothic,260-kreuz,galga,galga,ɡ a l ɡ a,,557564,,,^ galga $,default,Pfahl;  Kreuz,Kreuz-1,1050-galga
+Gothic-793-weinen-1,250,Gothic,793-weinen,qainon,qainon,kʷ ɛ n o n,,557564,,,^ qainon $,default,weinen;  trauern,weinen-2,2284-qainon
+Gothic-793-weinen-2,251,Gothic,793-weinen,tagrjan,tagrjan,t a ɣ r j a n,,557564,,,^ tagrjan $,default,weinen,weinen-3,2883-tagrjan
+Gothic-344-tasse-1,254,Gothic,344-tasse,stikls,stikls,s t ɪ k l̥ s,,557564,,,^ stikls $,default,Becher;  Kelch,Becher-1,2775-stikls
+Gothic-866-schneiden-1,256,Gothic,866-schneiden,sneiþan,sneiþan,s n i θ a n,,557564,,,^ sneiþan $,default,schneiden;  ernten,schneiden-1,2682-sneian
+Gothic-893-beschadigen-1,257,Gothic,893-beschadigen,ga-sleiþjan,gasleiþjan,ɡ a s l i θ j a n,,557564,,,^ gasleiþjan $,default,beschädigen,beschadigen-1,2660-gasleijan
+Gothic-444-schaden-1,259,Gothic,444-schaden,sleiþa,sleiþa,s l i θ a,,557564,,,^ sleiþa $,default,Schaden,Schaden-2,2658-sleia
+Gothic-444-schaden-2,260,Gothic,444-schaden,skaþjan,skaþjan,s k a θ j a n,,557564,,,^ skaþjan $,default,schaden,schaden-1,2615-skajan
+Gothic-923-tanzen-1,262,Gothic,923-tanzen,plinsjan,plinsjan,p l ɪ n s j a n,,557564,,,^ plinsjan $,default,tanzen,tanzen-1,2271-plinsjan
+Gothic-205-tochter-1,265,Gothic,205-tochter,dauhtar,dauhtar,d ɔ h t a r,,557564,,,^ dauhtar $,default,Tochter,Tochter-1,611-dauhtar
+Gothic-450-tag-1,266,Gothic,450-tag,dags,dags,d a ɣ s,,557564,,,^ dags $,default,Tag,Tag-1,587-dags
+Gothic-536-taub-1,267,Gothic,536-taub,daufs,daufs,d ɔ ɸ s,,557564,,,^ daufs $,default,taub;  verstockt,taub-1,610-daufs
+Gothic-550-lieb-1,268,Gothic,550-lieb,liufs*,liufs,l ɪ u ɸ s,,557564,,,^ liufs $,default,lieb,lieb-1,1894-liufs
+Gothic-412-tod-1,269,Gothic,412-tod,dauþus,dauþus,d ɔ θ u s,,557564,,,^ dauþus $,default,Tod,Tod-1,634-dauus
+Gothic-980-schmucken-1,272,Gothic,980-schmucken,fetjan,fetjan,ɸ e t j a n,,557564,,,^ fetjan $,default,schmücken,schmucken-1,800-fetjan
+Gothic-713-abnehmen-1,273,Gothic,713-abnehmen,minznan,minznan,m ɪ n z n a n,,557564,,,^ minznan $,default,abnehmen,abnehmen-1,2095-minznan
+Gothic-713-abnehmen-2,274,Gothic,713-abnehmen,af-niman,afniman,a ɸ n ɪ m a n,,557564,,,^ afniman $,default,wegnehmen; abnehmen,abnehmen-2,2207-afniman
+Gothic-929-verteidigen-1,275,Gothic,929-verteidigen,warjan,warjan,w a r j a n,,557564,,,^ warjan $,default,wehren,wehren-1,3466-warjan
+Gothic-416-gott-1,276,Gothic,416-gott,guþ,guþ,ɡ u θ,,557564,,,^ guþ $,default,Gott,Gott-1,1226-gu
+Gothic-896-zerstoren-1,278,Gothic,896-zerstoren,brikan,brikan,b r ɪ k a n,,557564,,,^ brikan $,default,brechen;  zerstören,zerstoren-1,563-brikan
+Gothic-896-zerstoren-2,279,Gothic,896-zerstoren,ga-tairan,gatairan,ɡ a t ɛ r a n,,557564,,,^ gatairan $,default,zerstören;  aufheben; zerreißen,zerstoren-2,2901-gatairan
+Gothic-549-geschickt-1,280,Gothic,549-geschickt,fagrs*,fagrs,ɸ a ɣ r̥ s,,557564,,,^ fagrs $,default,geschickt;  geeignet,geschickt-1,726-fagrs
+Gothic-750-sterben-1,281,Gothic,750-sterben,ga-dauþnan,gadauþnan,ɡ a ð ɔ θ n a n,,557564,,,^ gadauþnan $,default,sterben,sterben-1,630-gadaunan
+Gothic-750-sterben-2,282,Gothic,750-sterben,diwan,diwan,d ɪ w a n,,557564,,,^ diwan $,default,sterben,sterben-2,652-diwan
+Gothic-751-umkommen-1,284,Gothic,751-umkommen,fra-qistnan,fraqistnan,ɸ r a kʷ ɪ s t n a n,,557564,,,^ fraqistnan $,default,umkommen;  zugrunde gehn,umkommen-1,2305-fraqistnan
+Gothic-573-verschieden-1,285,Gothic,573-verschieden,aljaleiko,aljaleiko,a l j a l i k o,,557564,,,^ aljaleiko $,default,anders,anders-1,196-aljaleiko
+Gothic-573-verschieden-2,289,Gothic,573-verschieden,missaleiks,missaleiks,m ɪ sː a l i k s,,557564,,,^ missaleiks $,default,verschieden,verschieden-1,2097-missaleiks
+Gothic-840-graben-1,290,Gothic,840-graben,graban,graban,ɡ r a β a n,,557564,,,^ graban $,default,graben,graben-1,1188-graban
+Gothic-394-krankheit-1,295,Gothic,394-krankheit,sauhts*,sauhts,s ɔ h t s,,557564,,,^ sauhts $,default,Krankheit,Krankheit-1,2506-sauhts
+Gothic-394-krankheit-2,296,Gothic,394-krankheit,siukei,siukei,s ɪ u k i,,557564,,,^ siukei $,default,Krankheit,Krankheit-2,2586-siukei
+Gothic-342-geschirr-1,299,Gothic,342-geschirr,mats,mats,m a t s,,557564,,,^ mats $,default,Speise,Speise-1,2030-mats
+Gothic-881-teilen-1,303,Gothic,881-teilen,dailjan,dailjan,d ɛ l j a n,,557564,,,^ dailjan $,default,teilen;  zuteilen;  mitteilen,teilen-1,591-dailjan
+Gothic-812-tun-1,304,Gothic,812-tun,taujan,taujan,t ɔ j a n,,557564,,,^ taujan $,default,tun;  machen,tun-1,2917-taujan
+Gothic-812-tun-2,305,Gothic,812-tun,waurstwei,waurstwei,w ɔ r s t w i,,557564,,,^ waurstwei $,default,das Tun,dasTun-1,3488-waurstwei
+Gothic-139-hund-1,306,Gothic,139-hund,hunds,hunds,h u n d s,,557564,,,^ hunds $,default,Hund,Hund-1,1471-hunds
+Gothic-900-schenken-1,308,Gothic,900-schenken,fra-giban,fragiban,ɸ r a ɣ ɪ β a n,,557564,,,^ fragiban $,default,vergeben;  verleihn;  schenken,schenken-1,1164-fragiban
+Gothic-318-tur-1,309,Gothic,318-tur,daurons,daurons,d ɔ r o n s,,557564,,,^ daurons $,default,Tor;  Tür,Tur-1,624-daurons
+Gothic-318-tur-2,310,Gothic,318-tur,haurds,haurds,h ɔ r d s,,557564,,,^ haurds $,default,Tür,Tur-2,1336-haurds
+Gothic-616-hinab-1,311,Gothic,616-hinab,dalaþ,dalaþ,d a l a θ,,557564,,,^ dalaþ $,default,zu Tal;  abwärts;  nieder;  auf die Erde,abwarts-1,599-dala
+Gothic-736-trinken-1,316,Gothic,736-trinken,ga-drigkan,gadrigkan,ɡ a ð r ɪ ŋ k a n,,557564,,,^ gadrigkan $,default,trinken,trinken-1,679-gadrigkan
+Gothic-771-fahren-1,317,Gothic,771-fahren,farjan,farjan,ɸ a r j a n,,557564,,,^ farjan $,default,fahren,fahren-1,766-farjan
+Gothic-953-treiben-1,319,Gothic,953-treiben,dreiban,dreiban,d r i β a n,,557564,,,^ dreiban $,default,treiben,treiben-2,675-dreiban
+Gothic-67-staub-1,325,Gothic,67-staub,mulda,mulda,m u l d a,,557564,,,^ mulda $,default,Staub,Staub-1,2126-mulda
+Gothic-67-staub-2,326,Gothic,67-staub,stubjus,stubjus,s t u β j u s,,557564,,,^ stubjus $,default,Staub,Staub-2,2792-stubjus
+Gothic-945-wohnen-1,327,Gothic,945-wohnen,bauan,bauan,b ɔ a n,,557564,,,^ bauan $,default,wohnen;  bewohnen,wohnen-1,472-bauan
+Gothic-2-ohr-1,331,Gothic,2-ohr,auso,auso,ɔ s o,,557564,,,^ auso $,default,Ohr,Ohr-1,384-auso
+Gothic-66-erde-1,332,Gothic,66-erde,airþa,airþa,ɛ r θ a,,557564,,,^ airþa $,default,Erde;  Land,Erde-1,133-aira
+Gothic-737-essen-1,334,Gothic,737-essen,itan,itan,ɪ t a n,,557564,,,^ itan $,default,essen,essen-1,1602-itan
+Gothic-737-essen-2,335,Gothic,737-essen,matjan,matjan,m a t j a n,,557564,,,^ matjan $,default,essen,essen-2,2028-matjan
+Gothic-660-acht-1,339,Gothic,660-acht,ahtau,ahtau,a h t ɔ,,557564,,,^ ahtau $,default,acht,acht-1,72-ahtau
+Gothic-671-achtzig-1,340,Gothic,671-achtzig,ahtautehund,ahtautehund,a h t ɔ t e h u n d,,557564,,,^ ahtautehund $,default,achtzig,achtzig-1,74-ahtautehund
+Gothic-663-elf-1,343,Gothic,663-elf,ainlif*,ainlif,ɛ n l ɪ ɸ,,557564,,,^ ainlif $,default,elf,elf-1,112-ainlif
+Gothic-511-leer-1,347,Gothic,511-leer,laus,laus,l ɔ s,,557564,,,^ laus $,default,leer; los,leer-2,1820-laus
+Gothic-276-ende-1,348,Gothic,276-ende,andeis,andeis,a n d i s,,557564,,,^ andeis $,default,Ende,Ende-1,273-andeis
+Gothic-276-ende-2,349,Gothic,276-ende,ustauhts,ustauhts,u s t ɔ h t s,,557564,,,^ ustauhts $,default,Ende;  Erfüllung; Vollendung;  Vervollkommnung,Ende-2,3348-ustauhts
+Gothic-1016-ertragen-1,352,Gothic,1016-ertragen,ga-beidan,gabeidan,ɡ a β i ð a n,,557564,,,^ gabeidan $,default,ertragen; ausharren,ertragen-2,485-gabeidan
+Gothic-1016-ertragen-2,353,Gothic,1016-ertragen,us-þulan,usþulan,u s θ u l a n,,557564,,,^ usþulan $,default,ertragen; erdulden,ertragen-3,3125-usulan
+Gothic-436-feind-1,354,Gothic,436-feind,fijands,fijands,ɸ ɪ j a n d s,,557564,,,^ fijands $,default,Feind,Feind-1,810-fijands
+Gothic-453-abend-1,357,Gothic,453-abend,andanahti,andanahti,a n d a n a h t ɪ,,557564,,,^ andanahti $,default,Abend,Abend-1,253-andanahti
+Gothic-543-bose-1,359,Gothic,543-bose,ubils,ubils,u β ɪ l s,,557564,,,^ ubils $,default,übel;  böse,bose-1,3141-ubils
+Gothic-543-bose-2,361,Gothic,543-bose,unþiuþ,unþiuþ,u n θ ɪ u θ,,557564,,,^ unþiuþ $,default,das Böse,dasBose-1,3289-uniu
+Gothic-1-auge-1,363,Gothic,1-auge,augo,augo,ɔ ɣ o,,557564,,,^ augo $,default,Auge,Auge-1,361-augo
+Gothic-9-gesicht-1,364,Gothic,9-gesicht,andaugi,andaugi,a n d ɔ ɣ ɪ,,557564,,,^ andaugi $,default,Antlitz,Antlitz-1,263-andaugi
+Gothic-696-fallen-1,368,Gothic,696-fallen,driusan,driusan,d r ɪ u s a n,,557564,,,^ driusan $,default,fallen,fallen-1,681-driusan
+Gothic-570-bekannt-1,370,Gothic,570-bekannt,kunþs,kunþs,k u n θ s,,557564,,,^ kunþs $,default,kund;  bekannt,bekannt-1,1752-kuns
+Gothic-198-familie-1,373,Gothic,198-familie,gards,gards,ɡ a r d s,,557564,,,^ gards $,default,Haus;  Hauswesen;  Familie,Familie-1,1093-gards
+Gothic-575-fern-1,374,Gothic,575-fern,fairra,fairra,ɸ ɛ rː a,,557564,,,^ fairra $,default,fern,fern-1,752-fairra
+Gothic-355-fett-1,376,Gothic,355-fett,smairþr*,smairþr,s m ɛ r θ r̥,,557564,,,^ smairþr $,default,Fett,Fett-1,2670-smairr
+Gothic-202-vater-1,377,Gothic,202-vater,abba,abba,a bː a,,557564,,,^ abba $,default,Vater,Vater-1,3-abba
+Gothic-202-vater-2,379,Gothic,202-vater,fadar,fadar,ɸ a ð a r,,557564,,,^ fadar $,default,Vater,Vater-3,720-fadar
+Gothic-446-schuld-1,380,Gothic,446-schuld,dulgis,dulgis,d u l ɡ ɪ s,,557564,,,^ dulgis $,default,Schuld,Schuld-1,699-dulgis
+Gothic-446-schuld-2,381,Gothic,446-schuld,fairina,fairina,ɸ ɛ r ɪ n a,,557564,,,^ fairina $,default,Schuld;  Grund;  Vorwurf,Schuld-2,747-fairina
+Gothic-796-sichfurchten-1,382,Gothic,796-sichfurchten,faurhtjan,faurhtjan,ɸ ɔ r h t j a n,,557564,,,^ faurhtjan $,default,sich fürchten,sichfurchten-1,789-faurhtjan
+Gothic-320-zaun-1,387,Gothic,320-zaun,faþa,faþa,ɸ a θ a,,557564,,,^ faþa $,default,Zaun,Zaun-1,772-faa
+Gothic-397-fieber-1,388,Gothic,397-fieber,brinno,brinno,b r ɪ nː o,,557564,,,^ brinno $,default,Fieber,Fieber-1,568-brinno
+Gothic-397-fieber-2,389,Gothic,397-fieber,heito,heito,h i t o,,557564,,,^ heito $,default,Fieber,Fieber-2,1350-heito
+Gothic-871-fullen-1,391,Gothic,871-fullen,fula,fula,ɸ u l a,,557564,,,^ fula $,default,Füllen,Fullen-1,915-fula
+Gothic-871-fullen-2,392,Gothic,871-fullen,fulljan,fulljan,ɸ u lː j a n,,557564,,,^ fulljan $,default,füllen,fullen-1,925-fulljan
+Gothic-786-finden-1,393,Gothic,786-finden,bi-gitan,bigitan,b ɪ ɣ ɪ t a n,,557564,,,^ bigitan $,default,finden,finden-1,1175-bigitan
+Gothic-30-finger-1,395,Gothic,30-finger,figgrs,figgrs,ɸ ɪ ŋ ɡ r̥ s,,557564,,,^ figgrs $,default,Finger,Finger-1,808-figgrs
+Gothic-70-feuer-1,400,Gothic,70-feuer,fon,fon,ɸ o n,,557564,,,^ fon $,default,Feuer,Feuer-1,849-fon
+Gothic-70-feuer-2,401,Gothic,70-feuer,"funins, funin",funins,ɸ u n ɪ n s,,557564,,,^ funins $,default,Feuer,Feuer-2,935-funinsfunin
+Gothic-160-fisch-1,403,Gothic,160-fisch,fisks,fisks,ɸ ɪ s k s,,557564,,,^ fisks $,default,Fisch,Fisch-1,838-fisks
+Gothic-950-fischen-1,404,Gothic,950-fischen,fiskon,fiskon,ɸ ɪ s k o n,,557564,,,^ fiskon $,default,fischen,fischen-1,837-fiskon
+Gothic-657-funf-1,405,Gothic,657-funf,fimf,fimf,ɸ ɪ m ɸ,,557564,,,^ fimf $,default,fünf,funf-1,832-fimf
+Gothic-492-flach-1,406,Gothic,492-flach,ibns,ibns,ɪ β n̥ s,,557564,,,^ ibns $,default,eben;  flach,flach-1,1551-ibns
+Gothic-133-herde-1,408,Gothic,133-herde,hairda,hairda,h ɛ r d a,,557564,,,^ hairda $,default,Herde,Herde-1,1263-hairda
+Gothic-133-herde-2,410,Gothic,133-herde,wriþus,wriþus,w r ɪ θ u s,,557564,,,^ wriþus $,default,Herde,Herde-3,3619-wrius
+Gothic-109-blume-1,413,Gothic,109-blume,bloma*,bloma,b l o m a,,557564,,,^ bloma $,default,Blume,Blume-1,544-bloma
+Gothic-87-schaum-1,416,Gothic,87-schaum,ƕaþo,ƕaþo,ʍ a θ o,,557564,,,^ ƕaþo $,default,Schaum,Schaum-1,1506-ao
+Gothic-348-nahrung-1,418,Gothic,348-nahrung,fodeins,fodeins,ɸ o ð i n s,,557564,,,^ fodeins $,default,Nahrung,Nahrung-1,846-fodeins
+Gothic-348-nahrung-2,419,Gothic,348-nahrung,usfodeins,usfodeins,u s ɸ o ð i n s,,557564,,,^ usfodeins $,default,Nahrung,Nahrung-2,3329-usfodeins
+Gothic-34-fu-1,420,Gothic,34-fu,fotus,fotus,ɸ o t u s,,557564,,,^ fotus $,default,Fuß,Fu-1,852-fotus
+Gothic-182-spur-1,421,Gothic,182-spur,laists,laists,l ɛ s t s,,557564,,,^ laists $,default,Spur,Spur-1,1790-laists
+Gothic-572-fremd-1,424,Gothic,572-fremd,framaþeis*,framaþeis,ɸ r a m a θ i s,,557564,,,^ framaþeis $,default,fremd;  einer Sache,fremd-1,867-framaeis
+Gothic-1002-vergessen-1,426,Gothic,1002-vergessen,ufar-miton,ufarmiton,u ɸ a r m ɪ t o n,,557564,,,^ ufarmiton $,default,vergessen,vergessen-1,2107-ufarmiton
+Gothic-1002-vergessen-2,427,Gothic,1002-vergessen,ufar-munnon,ufarmunnon,u ɸ a r m u nː o n,,557564,,,^ ufarmunnon $,default,vergessen,vergessen-2,2134-ufarmunnon
+Gothic-656-vier-1,432,Gothic,656-vier,fidwor,fidwor,ɸ ɪ ð w o r,,557564,,,^ fidwor $,default,vier,vier-1,805-fidwor
+Gothic-144-fuchs-1,433,Gothic,144-fuchs,fauho,fauho,ɸ ɔ h o,,557564,,,^ fauho $,default,Fuchs,Fuchs-1,773-fauho
+Gothic-251-freund-1,437,Gothic,251-freund,frijonds,frijonds,ɸ r ɪ j o n d s,,557564,,,^ frijonds $,default,Freund,Freund-1,898-frijonds
+Gothic-79-frost-1,440,Gothic,79-frost,friusa,friusa,ɸ r ɪ u s a,,557564,,,^ friusa $,default,Frost,Frost-1,905-friusa
+Gothic-319-tor-1,446,Gothic,319-tor,daur,daur,d ɔ r,,557564,,,^ daur $,default,Tor,Tor-1,619-daur
+Gothic-319-tor-2,447,Gothic,319-tor,daurons,daurons,d ɔ r o n s,,557564,,,^ daurons $,default,Tor;  Tür,Tor-2,624-daurons
+Gothic-947-sammeln-1,448,Gothic,947-sammeln,huhjan,huhjan,h u h j a n,,557564,,,^ huhjan $,default,häufen;  sammeln,sammeln-1,1458-huhjan
+Gothic-947-sammeln-2,449,Gothic,947-sammeln,lisan,lisan,l ɪ s a n,,557564,,,^ lisan $,default,sammeln; lesen,sammeln-2,1883-lisan
+Gothic-886-erhalten-1,452,Gothic,886-erhalten,niman,niman,n ɪ m a n,,557564,,,^ niman $,default,fangen; nehmen;  annehmen;  aufnehmen;  empfangen,empfangen-1,2206-niman
+Gothic-886-erhalten-2,454,Gothic,886-erhalten,ga-staldan,gastaldan,ɡ a s t a l d a n,,557564,,,^ gastaldan $,default,erwerben;  bekommen,bekommen-1,2744-gastaldan
+Gothic-247-geschenk-1,456,Gothic,247-geschenk,giba,giba,ɡ ɪ β a,,557564,,,^ giba $,default,Gabe;  Geschenk,Geschenk-1,1159-giba
+Gothic-247-geschenk-2,457,Gothic,247-geschenk,maiþms,maiþms,m ɛ θ m̥ s,,557564,,,^ maiþms $,default,Geschenk,Geschenk-2,1972-maims
+Gothic-197-madchen-1,458,Gothic,197-madchen,mawi,mawi,m a w ɪ,,557564,,,^ mawi $,default,Mädchen,Madchen-1,2047-mawi
+Gothic-197-madchen-2,459,Gothic,197-madchen,mawilo,mawilo,m a w ɪ l o,,557564,,,^ mawilo $,default,Mädchen,Madchen-2,2048-mawilo
+Gothic-898-geben-1,460,Gothic,898-geben,giban,giban,ɡ ɪ β a n,,557564,,,^ giban $,default,geben,geben-1,1160-giban
+Gothic-186-gold-1,464,Gothic,186-gold,gulþ,gulþ,ɡ u l θ,,557564,,,^ gulþ $,default,Gold,Gold-1,1218-gul
+Gothic-558-gut-1,465,Gothic,558-gut,goþs,goþs,ɡ o θ s,,557564,,,^ goþs $,default,gut,gut-1,1186-gos
+Gothic-558-gut-2,468,Gothic,558-gut,wáila,waila,w ɛ l a,,557564,,,^ waila $,default,wohl;  gut,gut-4,3392-waila
+Gothic-176-korn-1,471,Gothic,176-korn,kaurn,kaurn,k ɔ r n̥,,557564,,,^ kaurn $,default,Getreide,Getreide-1,1702-kaurn
+Gothic-176-korn-2,472,Gothic,176-korn,kaurno,kaurno,k ɔ r n o,,557564,,,^ kaurno $,default,Korn,Korn-1,1703-kaurno
+Gothic-200-gromutter-1,474,Gothic,200-gromutter,awo,awo,a w o,,557564,,,^ awo $,default,Großmutter,Gromutter-1,392-awo
+Gothic-110-gras-1,475,Gothic,110-gras,gras,gras,ɡ r a s,,557564,,,^ gras $,default,Gras;  Kraut,Gras-1,1195-gras
+Gothic-413-grab-1,477,Gothic,413-grab,hlaiw,hlaiw,h l ɛ w,,557564,,,^ hlaiw $,default,Grab,Grab-1,1386-hlaiw
+Gothic-215-kummer-1,480,Gothic,215-kummer,kara,kara,k a r a,,557564,,,^ kara $,default,Sorge,Sorge-1,1679-kara
+Gothic-215-kummer-2,481,Gothic,215-kummer,saurga,saurga,s ɔ r ɡ a,,557564,,,^ saurga $,default,Sorge;  Kummer,Sorge-2,2514-saurga
+Gothic-716-wachsen-1,485,Gothic,716-wachsen,alan,alan,a l a n,,557564,,,^ alan $,default,wachsen,wachsen-1,184-alan
+Gothic-716-wachsen-2,487,Gothic,716-wachsen,wahsjan,wahsjan,w a h s j a n,,557564,,,^ wahsjan $,default,wachsen,wachsen-3,3378-wahsjan
+Gothic-927-bewachen-1,488,Gothic,927-bewachen,fastan,fastan,ɸ a s t a n,,557564,,,^ fastan $,default,halten;  festhalten;  beobachten;  bewachen,bewachen-1,769-fastan
+Gothic-927-bewachen-2,489,Gothic,927-bewachen,wahtwom,wahtwom,w a h t w o m,,557564,,,^ wahtwom $,default,Wache,Wache-1,3382-wahtwom
+Gothic-11-haar-1,492,Gothic,11-haar,tagl,tagl,t a ɣ l̥,,557564,,,^ tagl $,default,Haar,Haar-1,2881-tagl
+Gothic-258-halfte-1,493,Gothic,258-halfte,halba,halba,h a l b a,,557564,,,^ halba $,default,Seite; Hälfte,Halfte-1,1284-halba
+Gothic-28-hand-1,495,Gothic,28-hand,handus,handus,h a n d u s,,557564,,,^ handus $,default,Hand,Hand-1,1304-handus
+Gothic-680-hangen-1,497,Gothic,680-hangen,hāhan,hahan,h a h a n,,557564,,,^ hahan $,default,hängen; hangen;  in der Schwebe lassen,hangen-1,1245-hahan
+Gothic-494-hart-1,501,Gothic,494-hart,hardus,hardus,h a r d u s,,557564,,,^ hardus $,default,hart;  streng,hart-1,1309-hardus
+Gothic-622-kaum-1,502,Gothic,622-kaum,halisaiw,halisaiw,h a l ɪ s ɛ w,,557564,,,^ halisaiw $,default,kaum je;  kaum,kaum-1,1288-halisaiw
+Gothic-177-heu-1,504,Gothic,177-heu,hawi,hawi,h a w ɪ,,557564,,,^ hawi $,default,Heu,Heu-1,1347-hawi
+Gothic-642-er-1,505,Gothic,642-er,"is M, si F, ita N",is_M,ɪ s m,,557564,,,^ is_M $,default,er;  der,er-1,1597-ismsifitan
+Gothic-393-gesundheit-1,507,Gothic,393-gesundheit,hails,hails,h ɛ l s,,557564,,,^ hails $,default,heil;  gesund,gesund-1,1259-hails
+Gothic-393-gesundheit-2,508,Gothic,393-gesundheit,swinþs,swinþs,s w ɪ n θ s,,557564,,,^ swinþs $,default,stark;  gesund;  kräftig,gesund-2,2869-swins
+Gothic-803-horen-1,510,Gothic,803-horen,hausjan,hausjan,h ɔ s j a n,,557564,,,^ hausjan $,default,hören,horen-1,1342-hausjan
+Gothic-803-horen-2,511,Gothic,803-horen,hausjon,hausjon,h ɔ s j o n,,557564,,,^ hausjon $,default,hören,horen-2,1346-hausjon
+Gothic-46-herz-1,512,Gothic,46-herz,hairto,hairto,h ɛ r t o,,557564,,,^ hairto $,default,Herz,Herz-1,1267-hairto
+Gothic-46-herz-2,513,Gothic,46-herz,hairþra,hairþra,h ɛ r θ r a,,557564,,,^ hairþra $,default,Herz; Eingeweide,Herz-2,1268-hairra
+Gothic-500-schwer-1,515,Gothic,500-schwer,kaurjos,kaurjos,k ɔ r j o s,,557564,,,^ kaurjos $,default,schwer;  lästig,schwer-1,1701-kaurjos
+Gothic-35-ferse-1,516,Gothic,35-ferse,fairzna,fairzna,ɸ ɛ r z n a,,557564,,,^ fairzna $,default,Ferse,Ferse-1,755-fairzna
+Gothic-282-hohe-1,517,Gothic,282-hohe,hauhei,hauhei,h ɔ h i,,557564,,,^ hauhei $,default,Höhe,Hohe-1,1316-hauhei
+Gothic-282-hohe-2,518,Gothic,282-hohe,hauhiþa,hauhiþa,h ɔ h ɪ θ a,,557564,,,^ hauhiþa $,default,Höhe,Hohe-2,1321-hauhia
+Gothic-952-huten-1,520,Gothic,952-huten,haldan,haldan,h a l d a n,,557564,,,^ haldan $,default,hüten;  weiden,huten-1,1286-haldan
+Gothic-606-hier-1,523,Gothic,606-hier,her,her,h e r,,557564,,,^ her $,default,hier;  her,hier-1,1356-her
+Gothic-941-verbergen-1,524,Gothic,941-verbergen,filhan,filhan,ɸ ɪ l h a n,,557564,,,^ filhan $,default,verbergen,verbergen-1,815-filhan
+Gothic-617-oben-1,526,Gothic,617-oben,háuhs,hauhs,h ɔ h s,,557564,,,^ hauhs $,default,hoch,hoch-1,1326-hauhs
+Gothic-617-oben-2,527,Gothic,617-oben,iupa,iupa,ɪ u p a,,557564,,,^ iupa $,default,oben,oben-1,1615-iupa
+Gothic-94-hugel-1,528,Gothic,94-hugel,hlaine,hlaine,h l ɛ n e,,557564,,,^ hlaine $,default,Hügel,Hugel-1,1385-hlaine
+Gothic-607-hierhin-1,530,Gothic,607-hierhin,Her,Her,h e r,,557564,,,^ Her $,default,Her,Her-1,1355-her
+Gothic-607-hierhin-2,531,Gothic,607-hierhin,her,her,h e r,,557564,,,^ her $,default,hier;  her,her-1,1356-her
+Gothic-849-halten-1,533,Gothic,849-halten,fastan,fastan,ɸ a s t a n,,557564,,,^ fastan $,default,halten;  festhalten;  beobachten;  bewachen,halten-1,769-fastan
+Gothic-277-loch-1,535,Gothic,277-loch,þairko,þairko,θ ɛ r k o,,557564,,,^ þairko $,default,Loch;  Nadelöhr,Loch-1,3006-airko
+Gothic-360-honig-1,537,Gothic,360-honig,miliþ,miliþ,m ɪ l ɪ θ,,557564,,,^ miliþ $,default,Honig,Honig-1,2089-mili
+Gothic-307-haus-1,543,Gothic,307-haus,hrot,hrot,h r o t,,557564,,,^ hrot $,default,Haus; Dach,Haus-2,1444-hrot
+Gothic-307-haus-2,544,Gothic,307-haus,razn,razn,r a z n̥,,557564,,,^ razn $,default,Haus,Haus-3,2359-razn
+Gothic-650-wie-1,545,Gothic,650-wie,ƕaiwa,ƕaiwa,ʍ ɛ w a,,557564,,,^ ƕaiwa $,default,wie,wie-1,1488-aiwa
+Gothic-650-wie-2,547,Gothic,650-wie,swe,swe,s w e,,557564,,,^ swe $,default,wie,wie-3,2838-swe
+Gothic-673-hundert-1,550,Gothic,673-hundert,taihuntehund,taihuntehund,t ɛ h u n t e h u n d,,557564,,,^ taihuntehund $,default,Hundert,Hundert-1,2891-taihuntehund
+Gothic-50-hunger-1,551,Gothic,50-hunger,gredus,gredus,ɡ r e ð u s,,557564,,,^ gredus $,default,Hunger,Hunger-1,1198-gredus
+Gothic-50-hunger-2,552,Gothic,50-hunger,huhrus,huhrus,h u h r u s,,557564,,,^ huhrus $,default,Hunger;  Hungersnot,Hunger-2,1459-huhrus
+Gothic-210-ehemann-1,555,Gothic,210-ehemann,aba,aba,a β a,,557564,,,^ aba $,default,Ehemann,Ehemann-1,2-aba
+Gothic-640-ich-1,556,Gothic,640-ich,ik,ik,ɪ k,,557564,,,^ ik $,default,ich,ich-1,1564-ik
+Gothic-640-ich-2,557,Gothic,640-ich,ikei,ikei,ɪ k i,,557564,,,^ ikei $,default,der ich,derich-1,1565-ikei
+Gothic-584-aufeinmal-1,561,Gothic,584-aufeinmal,sunsaiw,sunsaiw,s u n s ɛ w,,557564,,,^ sunsaiw $,default,sogleich,sogleich-1,2807-sunsaiw
+Gothic-838-verbessern-1,562,Gothic,838-verbessern,ga-botjan,gabotjan,ɡ a β o t j a n,,557564,,,^ gabotjan $,default,verbessern;  herstellen,verbessern-1,554-gabotjan
+Gothic-630-vor-1,563,Gothic,630-vor,faura,faura,ɸ ɔ r a,,557564,,,^ faura $,default,vor,vor-1,775-faura
+Gothic-629-vergebens-1,564,Gothic,629-vergebens,sware,sware,s w a r e,,557564,,,^ sware $,default,umsonst; ohne Grund;  vergebens,vergebens-1,2831-sware
+Gothic-714-zunehmen-1,565,Gothic,714-zunehmen,ga-aukan,gaaukan,ɡ a ɔ k a n,,557564,,,^ gaaukan $,default,sich vermehren;  zunehmen,zunehmen-1,373-gaaukan
+Gothic-714-zunehmen-2,566,Gothic,714-zunehmen,bi-auknan,biauknan,b ɪ ɔ k n a n,,557564,,,^ biauknan $,default,sich vermehren;  zunehmen,zunehmen-2,375-biauknan
+Gothic-916-einladen-1,568,Gothic,916-einladen,ga-laþon,galaþon,ɡ a l a θ o n,,557564,,,^ galaþon $,default,zusammenberufen;  einladen,einladen-1,1805-galaon
+Gothic-185-eisen-1,569,Gothic,185-eisen,eisarn,eisarn,i s a r n̥,,557564,,,^ eisarn $,default,Eisen,Eisen-1,713-eisarn
+Gothic-958-gieen-1,570,Gothic,958-gieen,giutan,giutan,ɡ ɪ u t a n,,557564,,,^ giutan $,default,gießen,gieen-1,1176-giutan
+Gothic-212-freude-1,577,Gothic,212-freude,ansts,ansts,a n s t s,,557564,,,^ ansts $,default,Dank; Freude;  Gnade;  Gunst,Freude-1,287-ansts
+Gothic-764-springen-1,579,Gothic,764-springen,laikan,laikan,l ɛ k a n,,557564,,,^ laikan $,default,hüpfen;  springen,hupfen-1,1776-laikan
+Gothic-764-springen-2,580,Gothic,764-springen,laikan,laikan,l ɛ k a n,,557564,,,^ laikan $,default,hüpfen;  springen,springen-1,1776-laikan
+Gothic-876-aufbewahren-1,582,Gothic,876-aufbewahren,ga-fastan,gafastan,ɡ a ɸ a s t a n,,557564,,,^ gafastan $,default,bewahren; behalten,behalten-1,770-gafastan
+Gothic-346-kessel-1,583,Gothic,346-kessel,katile,katile,k a t ɪ l e,,557564,,,^ katile $,default,Kessel,Kessel-1,1687-katile
+Gothic-935-treten-1,584,Gothic,935-treten,trudan,trudan,t r u ð a n,,557564,,,^ trudan $,default,treten,treten-1,2971-trudan
+Gothic-944-toten-1,585,Gothic,944-toten,dauþjan,dauþjan,d ɔ θ j a n,,557564,,,^ dauþjan $,default,töten,toten-1,627-daujan
+Gothic-944-toten-2,588,Gothic,944-toten,us-qiman,usqiman,u s kʷ ɪ m a n,,557564,,,^ usqiman $,default,umbringen;  den Tod geben,umbringen-1,2297-usqiman
+Gothic-432-konig-1,592,Gothic,432-konig,þiudans,þiudans,θ ɪ u ð a n s,,557564,,,^ þiudans $,default,König,Konig-1,3072-iudans
+Gothic-36-knie-1,594,Gothic,36-knie,kniu*,kniu,k n ɪ u,,557564,,,^ kniu $,default,Knie,Knie-1,1724-kniu
+Gothic-1000-wissen-1,599,Gothic,1000-wissen,kann,kann,k a nː,,557564,,,^ kann $,default,kennen;  wissen,wissen-1,1674-kann
+Gothic-1000-wissen-2,600,Gothic,1000-wissen,kunnan,kunnan,k u nː a n,,557564,,,^ kunnan $,default,kennen;  wissen,wissen-2,1743-kunnan
+Gothic-89-see-1,604,Gothic,89-see,marisaiws*,marisaiws,m a r ɪ s ɛ w s,,557564,,,^ marisaiws $,default,See,See-1,2015-marisaiws
+Gothic-89-see-2,605,Gothic,89-see,saiws,saiws,s ɛ w s,,557564,,,^ saiws $,default,See,See-2,2445-saiws
+Gothic-233-sprache-1,606,Gothic,233-sprache,razda,razda,r a z d a,,557564,,,^ razda $,default,Sprache;  Sprechweise,Sprache-1,2358-razda
+Gothic-582-letzter-1,607,Gothic,582-letzter,aftuma,aftuma,a ɸ t u m a,,557564,,,^ aftuma $,default,letzter,letzter-1,40-aftuma
+Gothic-582-letzter-2,608,Gothic,582-letzter,aftumists,aftumists,a ɸ t u m ɪ s t s,,557564,,,^ aftumists $,default,letzter,letzter-2,41-aftumists
+Gothic-791-lachen-1,609,Gothic,791-lachen,hlahjan,hlahjan,h l a h j a n,,557564,,,^ hlahjan $,default,lachen,lachen-1,1382-hlahjan
+Gothic-824-legen-1,611,Gothic,824-legen,lagjan,lagjan,l a ɣ j a n,,557564,,,^ lagjan $,default,legen;  auflegen;  hinlegen,legen-1,1761-lagjan
+Gothic-545-faul-1,612,Gothic,545-faul,fūls,fuls,ɸ u l s,,557564,,,^ fuls $,default,faul,faul-1,934-fuls
+Gothic-545-faul-2,613,Gothic,545-faul,lats,lats,l a t s,,557564,,,^ lats $,default,faul; lässig,faul-2,1801-lats
+Gothic-913-leiten-1,614,Gothic,913-leiten,tiuhan,tiuhan,t ɪ u h a n,,557564,,,^ tiuhan $,default,ziehn;  führen,fuhren-1,2949-tiuhan
+Gothic-117-blatt-1,615,Gothic,117-blatt,laufs,laufs,l ɔ ɸ s,,557564,,,^ laufs $,default,Laub;  Blatt,Blatt-1,1812-laufs
+Gothic-774-weggehen-1,619,Gothic,774-weggehen,af-leiþan,afleiþan,a ɸ l i θ a n,,557564,,,^ afleiþan $,default,weggehn;  entweichen;  verreisen,weggehn-1,1850-afleian
+Gothic-774-weggehen-2,621,Gothic,774-weggehen,af-linnan,aflinnan,a ɸ l ɪ nː a n,,557564,,,^ aflinnan $,default,weggehn,weggehn-3,1882-aflinnan
+Gothic-281-lange-1,625,Gothic,281-lange,laggei,laggei,l a ŋ ɡ i,,557564,,,^ laggei $,default,Länge,Lange-1,1759-laggei
+Gothic-407-brief-1,626,Gothic,407-brief,aipistaule,aipistaule,ɛ p ɪ s t ɔ l e,,557564,,,^ aipistaule $,default,Brief,Brief-1,123-aipistaule
+Gothic-443-luge-1,629,Gothic,443-luge,galiug,galiug,ɡ a l ɪ u ɣ,,557564,,,^ galiug $,default,Lüge,Luge-1,1052-galiug
+Gothic-443-luge-2,630,Gothic,443-luge,liugn,liugn,l ɪ u ɣ n̥,,557564,,,^ liugn $,default,Lüge,Luge-2,1899-liugn
+Gothic-679-liegen-1,631,Gothic,679-liegen,ligan,ligan,l ɪ ɣ a n,,557564,,,^ ligan $,default,liegen,liegen-1,1877-ligan
+Gothic-411-leben-1,632,Gothic,411-leben,libains,libains,l ɪ β ɛ n s,,557564,,,^ libains $,default,Leben,Leben-1,1873-libains
+Gothic-847-hochheben-1,633,Gothic,847-hochheben,hafjan,hafjan,h a ɸ j a n,,557564,,,^ hafjan $,default,heben,heben-1,1234-hafjan
+Gothic-71-licht-1,635,Gothic,71-licht,liuhaþ,liuhaþ,l ɪ u h a θ,,557564,,,^ liuhaþ $,default,Licht,Licht-1,1906-liuha
+Gothic-71-licht-2,636,Gothic,71-licht,lukarn,lukarn,l u k a r n̥,,557564,,,^ lukarn $,default,Licht; Leuchte,Licht-2,1924-lukarn
+Gothic-7-lippe-1,639,Gothic,7-lippe,wairilom,wairilom,w ɛ r ɪ l o m,,557564,,,^ wairilom $,default,Lippe,Lippe-1,3406-wairilom
+Gothic-292-last-1,642,Gothic,292-last,kauriþa,kauriþa,k ɔ r ɪ θ a,,557564,,,^ kauriþa $,default,Last,Last-1,1697-kauria
+Gothic-483-lang-1,644,Gothic,483-lang,laggs,laggs,l a ŋ ɡ s,,557564,,,^ laggs $,default,lang,lang-1,1760-laggs
+Gothic-217-lust-1,645,Gothic,217-lust,gabaurjoþus,gabaurjoþus,ɡ a β ɔ r j o θ u s,,557564,,,^ gabaurjoþus $,default,Lust,Lust-1,948-gabaurjous
+Gothic-217-lust-2,646,Gothic,217-lust,lustus,lustus,l u s t u s,,557564,,,^ lustus $,default,Lust;  Begierde,Lust-2,1933-lustus
+Gothic-785-suchen-1,648,Gothic,785-suchen,sokeins,sokeins,s o k i n s,,557564,,,^ sokeins $,default,das Suchen,dasSuchen-1,2700-sokeins
+Gothic-785-suchen-2,649,Gothic,785-suchen,sokjan,sokjan,s o k j a n,,557564,,,^ sokjan $,default,suchen,suchen-1,2701-sokjan
+Gothic-789-lieben-1,651,Gothic,789-lieben,frijaþwa,frijaþwa,ɸ r ɪ j a θ w a,,557564,,,^ frijaþwa $,default,Liebe,Liebe-1,894-frijawa
+Gothic-789-lieben-2,652,Gothic,789-lieben,frijon,frijon,ɸ r ɪ j o n,,557564,,,^ frijon $,default,lieben,lieben-1,896-frijon
+Gothic-615-unten-1,653,Gothic,615-unten,dalaþa,dalaþa,d a l a θ a,,557564,,,^ dalaþa $,default,unten,unten-1,600-dalaa
+Gothic-615-unten-2,654,Gothic,615-unten,dalaþro,dalaþro,d a l a θ r o,,557564,,,^ dalaþro $,default,unten; von unten,unten-2,601-dalaro
+Gothic-834-machen-1,656,Gothic,834-machen,taujan,taujan,t ɔ j a n,,557564,,,^ taujan $,default,tun;  machen,machen-1,2917-taujan
+Gothic-834-machen-2,657,Gothic,834-machen,waurkjan,waurkjan,w ɔ r k j a n,,557564,,,^ waurkjan $,default,machen;  wirken,machen-2,3480-waurkjan
+Gothic-193-mann-1,660,Gothic,193-mann,wair,wair,w ɛ r,,557564,,,^ wair $,default,Mann,Mann-2,3403-wair
+Gothic-193-mann-2,661,Gothic,193-mann,manna,manna,m a nː a,,557564,,,^ manna $,default,manna; Mensch;  mann,mann-1,2001-manna
+Gothic-1003-messen-1,669,Gothic,1003-messen,mitan,mitan,m ɪ t a n,,557564,,,^ mitan $,default,messen,messen-1,2102-mitan
+Gothic-350-fleisch-1,670,Gothic,350-fleisch,mammo,mammo,m a mː o,,557564,,,^ mammo $,default,Fleisch,Fleisch-1,1985-mammo
+Gothic-919-treffen-1,672,Gothic,919-treffen,niutan,niutan,n ɪ u t a n,,557564,,,^ niutan $,default,treffen;  erreichen;  einer Sache froh sein,treffen-1,2234-niutan
+Gothic-220-gedachtnis-1,674,Gothic,220-gedachtnis,gaminþi,gaminþi,ɡ a m ɪ n θ ɪ,,557564,,,^ gaminþi $,default,Erinnerung; Gedächtnis,Gedachtnis-1,1072-gamini
+Gothic-220-gedachtnis-2,675,Gothic,220-gedachtnis,gamunds,gamunds,ɡ a m u n d s,,557564,,,^ gamunds $,default,Gedächtnis; Andenken,Gedachtnis-2,1074-gamunds
+Gothic-269-mitte-1,679,Gothic,269-mitte,miduma*,miduma,m ɪ ð u m a,,557564,,,^ miduma $,default,Mitte,Mitte-1,2077-miduma
+Gothic-361-milch-1,680,Gothic,361-milch,miluks*,miluks,m ɪ l u k s,,557564,,,^ miluks $,default,Milch,Milch-1,2090-miluks
+Gothic-221-verstand-1,681,Gothic,221-verstand,aha,aha,a h a,,557564,,,^ aha $,default,Sinn;  Verstand,Verstand-1,63-aha
+Gothic-221-verstand-2,682,Gothic,221-verstand,fraþi,fraþi,ɸ r a θ ɪ,,557564,,,^ fraþi $,default,Sinn; Verstand,Verstand-2,877-frai
+Gothic-383-spiegel-1,685,Gothic,383-spiegel,skuggwa,skuggwa,s k u ɡ ɡ w a,,557564,,,^ skuggwa $,default,Spiegel,Spiegel-1,2641-skuggwa
+Gothic-422-geld-1,689,Gothic,422-geld,skatts,skatts,s k a tː s,,557564,,,^ skatts $,default,Geld;  Geldstück;  Mine,Geld-1,2612-skatts
+Gothic-456-monat-1,690,Gothic,456-monat,menoþs,menoþs,m e n o θ s,,557564,,,^ menoþs $,default,Monat,Monat-1,2062-menos
+Gothic-58-mond-1,691,Gothic,58-mond,mena,mena,m e n a,,557564,,,^ mena $,default,Mond,Mond-1,2061-mena
+Gothic-451-morgen-1,693,Gothic,451-morgen,maurgins,maurgins,m ɔ r ɡ ɪ n s,,557564,,,^ maurgins $,default,Morgen,Morgen-1,2042-maurgins
+Gothic-203-mutter-1,695,Gothic,203-mutter,aiþei,aiþei,ɛ θ i,,557564,,,^ aiþei $,default,Mutter,Mutter-1,144-aiei
+Gothic-96-berg-1,696,Gothic,96-berg,fairguni,fairguni,ɸ ɛ r ɡ u n ɪ,,557564,,,^ fairguni $,default,Berg,Berg-1,744-fairguni
+Gothic-4-mund-1,699,Gothic,4-mund,munþs,munþs,m u n θ s,,557564,,,^ munþs $,default,Mund,Mund-1,2136-muns
+Gothic-555-nackt-1,705,Gothic,555-nackt,naqaþs,naqaþs,n a kʷ a θ s,,557564,,,^ naqaþs $,default,nackt,nackt-1,2158-naqas
+Gothic-230-name-1,706,Gothic,230-name,namo,namo,n a m o,,557564,,,^ namo $,default,Name,Name-1,2154-namo
+Gothic-18-genick-1,707,Gothic,18-genick,†balsagga,balsagga,b a l s a ŋ ɡ a,,557564,,,^ balsagga $,default,Hals;  Nacken,Nacken-1,435-balsagga
+Gothic-18-genick-2,708,Gothic,18-genick,[halsagga],halsagga,h a l s a ŋ ɡ a,,557564,,,^ halsagga $,default,Hals;  Nacken,Nacken-2,1293-halsagga
+Gothic-486-schmal-1,709,Gothic,486-schmal,aggwus,aggwus,a ɡ ɡ w u s,,557564,,,^ aggwus $,default,eng,eng-1,47-aggwus
+Gothic-574-nah-1,711,Gothic,574-nah,neƕ,neƕ,n e ʍ,,557564,,,^ neƕ $,default,nahe,nahe-1,2189-ne
+Gothic-574-nah-2,712,Gothic,574-nah,neƕa,neƕa,n e ʍ a,,557564,,,^ neƕa $,default,nahe,nahe-2,2191-nea
+Gothic-17-hals-1,714,Gothic,17-hals,hals,hals,h a l s,,557564,,,^ hals $,default,Hals,Hals-2,1292-hals
+Gothic-17-hals-2,715,Gothic,17-hals,[halsagga],halsagga,h a l s a ŋ ɡ a,,557564,,,^ halsagga $,default,Hals;  Nacken,Hals-3,1293-halsagga
+Gothic-366-nadel-1,716,Gothic,366-nadel,neþla,neþla,n e θ l a,,557564,,,^ neþla $,default,Nadel,Nadel-1,2200-nela
+Gothic-330-netz-1,718,Gothic,330-netz,nati,nati,n a t ɪ,,557564,,,^ nati $,default,Netz,Netz-1,2164-nati
+Gothic-564-neu-1,720,Gothic,564-neu,niujis,niujis,n ɪ u j ɪ s,,557564,,,^ niujis $,default,neu,neu-1,2227-niujis
+Gothic-454-nacht-1,724,Gothic,454-nacht,nahts,nahts,n a h t s,,557564,,,^ nahts $,default,Nacht,Nacht-1,2146-nahts
+Gothic-661-neun-1,725,Gothic,661-neun,niun,niun,n ɪ u n,,557564,,,^ niun $,default,neun,neun-1,2231-niun
+Gothic-672-neunzig-1,726,Gothic,672-neunzig,niuntehund,niuntehund,n ɪ u n t e h u n d,,557564,,,^ niuntehund $,default,neunzig,neunzig-1,2233-niuntehund
+Gothic-238-larm-1,727,Gothic,238-larm,auhjodus,auhjodus,ɔ h j o ð u s,,557564,,,^ auhjodus $,default,Lärm,Larm-1,362-auhjodus
+Gothic-181-schlinge-1,728,Gothic,181-schlinge,hlamma,hlamma,h l a mː a,,557564,,,^ hlamma $,default,Schlinge,Schlinge-1,1388-hlamma
+Gothic-181-schlinge-2,729,Gothic,181-schlinge,wruggo,wruggo,w r u ŋ ɡ o,,557564,,,^ wruggo $,default,Schlinge,Schlinge-2,3623-wruggo
+Gothic-620-nicht-1,734,Gothic,620-nicht,nei,nei,n i,,557564,,,^ nei $,default,nicht,nicht-1,2195-nei
+Gothic-620-nicht-2,736,Gothic,620-nicht,nih,nih,n ɪ h,,557564,,,^ nih $,default,nicht; und nicht;  auch nicht,nicht-3,2204-nih
+Gothic-995-bemerken-1,738,Gothic,995-bemerken,gaumjan,gaumjan,ɡ ɔ m j a n,,557564,,,^ gaumjan $,default,bemerken,bemerken-1,1132-gaumjan
+Gothic-472-november-1,739,Gothic,472-november,Naubaimbair,Naubaimbair,n ɔ β ɛ m b ɛ r,,557564,,,^ Naubaimbair $,default,November,November-1,2168-naubaimbair
+Gothic-590-jetzt-1,740,Gothic,590-jetzt,nu,nu,n u,,557564,,,^ nu $,default,nun;  jetzt,jetzt-1,2239-nu
+Gothic-53-geruch-1,743,Gothic,53-geruch,dauns,dauns,d ɔ n s,,557564,,,^ dauns $,default,Geruch,Geruch-1,614-dauns
+Gothic-624-so-1,744,Gothic,624-so,swa,swa,s w a,,557564,,,^ swa $,default,so,so-1,2817-swa
+Gothic-624-so-2,745,Gothic,624-so,swah,swah,s w a h,,557564,,,^ swah $,default,so,so-2,2820-swah
+Gothic-603-oft-1,747,Gothic,603-oft,ufta,ufta,u ɸ t a,,557564,,,^ ufta $,default,oft,oft-1,3170-ufta
+Gothic-357-ol-1,748,Gothic,357-ol,alew*,alew,a l e w,,557564,,,^ alew $,default,Öl,Ol-1,189-alew
+Gothic-357-ol-2,749,Gothic,357-ol,alewja,alewja,a l e w j a,,557564,,,^ alewja $,default,Öl,Ol-2,191-alewja
+Gothic-563-alt-1,750,Gothic,563-alt,alþeis,alþeis,a l θ i s,,557564,,,^ alþeis $,default,alt,alt-1,215-aleis
+Gothic-563-alt-2,751,Gothic,563-alt,fairneis*,fairneis,ɸ ɛ r n i s,,557564,,,^ fairneis $,default,alt,alt-2,749-fairneis
+Gothic-596-einst-1,753,Gothic,596-einst,simle,simle,s ɪ m l e,,557564,,,^ simle $,default,einst;  vordem,einst-1,2566-simle
+Gothic-626-nur-1,757,Gothic,626-nur,ƕeh,ƕeh,ʍ e h,,557564,,,^ ƕeh $,default,jedenfalls;  nur,nur-1,1510-eh
+Gothic-626-nur-2,758,Gothic,626-nur,þatainei,þatainei,θ a t ɛ n i,,557564,,,^ þatainei $,default,nur,nur-2,3030-atainei
+Gothic-820-offnen-1,759,Gothic,820-offnen,us-lukan,uslukan,u s l u k a n,,557564,,,^ uslukan $,default,erschließen;  öffnen,offnen-1,1923-uslukan
+Gothic-820-offnen-2,761,Gothic,820-offnen,†uslukns,uslukns,u s l u k n̥ s,,557564,,,^ uslukns $,default,erschließen;  öffnen,offnen-3,3336-uslukns
+Gothic-512-offen-1,763,Gothic,512-offen,andaugjo,andaugjo,a n d ɔ ɣ j o,,557564,,,^ andaugjo $,default,offen,offen-2,265-andaugjo
+Gothic-512-offen-2,764,Gothic,512-offen,bairhtaba,bairhtaba,b ɛ r h t a β a,,557564,,,^ bairhtaba $,default,offen,offen-3,427-bairhtaba
+Gothic-676-oder-1,765,Gothic,676-oder,aiþþau,aiþþau,ɛ θː ɔ,,557564,,,^ aiþþau $,default,oder,oder-1,146-aiau
+Gothic-578-anderer-1,766,Gothic,578-anderer,anþar,anþar,a n θ a r,,557564,,,^ anþar $,default,anderer;  zweiter,anderer-1,289-anar
+Gothic-1010-besitzen-1,768,Gothic,1010-besitzen,haban,haban,h a β a n,,557564,,,^ haban $,default,haben;  besitzen,besitzen-1,1227-haban
+Gothic-1010-besitzen-2,770,Gothic,1010-besitzen,dis-niman,disniman,d ɪ s n ɪ m a n,,557564,,,^ disniman $,default,besitzen,besitzen-3,2211-disniman
+Gothic-395-schmerz-1,771,Gothic,395-schmerz,sáir,sair,s ɛ r,,557564,,,^ sair $,default,Schmerz,Schmerz-1,2442-sair
+Gothic-201-eltern-1,775,Gothic,201-eltern,berusjos,berusjos,b e r u s j o s,,557564,,,^ berusjos $,default,Eltern,Eltern-1,492-berusjos
+Gothic-201-eltern-2,776,Gothic,201-eltern,birusjos,birusjos,b ɪ r u s j o s,,557564,,,^ birusjos $,default,Eltern,Eltern-2,519-birusjos
+Gothic-257-teil-1,777,Gothic,257-teil,dails,dails,d ɛ l s,,557564,,,^ dails $,default,Teil,Teil-1,596-dails
+Gothic-401-weide-1,779,Gothic,401-weide,winja,winja,w ɪ n j a,,557564,,,^ winja $,default,Weide,Weide-1,3555-winja
+Gothic-402-pfad-1,781,Gothic,402-pfad,staiga,staiga,s t ɛ ɣ a,,557564,,,^ staiga $,default,Weg; Steig,Weg-2,2735-staiga
+Gothic-402-pfad-2,782,Gothic,402-pfad,wigs,wigs,w ɪ ɣ s,,557564,,,^ wigs $,default,Weg,Weg-3,3540-wigs
+Gothic-1014-zahlen-1,786,Gothic,1014-zahlen,us-giban,usgiban,u s ɡ ɪ β a n,,557564,,,^ usgiban $,default,erstatten;  bezahlen,bezahlen-1,1165-usgiban
+Gothic-192-mensch-1,790,Gothic,192-mensch,manna,manna,m a nː a,,557564,,,^ manna $,default,manna; Mensch;  mann,Mensch-1,2001-manna
+Gothic-420-arzt-1,791,Gothic,420-arzt,"leikeis, leikinassus, leikinon",leikeis,l i k i s,,557564,,,^ leikeis $,default,Arzt,Arzt-1,1840-leikeisleikinassusleikinon
+Gothic-420-arzt-2,792,Gothic,420-arzt,lekeis,lekeis,l e k i s,,557564,,,^ lekeis $,default,Arzt,Arzt-2,1860-lekeis
+Gothic-830-aufheben-1,794,Gothic,830-aufheben,uf-haban,ufhaban,u ɸ h a β a n,,557564,,,^ ufhaban $,default,aufheben,aufheben-1,1233-ufhaban
+Gothic-334-bild-1,797,Gothic,334-bild,frisahts,frisahts,ɸ r ɪ s a h t s,,557564,,,^ frisahts $,default,Bild,Bild-1,902-frisahts
+Gothic-334-bild-2,798,Gothic,334-bild,manleika,manleika,m a n l i k a,,557564,,,^ manleika $,default,Bild,Bild-2,1999-manleika
+Gothic-138-schwein-1,800,Gothic,138-schwein,swein,swein,s w i n,,557564,,,^ swein $,default,Schwein,Schwein-1,2842-swein
+Gothic-179-grube-1,804,Gothic,179-grube,dals*,dals,d a l s,,557564,,,^ dals $,default,Grube;  Schlucht;  Tal,Grube-1,598-dals
+Gothic-179-grube-2,805,Gothic,179-grube,groba,groba,ɡ r o β a,,557564,,,^ groba $,default,Grube;  Höhle,Grube-2,1206-groba
+Gothic-267-ort-1,806,Gothic,267-ort,staþs,staþs,s t a θ s,,557564,,,^ staþs $,default,Raum; Stätte;  Ort ;  Platz,Ort-1,2758-stas
+Gothic-568-arm-1,809,Gothic,568-arm,arms*,arms,a r m̥ s,,557564,,,^ arms $,default,arm;  beklagenswert,arm-1,323-arms
+Gothic-568-arm-2,810,Gothic,568-arm,unleþs*,unleþs,u n l e θ s,,557564,,,^ unleþs $,default,arm,arm-2,3252-unles
+Gothic-337-beutel-1,813,Gothic,337-beutel,arka,arka,a r k a,,557564,,,^ arka $,default,hölzerner Kasten;  Arche;  Futteral;  Beutel,Beutel-1,314-arka
+Gothic-433-macht-1,815,Gothic,433-macht,mahts,mahts,m a h t s,,557564,,,^ mahts $,default,Vermögen; mahts; Macht;  Kraft,Macht-1,1953-mahts
+Gothic-537-kraftig-1,816,Gothic,537-kraftig,mahteigs,mahteigs,m a h t i ɣ s,,557564,,,^ mahteigs $,default,mächtig;  möglich,machtig-1,1950-mahteigs
+Gothic-537-kraftig-2,817,Gothic,537-kraftig,swinþs,swinþs,s w ɪ n θ s,,557564,,,^ swinþs $,default,stark;  gesund;  kräftig,kraftig-1,2869-swins
+Gothic-534-wertvoll-1,818,Gothic,534-wertvoll,galaufs*,galaufs,ɡ a l ɔ ɸ s,,557564,,,^ galaufs $,default,wertvoll,wertvoll-1,1043-galaufs
+Gothic-534-wertvoll-2,819,Gothic,534-wertvoll,†galubaim,galubaim,ɡ a l u β ɛ m,,557564,,,^ galubaim $,default,wertvoll,wertvoll-2,1059-galubaim
+Gothic-890-bewahren-1,821,Gothic,890-bewahren,bairgan,bairgan,b ɛ r ɡ a n,,557564,,,^ bairgan $,default,einen bergen;  bewahren,bewahren-1,421-bairgan
+Gothic-890-bewahren-2,823,Gothic,890-bewahren,ga-fastan,gafastan,ɡ a ɸ a s t a n,,557564,,,^ gafastan $,default,bewahren; behalten,bewahren-3,770-gafastan
+Gothic-850-drucken-1,824,Gothic,850-drucken,kaurjan,kaurjan,k ɔ r j a n,,557564,,,^ kaurjan $,default,drücken;  belästigen,drucken-1,1698-kaurjan
+Gothic-425-preis-1,825,Gothic,425-preis,andawairþi,andawairþi,a n d a w ɛ r θ ɪ,,557564,,,^ andawairþi $,default,Preis,Preis-1,266-andawairi
+Gothic-425-preis-2,827,Gothic,425-preis,wairþ,wairþ,w ɛ r θ,,557564,,,^ wairþ $,default,Preis,Preis-3,3416-wair
+Gothic-835-herstellen-1,829,Gothic,835-herstellen,ga-hailjan,gahailjan,ɡ a h ɛ l j a n,,557564,,,^ gahailjan $,default,herstellen,herstellen-2,1257-gahailjan
+Gothic-835-herstellen-2,830,Gothic,835-herstellen,ga-leikinon,galeikinon,ɡ a l i k ɪ n o n,,557564,,,^ galeikinon $,default,herstellen,herstellen-3,1863-galeikinon
+Gothic-851-schieben-1,836,Gothic,851-schieben,stigqan,stigqan,s t ɪ ŋ kʷ a n,,557564,,,^ stigqan $,default,stoßen,stoen-1,2772-stigqan
+Gothic-76-regen-1,838,Gothic,76-regen,rign,rign,r ɪ ɣ n̥,,557564,,,^ rign $,default,Regen,Regen-1,2374-rign
+Gothic-699-regnen-1,839,Gothic,699-regnen,rignjan,rignjan,r ɪ ɣ n j a n,,557564,,,^ rignjan $,default,regnen,regnen-1,2375-rignjan
+Gothic-223-grund-1,844,Gothic,223-grund,fairina,fairina,ɸ ɛ r ɪ n a,,557564,,,^ fairina $,default,Schuld;  Grund;  Vorwurf,Grund-1,747-fairina
+Gothic-223-grund-2,845,Gothic,223-grund,sauþa,sauþa,s ɔ θ a,,557564,,,^ sauþa $,default,Grund,Grund-2,2517-saua
+Gothic-996-erkennen-1,846,Gothic,996-erkennen,finþan,finþan,ɸ ɪ n θ a n,,557564,,,^ finþan $,default,erkennen;  erfahren,erkennen-1,835-finan
+Gothic-996-erkennen-2,847,Gothic,996-erkennen,uf-kunnan,ufkunnan,u ɸ k u nː a n,,557564,,,^ ufkunnan $,default,erkennen,erkennen-2,1750-ufkunnan
+Gothic-749-genesen-1,848,Gothic,749-genesen,ga-nisan,ganisan,ɡ a n ɪ s a n,,557564,,,^ ganisan $,default,genesen;  errettet werden,genesen-1,2217-ganisan
+Gothic-526-rot-1,849,Gothic,526-rot,rauþs*,rauþs,r ɔ θ s,,557564,,,^ rauþs $,default,rot,rot-1,2357-raus
+Gothic-782-bleiben-1,850,Gothic,782-bleiben,bilaif,bilaif,b ɪ l ɛ ɸ,,557564,,,^ bilaif $,default,bleiben,bleiben-1,1773-bilaif
+Gothic-782-bleiben-2,851,Gothic,782-bleiben,bi-leiban*,bileiban,b ɪ l i β a n,,557564,,,^ bileiban $,default,bleiben,bleiben-2,1831-bileiban
+Gothic-926-retten-1,857,Gothic,926-retten,nasjan,nasjan,n a s j a n,,557564,,,^ nasjan $,default,retten,retten-1,2161-nasjan
+Gothic-381-band-1,860,Gothic,381-band,bandi,bandi,b a n d ɪ,,557564,,,^ bandi $,default,Band;  Fessel,Band-1,444-bandi
+Gothic-381-band-2,861,Gothic,381-band,gabinda,gabinda,ɡ a β ɪ n d a,,557564,,,^ gabinda $,default,Band,Band-2,957-gabinda
+Gothic-569-reich-1,865,Gothic,569-reich,reiki,reiki,r i k ɪ,,557564,,,^ reiki $,default,Herrschaft; Reich;  Obrigkeit,Reich-1,2364-reiki
+Gothic-577-rechter-1,866,Gothic,577-rechter,taihswa,taihswa,t ɛ h s w a,,557564,,,^ taihswa $,default,rechts; die Rechte,rechts-1,2886-taihswa
+Gothic-102-fluss-1,873,Gothic,102-fluss,flodus,flodus,ɸ l o ð u s,,557564,,,^ flodus $,default,Strom;  Flut,Strom-1,844-flodus
+Gothic-404-strae-1,874,Gothic,404-strae,fauradauri,fauradauri,ɸ ɔ r a ð ɔ r ɪ,,557564,,,^ fauradauri $,default,Straße,Strae-1,776-fauradauri
+Gothic-404-strae-2,877,Gothic,404-strae,plapja,plapja,p l a p j a,,557564,,,^ plapja $,default,Straße,Strae-4,2269-plapja
+Gothic-321-dach-1,879,Gothic,321-dach,hrot,hrot,h r o t,,557564,,,^ hrot $,default,Haus; Dach,Dach-1,1444-hrot
+Gothic-151-hahn-1,880,Gothic,151-hahn,hana,hana,h a n a,,557564,,,^ hana $,default,Hahn,Hahn-1,1301-hana
+Gothic-111-wurzel-1,881,Gothic,111-wurzel,waurts,waurts,w ɔ r t s,,557564,,,^ waurts $,default,Wurzel,Wurzel-1,3491-waurts
+Gothic-863-reiben-1,885,Gothic,863-reiben,bnauan,bnauan,b n ɔ a n,,557564,,,^ bnauan $,default,reiben;  zerreiben,reiben-1,549-bnauan
+Gothic-763-rennen-1,887,Gothic,763-rennen,rinnan,rinnan,r ɪ nː a n,,557564,,,^ rinnan $,default,rennen;  laufen,rennen-1,2378-rinnan
+Gothic-763-rennen-2,888,Gothic,763-rennen,þragjan,þragjan,θ r a ɣ j a n,,557564,,,^ þragjan $,default,laufen,laufen-2,3103-ragjan
+Gothic-343-sack-1,890,Gothic,343-sack,sakkus,sakkus,s a kː u s,,557564,,,^ sakkus $,default,Sack,Sack-1,2454-sakkus
+Gothic-556-traurig-1,891,Gothic,556-traurig,gáurs,gaurs,ɡ ɔ r s,,557564,,,^ gaurs $,default,betrübt;  traurig,traurig-1,1138-gaurs
+Gothic-358-salz-1,892,Gothic,358-salz,salt,salt,s a l t,,557564,,,^ salt $,default,Salz,Salz-1,2470-salt
+Gothic-191-sand-1,893,Gothic,191-sand,malma,malma,m a l m a,,557564,,,^ malma $,default,Sand,Sand-1,1981-malma
+Gothic-981-sagen-1,895,Gothic,981-sagen,qiþan,qiþan,kʷ ɪ θ a n,,557564,,,^ qiþan $,default,sagen,sagen-1,2306-qian
+Gothic-106-meer-1,897,Gothic,106-meer,marei,marei,m a r i,,557564,,,^ marei $,default,Meer,Meer-1,2012-marei
+Gothic-580-zweiter-1,898,Gothic,580-zweiter,anþar,anþar,a n θ a r,,557564,,,^ anþar $,default,anderer;  zweiter,zweiter-1,289-anar
+Gothic-175-saat-1,900,Gothic,175-saat,atisk,atisk,a t ɪ s k,,557564,,,^ atisk $,default,Saat,Saat-1,346-atisk
+Gothic-175-saat-2,901,Gothic,175-saat,fraiw,fraiw,ɸ r ɛ w,,557564,,,^ fraiw $,default,Same,Same-1,861-fraiw
+Gothic-848-ergreifen-1,903,Gothic,848-ergreifen,fāhan,fahan,ɸ a h a n,,557564,,,^ fahan $,default,fangen;  greifen,greifen-1,727-fahan
+Gothic-848-ergreifen-2,904,Gothic,848-ergreifen,greipan,greipan,ɡ r i p a n,,557564,,,^ greipan $,default,greifen,greifen-2,1199-greipan
+Gothic-924-sichtrennen-1,915,Gothic,924-sichtrennen,skaidan,skaidan,s k ɛ ð a n,,557564,,,^ skaidan $,default,trennen; scheiden,trennen-2,2594-skaidan
+Gothic-924-sichtrennen-2,916,Gothic,924-sichtrennen,twis-standan,twisstandan,t w ɪ sː t a n d a n,,557564,,,^ twisstandan $,default,sich trennen;  Abschied nehmen von,sichtrennen-1,2755-twisstandan
+Gothic-659-sieben-1,919,Gothic,659-sieben,sibun,sibun,s ɪ β u n,,557564,,,^ sibun $,default,sieben,sieben-1,2536-sibun
+Gothic-670-siebzig-1,920,Gothic,670-siebzig,sibuntehund,sibuntehund,s ɪ β u n t e h u n d,,557564,,,^ sibuntehund $,default,siebzig,siebzig-1,2537-sibuntehund
+Gothic-561-schlimm-1,921,Gothic,561-schlimm,sleiþs*,sleiþs,s l i θ s,,557564,,,^ sleiþs $,default,schlimm;  gefährlich,schlimm-1,2661-sleis
+Gothic-966-nahen-1,922,Gothic,966-nahen,siujan,siujan,s ɪ u j a n,,557564,,,^ siujan $,default,nähen,nahen-1,2584-siujan
+Gothic-72-schatten-1,923,Gothic,72-schatten,skadus,skadus,s k a ð u s,,557564,,,^ skadus $,default,Schatten,Schatten-1,2591-skadus
+Gothic-868-schutteln-1,924,Gothic,868-schutteln,wagjan,wagjan,w a ɣ j a n,,557564,,,^ wagjan $,default,schütteln,schutteln-1,3373-wagjan
+Gothic-868-schutteln-2,925,Gothic,868-schutteln,wiþon,wiþon,w ɪ θ o n,,557564,,,^ wiþon $,default,schütteln,schutteln-2,3589-wion
+Gothic-498-scharf-1,926,Gothic,498-scharf,ƕassaba,ƕassaba,ʍ a sː a β a,,557564,,,^ ƕassaba $,default,streng; scharf,scharf-1,1499-assaba
+Gothic-137-schaf-1,928,Gothic,137-schaf,lamb,lamb,l a m b,,557564,,,^ lamb $,default,Lamm;  Schaf,Schaf-1,1794-lamb
+Gothic-732-zittern-1,932,Gothic,732-zittern,reiran,reiran,r i r a n,,557564,,,^ reiran $,default,zittern,zittern-1,2369-reiran
+Gothic-732-zittern-2,933,Gothic,732-zittern,reiro,reiro,r i r o,,557564,,,^ reiro $,default,das Zittern,dasZittern-1,2371-reiro
+Gothic-378-schuh-1,934,Gothic,378-schuh,skohs,skohs,s k o h s,,557564,,,^ skohs $,default,Schuh,Schuh-1,2636-skohs
+Gothic-103-ufer-1,937,Gothic,103-ufer,staþa,staþa,s t a θ a,,557564,,,^ staþa $,default,Ufer;  Gestade,Ufer-1,2757-staa
+Gothic-25-schulter-1,939,Gothic,25-schulter,ams*,ams,a m s,,557564,,,^ ams $,default,Schulter,Schulter-1,220-ams
+Gothic-908-zeigen-1,942,Gothic,908-zeigen,augjan,augjan,ɔ ɣ j a n,,557564,,,^ augjan $,default,zeigen,zeigen-1,359-augjan
+Gothic-554-krank-1,945,Gothic,554-krank,siuks,siuks,s ɪ u k s,,557564,,,^ siuks $,default,schwach; krank,krank-1,2587-siuks
+Gothic-554-krank-2,946,Gothic,554-krank,unhails,unhails,u n h ɛ l s,,557564,,,^ unhails $,default,krank,krank-2,3234-unhails
+Gothic-268-seite-1,947,Gothic,268-seite,fera,fera,ɸ e r a,,557564,,,^ fera $,default,Seite;  Gegend,Seite-1,798-fera
+Gothic-268-seite-2,948,Gothic,268-seite,halba,halba,h a l b a,,557564,,,^ halba $,default,Seite; Hälfte,Seite-2,1284-halba
+Gothic-236-zeichen-1,949,Gothic,236-zeichen,bandwa,bandwa,b a n d w a,,557564,,,^ bandwa $,default,Zeichen,Zeichen-1,446-bandwa
+Gothic-236-zeichen-2,951,Gothic,236-zeichen,taikns,taikns,t ɛ k n̥ s,,557564,,,^ taikns $,default,Zeichen;  Wunder,Zeichen-3,2897-taikns
+Gothic-242-ruhe-1,953,Gothic,242-ruhe,anaqal,anaqal,a n a kʷ a l,,557564,,,^ anaqal $,default,Ruhe,Ruhe-1,239-anaqal
+Gothic-242-ruhe-2,955,Gothic,242-ruhe,rimis*,rimis,r ɪ m ɪ s,,557564,,,^ rimis $,default,Ruhe,Ruhe-3,2377-rimis
+Gothic-187-silber-1,956,Gothic,187-silber,silubr,silubr,s ɪ l u β r̥,,557564,,,^ silubr $,default,Silber,Silber-1,2564-silubr
+Gothic-415-sunde-1,957,Gothic,415-sunde,frawaurhts,frawaurhts,ɸ r a w ɔ r h t s,,557564,,,^ frawaurhts $,default,sündig; Sünde,Sunde-1,888-frawaurhts
+Gothic-922-singen-1,958,Gothic,922-singen,siggwan,siggwan,s ɪ ɡ ɡ w a n,,557564,,,^ siggwan $,default,singen;  vorlesen;  rezitieren,singen-1,2541-siggwan
+Gothic-708-versinken-1,959,Gothic,708-versinken,sigqan,sigqan,s ɪ ŋ kʷ a n,,557564,,,^ sigqan $,default,sinken,sinken-1,2549-sigqan
+Gothic-708-versinken-2,960,Gothic,708-versinken,ga-siggqan,gasiggqan,ɡ a s ɪ ŋ ɡ kʷ a n,,557564,,,^ gasiggqan $,default,versinken;  untergehn,versinken-1,2551-gasiggqan
+Gothic-207-schwester-1,961,Gothic,207-schwester,swistar,swistar,s w ɪ s t a r,,557564,,,^ swistar $,default,Schwester,Schwester-1,2870-swistar
+Gothic-678-sitzen-1,962,Gothic,678-sitzen,sitan,sitan,s ɪ t a n,,557564,,,^ sitan $,default,sitzen,sitzen-1,2576-sitan
+Gothic-755-sichsetzen-1,963,Gothic,755-sichsetzen,ga-satjan,gasatjan,ɡ a s a t j a n,,557564,,,^ gasatjan $,default,hinlegen; hinsetzen;  hinstellen,hinsetzen-1,2500-gasatjan
+Gothic-658-sechs-1,964,Gothic,658-sechs,saihs,saihs,s ɛ h s,,557564,,,^ saihs $,default,sechs,sechs-1,2428-saihs
+Gothic-280-groe-1,966,Gothic,280-groe,mikildūþs,mikilduþs,m ɪ k ɪ l d u θ s,,557564,,,^ mikilduþs $,default,Größe,Groe-1,2079-mikildus
+Gothic-280-groe-2,967,Gothic,280-groe,mikilei,mikilei,m ɪ k ɪ l i,,557564,,,^ mikilei $,default,Größe,Groe-2,2080-mikilei
+Gothic-56-himmel-1,971,Gothic,56-himmel,himins,himins,h ɪ m ɪ n s,,557564,,,^ himins $,default,Himmel,Himmel-1,1367-himins
+Gothic-301-platte-1,972,Gothic,301-platte,mes,mes,m e s,,557564,,,^ mes $,default,Tisch;  Schüssel;  Platte;  Kelter,Platte-1,2072-mes
+Gothic-741-schlafen-1,974,Gothic,741-schlafen,slepan,slepan,s l e p a n,,557564,,,^ slepan $,default,schlafen,schlafen-1,2663-slepan
+Gothic-54-schlaf-1,975,Gothic,54-schlaf,sleps*,sleps,s l e p s,,557564,,,^ sleps $,default,Schlaf,Schlaf-1,2666-sleps
+Gothic-99-abhang-1,978,Gothic,99-abhang,driuso,driuso,d r ɪ u s o,,557564,,,^ driuso $,default,Abhang,Abhang-1,686-driuso
+Gothic-482-klein-1,979,Gothic,482-klein,leitils,leitils,l i t ɪ l s,,557564,,,^ leitils $,default,klein;  wenig,klein-1,1849-leitils
+Gothic-493-glatt-1,983,Gothic,493-glatt,slaihts,slaihts,s l ɛ h t s,,557564,,,^ slaihts $,default,eben; schlicht;  glatt,glatt-1,2650-slaihts
+Gothic-163-schlangetier-1,984,Gothic,163-schlangetier,waurms,waurms,w ɔ r m̥ s,,557564,,,^ waurms $,default,Wurm;  Schlange,Schlange-1,3485-waurms
+Gothic-77-schnee-1,985,Gothic,77-schnee,snaiws,snaiws,s n ɛ w s,,557564,,,^ snaiws $,default,Schnee,Schnee-1,2680-snaiws
+Gothic-495-weich-1,986,Gothic,495-weich,hnasqjaim*,hnasqjaim,h n a s kʷ j ɛ m,,557564,,,^ hnasqjaim $,default,weich;  weichlich,weich-1,1414-hnasqjaim
+Gothic-495-weich-2,987,Gothic,495-weich,qairrus,qairrus,kʷ ɛ rː u s,,557564,,,^ qairrus $,default,sanft;  freundlich gegen,sanft-1,2286-qairrus
+Gothic-491-fest-1,988,Gothic,491-fest,tulgus,tulgus,t u l ɡ u s,,557564,,,^ tulgus $,default,fest;  beständig,fest-1,2980-tulgus
+Gothic-204-sohn-1,990,Gothic,204-sohn,sunus,sunus,s u n u s,,557564,,,^ sunus $,default,Sohn,Sohn-1,2809-sunus
+Gothic-593-bald-1,992,Gothic,593-bald,sprauto,sprauto,s p r ɔ t o,,557564,,,^ sprauto $,default,schnell;  bald,bald-1,2729-sprauto
+Gothic-266-platz-1,998,Gothic,266-platz,staþs,staþs,s t a θ s,,557564,,,^ staþs $,default,Raum; Stätte;  Ort ;  Platz,Platz-1,2758-stas
+Gothic-982-sprechen-1,1001,Gothic,982-sprechen,rodjan,rodjan,r o ð j a n,,557564,,,^ rodjan $,default,reden; sprechen,sprechen-1,2398-rodjan
+Gothic-232-rede-1,1002,Gothic,232-rede,maþlein,maþlein,m a θ l i n,,557564,,,^ maþlein $,default,Rede;  Redeweise,Rede-1,2037-malein
+Gothic-218-geist-1,1004,Gothic,218-geist,ahma,ahma,a h m a,,557564,,,^ ahma $,default,Geist,Geist-1,68-ahma
+Gothic-892-verderben-1,1006,Gothic,892-verderben,fralusts,fralusts,ɸ r a l u s t s,,557564,,,^ fralusts $,default,Verderben,Verderben-1,864-fralusts
+Gothic-892-verderben-2,1008,Gothic,892-verderben,qisteins,qisteins,kʷ ɪ s t i n s,,557564,,,^ qisteins $,default,Verderben,Verderben-3,2301-qisteins
+Gothic-754-sicherheben-1,1021,Gothic,754-sicherheben,ur-reisan,urreisan,u rː i s a n,,557564,,,^ urreisan $,default,erstehn;  sich erheben,sicherheben-1,2372-urreisan
+Gothic-754-sicherheben-2,1022,Gothic,754-sicherheben,us-standan,usstandan,u sː t a n d a n,,557564,,,^ usstandan $,default,sich erheben;  aufbrechen;  auferstehn,sicherheben-2,2756-usstandan
+Gothic-59-stern-1,1023,Gothic,59-stern,stairno,stairno,s t ɛ r n o,,557564,,,^ stairno $,default,Stern,Stern-1,2740-stairno
+Gothic-938-stehlen-1,1025,Gothic,938-stehlen,hlifan,hlifan,h l ɪ ɸ a n,,557564,,,^ hlifan $,default,stehlen,stehlen-1,1400-hlifan
+Gothic-938-stehlen-2,1026,Gothic,938-stehlen,stilan,stilan,s t ɪ l a n,,557564,,,^ stilan $,default,stehlen,stehlen-2,2777-stilan
+Gothic-625-noch-1,1029,Gothic,625-noch,nauh,nauh,n ɔ h,,557564,,,^ nauh $,default,noch,noch-1,2173-nauh
+Gothic-625-noch-2,1032,Gothic,625-noch,þanaseiþs,þanaseiþs,θ a n a s i θ s,,557564,,,^ þanaseiþs $,default,weiter;  noch,noch-4,3012-anaseis
+Gothic-47-magen-1,1036,Gothic,47-magen,qiþus,qiþus,kʷ ɪ θ u s,,557564,,,^ qiþus $,default,Magen;  Mutterschoß,Magen-1,2317-qius
+Gothic-64-stein-1,1037,Gothic,64-stein,stains,stains,s t ɛ n s,,557564,,,^ stains $,default,Stein,Stein-1,2739-stains
+Gothic-227-erzahlung-1,1038,Gothic,227-erzahlung,insahts,insahts,ɪ n s a h t s,,557564,,,^ insahts $,default,Erzählung;  Aussage;  Zeugnis,Erzahlung-1,1582-insahts
+Gothic-309-ofen-1,1039,Gothic,309-ofen,auhns*,auhns,ɔ h n̥ s,,557564,,,^ auhns $,default,Ofen,Ofen-1,364-auhns
+Gothic-384-riemen-1,1040,Gothic,384-riemen,skaudaraip,skaudaraip,s k ɔ ð a r ɛ p,,557564,,,^ skaudaraip $,default,Riemen,Riemen-1,2618-skaudaraip
+Gothic-392-starke-1,1042,Gothic,392-starke,swinþei,swinþei,s w ɪ n θ i,,557564,,,^ swinþei $,default,Kraft; Stärke,Starke-1,2864-swinei
+Gothic-934-schlagen-1,1043,Gothic,934-schlagen,bliggwan,bliggwan,b l ɪ ɡ ɡ w a n,,557564,,,^ bliggwan $,default,schlagen,schlagen-1,539-bliggwan
+Gothic-934-schlagen-2,1044,Gothic,934-schlagen,slahan,slahan,s l a h a n,,557564,,,^ slahan $,default,schlagen,schlagen-2,2647-slahan
+Gothic-262-strich-1,1047,Gothic,262-strich,striks,striks,s t r ɪ k s,,557564,,,^ striks $,default,Strich,Strich-1,2791-striks
+Gothic-262-strich-2,1048,Gothic,262-strich,writs,writs,w r ɪ t s,,557564,,,^ writs $,default,Strich,Strich-2,3618-writs
+Gothic-538-stark-1,1049,Gothic,538-stark,abrs,abrs,a β r̥ s,,557564,,,^ abrs $,default,stark;  heftig,stark-1,9-abrs
+Gothic-538-stark-2,1050,Gothic,538-stark,swinþs,swinþs,s w ɪ n θ s,,557564,,,^ swinþs $,default,stark;  gesund;  kräftig,stark-2,2869-swins
+Gothic-587-plotzlich-1,1053,Gothic,587-plotzlich,anaks,anaks,a n a k s,,557564,,,^ anaks $,default,plötzlich,plotzlich-1,227-anaks
+Gothic-587-plotzlich-2,1055,Gothic,587-plotzlich,unweniggo,unweniggo,u n w e n ɪ ŋ ɡ o,,557564,,,^ unweniggo $,default,plötzlich; unerwartet,plotzlich-3,3301-unweniggo
+Gothic-459-sommer-1,1056,Gothic,459-sommer,asans,asans,a s a n s,,557564,,,^ asans $,default,Sommer,Sommer-1,330-asans
+Gothic-57-sonne-1,1058,Gothic,57-sonne,sauïl,sauɪl,s ɔ ɪ l,,557564,,,^ sauɪl $,default,Sonne,Sonne-1,2507-sauil
+Gothic-57-sonne-2,1059,Gothic,57-sonne,sunno,sunno,s u nː o,,557564,,,^ sunno $,default,Sonne,Sonne-2,2805-sunno
+Gothic-311-tisch-1,1073,Gothic,311-tisch,biuþs*,biuþs,b ɪ u θ s,,557564,,,^ biuþs $,default,Tisch,Tisch-1,530-bius
+Gothic-311-tisch-2,1074,Gothic,311-tisch,mes,mes,m e s,,557564,,,^ mes $,default,Tisch;  Schüssel;  Platte;  Kelter,Tisch-2,2072-mes
+Gothic-887-nehmen-1,1076,Gothic,887-nehmen,niman,niman,n ɪ m a n,,557564,,,^ niman $,default,fangen; nehmen;  annehmen;  aufnehmen;  empfangen,nehmen-1,2206-niman
+Gothic-887-nehmen-2,1077,Gothic,887-nehmen,fra-niman,franiman,ɸ r a n ɪ m a n,,557564,,,^ franiman $,default,nehmen,nehmen-2,2212-franiman
+Gothic-983-reden-1,1078,Gothic,983-reden,maþljan,maþljan,m a θ l j a n,,557564,,,^ maþljan $,default,reden,reden-1,2038-maljan
+Gothic-983-reden-2,1079,Gothic,983-reden,rodjan,rodjan,r o ð j a n,,557564,,,^ rodjan $,default,reden; sprechen,reden-2,2398-rodjan
+Gothic-805-probieren-1,1081,Gothic,805-probieren,kausjan,kausjan,k ɔ s j a n,,557564,,,^ kausjan $,default,kosten;  kennen lernen,kosten-1,1704-kausjan
+Gothic-910-lehren-1,1084,Gothic,910-lehren,laisjan,laisjan,l ɛ s j a n,,557564,,,^ laisjan $,default,lehren,lehren-1,1784-laisjan
+Gothic-910-lehren-2,1086,Gothic,910-lehren,talzjan,talzjan,t a l z j a n,,557564,,,^ talzjan $,default,ziehen; lehren;  unterrichten,lehren-3,2906-talzjan
+Gothic-421-lehrer-1,1088,Gothic,421-lehrer,laisareis,laisareis,l ɛ s a r i s,,557564,,,^ laisareis $,default,Lehrer,Lehrer-1,1781-laisareis
+Gothic-421-lehrer-2,1089,Gothic,421-lehrer,talzjands,talzjands,t a l z j a n d s,,557564,,,^ talzjands $,default,Lehrer,Lehrer-2,2907-talzjands
+Gothic-51-trane-1,1090,Gothic,51-trane,tagr,tagr,t a ɣ r̥,,557564,,,^ tagr $,default,Zähre;  Träne,Trane-1,2882-tagr
+Gothic-895-zerreien-1,1094,Gothic,895-zerreien,dis-tairan,distairan,d ɪ s t ɛ r a n,,557564,,,^ distairan $,default,zerreißen,zerreien-4,2900-distairan
+Gothic-895-zerreien-2,1097,Gothic,895-zerreien,tahjan,tahjan,t a h j a n,,557564,,,^ tahjan $,default,reißen;  zerren,reien-1,2884-tahjan
+Gothic-987-erzahlen-1,1099,Gothic,987-erzahlen,us-spillon,usspillon,u sː p ɪ lː o n,,557564,,,^ usspillon $,default,verkünden;  erzählen,erzahlen-1,2726-usspillon
+Gothic-987-erzahlen-2,1100,Gothic,987-erzahlen,waila-spillon,wailaspillon,w ɛ l a s p ɪ lː o n,,557564,,,^ wailaspillon $,default,verkünden;  erzählen,erzahlen-2,2727-wailaspillon
+Gothic-662-zehn-1,1101,Gothic,662-zehn,taihun,taihun,t ɛ h u n,,557564,,,^ taihun $,default,zehn,zehn-1,2888-taihun
+Gothic-638-das-1,1103,Gothic,638-das,jains,jains,j ɛ n s,,557564,,,^ jains $,default,jener,jener-1,1634-jains
+Gothic-594-dann-1,1105,Gothic,594-dann,þan,þan,θ a n,,557564,,,^ þan $,default,darauf; dann,dann-1,3010-an
+Gothic-609-dort-1,1108,Gothic,609-dort,jainar,jainar,j ɛ n a r,,557564,,,^ jainar $,default,an jenem Ort;  dort,dort-1,1630-jainar
+Gothic-609-dort-2,1109,Gothic,609-dort,þar,þar,θ a r,,557564,,,^ þar $,default,dort,dort-2,3019-ar
+Gothic-271-sache-1,1114,Gothic,271-sache,waihts,waihts,w ɛ h t s,,557564,,,^ waihts $,default,Ding;  Sache;  Etwas,Ding-1,3391-waihts
+Gothic-271-sache-2,1115,Gothic,271-sache,waihts,waihts,w ɛ h t s,,557564,,,^ waihts $,default,Ding;  Sache;  Etwas,Sache-1,3391-waihts
+Gothic-993-denken-1,1116,Gothic,993-denken,fraþjan,fraþjan,ɸ r a θ j a n,,557564,,,^ fraþjan $,default,denken,denken-1,879-frajan
+Gothic-993-denken-2,1119,Gothic,993-denken,þagkjan,þagkjan,θ a ŋ k j a n,,557564,,,^ þagkjan $,default,denken;  überlegen,denken-4,2997-agkjan
+Gothic-581-dritter-1,1120,Gothic,581-dritter,þridja,þridja,θ r ɪ ð j a,,557564,,,^ þridja $,default,der dritte,derdritte-1,3111-ridja
+Gothic-637-dies-1,1124,Gothic,637-dies,hita,hita,h ɪ t a,,557564,,,^ hita $,default,dieser,dieser-3,1378-hita
+Gothic-637-dies-2,1127,Gothic,637-dies,þata,þata,θ a t a,,557564,,,^ þata $,default,dieser; der,dieser-6,3028-ata
+Gothic-610-dorthin-1,1128,Gothic,610-dorthin,jaind,jaind,j ɛ n d,,557564,,,^ jaind $,default,dorthin,dorthin-1,1631-jaind
+Gothic-610-dorthin-2,1129,Gothic,610-dorthin,jaindre,jaindre,j ɛ n d r e,,557564,,,^ jaindre $,default,dorthin,dorthin-2,1632-jaindre
+Gothic-641-du-1,1130,Gothic,641-du,du,du,d u,,557564,,,^ du $,default,du,du-1,695-du
+Gothic-641-du-2,1131,Gothic,641-du,þu,þu,θ u,,557564,,,^ þu $,default,du,du-2,3118-u
+Gothic-219-gedanke-1,1134,Gothic,219-gedanke,gamitons,gamitons,ɡ a m ɪ t o n s,,557564,,,^ gamitons $,default,Gedanke,Gedanke-1,1073-gamitons
+Gothic-219-gedanke-2,1135,Gothic,219-gedanke,mitons,mitons,m ɪ t o n s,,557564,,,^ mitons $,default,Gedanke; Überlegung,Gedanke-2,2108-mitons
+Gothic-674-tausend-1,1137,Gothic,674-tausend,þūsundi,þusundi,θ u s u n d ɪ,,557564,,,^ þusundi $,default,tausend,tausend-1,3126-usundi
+Gothic-655-drei-1,1139,Gothic,655-drei,þreis*,þreis,θ r i s,,557564,,,^ þreis $,default,drei,drei-1,3110-reis
+Gothic-633-durch-1,1141,Gothic,633-durch,þairh,þairh,θ ɛ r h,,557564,,,^ þairh $,default,durch,durch-1,3005-airh
+Gothic-877-werfen-1,1142,Gothic,877-werfen,wairpan,wairpan,w ɛ r p a n,,557564,,,^ wairpan $,default,werfen,werfen-1,3407-wairpan
+Gothic-84-donner-1,1143,Gothic,84-donner,þeiƕo,þeiƕo,θ i ʍ o,,557564,,,^ þeiƕo $,default,Donner,Donner-1,3057-eio
+Gothic-857-binden-1,1146,Gothic,857-binden,ga-bindan,gabindan,ɡ a β ɪ n d a n,,557564,,,^ gabindan $,default,binden,binden-1,514-gabindan
+Gothic-449-zeit-1,1152,Gothic,449-zeit,þeihs,þeihs,θ i h s,,557564,,,^ þeihs $,default,Zeit,Zeit-5,3056-eihs
+Gothic-585-zusammen-1,1157,Gothic,585-zusammen,samana,samana,s a m a n a,,557564,,,^ samana $,default,zusammen;  zugleich,zusammen-1,2478-samana
+Gothic-585-zusammen-2,1158,Gothic,585-zusammen,samaþ,samaþ,s a m a θ,,557564,,,^ samaþ $,default,zusammen; nach einem und demselben Ort hin,zusammen-2,2483-sama
+Gothic-592-morgen-1,1159,Gothic,592-morgen,gistradagis,gistradagis,ɡ ɪ s t r a ð a ɣ ɪ s,,557564,,,^ gistradagis $,default,morgen,morgen-1,1174-gistradagis
+Gothic-6-zunge-1,1161,Gothic,6-zunge,tuggo,tuggo,t u ŋ ɡ o,,557564,,,^ tuggo $,default,Zunge,Zunge-1,2976-tuggo
+Gothic-5-zahn-1,1162,Gothic,5-zahn,tunþus,tunþus,t u n θ u s,,557564,,,^ tunþus $,default,Zahn,Zahn-1,2983-tunus
+Gothic-825-beruhren-1,1163,Gothic,825-beruhren,at-tekan,attekan,a tː e k a n,,557564,,,^ attekan $,default,berühren,beruhren-1,2931-attekan
+Gothic-406-stadt-1,1165,Gothic,406-stadt,baurgs,baurgs,b ɔ r ɡ s,,557564,,,^ baurgs $,default,Turm;  Burg;  Stadt,Stadt-1,480-baurgs
+Gothic-406-stadt-2,1166,Gothic,406-stadt,haims*,haims,h ɛ m s,,557564,,,^ haims $,default,Stadt,Stadt-2,1261-haims
+Gothic-992-ubersetzen-1,1167,Gothic,992-ubersetzen,ufar-leiþan,ufarleiþan,u ɸ a r l i θ a n,,557564,,,^ ufarleiþan $,default,übersetzen,ubersetzen-1,1857-ufarleian
+Gothic-112-baum-1,1169,Gothic,112-baum,bagms,bagms,b a ɣ m̥ s,,557564,,,^ bagms $,default,Baum,Baum-1,402-bagms
+Gothic-562-wahr-1,1173,Gothic,562-wahr,sunjeins,sunjeins,s u n j i n s,,557564,,,^ sunjeins $,default,wahr;  wahrhaft,wahr-1,2800-sunjeins
+Gothic-224-wahrheit-1,1174,Gothic,224-wahrheit,sunja,sunja,s u n j a,,557564,,,^ sunja $,default,Wahrheit,Wahrheit-1,2798-sunja
+Gothic-787-versuchen-1,1175,Gothic,787-versuchen,fraisan,fraisan,ɸ r ɛ s a n,,557564,,,^ fraisan $,default,versuchen,versuchen-1,858-fraisan
+Gothic-787-versuchen-2,1176,Gothic,787-versuchen,us-fraisan,usfraisan,u s ɸ r ɛ s a n,,557564,,,^ usfraisan $,default,versuchen,versuchen-2,859-usfraisan
+Gothic-306-rohr-1,1177,Gothic,306-rohr,raus,raus,r ɔ s,,557564,,,^ raus $,default,Rohr,Rohr-1,2356-raus
+Gothic-756-hinfallen-1,1179,Gothic,756-hinfallen,ga-driusan,gadriusan,ɡ a ð r ɪ u s a n,,557564,,,^ gadriusan $,default,hinfallen,hinfallen-1,684-gadriusan
+Gothic-844-wenden-1,1180,Gothic,844-wenden,wandjan,wandjan,w a n d j a n,,557564,,,^ wandjan $,default,wenden,wenden-1,3451-wandjan
+Gothic-844-wenden-2,1181,Gothic,844-wenden,ga-wandjan,gawandjan,ɡ a w a n d j a n,,557564,,,^ gawandjan $,default,wenden,wenden-2,3455-gawandjan
+Gothic-664-zwolf-1,1182,Gothic,664-zwolf,twalif,twalif,t w a l ɪ ɸ,,557564,,,^ twalif $,default,zwölf,zwolf-1,2986-twalif
+Gothic-116-zweig-1,1184,Gothic,116-zweig,tains,tains,t ɛ n s,,557564,,,^ tains $,default,Zweig,Zweig-1,2899-tains
+Gothic-618-hinauf-1,1190,Gothic,618-hinauf,iup,iup,ɪ u p,,557564,,,^ iup $,default,aufwärts,aufwarts-1,1614-iup
+Gothic-623-sehr-1,1194,Gothic,623-sehr,abraba,abraba,a β r a β a,,557564,,,^ abraba $,default,sehr,sehr-1,10-abraba
+Gothic-405-dorf-1,1195,Gothic,405-dorf,weihs,weihs,w i h s,,557564,,,^ weihs $,default,heilig; Dorf;  Weiler,Dorf-1,3501-weihs
+Gothic-437-gewalt-1,1196,Gothic,437-gewalt,waldufni,waldufni,w a l d u ɸ n ɪ,,557564,,,^ waldufni $,default,Gewalt;  Macht über,Gewalt-1,3434-waldufni
+Gothic-918-besuchen-1,1198,Gothic,918-besuchen,ga-weison,gaweison,ɡ a w i s o n,,557564,,,^ gaweison $,default,besorgen; heimsuchen;  besuchen,besuchen-1,3513-gaweison
+Gothic-234-stimme-1,1199,Gothic,234-stimme,stibna,stibna,s t ɪ β n a,,557564,,,^ stibna $,default,Stimme,Stimme-1,2770-stibna
+Gothic-783-warten-1,1200,Gothic,783-warten,wenjan,wenjan,w e n j a n,,557564,,,^ wenjan $,default,warten;  hoffen auf,warten-1,3525-wenjan
+Gothic-742-aufwachen-1,1201,Gothic,742-aufwachen,ga-waknan,gawaknan,ɡ a w a k n a n,,557564,,,^ gawaknan $,default,erwachen,erwachen-1,3431-gawaknan
+Gothic-757-laufen-1,1203,Gothic,757-laufen,gaggan,gaggan,ɡ a ŋ ɡ a n,,557564,,,^ gaggan $,default,gehen,gehen-1,983-gaggan
+Gothic-757-laufen-2,1204,Gothic,757-laufen,rinnan,rinnan,r ɪ nː a n,,557564,,,^ rinnan $,default,rennen;  laufen,laufen-1,2378-rinnan
+Gothic-293-gang-1,1205,Gothic,293-gang,sinþs*,sinþs,s ɪ n θ s,,557564,,,^ sinþs $,default,Gang,Gang-1,2572-sins
+Gothic-814-wollen-1,1207,Gothic,814-wollen,munan,munan,m u n a n,,557564,,,^ munan $,default,meinen;  glauben;  dafür halten; etw. zu tun gedenken;  wollen,wollen-1,2131-munan
+Gothic-814-wollen-2,1208,Gothic,814-wollen,wiljan,wiljan,w ɪ l j a n,,557564,,,^ wiljan $,default,wollen,wollen-2,3544-wiljan
+Gothic-63-wasser-1,1215,Gothic,63-wasser,wato,wato,w a t o,,557564,,,^ wato $,default,Wasser,Wasser-1,3473-wato
+Gothic-643-wir-1,1217,Gothic,643-wir,weis,weis,w i s,,557564,,,^ weis $,default,wir,wir-1,3510-weis
+Gothic-539-schwach-1,1218,Gothic,539-schwach,lasiws,lasiws,l a s ɪ w s,,557564,,,^ lasiws $,default,schwach,schwach-1,1796-lasiws
+Gothic-539-schwach-2,1219,Gothic,539-schwach,siuks,siuks,s ɪ u k s,,557564,,,^ siuks $,default,schwach; krank,schwach-2,2587-siuks
+Gothic-428-reichtum-1,1221,Gothic,428-reichtum,gabei,gabei,ɡ a β i,,557564,,,^ gabei $,default,Reichtum,Reichtum-1,951-gabei
+Gothic-400-brunnen-1,1226,Gothic,400-brunnen,brunna,brunna,b r u nː a,,557564,,,^ brunna $,default,Brunnen,Brunnen-1,576-brunna
+Gothic-297-westen-1,1227,Gothic,297-westen,saggqa,saggqa,s a ŋ ɡ kʷ a,,557564,,,^ saggqa $,default,Untergang;  Westen,Westen-1,2421-saggqa
+Gothic-646-was-1,1229,Gothic,646-was,ƕe,ƕe,ʍ e,,557564,,,^ ƕe $,default,wem;  mit wem;  womit,womit-1,1509-e
+Gothic-648-wo-1,1230,Gothic,648-wo,ƕar,ƕar,ʍ a r,,557564,,,^ ƕar $,default,wo,wo-1,1493-ar
+Gothic-648-wo-2,1231,Gothic,648-wo,þarei,þarei,θ a r i,,557564,,,^ þarei $,default,wo,wo-2,3024-arei
+Gothic-525-wei-1,1233,Gothic,525-wei,ƕeits,ƕeits,ʍ i t s,,557564,,,^ ƕeits $,default,weiß,wei-1,1518-eits
+Gothic-525-wei-2,1234,Gothic,525-wei,lais,lais,l ɛ s,,557564,,,^ lais $,default,weiß,wei-2,1780-lais
+Gothic-649-wohin-1,1235,Gothic,649-wohin,ƕad,ƕad,ʍ a ð,,557564,,,^ ƕad $,default,wohin,wohin-1,1481-ad
+Gothic-649-wohin-2,1238,Gothic,649-wohin,þadei,þadei,θ a ð i,,557564,,,^ þadei $,default,wohin,wohin-4,2995-adei
+Gothic-647-wer-1,1239,Gothic,647-wer,ƕarjis,ƕarjis,ʍ a r j ɪ s,,557564,,,^ ƕarjis $,default,wer,wer-1,1495-arjis
+Gothic-647-wer-2,1240,Gothic,647-wer,ƕas,ƕas,ʍ a s,,557564,,,^ ƕas $,default,wer?,wer-2,1497-as
+Gothic-485-breit-1,1243,Gothic,485-breit,braiþs,braiþs,b r ɛ θ s,,557564,,,^ braiþs $,default,breit,breit-1,558-brais
+Gothic-61-wind-1,1247,Gothic,61-wind,winds,winds,w ɪ n d s,,557564,,,^ winds $,default,Wind,Wind-1,3554-winds
+Gothic-317-fenster-1,1248,Gothic,317-fenster,augadauro,augadauro,ɔ ɣ a ð ɔ r o,,557564,,,^ augadauro $,default,Fenster,Fenster-1,358-augadauro
+Gothic-970-abwischen-1,1251,Gothic,970-abwischen,af-swairban,afswairban,a ɸ s w ɛ r b a n,,557564,,,^ afswairban $,default,auslöschen; abwischen,abwischen-1,2823-afswairban
+Gothic-970-abwischen-2,1252,Gothic,970-abwischen,bi-swairban,biswairban,b ɪ s w ɛ r b a n,,557564,,,^ biswairban $,default,abwischen;  abtrocknen mit,abwischen-2,2824-biswairban
+Gothic-147-wolf-1,1253,Gothic,147-wolf,wulfs,wulfs,w u l ɸ s,,557564,,,^ wulfs $,default,Wolf,Wolf-1,3625-wulfs
+Gothic-194-frau-1,1254,Gothic,194-frau,qino,qino,kʷ ɪ n o,,557564,,,^ qino $,default,femina;  Weib,Weib-1,2300-qino
+Gothic-299-holz-1,1255,Gothic,299-holz,triu,triu,t r ɪ u,,557564,,,^ triu $,default,Holz;  Prügel,Holz-1,2969-triu
+Gothic-364-wolle-1,1256,Gothic,364-wolle,wulla,wulla,w u lː a,,557564,,,^ wulla $,default,Wolle,Wolle-1,3626-wulla
+Gothic-235-wort-1,1257,Gothic,235-wort,waurd,waurd,w ɔ r d,,557564,,,^ waurd $,default,Wort,Wort-1,3474-waurd
+Gothic-946-arbeiten-1,1258,Gothic,946-arbeiten,arbaidjan,arbaidjan,a r b ɛ ð j a n,,557564,,,^ arbaidjan $,default,arbeiten;  dulden,arbeiten-1,300-arbaidjan
+Gothic-245-arbeit-1,1259,Gothic,245-arbeit,arbaiþs,arbaiþs,a r b ɛ θ s,,557564,,,^ arbaiþs $,default,Drangsal; Arbeit,Arbeit-1,304-arbais
+Gothic-417-arbeiter-1,1260,Gothic,417-arbeiter,waurstwa,waurstwa,w ɔ r s t w a,,557564,,,^ waurstwa $,default,Arbeiter,Arbeiter-1,3487-waurstwa
+Gothic-417-arbeiter-2,1261,Gothic,417-arbeiter,waurstwja,waurstwja,w ɔ r s t w j a,,557564,,,^ waurstwja $,default,Arbeiter,Arbeiter-2,3490-waurstwja
+Gothic-429-welt-1,1262,Gothic,429-welt,fairƕus,fairƕus,ɸ ɛ r ʍ u s,,557564,,,^ fairƕus $,default,Welt,Welt-1,746-fairus
+Gothic-429-welt-2,1263,Gothic,429-welt,manaseþs,manaseþs,m a n a s e θ s,,557564,,,^ manaseþs $,default,Welt;  Menschheit,Welt-2,1997-manases
+Gothic-164-wurm-1,1264,Gothic,164-wurm,maþa,maþa,m a θ a,,557564,,,^ maþa $,default,Wurm,Wurm-1,2035-maa
+Gothic-164-wurm-2,1265,Gothic,164-wurm,waurms,waurms,w ɔ r m̥ s,,557564,,,^ waurms $,default,Wurm;  Schlange,Wurm-2,3485-waurms
+Gothic-396-wunde-1,1266,Gothic,396-wunde,banja*,banja,b a n j a,,557564,,,^ banja $,default,Schlag;  Wunde,Wunde-1,450-banja
+Gothic-1009-schreiben-1,1268,Gothic,1009-schreiben,meljan,meljan,m e l j a n,,557564,,,^ meljan $,default,schreiben,schreiben-1,2054-meljan
+Gothic-1009-schreiben-2,1269,Gothic,1009-schreiben,ga-meljan,gameljan,ɡ a m e l j a n,,557564,,,^ gameljan $,default,schreiben,schreiben-2,2057-gameljan
+Gothic-457-jahr-1,1270,Gothic,457-jahr,ataþni*,ataþni,a t a θ n ɪ,,557564,,,^ ataþni $,default,Jahr,Jahr-1,343-atani
+Gothic-457-jahr-2,1271,Gothic,457-jahr,jer,jer,j e r,,557564,,,^ jer $,default,Jahr,Jahr-2,1642-jer
+Gothic-644-ihr-1,1275,Gothic,644-ihr,jūs,jus,j u s,,557564,,,^ jus $,default,ihr,ihr-1,1656-jus
+Gothic-567-jung-1,1277,Gothic,567-jung,juggs,juggs,j u ŋ ɡ s,,557564,,,^ juggs $,default,jung;  jugendlich,jung-1,1652-juggs

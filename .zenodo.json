@@ -50,7 +50,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>+++ full citation here please +++</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Streitberg, Wilhelm. (1910). Die Gotische Bibel [The Gothic bible], Carl Winter, Heidelberg.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

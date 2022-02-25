@@ -1,0 +1,497 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1-auge,Auge,1248,EYE
+2-ohr,Ohr,1247,EAR
+4-mund,Mund,674,MOUTH
+5-zahn,Zahn,1380,TOOTH
+6-zunge,Zunge,1205,TONGUE
+7-lippe,Lippe,478,LIP
+8-wange,Wange,1730,CHEEK
+9-gesicht,Gesicht,1560,FACE
+11-haar,Haar,1040,HAIR
+17-hals,Hals,1333,NECK
+18-genick,Genick,1347,NAPE (OF NECK)
+21-bauch,Bauch,1251,BELLY
+23-busen,Busen,1402,BREAST
+24-brust,Brust,1592,CHEST
+25-schulter,Schulter,1482,SHOULDER
+26-arm,Arm,1673,ARM
+28-hand,Hand,1277,HAND
+30-finger,Finger,1303,FINGER
+34-fu,Fuß,1301,FOOT
+35-ferse,Ferse,980,HEEL
+36-knie,Knie,1371,KNEE
+39-korper,Körper,1480,BODY
+41-blut,Blut,946,BLOOD
+46-herz,Herz,1223,HEART
+47-magen,Magen,819,STOMACH
+50-hunger,Hunger,1864,HUNGER
+51-trane,Träne,1651,TEAR (OF EYE)
+53-geruch,Geruch,3704,ODOR (SMELL)
+54-schlaf,Schlaf,2972,SLEEP (STATE)
+56-himmel,Himmel,1732,SKY
+57-sonne,Sonne,1343,SUN
+58-mond,Mond,1313,MOON
+59-stern,Stern,1430,STAR
+60-luft,Luft,27,AIR
+61-wind,Wind,960,WIND
+63-wasser,Wasser,948,WATER
+64-stein,Stein,857,STONE
+66-erde,Erde,1228,EARTH (SOIL)
+67-staub,Staub,2,DUST
+70-feuer,Feuer,221,FIRE
+71-licht,Licht,630,LIGHT (RADIATION)
+72-schatten,Schatten,1388,SHADE
+75-wolke,Wolke,1489,CLOUD
+76-regen,Regen,658,RAIN (PRECIPITATION)
+77-schnee,Schnee,784,SNOW
+79-frost,Frost,2034,FROST
+84-donner,Donner,1150,THUNDER
+87-schaum,Schaum,1768,FOAM
+89-see,See,624,LAKE
+94-hugel,Hügel,614,HILL
+96-berg,Berg,639,MOUNTAIN
+98-hohle,Höhle,1155,CAVE
+99-abhang,Abhang,3076,SLOPE
+102-fluss,Fluss,666,RIVER
+103-ufer,Ufer,3464,SHORE OF LAKE
+106-meer,Meer,1474,SEA
+109-blume,Blume,239,FLOWER
+110-gras,Gras,606,GRASS
+111-wurzel,Wurzel,670,ROOT
+112-baum,Baum,906,TREE
+115-ast,Ast,1531,BRANCH
+116-zweig,Zweig,3222,TWIG
+117-blatt,Blatt,628,LEAF
+133-herde,Herde,2939,FLOCK (OF ANIMALS)
+135-bulle,Bulle,1008,BULL
+137-schaf,Schaf,1331,SHEEP
+138-schwein,Schwein,1337,PIG
+139-hund,Hund,2009,DOG
+144-fuchs,Fuchs,1312,FOX
+147-wolf,Wolf,522,WOLF
+148-vogel,Vogel,937,BIRD
+151-hahn,Hahn,1511,ROOSTER
+160-fisch,Fisch,227,FISH
+163-schlangetier,Schlange[Tier],730,SNAKE
+164-wurm,Wurm,1219,WORM
+175-saat,Saat,714,SEED
+176-korn,Korn,605,GRAIN
+177-heu,Heu,342,HAY
+179-grube,Grube,2539,PIT (POTHOLE)
+181-schlinge,Schlinge,2604,NOOSE
+182-spur,Spur,318,FOOTPRINT
+183-asche,Asche,646,ASH
+185-eisen,Eisen,621,IRON
+186-gold,Gold,1369,GOLD
+187-silber,Silber,759,SILVER
+188-kohle,Kohle,2658,COAL
+190-lehm,Lehm,1399,CLAY
+191-sand,Sand,671,SAND
+192-mensch,Mensch,683,PERSON
+193-mann,Mann,1554,MAN
+194-frau,Frau,962,WOMAN
+196-junge,Junge,1366,BOY
+197-madchen,Mädchen,1646,GIRL
+198-familie,Familie,194,FAMILY
+200-gromutter,Großmutter,1496,GRANDMOTHER
+201-eltern,Eltern,505,PARENTS
+202-vater,Vater,1217,FATHER
+203-mutter,Mutter,1216,MOTHER
+204-sohn,Sohn,1620,SON
+205-tochter,Tochter,1357,DAUGHTER
+206-bruder,Bruder,1262,BROTHER
+207-schwester,Schwester,1263,SISTER
+210-ehemann,Ehemann,1200,HUSBAND
+212-freude,Freude,2524,JOY
+215-kummer,Kummer,1668,GRIEF
+217-lust,Lust,2960,LONGING (WISH)
+218-geist,Geist,53,SPIRIT
+219-gedanke,Gedanke,2975,THOUGHT
+220-gedachtnis,Gedächtnis,1018,MEMORY
+221-verstand,Verstand,1562,MIND
+223-grund,Grund,2968,REASON
+224-wahrheit,Wahrheit,1638,TRUTH
+225-gesprach,Gespräch,2933,CONVERSATION
+227-erzahlung,Erzählung,2060,STORY
+230-name,Name,1405,NAME
+232-rede,Rede,1115,SPEECH
+233-sprache,Sprache,1307,LANGUAGE
+234-stimme,Stimme,1363,VOICE
+235-wort,Wort,1599,WORD
+236-zeichen,Zeichen,1720,SIGN
+237-ruf,Ruf,2944,CALL (APPEAL)
+238-larm,Lärm,1182,NOISE
+242-ruhe,Ruhe,3458,SILENCE
+245-arbeit,Arbeit,984,WORK (LABOUR)
+247-geschenk,Geschenk,2982,GIFT
+251-freund,Freund,1325,FRIEND
+257-teil,Teil,779,PART
+258-halfte,Hälfte,816,HALF
+260-kreuz,Kreuz,1367,CROSS
+262-strich,Strich,2993,STROKE (OF PEN)
+265-gegend,Gegend,2980,AREA
+266-platz,Platz,3006,SPACE (AVAILABLE)
+267-ort,Ort,723,PLACE (POSITION)
+268-seite,Seite,682,SIDE
+269-mitte,Mitte,1093,MIDDLE
+271-sache,Sache,738,THING
+274-ecke,Ecke,192,CORNER
+276-ende,Ende,742,END (OF SPACE)
+277-loch,Loch,1667,HOLE
+280-groe,Größe,2845,SIZE (OF OBJECT)
+281-lange,Länge,2537,LENGTH
+282-hohe,Höhe,2985,HEIGHT
+284-menge,Menge,2987,AMOUNT
+292-last,Last,1679,LOAD
+293-gang,Gang,2979,WALK (MANNER)
+297-westen,Westen,1817,WEST
+299-holz,Holz,1803,WOOD
+301-platte,Platte,2952,SLAB
+306-rohr,Rohr,2956,TUBE
+307-haus,Haus,1252,HOUSE
+309-ofen,Ofen,859,STOVE
+311-tisch,Tisch,1775,TABLE
+312-stuhl,Stuhl,1476,CHAIR
+314-bett,Bett,1663,BED
+317-fenster,Fenster,1375,WINDOW
+318-tur,Tür,1567,DOOR
+319-tor,Tor,2940,GATE
+320-zaun,Zaun,1690,FENCE
+321-dach,Dach,769,ROOF
+330-netz,Netz,2963,NET
+334-bild,Bild,3303,PICTURE (PAINTING)
+337-beutel,Beutel,2951,POUCH
+342-geschirr,Geschirr,481,DISH
+343-sack,Sack,2990,SACK
+344-tasse,Tasse,476,CUP
+346-kessel,Kessel,854,KETTLE
+348-nahrung,Nahrung,256,FOOD
+350-fleisch,Fleisch,634,MEAT
+353-brot,Brot,1368,BREAD
+355-fett,Fett,323,FAT (ORGANIC SUBSTANCE)
+357-ol,Öl,1484,OIL (ORGANIC SUBSTANCE)
+358-salz,Salz,1274,SALT
+360-honig,Honig,942,HONEY
+361-milch,Milch,635,MILK
+364-wolle,Wolle,964,WOOL
+366-nadel,Nadel,1382,NEEDLE (FOR SEWING)
+371-kleidung,Kleidung,1895,CLOTHES
+376-gurtel,Gürtel,772,BELT
+378-schuh,Schuh,1381,SHOE
+381-band,Band,2969,RIBBON
+383-spiegel,Spiegel,1171,MIRROR
+384-riemen,Riemen,2973,STRAP
+392-starke,Stärke,202,STRENGTH
+393-gesundheit,Gesundheit,1364,HEALTHY
+394-krankheit,Krankheit,1986,DISEASE
+395-schmerz,Schmerz,1783,PAIN
+396-wunde,Wunde,1109,WOUND
+397-fieber,Fieber,1534,FEVER
+400-brunnen,Brunnen,954,WELL
+401-weide,Weide,649,PASTURE
+402-pfad,Pfad,2252,PATH
+404-strae,Straße,667,ROAD
+405-dorf,Dorf,930,VILLAGE
+406-stadt,Stadt,1391,TOWN
+407-brief,Brief,1612,LETTER
+409-buchstabe,Buchstabe,1024,CHARACTER
+411-leben,Leben,210,LIFE
+412-tod,Tod,910,DEATH
+413-grab,Grab,1773,GRAVE
+414-kirche,Kirche,1349,CHURCH
+415-sunde,Sünde,2971,SIN
+416-gott,Gott,3231,DEITY
+417-arbeiter,Arbeiter,2977,WORKER
+420-arzt,Arzt,597,PHYSICIAN
+421-lehrer,Lehrer,1038,TEACHER
+422-geld,Geld,1559,MONEY
+423-geschaft,Geschäft,2931,BUSINESS
+425-preis,Preis,657,PRICE
+427-nutzen,Nutzen,2929,BENEFIT
+428-reichtum,Reichtum,2996,WEALTH
+429-welt,Welt,965,WORLD
+430-land,Land,1300,COUNTRY
+432-konig,König,1508,KING
+433-macht,Macht,2526,POWER
+434-grenze,Grenze,2546,BORDER
+436-feind,Feind,1358,ENEMY
+437-gewalt,Gewalt,2976,VIOLENCE
+440-pfeil,Pfeil,977,ARROW
+443-luge,Lüge,2826,LIE (FALSEHOOD)
+444-schaden,Schaden,2947,DAMAGE (INJURY)
+446-schuld,Schuld,134,FAULT
+447-alter,Alter,1789,AGE
+449-zeit,Zeit,892,TIME
+450-tag,Tag,1225,DAY (NOT NIGHT)
+451-morgen,Morgen,1339,MORNING
+453-abend,Abend,1629,EVENING
+454-nacht,Nacht,1233,NIGHT
+456-monat,Monat,1370,MONTH
+457-jahr,Jahr,1226,YEAR
+459-sommer,Sommer,1342,SUMMER
+472-november,November,2854,NOVEMBER
+481-gro,groß,1202,BIG
+482-klein,klein,1246,SMALL
+483-lang,lang,1203,LONG
+485-breit,breit,1243,WIDE
+486-schmal,schmal,1267,NARROW
+491-fest,fest,3003,SOLID
+492-flach,flach,1633,FLAT
+493-glatt,glatt,1234,SMOOTH
+494-hart,hart,1884,HARD
+495-weich,weich,1856,SOFT
+498-scharf,scharf,1396,SHARP
+500-schwer,schwer,1210,HEAVY
+504-kalt,kalt,1287,COLD
+511-leer,leer,1624,EMPTY
+512-offen,offen,3235,OPEN (STATE)
+520-bitter,bitter,887,BITTER
+522-hell,hell,679,BRIGHT
+524-schwarz,schwarz,163,BLACK
+525-wei,weiß,1335,WHITE
+526-rot,rot,156,RED
+534-wertvoll,wertvoll,3002,PRECIOUS
+535-blind,blind,1653,BLIND
+536-taub,taub,996,DEAF
+537-kraftig,kräftig,3001,POWERFUL
+538-stark,stark,785,STRONG
+539-schwach,schwach,1601,WEAK
+543-bose,böse,45,EVIL
+545-faul,faul,1564,LAZY
+548-klug,klug,1310,CLEVER
+549-geschickt,geschickt,1824,DEXTEROUS
+550-lieb,lieb,2470,DEAR
+553-hungrig,hungrig,1533,BE HUNGRY
+554-krank,krank,1847,SICK
+555-nackt,nackt,590,NAKED
+556-traurig,traurig,699,SAD
+558-gut,gut,1035,GOOD
+560-richtig,richtig,1725,CORRECT (RIGHT)
+561-schlimm,schlimm,419,SEVERE
+562-wahr,wahr,1657,TRUE
+563-alt,alt,1229,OLD
+564-neu,neu,1231,NEW
+567-jung,jung,1207,YOUNG
+568-arm,arm,1674,POOR
+569-reich,reich,712,RICH
+570-bekannt,bekannt,3005,FAMILIAR
+572-fremd,fremd,109,FOREIGN
+573-verschieden,verschieden,2504,DIFFERENT
+574-nah,nah,1942,NEAR
+575-fern,fern,1406,FAR
+577-rechter,rechter,1019,RIGHT
+578-anderer,anderer,197,OTHER
+580-zweiter,zweiter,1384,SECOND
+581-dritter,dritter,1859,THIRD
+582-letzter,letzter,1529,LAST (FINAL)
+583-allein,allein,1964,ALONE
+584-aufeinmal,auf einmal,1963,IMMEDIATELY
+585-zusammen,zusammen,2482,TOGETHER
+587-plotzlich,plötzlich,2920,SUDDENLY
+590-jetzt,jetzt,1376,NOW
+592-morgen,morgen,1329,TOMORROW
+593-bald,bald,703,SOON
+594-dann,dann,2921,THEN
+596-einst,einst,2914,ONCE (IN THE PAST)
+599-vorher,vorher,1882,BEFORE
+600-zuerst,zuerst,2915,AT FIRST
+603-oft,oft,1852,OFTEN
+604-immer,immer,1676,ALWAYS
+606-hier,hier,136,HERE
+607-hierhin,hierhin,2925,HITHER (HERE TO)
+609-dort,dort,1937,THERE
+610-dorthin,dorthin,2923,THITHER (THERE TO)
+615-unten,unten,721,LOW
+616-hinab,hinab,1326,DOWN
+617-oben,oben,1265,HIGH
+618-hinauf,hinauf,1591,UP
+620-nicht,nicht,1240,NOT
+621-einwenig,ein wenig,2924,A LITTLE
+622-kaum,kaum,2926,HARDLY
+623-sehr,sehr,1311,VERY
+624-so,so,2336,OF THIS KIND (SUCH)
+625-noch,noch,2919,STILL (CONTINUING)
+626-nur,nur,1580,ONLY
+627-schon,schon,2576,ALREADY
+628-wieder,wieder,204,AGAIN
+629-vergebens,vergebens,1765,IN VAIN
+630-vor,vor,1883,IN FRONT OF
+631-hinter,hinter,1686,BEHIND
+632-unter,unter,1485,BELOW OR UNDER
+633-durch,durch,97,THROUGH
+637-dies,dies,1214,THIS
+638-das,das,78,THAT
+640-ich,ich,1209,I
+641-du,du,1215,THOU
+642-er,er,1211,HE
+643-wir,wir,1212,WE
+644-ihr,ihr,1213,YOU
+646-was,was,1236,WHAT
+647-wer,wer,1235,WHO
+648-wo,wo,1237,WHERE
+649-wohin,wohin,2928,WHITHER (WHERE TO)
+650-wie,wie,1239,HOW
+655-drei,drei,492,THREE
+656-vier,vier,1500,FOUR
+657-funf,fünf,493,FIVE
+658-sechs,sechs,1703,SIX
+659-sieben,sieben,1704,SEVEN
+660-acht,acht,1705,EIGHT
+661-neun,neun,1483,NINE
+662-zehn,zehn,1515,TEN
+663-elf,elf,1706,ELEVEN
+664-zwolf,zwölf,1707,TWELVE
+670-siebzig,siebzig,1721,SEVENTY
+671-achtzig,achtzig,1722,EIGHTY
+672-neunzig,neunzig,1724,NINETY
+673-hundert,hundert,1634,HUNDRED
+674-tausend,tausend,1843,THOUSAND
+675-und,und,1577,AND
+676-oder,oder,1014,OR
+678-sitzen,sitzen,1416,SIT
+679-liegen,liegen,1411,LIE (REST)
+680-hangen,hängen,2884,HANG
+681-werden,werden,1990,BECOME
+684-enden,enden,1928,CEASE
+696-fallen,fallen,1280,FALL
+697-brennen,brennen,1428,BURNING
+699-regnen,regnen,1253,RAIN (RAINING)
+704-sieden,sieden,792,BOIL (OF LIQUID)
+708-versinken,versinken,1088,SINK (DESCEND)
+713-abnehmen,abnehmen,2864,DECREASE
+714-zunehmen,zunehmen,1041,INCREASE
+716-wachsen,wachsen,479,GROW
+732-zittern,zittern,52,SHIVER
+733-leben,leben,1422,BE ALIVE
+736-trinken,trinken,1401,DRINK
+737-essen,essen,1336,EAT
+741-schlafen,schlafen,1585,SLEEP
+742-aufwachen,aufwachen,1602,WAKE UP
+749-genesen,genesen,1978,RECOVER
+750-sterben,sterben,1494,DIE
+751-umkommen,umkommen,2865,DIE (FROM ACCIDENT)
+754-sicherheben,sich erheben,570,STAND UP
+755-sichsetzen,sich setzen,1649,SIT DOWN
+756-hinfallen,hinfallen,2894,TUMBLE (FALL DOWN)
+757-laufen,laufen,1443,WALK
+760-eilen,eilen,2860,BOLT (MOVE IN HASTE)
+763-rennen,rennen,1519,RUN
+764-springen,springen,1829,JUMP
+767-kriechen,kriechen,3215,CREEP
+771-fahren,fahren,741,DRIVE
+774-weggehen,weggehen,1752,LEAVE
+779-kommen,kommen,1446,COME
+780-ankommen,ankommen,1387,ARRIVE
+782-bleiben,bleiben,987,REMAIN
+783-warten,warten,1590,WAIT (FOR)
+785-suchen,suchen,1468,LOOK FOR
+786-finden,finden,719,FIND
+787-versuchen,versuchen,1812,TRY
+789-lieben,lieben,923,LOVE
+791-lachen,lachen,1355,LAUGH
+793-weinen,weinen,1839,CRY
+795-sichargern,sich ärgern,2223,BE ANGRY
+796-sichfurchten,sich fürchten,1419,FEAR (BE AFRAID)
+803-horen,hören,1408,HEAR
+805-probieren,probieren,21,TASTE (SOMETHING)
+812-tun,tun,813,DO
+813-konnen,können,972,BE ABLE
+814-wollen,wollen,1784,WANT
+815-anfangen,anfangen,1806,BEGIN
+820-offnen,öffnen,1156,OPEN
+824-legen,legen,2071,LAY (VERB)
+825-beruhren,berühren,1892,TOUCH
+826-verbinden,verbinden,2862,CONNECT
+830-aufheben,aufheben,371,PICK UP
+834-machen,machen,734,MAKE
+835-herstellen,herstellen,2886,PRODUCE
+836-bauen,bauen,1840,BUILD
+838-verbessern,verbessern,2872,IMPROVE (SOMETHING)
+840-graben,graben,1418,DIG
+844-wenden,wenden,1445,TURN (SOMETHING)
+847-hochheben,hochheben,501,LIFT
+848-ergreifen,ergreifen,855,SEIZE
+849-halten,halten,1448,HOLD
+850-drucken,drücken,1913,PRESS
+851-schieben,schieben,1452,PUSH
+854-beien,beißen,1403,BITE
+857-binden,binden,1917,TIE
+859-brechen,brechen,680,BREAK (DESTROY OR GET DESTROYED)
+863-reiben,reiben,1449,RUB
+866-schneiden,schneiden,1432,CUT
+868-schutteln,schütteln,1909,SHAKE
+871-fullen,füllen,2006,FILL
+873-tragen,tragen,700,CARRY
+876-aufbewahren,aufbewahren,1477,KEEP
+877-werfen,werfen,1456,THROW
+878-fangen,fangen,702,CATCH
+881-teilen,teilen,1119,DIVIDE
+883-bringen,bringen,692,BRING
+884-hinzufugen,hinzufügen,2882,ADD
+886-erhalten,erhalten,694,GET
+887-nehmen,nehmen,1749,TAKE
+888-wahlen,wählen,1750,CHOOSE
+890-bewahren,bewahren,1997,PRESERVE
+892-verderben,verderben,92,SPOIL (SOMEBODY OR SOMETHING)
+893-beschadigen,beschädigen,1116,DAMAGE
+894-zerbrechen,zerbrechen,2558,BREAK (CLEAVE)
+895-zerreien,zerreißen,1735,TEAR (SHRED)
+896-zerstoren,zerstören,681,DESTROY
+897-verbrennen,verbrennen,141,BURN (SOMETHING)
+898-geben,geben,1447,GIVE
+900-schenken,schenken,196,DONATE
+903-loben,loben,3455,COMMEND
+908-zeigen,zeigen,1039,SHOW
+910-lehren,lehren,709,TEACH
+913-leiten,leiten,43,LEAD (GUIDE)
+915-lassen,lassen,2896,CAUSE TO (LET)
+916-einladen,einladen,1611,INVITE
+918-besuchen,besuchen,1377,VISIT
+919-treffen,treffen,1831,MEET
+922-singen,singen,1261,SING
+923-tanzen,tanzen,1879,DANCE
+924-sichtrennen,sich trennen,1359,SEPARATE
+926-retten,retten,2008,RESCUE
+927-bewachen,bewachen,1940,GUARD
+929-verteidigen,verteidigen,1330,DEFEND
+934-schlagen,schlagen,3308,STRIKE (SOMEONE)
+935-treten,treten,1135,KICK
+938-stehlen,stehlen,713,STEAL
+940-belastigen,belästigen,2869,BOTHER (HARASS)
+941-verbergen,verbergen,602,HIDE (CONCEAL)
+944-toten,töten,1417,KILL
+945-wohnen,wohnen,363,"DWELL (LIVE, RESIDE)"
+946-arbeiten,arbeiten,1086,WORK (ACTIVITY)
+947-sammeln,sammeln,7,GATHER
+950-fischen,fischen,2638,FISHING
+952-huten,hüten,2885,HERD (SOMETHING)
+953-treiben,treiben,2868,DRIVE (CATTLE)
+958-gieen,gießen,3078,IRRIGATE
+966-nahen,nähen,1457,SEW
+968-reinigen,reinigen,2235,CLEAN (SOMETHING)
+970-abwischen,abwischen,1454,WIPE
+980-schmucken,schmücken,1739,DECORATE
+981-sagen,sagen,1458,SAY
+982-sprechen,sprechen,1623,SPEAK
+983-reden,reden,2708,TALK
+985-fragen,fragen,1309,ASK (INQUIRE)
+986-bitten,bitten,1828,ASK (REQUEST)
+987-erzahlen,erzählen,1711,TELL
+989-nennen,nennen,180,CALL BY NAME
+990-rufen,rufen,1084,CALL
+991-prahlen,prahlen,101,BOAST
+992-ubersetzen,übersetzen,2906,TRANSLATE
+993-denken,denken,1415,THINK (REFLECT)
+994-glauben,glauben,1890,BELIEVE
+995-bemerken,bemerken,2893,NOTICE (SOMETHING)
+996-erkennen,erkennen,2870,RECOGNIZE (SOMEBODY)
+1000-wissen,wissen,1410,KNOW (SOMETHING)
+1002-vergessen,vergessen,1523,FORGET
+1003-messen,messen,1506,MEASURE
+1004-zahlen,zählen,1420,COUNT
+1005-rechnen,rechnen,2867,CALCULATE
+1009-schreiben,schreiben,1672,WRITE
+1010-besitzen,besitzen,684,OWN
+1011-kaufen,kaufen,1869,BUY
+1014-zahlen,zahlen,718,PAY
+1016-ertragen,ertragen,833,ENDURE

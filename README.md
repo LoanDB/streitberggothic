@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > +++ full citation here please +++
+  > Streitberg, Wilhelm. (1910). Die Gotische Bibel [The Gothic bible], Carl Winter, Heidelberg.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
