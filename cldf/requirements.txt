@@ -11,7 +11,7 @@ greenlet==1.1.2
 idna==3.3
 iniconfig==1.1.1
 isodate==0.6.1
--e git+https://github.com/martino-vic/streitberggothic.git@b8bad8cd9629a37b1c4dbe26cc4f1482284c27e7#egg=lexibank_streitberggothic
+-e git+https://github.com/martino-vic/gerstnerhungarian.git@ce97645b07533908625ba3b12ae7aed1b5fe641e#egg=lexibank_gerstnerhungarian
 lingpy==2.6.9
 Markdown==3.3.6
 networkx==2.6.3
