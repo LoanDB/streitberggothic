@@ -1,4 +1,4 @@
-"""cd to folder `misc` and run `python adapt.py` from terminal"""
+"""cd to folder `misc` and run `python3.9 -m adapt` from terminal"""
 
 from pathlib import Path
 import re
@@ -21,8 +21,8 @@ def main():
     dfforms = pd.read_csv(in_path1)
     #add new column of backward-reconstructions with loanpy
     Sc = adrc.Adrc(scdict=in_path2, scdict_struc=in_path3)
-    output = [(Sc.adapt(i.replace(" ", ""), howmany=10,
-                            hm_struc=2, hm_paths=2,
+    output = [(Sc.adapt(i.replace(" ", ""), howmany=70,
+                            hm_struc=3, hm_paths=2,
                             show_workflow=True), Sc.workflow)
                             for i in dfforms["Segments"]]
     dfforms[outcolname] = [i[0] for i in output]
