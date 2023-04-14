@@ -17,7 +17,7 @@ idna==3.4
 iniconfig==2.0.0
 isodate==0.6.1
 jsonschema==4.17.3
--e git+https://github.com/martino-vic/streitberggothic.git@56836f740a10a326b168fef7d90debd9ebf15a3c#egg=lexibank_streitberggothic
+-e git+https://github.com/martino-vic/streitberggothic.git@c30de93ccc04698240eb9652b667c69175e15016#egg=lexibank_streitberggothic
 lingpy==2.6.9
 lxml==4.9.2
 Markdown==3.4.3
