@@ -59,15 +59,15 @@ class Dataset(BaseDataset):
             writer.add_sources()
             ## add concept
             concepts = {}
-            for concept in self.conceptlists[0].concepts.values():
-                idx = "{0}-{1}".format(concept.number, slug(concept.gloss))
+            for i, concept in enumerate(self.concepts):
+                idx = f"{i}-{slug(concept['sense'])}"
                 writer.add_concept(
                         ID=idx,
-                        Name=concept.gloss,
-                        Concepticon_ID=concept.concepticon_id,
-                        Concepticon_Gloss=concept.concepticon_gloss,
+                        Name=concept["sense"],
+                        Concepticon_ID=concept["Concepticon_ID"],
+                        Concepticon_Gloss=concept["Concepticon_Gloss"],
                         )
-                concepts[concept.concepticon_id] = idx
+                concepts[concept["Concepticon_ID"]] = idx
             args.log.info("added concepts")
 
             ## add languages
@@ -84,16 +84,19 @@ class Dataset(BaseDataset):
             ## add forms
             for row in self.raw_dir.read_csv(
                 "wordlist.tsv", delimiter="\t", dicts=True):
-                writer.add_forms_from_value(
-                    Local_ID=row["ID"],
-                    Language_ID="Gothic",
-                    Parameter_ID=concepts[row["CONCEPTICON_ID"]],
-                    Value=row["FORM"],
-                    Meaning=row["MEANING"],
-                    Entry_ID=form2idx[row["FORM"], row["SENSE"]],
-                    Sense_ID=row["SENSE_ID"],
-                    Source="557564"
-                    )
+                try:
+                    writer.add_forms_from_value(
+                        Local_ID=row["ID"],
+                        Language_ID="Gothic",
+                        Parameter_ID=concepts[row["CONCEPTICON_ID"]],
+                        Value=row["FORM"],
+                        Meaning=row["MEANING"],
+                        Entry_ID=form2idx[row["FORM"], row["SENSE"]],
+                        Sense_ID=row["SENSE_ID"],
+                        Source="557564"
+                        )
+                except KeyError:
+                    continue
 
         with self.cldf_writer(args, cldf_spec="dictionary", clean=False) as writer:
 

@@ -22,7 +22,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/streitberggothic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-24-g24baf10",
+            "dc:created": "v1.0-26-g56836f7",
             "dc:title": "Repository"
         },
         {
@@ -56,9 +56,6 @@
     ],
     "rdf:ID": "streitberggothic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
@@ -178,7 +175,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {

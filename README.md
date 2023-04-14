@@ -17,6 +17,15 @@ Available online at http://www.wulfila.be/lib/streitberg/1910/text/html/
 
 Conceptlists in Concepticon:
 - [Dellert-2018-1016](https://concepticon.clld.org/contributions/Dellert-2018-1016)
+## Notes
+
+For a walkthrough visit our [blog post](https://calc.hypotheses.org/3318) and check out my YouTube-tutorial:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgLrDJ0zMPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+ 
+
+
+
 ## Statistics
 
 
@@ -28,13 +37,13 @@ Conceptlists in Concepticon:
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 1
-- **Concepts:** 496
-- **Lexemes:** 659
+- **Concepts:** 443
+- **Lexemes:** 635
 - **Sources:** 1
-- **Synonymy:** 1.33
+- **Synonymy:** 1.43
 - **Invalid lexemes:** 0
-- **Tokens:** 3,725
-- **Segments:** 44 (0 BIPA errors, 0 CTLS sound class errors, 44 CLTS modified)
+- **Tokens:** 3,682
+- **Segments:** 44 (0 BIPA errors, 0 CLTS sound class errors, 44 CLTS modified)
 - **Inventory size (avg):** 44.00
 
 # Contributors

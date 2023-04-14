@@ -1,436 +1,848 @@
 ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
-1	2924	A LITTLE	leitils	klein;  wenig	wenig	wenig-1
-4	2882	ADD	bi-aukan	hinzufügen	hinzufügen	hinzufugen-1
-7	204	AGAIN	aftra	wieder	wieder	wieder-1
-8	1789	AGE	aldomin	Alter	Alter	Alter-1
-9	1789	AGE	fairniþa	Alter	Alter	Alter-2
-10	27	AIR	luftu	Luft	Luft	Luft-1
-12	1964	ALONE	sundro	abgesondert;  besonders;  allein	allein	allein-1
-13	2576	ALREADY	ju	schon	schon	schon-1
-14	2576	ALREADY	juþan	schon	schon	schon-2
-15	1676	ALWAYS	sinteino	immer;  allezeit	immer	immer-1
-17	2987	AMOUNT	hiuhma	Menge; Haufe	Menge	Menge-2
-18	2987	AMOUNT	managei	Menge	Menge	Menge-3
-19	1577	AND	jah	und;  und zwar;  auch	und	und-1
-20	1577	AND	-uh	nun; und;  also	und	und-2
-25	2980	AREA	fera	Seite;  Gegend	Gegend	Gegend-1
-26	2980	AREA	land	Land;  Gegend	Gegend	Gegend-2
-27	1673	ARM	arms	Arm	Arm	Arm-1
-28	1387	ARRIVE	niutan	treffen;  erreichen;  einer Sache froh sein	erreichen	erreichen-1
-29	977	ARROW	arƕazna	Pfeil	Pfeil	Pfeil-1
-30	646	ASH	azgo	Asche	Asche	Asche-1
-31	1309	ASK (INQUIRE)	fragan	fragen	fragen	fragen-1
-32	1309	ASK (INQUIRE)	fraihnan	fragen	fragen	fragen-2
-33	1828	ASK (REQUEST)	bidjan	betteln; bitten;  beten	bitten	bitten-1
-34	1828	ASK (REQUEST)	ga-bidjan	bitten; beten	bitten	bitten-2
-36	2915	AT FIRST	frumist	zuerst	zuerst	zuerst-1
-52	972	BE ABLE	magan*	können;  vermögen	können	konnen-1
-53	1422	BE ALIVE	liban	leben	leben	leben-1
-56	2223	BE ANGRY	hatizon	zürnen	zürnen	zurnen-1
-62	1533	BE HUNGRY	huggrjan	hungern	hungern	hungern-2
-67	1990	BECOME	wairþan	werden	werden	werden-1
-69	1663	BED	badi	Bett	Bett	Bett-1
-70	1663	BED	ligrs	Bett; Lager	Bett	Bett-2
-71	1882	BEFORE	faurþis	zuvor;  früher	zuvor	zuvor-1
-72	1806	BEGIN	ana-stodjan	anfangen;  anheben	anfangen	anfangen-1
-73	1806	BEGIN	du-stodjan	anfangen;  anheben	anfangen	anfangen-2
-74	1686	BEHIND	hindana	hinter;  jenseits	hinter	hinter-1
-75	1686	BEHIND	hindar	hinter;  jenseits	hinter	hinter-2
-76	1890	BELIEVE	ga-laubjan	glauben	glauben	glauben-1
-80	1251	BELLY	wamba	Schoß; Bauch	Bauch	Bauch-1
-85	1485	BELOW OR UNDER	undaro	unter	unter	unter-5
-86	772	BELT	gairda	Gürtel	Gürtel	Gurtel-1
-88	2929	BENEFIT	bota	Nutzen	Nutzen	Nutzen-1
-91	1202	BIG	mikils	groß	groß	gro-1
-93	937	BIRD	fugls	Vogel	Vogel	Vogel-1
-94	1403	BITE	beitan	beißen	beißen	beien-1
-95	887	BITTER	baitrs	bitter	bitter	bitter-1
-96	163	BLACK	swarts	schwarz	schwarz	schwarz-1
-98	1653	BLIND	blinds	blind	blind	blind-1
-99	946	BLOOD	bloþ	Blut	Blut	Blut-1
-105	101	BOAST	flautjan	prahlen	prahlen	prahlen-1
-108	1480	BODY	leik	Körper;  Leib	Leib	Leib-1
-109	792	BOIL (OF LIQUID)	wulan	wallen;  sieden	sieden	sieden-1
-111	2860	BOLT (MOVE IN HASTE)	sniumjan	eilen	eilen	eilen-1
-112	2860	BOLT (MOVE IN HASTE)	sniwan	eilen	eilen	eilen-2
-116	2546	BORDER	marka	Mark;  Grenze	Grenze	Grenze-1
-118	2869	BOTHER (HARASS)	kaurjan	drücken;  belästigen	belästigen	belastigen-1
-121	1366	BOY	magus	Knabe	Knabe	Knabe-1
-123	1531	BRANCH	asts	Ast	Ast	Ast-1
-125	1368	BREAD	hlaifs	Brot;  Brotbissen	Brot	Brot-1
-126	2558	BREAK (CLEAVE)	ga-brikan	zerbrechen	zerbrechen	zerbrechen-1
-127	2558	BREAK (CLEAVE)	ga-kroton	zerbrechen;  zerschellen	zerbrechen	zerbrechen-2
-128	680	BREAK (DESTROY OR GET DESTROYED)	brikan	brechen;  zerstören	brechen	brechen-1
-130	1402	BREAST	barms	Busen;  Schoß	Busen	Busen-1
-135	679	BRIGHT	liuhadeins*	hell	hell	hell-2
-137	692	BRING	briggan	bringen	bringen	bringen-2
-139	1262	BROTHER	broþar	Bruder	Bruder	Bruder-1
-143	1840	BUILD	timrjan	bauen	bauen	bauen-2
-144	1008	BULL	stiur	Stier;  Kalb	Stier	Stier-1
-146	141	BURN (SOMETHING)	ga-brannjan	verbrennen	verbrennen	verbrennen-1
-150	1428	BURNING	brinnan	brennen	brennen	brennen-1
-152	2931	BUSINESS	gawaurki	Erwerb; Geschäft;  Gewinn	Geschäft	Geschaft-1
-156	1869	BUY	bugjan	kaufen	kaufen	kaufen-1
-157	2867	CALCULATE	rahnjan	rechnen	rechnen	rechnen-1
-158	1084	CALL	hropjan	rufen	rufen	rufen-1
-159	1084	CALL	wopjan	rufen	rufen	rufen-2
-160	2944	CALL (APPEAL)	hrops	Ruf;  Geschrei	Ruf	Ruf-1
-162	180	CALL BY NAME	namnjan	nennen	nennen	nennen-2
-168	700	CARRY	bairan	tragen	tragen	tragen-1
-169	700	CARRY	†dragan	tragen	tragen	tragen-2
-171	702	CATCH	fāhan	fangen;  greifen	fangen	fangen-1
-172	702	CATCH	niman	fangen; nehmen;  annehmen;  aufnehmen;  empfangen	fangen	fangen-2
-173	2896	CAUSE TO (LET)	leitan	lassen	lassen	lassen-1
-174	2896	CAUSE TO (LET)	letan	lassen	lassen	lassen-2
-177	1155	CAVE	filigri*	Höhle	Höhle	Hohle-2
-178	1155	CAVE	groba	Grube;  Höhle	Höhle	Hohle-3
-180	1928	CEASE	ƕeilan	aufhören	aufhören	aufhoren-1
-181	1928	CEASE	ga-ƕeilan	aufhören; zur Ruhe kommen	aufhören	aufhoren-2
-183	1476	CHAIR	stols	Stuhl;  Thron	Stuhl	Stuhl-1
-186	1024	CHARACTER	boka	Buchstabe	Buchstabe	Buchstabe-1
-189	1730	CHEEK	kinnus	Wange	Wange	Wange-1
-190	1592	CHEST	brusts	Brust	Brust	Brust-1
-195	1750	CHOOSE	waljan	wählen	wählen	wahlen-1
-197	1349	CHURCH	aikklesjo	Gemeinde;  Kirche;  Gotteshaus	Kirche	Kirche-1
-200	1399	CLAY	þāho	Lehm	Lehm	Lehm-1
-202	2235	CLEAN (SOMETHING)	hrainjan	reinigen	reinigen	reinigen-1
-203	2235	CLEAN (SOMETHING)	ga-hrainjan	reinigen	reinigen	reinigen-2
-204	1310	CLEVER	froþs	verständig; klug	klug	klug-1
-205	1310	CLEVER	handugs	klug; weise	klug	klug-2
-209	1895	CLOTHES	gafeteins	Kleidung	Kleidung	Kleidung-1
-210	1489	CLOUD	milhma	Wolke	Wolke	Wolke-1
-211	2658	COAL	hauri	Kohle	Kohle	Kohle-1
-213	1287	COLD	kalds	kalt	kalt	kalt-1
-220	1446	COME	ana-gaggan	kommen	kommen	kommen-1
-223	1446	COME	qiman	kommen	kommen	kommen-4
-227	3455	COMMEND	hazjan	loben;  preisen wegen	loben	loben-1
-230	2862	CONNECT	faur-waipjan	verbinden	verbinden	verbinden-2
-231	2862	CONNECT	ga-widan	verbinden; zusammenbinden	verbinden	verbinden-3
-232	2933	CONVERSATION	gawaurdi	Gespräch	Gespräch	Gesprach-1
-235	192	CORNER	waihsta	Winkel;  Ecke	Ecke	Ecke-1
-236	1725	CORRECT (RIGHT)	raihtaba	recht;  richtig	richtig	richtig-1
-238	1420	COUNT	ga-raþjan	zählen	zählen	zahlen-1
-241	1300	COUNTRY	land	Land;  Gegend	Land	Land-2
-246	3215	CREEP	sliupan	schleichen;  schlüpfen	schleichen	schleichen-1
-247	1367	CROSS	galga	Pfahl;  Kreuz	Kreuz	Kreuz-1
-250	1839	CRY	qainon	weinen;  trauern	weinen	weinen-2
-251	1839	CRY	tagrjan	weinen	weinen	weinen-3
-254	476	CUP	stikls	Becher;  Kelch	Becher	Becher-1
-256	1432	CUT	sneiþan	schneiden;  ernten	schneiden	schneiden-1
-257	1116	DAMAGE	ga-sleiþjan	beschädigen	beschädigen	beschadigen-1
-259	2947	DAMAGE (INJURY)	sleiþa	Schaden	Schaden	Schaden-2
-260	2947	DAMAGE (INJURY)	skaþjan	schaden	schaden	schaden-1
-262	1879	DANCE	plinsjan	tanzen	tanzen	tanzen-1
-265	1357	DAUGHTER	dauhtar	Tochter	Tochter	Tochter-1
-266	1225	DAY (NOT NIGHT)	dags	Tag	Tag	Tag-1
-267	996	DEAF	daufs	taub;  verstockt	taub	taub-1
-268	2470	DEAR	liufs*	lieb	lieb	lieb-1
-269	910	DEATH	dauþus	Tod	Tod	Tod-1
-272	1739	DECORATE	fetjan	schmücken	schmücken	schmucken-1
-273	2864	DECREASE	minznan	abnehmen	abnehmen	abnehmen-1
-274	2864	DECREASE	af-niman	wegnehmen; abnehmen	abnehmen	abnehmen-2
-275	1330	DEFEND	warjan	wehren	wehren	wehren-1
-276	3231	DEITY	guþ	Gott	Gott	Gott-1
-278	681	DESTROY	brikan	brechen;  zerstören	zerstören	zerstoren-1
-279	681	DESTROY	ga-tairan	zerstören;  aufheben; zerreißen	zerstören	zerstoren-2
-280	1824	DEXTEROUS	fagrs*	geschickt;  geeignet	geschickt	geschickt-1
-281	1494	DIE	ga-dauþnan	sterben	sterben	sterben-1
-282	1494	DIE	diwan	sterben	sterben	sterben-2
-284	2865	DIE (FROM ACCIDENT)	fra-qistnan	umkommen;  zugrunde gehn	umkommen	umkommen-1
-285	2504	DIFFERENT	aljaleiko	anders	anders	anders-1
-289	2504	DIFFERENT	missaleiks	verschieden	verschieden	verschieden-1
-290	1418	DIG	graban	graben	graben	graben-1
-295	1986	DISEASE	sauhts*	Krankheit	Krankheit	Krankheit-1
-296	1986	DISEASE	siukei	Krankheit	Krankheit	Krankheit-2
-299	481	DISH	mats	Speise	Speise	Speise-1
-303	1119	DIVIDE	dailjan	teilen;  zuteilen;  mitteilen	teilen	teilen-1
-304	813	DO	taujan	tun;  machen	tun	tun-1
-305	813	DO	waurstwei	das Tun	das Tun	dasTun-1
-306	2009	DOG	hunds	Hund	Hund	Hund-1
-308	196	DONATE	fra-giban	vergeben;  verleihn;  schenken	schenken	schenken-1
-309	1567	DOOR	daurons	Tor;  Tür	Tür	Tur-1
-310	1567	DOOR	haurds	Tür	Tür	Tur-2
-311	1326	DOWN	dalaþ	zu Tal;  abwärts;  nieder;  auf die Erde	abwärts	abwarts-1
-316	1401	DRINK	ga-drigkan	trinken	trinken	trinken-1
-317	741	DRIVE	farjan	fahren	fahren	fahren-1
-319	2868	DRIVE (CATTLE)	dreiban	treiben	treiben	treiben-2
-325	2	DUST	mulda	Staub	Staub	Staub-1
-326	2	DUST	stubjus	Staub	Staub	Staub-2
-327	363	DWELL (LIVE, RESIDE)	bauan	wohnen;  bewohnen	wohnen	wohnen-1
-331	1247	EAR	auso	Ohr	Ohr	Ohr-1
-332	1228	EARTH (SOIL)	airþa	Erde;  Land	Erde	Erde-1
-334	1336	EAT	itan	essen	essen	essen-1
-335	1336	EAT	matjan	essen	essen	essen-2
-339	1705	EIGHT	ahtau	acht	acht	acht-1
-340	1722	EIGHTY	ahtautehund	achtzig	achtzig	achtzig-1
-343	1706	ELEVEN	ainlif*	elf	elf	elf-1
-347	1624	EMPTY	laus	leer; los	leer	leer-2
-348	742	END (OF SPACE)	andeis	Ende	Ende	Ende-1
-349	742	END (OF SPACE)	ustauhts	Ende;  Erfüllung; Vollendung;  Vervollkommnung	Ende	Ende-2
-352	833	ENDURE	ga-beidan	ertragen; ausharren	ertragen	ertragen-2
-353	833	ENDURE	us-þulan	ertragen; erdulden	ertragen	ertragen-3
-354	1358	ENEMY	fijands	Feind	Feind	Feind-1
-357	1629	EVENING	andanahti	Abend	Abend	Abend-1
-359	45	EVIL	ubils	übel;  böse	böse	bose-1
-361	45	EVIL	unþiuþ	das Böse	das Böse	dasBose-1
-363	1248	EYE	augo	Auge	Auge	Auge-1
-364	1560	FACE	andaugi	Antlitz	Antlitz	Antlitz-1
-368	1280	FALL	driusan	fallen	fallen	fallen-1
-370	3005	FAMILIAR	kunþs	kund;  bekannt	bekannt	bekannt-1
-373	194	FAMILY	gards	Haus;  Hauswesen;  Familie	Familie	Familie-1
-374	1406	FAR	fairra	fern	fern	fern-1
-376	323	FAT (ORGANIC SUBSTANCE)	smairþr*	Fett	Fett	Fett-1
-377	1217	FATHER	abba	Vater	Vater	Vater-1
-379	1217	FATHER	fadar	Vater	Vater	Vater-3
-380	134	FAULT	dulgis	Schuld	Schuld	Schuld-1
-381	134	FAULT	fairina	Schuld;  Grund;  Vorwurf	Schuld	Schuld-2
-382	1419	FEAR (BE AFRAID)	faurhtjan	sich fürchten	sich fürchten	sichfurchten-1
-387	1690	FENCE	faþa	Zaun	Zaun	Zaun-1
-388	1534	FEVER	brinno	Fieber	Fieber	Fieber-1
-389	1534	FEVER	heito	Fieber	Fieber	Fieber-2
-391	2006	FILL	fula	Füllen	Füllen	Fullen-1
-392	2006	FILL	fulljan	füllen	füllen	fullen-1
-393	719	FIND	bi-gitan	finden	finden	finden-1
-395	1303	FINGER	figgrs	Finger	Finger	Finger-1
-400	221	FIRE	fon	Feuer	Feuer	Feuer-1
-401	221	FIRE	funins, funin	Feuer	Feuer	Feuer-2
-403	227	FISH	fisks	Fisch	Fisch	Fisch-1
-404	2638	FISHING	fiskon	fischen	fischen	fischen-1
-405	493	FIVE	fimf	fünf	fünf	funf-1
-406	1633	FLAT	ibns	eben;  flach	flach	flach-1
-408	2939	FLOCK (OF ANIMALS)	hairda	Herde	Herde	Herde-1
-410	2939	FLOCK (OF ANIMALS)	wriþus	Herde	Herde	Herde-3
-413	239	FLOWER	bloma*	Blume	Blume	Blume-1
-416	1768	FOAM	ƕaþo	Schaum	Schaum	Schaum-1
-418	256	FOOD	fodeins	Nahrung	Nahrung	Nahrung-1
-419	256	FOOD	usfodeins	Nahrung	Nahrung	Nahrung-2
+1	2924	A LITTLE	waihts	Ding;  Sache;  Etwas	 Etwas	Etwas-1
+2	1815	ACHE				
+3	2882	ADD	bi-aukan	hinzufügen	hinzufügen	hinzufugen-1
+4	2214	AFFAIR				
+5	2093	AFTERWARDS				
+6	204	AGAIN	aftra	wieder	wieder	wieder-1
+7	1789	AGE	aldomin	Alter	Alter	Alter-1
+8	1789	AGE	fairniþa	Alter	Alter	Alter-2
+9	27	AIR	luftu	Luft	Luft	Luft-1
+10	98	ALL				
+11	1964	ALONE	sundro	abgesondert;  besonders;  allein	 allein	allein-1
+12	2576	ALREADY	ju	schon	schon	schon-1
+13	2576	ALREADY	juþan	schon	schon	schon-2
+14	1676	ALWAYS	sinteino	immer;  allezeit	immer	immer-1
+15	2987	AMOUNT	filusna	Vielheit;  Menge;  Übermaß	 Menge	Menge-1
+16	2987	AMOUNT	hiuhma	 Menge; Haufe	 Menge	Menge-2
+17	2987	AMOUNT	managei	Menge	Menge	Menge-3
+18	1577	AND	jah	und;  und zwar;  auch	und	und-1
+19	1577	AND	-uh	 nun; und;  also	und	und-2
+20	619	ANIMAL				
+21	587	ANT				
+22	1320	APPLE				
+23	2847	APRIL				
+24	2980	AREA	fera	Seite;  Gegend	 Gegend	Gegend-1
+25	2980	AREA	land	Land;  Gegend	 Gegend	Gegend-2
+26	1673	ARM	arms	Arm	Arm	Arm-1
+27	1387	ARRIVE	niutan	treffen;  erreichen;  einer Sache froh sein	 erreichen	erreichen-1
+28	977	ARROW	arƕazna	Pfeil	Pfeil	Pfeil-1
+29	646	ASH	azgo	Asche	Asche	Asche-1
+30	1309	ASK (INQUIRE)	fragan	fragen	fragen	fragen-1
+31	1309	ASK (INQUIRE)	fraihnan	fragen	fragen	fragen-2
+32	1828	ASK (REQUEST)	bidjan	 betteln; bitten;  beten	bitten	bitten-1
+33	1828	ASK (REQUEST)	ga-bidjan	 bitten; beten	 bitten	bitten-2
+34	3638	ASSEMBLE (GET TOGETHER)				
+35	2915	AT FIRST	frumist	zuerst	zuerst	zuerst-1
+36	2922	AT THAT TIME				
+37	2851	AUGUST				
+38	1272	AUNT				
+39	1276	AUTUMN				
+40	1291	BACK				
+41	2910	BACK (DIRECTION)				
+42	2911	BACKWARD				
+43	1292	BAD				
+44	56	BAD LUCK				
+45	2468	BAG				
+46	183	BAKE				
+47	1204	BARK				
+48	1206	BARKING				
+49	138	BATHE				
+50	663	BAY				
+51	972	BE ABLE	magan*	können;  vermögen	können	konnen-1
+52	1422	BE ALIVE	liban	leben	leben	leben-1
+53	1422	BE ALIVE	us-mitan	wandeln;  leben;  sich benehmen	 leben	leben-2
+54	1422	BE ALIVE	qius*	lebendig	lebendig	lebendig-1
+55	2223	BE ANGRY	hatizon	zürnen	zürnen	zurnen-1
+56	2223	BE ANGRY	un-werjan	 zürnen; unwillig sein	 zürnen	zurnen-2
+57	2223	BE ANGRY	woþs*	wütend;  besessen	wütend	wutend-1
+58	1090	BE BORN				
+59	1533	BE HUNGRY	gredags	hungrig	hungrig	hungrig-1
+60	1533	BE HUNGRY	gredon	hungern	hungern	hungern-1
+61	1533	BE HUNGRY	huggrjan	hungern	hungern	hungern-2
+62	1820	BEAR				
+63	678	BEARD				
+64	1427	BEAUTIFUL				
+65	2918	BECAUSE OF				
+66	1990	BECOME	wairþan	werden	werden	werden-1
+67	2327	BECOME SICK				
+68	1663	BED	badi	Bett	Bett	Bett-1
+69	1663	BED	ligrs	 Bett; Lager	 Bett	Bett-2
+70	1882	BEFORE	faurþis	zuvor;  früher	zuvor	zuvor-1
+71	1806	BEGIN	ana-stodjan	anfangen;  anheben	anfangen	anfangen-1
+72	1806	BEGIN	du-stodjan	anfangen;  anheben	anfangen	anfangen-2
+73	1686	BEHIND	hindana	hinter;  jenseits	hinter	hinter-1
+74	1686	BEHIND	hindar	hinter;  jenseits	hinter	hinter-2
+75	1890	BELIEVE	ga-laubjan	glauben	glauben	glauben-1
+76	1890	BELIEVE	man	meinen;  glauben;  dafür halten	 glauben	glauben-2
+77	1890	BELIEVE	munan	meinen;  glauben;  dafür halten; etw. zu tun gedenken;  wollen	 glauben	glauben-3
+78	1890	BELIEVE	þugkjan	 meinen; glauben;  gelten	glauben	glauben-4
+79	1251	BELLY	wamba	 Schoß; Bauch	Bauch	Bauch-1
+80	1485	BELOW OR UNDER	in	in;  auf;  an;  unter	 unter	unter-1
+81	1485	BELOW OR UNDER	in-uh, in-uþ-	in;  auf;  an;  unter	 unter	unter-2
+82	1485	BELOW OR UNDER	miþ	 bei;  unter; mit	 unter	unter-3
+83	1485	BELOW OR UNDER	uf	unter	unter	unter-4
+84	1485	BELOW OR UNDER	undaro	unter	unter	unter-5
+85	772	BELT	gairda	Gürtel	Gürtel	Gurtel-1
+86	2224	BEND (SOMETHING)				
+87	2929	BENEFIT	bota	Nutzen	Nutzen	Nutzen-1
+88	904	BERRY				
+89	689	BETWEEN				
+90	1202	BIG	mikils	groß	groß	gro-1
+91	1855	BIRCH				
+92	937	BIRD	fugls	Vogel	Vogel	Vogel-1
+93	1403	BITE	beitan	beißen	beißen	beien-1
+94	887	BITTER	baitrs	bitter	bitter	bitter-1
+95	163	BLACK	swarts	schwarz	schwarz	schwarz-1
+96	806	BLANKET				
+97	1653	BLIND	blinds	blind	blind	blind-1
+98	946	BLOOD	bloþ	Blut	Blut	Blut-1
+99	175	BLOW (OF WIND)				
+100	176	BLOW (WITH MOUTH)				
+101	837	BLUE				
+102	379	BLUNT				
+103	1227	BOARD				
+104	101	BOAST	flautjan	prahlen	prahlen	prahlen-1
+105	1844	BOAT				
+106	1480	BODY	leik	Körper;  Leib	Körper	Korper-1
+107	1480	BODY	leik	Körper;  Leib	 Leib	Leib-1
+108	792	BOIL (OF LIQUID)	wulan	wallen;  sieden	 sieden	sieden-1
+109	2492	BOIL (SOMETHING)				
+110	2860	BOLT (MOVE IN HASTE)	sniumjan	eilen	eilen	eilen-1
+111	2860	BOLT (MOVE IN HASTE)	sniwan	eilen	eilen	eilen-2
+112	1394	BONE				
+113	963	BOOK				
+114	585	BOOT				
+115	2546	BORDER	marka	Mark;  Grenze	 Grenze	Grenze-1
+116	2930	BOSS				
+117	2869	BOTHER (HARASS)	kaurjan	drücken;  belästigen	 belästigen	belastigen-1
+118	994	BOW				
+119	1465	BOX				
+120	1366	BOY	magus	Knabe	Knabe	Knabe-1
+121	1583	BRAIN				
+122	1531	BRANCH	asts	Ast	Ast	Ast-1
+123	2902	BRAWL (FIGHT)				
+124	1368	BREAD	hlaifs	Brot;  Brotbissen	Brot	Brot-1
+125	2558	BREAK (CLEAVE)	ga-brikan	zerbrechen	zerbrechen	zerbrechen-1
+126	2558	BREAK (CLEAVE)	ga-kroton	zerbrechen;  zerschellen	zerbrechen	zerbrechen-2
+127	680	BREAK (DESTROY OR GET DESTROYED)	brikan	brechen;  zerstören	brechen	brechen-1
+128	460	BREAK (OF ROPE)	tahjan	reißen;  zerren	reißen	reien-1
+129	1402	BREAST	barms	Busen;  Schoß	Busen	Busen-1
+130	870	BREATH				
+131	1407	BREATHE				
+132	1011	BRIDGE				
+133	679	BRIGHT	bairhts	hell;  offenbar	hell	hell-1
+134	679	BRIGHT	liuhadeins*	hell	hell	hell-2
+135	692	BRING	at-bairan	bringen	bringen	bringen-1
+136	692	BRING	briggan	bringen	bringen	bringen-2
+137	245	BROOM				
+138	1262	BROTHER	broþar	Bruder	Bruder	Bruder-1
+139	2052	BUCKET				
+140	2861	BUDGE (ONESELF)				
+141	1840	BUILD	timbrjan	bauen	bauen	bauen-1
+142	1840	BUILD	timrjan	bauen	bauen	bauen-2
+143	1008	BULL	stiur	Stier;  Kalb	Stier	Stier-1
+144	2943	BUNDLE				
+145	141	BURN (SOMETHING)	ga-brannjan	verbrennen	verbrennen	verbrennen-1
+146	141	BURN (SOMETHING)	uf-brinnan	verbrennen	verbrennen	verbrennen-2
+147	141	BURN (SOMETHING)	in-tandjan	 verbrennen; in Brand setzen	 verbrennen	verbrennen-3
+148	141	BURN (SOMETHING)	in-tundnan	verbrennen	verbrennen	verbrennen-4
+149	1428	BURNING	brinnan	brennen	brennen	brennen-1
+150	1428	BURNING	tundnan	brennen	brennen	brennen-2
+151	2931	BUSINESS	gawaurki	 Erwerb; Geschäft;  Gewinn	Geschäft	Geschaft-1
+152	1245	BUTTER				
+153	1791	BUTTERFLY				
+154	757	BUTTON				
+155	1869	BUY	bugjan	kaufen	kaufen	kaufen-1
+156	2867	CALCULATE	rahnjan	rechnen	rechnen	rechnen-1
+157	1084	CALL	hropjan	rufen	rufen	rufen-1
+158	1084	CALL	wopjan	rufen	rufen	rufen-2
+159	2944	CALL (APPEAL)	hrops	Ruf;  Geschrei	Ruf	Ruf-1
+160	180	CALL BY NAME	haitan	heißen;  nennen	 nennen	nennen-1
+161	180	CALL BY NAME	namnjan	nennen	nennen	nennen-2
+162	180	CALL BY NAME	ga-namnjan	benennen	benennen	benennen-1
+163	180	CALL BY NAME	in-sakan	vorstellen;  anraten;  eintreten für;  bezeichnen	 bezeichnen	bezeichnen-1
+164	180	CALL BY NAME	us-taiknjan	bezeichnen;  auszeichnen;  erweisen	bezeichnen	bezeichnen-2
+165	2986	CAMPFIRE				
+166	1288	CAP				
+167	700	CARRY	bairan	tragen 	tragen 	tragen-1
+168	700	CARRY	†dragan	tragen	tragen	tragen-2
+169	1208	CAT				
+170	702	CATCH	fāhan	fangen;  greifen	fangen	fangen-1
+171	702	CATCH	niman	 fangen; nehmen;  annehmen;  aufnehmen;  empfangen	 fangen	fangen-2
+172	2896	CAUSE TO (LET)	leitan	lassen	lassen	lassen-1
+173	2896	CAUSE TO (LET)	letan	lassen	lassen	lassen-2
+174	2896	CAUSE TO (LET)	fra-letan	 vergeben; lassen;  entlassen;  frei lassen;  unterlassen;  zulassen;  erlauben;  erlassen;  herablassen	lassen	lassen-3
+175	1155	CAVE	filegri	Höhle	Höhle	Hohle-1
+176	1155	CAVE	filigri*	Höhle	Höhle	Hohle-2
+177	1155	CAVE	groba	Grube;  Höhle	 Höhle	Hohle-3
+178	1155	CAVE	hulundi	Höhle	Höhle	Hohle-4
+179	1928	CEASE	ƕeilan	aufhören	aufhören	aufhoren-1
+180	1928	CEASE	†ga-nanþjan	aufhören	aufhören	aufhoren-3
+181	1476	CHAIR	stols	Stuhl;  Thron	Stuhl	Stuhl-1
+182	1264	CHANGE				
+183	2857	CHANGE (BECOME DIFFERENT)				
+184	1024	CHARACTER	boka	Buchstabe	Buchstabe	Buchstabe-1
+185	2903	CHAT (WITH SOMEBODY)				
+186	1887	CHEAP				
+187	1730	CHEEK	kinnus	Wange	Wange	Wange-1
+188	1592	CHEST	brusts	Brust	Brust	Brust-1
+189	1318	CHICKEN				
+190	1304	CHILD (YOUNG HUMAN)				
+191	2897	CHIME (ACTION)				
+192	1510	CHIN				
+193	1750	CHOOSE	waljan	wählen	wählen	wahlen-1
+194	2149	CHOP (INTO PIECES)				
+195	1349	CHURCH	aikklesjo	Gemeinde;  Kirche;  Gotteshaus	 Kirche	Kirche-1
+196	1467	CIRCLE				
+197	72	CLAW				
+198	1399	CLAY	þāho	Lehm	Lehm	Lehm-1
+199	704	CLEAN				
+200	2235	CLEAN (SOMETHING)	hrainjan	reinigen	reinigen	reinigen-1
+201	2235	CLEAN (SOMETHING)	ga-hrainjan	reinigen	reinigen	reinigen-2
+202	1310	CLEVER	froþs	 verständig; klug	klug	klug-1
+203	1310	CLEVER	handugs	 klug; weise	 klug	klug-2
+204	1102	CLIMB				
+205	589	CLOSED				
+206	1616	CLOTH				
+207	1895	CLOTHES	gafeteins	Kleidung	Kleidung	Kleidung-1
+208	1489	CLOUD	milhma	Wolke	Wolke	Wolke-1
+209	2658	COAL	hauri	Kohle	Kohle	Kohle-1
+210	1525	COAST				
+211	1287	COLD	kalds	kalt	kalt	kalt-1
+212	2932	COLD (CHILL)				
+213	2483	COLD (OF WEATHER)				
+214	2012	COLLAR				
+215	2997	COLORFUL				
+216	1475	COMB				
+217	2070	COMB (VERB)				
+218	1446	COME	ana-gaggan	kommen	kommen	kommen-1
+219	1446	COME	at-gaggan	 kommen; hinzugehen	 kommen	kommen-2
+220	1446	COME	ga-leiþan	kommen;  gehn	kommen	kommen-3
+221	1446	COME	qiman	kommen	kommen	kommen-4
+222	1446	COME	ga-sniumjan	 kommen; hineilen	 kommen	kommen-5
+223	1446	COME	qums	 Gegenwart; das Kommen;  Ankunft;  Wiederkunft Christi	das Kommen	dasKommen-1
+224	581	COME BACK				
+225	3455	COMMEND	hazjan	loben;  preisen wegen	loben	loben-1
+226	2983	COMPANIONSHIP				
+227	2862	CONNECT	ga-gáhaftjan	zusammenheften;  verbinden	 verbinden	verbinden-1
+228	2862	CONNECT	faur-waipjan	verbinden	verbinden	verbinden-2
+229	2862	CONNECT	ga-widan	 verbinden; zusammenbinden	 verbinden	verbinden-3
+230	2933	CONVERSATION	gawaurdi	Gespräch	Gespräch	Gesprach-1
+231	2898	CONVEY (A MESSAGE)	dailjan	teilen;  zuteilen;  mitteilen	 mitteilen	mitteilen-1
+232	1100	COOK (SOMETHING)	ga-fahrjan	zubereiten	zubereiten	zubereiten-1
+233	192	CORNER	waihsta	Winkel;  Ecke	 Ecke	Ecke-1
+234	1725	CORRECT (RIGHT)	raihtaba	recht;  richtig	 richtig	richtig-1
+235	879	COUGH				
+236	1420	COUNT	ga-raþjan	zählen	zählen	zahlen-1
+237	2945	COUNT (QUANTITY)				
+238	1300	COUNTRY	airþa	Erde;  Land	 Land	Land-1
+239	1300	COUNTRY	land	Land;  Gegend	Land	Land-2
+240	761	COVER				
+241	1007	COW				
+242	2946	CRADLE				
+243	1830	CRANE				
+244	3215	CREEP	sliupan	schleichen;  schlüpfen	schleichen	schleichen-1
+245	1367	CROSS	galga	Pfahl;  Kreuz	 Kreuz	Kreuz-1
+246	913	CROW				
+247	1839	CRY	gretan	 klagen; weinen	weinen	weinen-1
+248	1839	CRY	qainon	weinen;  trauern	weinen	weinen-2
+249	1839	CRY	tagrjan	weinen	weinen	weinen-3
+250	1839	CRY	grets	das Weinen	das Weinen	dasWeinen-1
+251	2934	CUCKOO				
+252	476	CUP	stikls	Becher;  Kelch	Becher	Becher-1
+253	2935	CURRENT (STREAM)				
+254	1432	CUT	sneiþan	schneiden;  ernten	schneiden	schneiden-1
+255	1116	DAMAGE	ga-sleiþjan	beschädigen	beschädigen	beschadigen-1
+256	2947	DAMAGE (INJURY)	skaþis	Schaden;  Unrecht	Schaden	Schaden-1
+257	2947	DAMAGE (INJURY)	sleiþa	Schaden	Schaden	Schaden-2
+258	2947	DAMAGE (INJURY)	skaþjan	schaden	schaden	schaden-1
+259	2998	DAMP				
+260	1879	DANCE	plinsjan	tanzen	tanzen	tanzen-1
+261	706	DARK				
+262	2863	DASH (OF VEHICLE)				
+263	1357	DAUGHTER	dauhtar	Tochter	Tochter	Tochter-1
+264	1225	DAY (NOT NIGHT)	dags	Tag	Tag	Tag-1
+265	996	DEAF	daufs	taub;  verstockt	taub	taub-1
+266	2470	DEAR	liufs*	lieb	lieb	lieb-1
+267	910	DEATH	dauþus	Tod	Tod	Tod-1
+268	3230	DECEIVE				
+269	2855	DECEMBER				
+270	1739	DECORATE	fetjan	schmücken	schmücken	schmucken-1
+271	2864	DECREASE	minznan	abnehmen	abnehmen	abnehmen-1
+272	2864	DECREASE	af-niman	 wegnehmen; abnehmen	abnehmen	abnehmen-2
+273	1330	DEFEND	warjan	wehren	wehren	wehren-1
+274	3231	DEITY	guþ	Gott	Gott	Gott-1
+275	2239	DENSE				
+276	681	DESTROY	brikan	brechen;  zerstören	 zerstören	zerstoren-1
+277	681	DESTROY	ga-tairan	 zerstören;  aufheben; zerreißen	 zerstören	zerstoren-2
+278	1824	DEXTEROUS	fagrs*	geschickt;  geeignet	geschickt	geschickt-1
+279	1494	DIE	ga-dauþnan	sterben	sterben	sterben-1
+280	1494	DIE	diwan	sterben	sterben	sterben-2
+281	1494	DIE	ga-swiltan	sterben	sterben	sterben-3
+282	2865	DIE (FROM ACCIDENT)	fra-qistnan	umkommen;  zugrunde gehn	umkommen	umkommen-1
+283	2504	DIFFERENT	aljaleiko	anders	anders	anders-1
+284	2504	DIFFERENT	aljaleikos	anders	anders	anders-2
+285	2504	DIFFERENT	andizuh	anders;  sonst	anders	anders-3
+286	2504	DIFFERENT	anþarleiko	anders	anders	anders-4
+287	2504	DIFFERENT	missaleiks	verschieden	verschieden	verschieden-1
+288	1418	DIG	graba	Graben	Graben	Graben-1
+289	1418	DIG	graban	graben	graben	graben-1
+290	2077	DILIGENT				
+291	25	DIRT				
+292	1230	DIRTY				
+293	485	DISAPPEAR				
+294	1986	DISEASE	sauhts*	Krankheit	Krankheit	Krankheit-1
+295	1986	DISEASE	siukei	Krankheit	Krankheit	Krankheit-2
+296	1986	DISEASE	unhaili	 Krankheit; Schwäche	 Krankheit	Krankheit-3
+297	1986	DISEASE	unmahts	 Krankheit;  Schwäche; Ohnmacht	 Krankheit	Krankheit-4
+298	481	DISH				
+299	2978	DISTANCE				
+300	2883	DISTURB				
+301	119	DIVE				
+302	1119	DIVIDE	dailjan	teilen;  zuteilen;  mitteilen	teilen	teilen-1
+303	813	DO	taujan	tun;  machen	tun	tun-1
+304	813	DO	waurstwei	das Tun	das Tun	dasTun-1
+305	2009	DOG	hunds	Hund	Hund	Hund-1
+306	1659	DOLL				
+307	196	DONATE	fra-giban	vergeben;  verleihn;  schenken	 schenken	schenken-1
+308	1567	DOOR	daurons	 Tor;  Tür	 Tür	Tur-1
+309	1567	DOOR	haurds	 Tür	 Tür	Tur-2
+310	1326	DOWN	dalaþ	zu Tal;  abwärts;  nieder;  auf die Erde	 abwärts	abwarts-1
+311	2030	DRAG				
+312	93	DRAW MILK				
+313	2374	DREAM				
+314	814	DRESS UP				
+315	1401	DRINK	ga-drigkan	trinken	trinken	trinken-1
+316	741	DRIVE	farjan	fahren	fahren	fahren-1
+317	2868	DRIVE (CATTLE)	draibjan	treiben;  plagen	treiben	treiben-1
+318	2868	DRIVE (CATTLE)	dreiban	treiben	treiben	treiben-2
+319	3748	DROP (OF A LIQUID)				
+320	2866	DROP (SOMETHING)				
+321	1398	DRY				
+322	1786	DRY UP				
+323	1360	DUCK				
+324	2	DUST	mulda	Staub	Staub	Staub-1
+325	2	DUST	stubjus	Staub	Staub	Staub-2
+326	363	DWELL (LIVE, RESIDE)	bauan	wohnen;  bewohnen	wohnen	wohnen-1
+327	363	DWELL (LIVE, RESIDE)	wisan	 bleiben; sein; sich freuen;  dasein;  existieren;  schwelgen;  schmausen; weilen	weilen	weilen-1
+328	157	DYE				
+329	1905	EAGLE				
+330	1247	EAR	auso	Ohr	Ohr	Ohr-1
+331	1228	EARTH (SOIL)	airþa	Erde;  Land	Erde	Erde-1
+332	1877	EAST				
+333	1336	EAT	itan	essen	essen	essen-1
+334	1336	EAT	matjan	essen	essen	essen-2
+335	1336	EAT	ga-matjan	essen	essen	essen-3
+336	863	EDGE				
+337	744	EGG				
+338	1705	EIGHT	ahtau	acht	acht	acht-1
+339	1722	EIGHTY	ahtautehund	achtzig	achtzig	achtzig-1
+340	981	ELBOW				
+341	2936	ELEVATION				
+342	1706	ELEVEN	ainlif*	elf	elf	elf-1
+343	1772	ELK				
+344	1076	EMERGE (APPEAR)				
+345	1624	EMPTY	halks	 umsonst; leer;  dürftig;  armselig	leer	leer-1
+346	1624	EMPTY	laus	 leer; los	 leer	leer-2
+347	742	END (OF SPACE)				
+348	743	END (OF TIME)	andeis	Ende	Ende	Ende-1
+349	743	END (OF TIME)	ustauhts	 Ende;  Erfüllung; Vollendung;  Vervollkommnung	 Ende	Ende-2
+350	833	ENDURE	us-bairan	hinaustragen;  hervorbringen;  vorbringen d.i. antworten;  ertragen	 ertragen	ertragen-1
+351	833	ENDURE	ga-beidan	 ertragen; ausharren	 ertragen	ertragen-2
+352	833	ENDURE	us-þulan	 ertragen; erdulden	 ertragen	ertragen-3
+353	1358	ENEMY	fijands	Feind	Feind	Feind-1
+354	749	ENTER				
+355	1615	ESCAPE				
+356	1629	EVENING	andanahti	Abend	Abend	Abend-1
+357	2999	EVERYWHERE				
+358	45	EVIL	ubils	übel;  böse	 böse	bose-1
+359	45	EVIL	unsels	übel;  böse	 böse	bose-2
+360	45	EVIL	unþiuþ	das Böse	das Böse	dasBose-1
+361	1426	EXPENSIVE				
+362	1248	EYE	augo	Auge	Auge	Auge-1
+363	1560	FACE	andaugi	Antlitz	Antlitz	Antlitz-1
+364	1560	FACE	siuns	 Gestalt; Gesicht;  Gesicht;  das Sehen;  Sehkraft;  sinnfällige Erscheinung;  Augenschein;  Vision	Gesicht	Gesicht-1
+365	1560	FACE	siuns	 Gestalt; Gesicht;  Gesicht;  das Sehen;  Sehkraft;  sinnfällige Erscheinung;  Augenschein;  Vision	 Gesicht	Gesicht-2
+366	2937	FAIRY TALE				
+367	1280	FALL	driusan	fallen	fallen	fallen-1
+368	1106	FALL ASLEEP				
+369	3005	FAMILIAR	kunþs	kund;  bekannt	 bekannt	bekannt-1
+370	3005	FAMILIAR	swikunþs	 offenbar;  bekannt; offenkundig	 bekannt	bekannt-2
+371	3005	FAMILIAR	uskunþs	 offenbar; bekannt	bekannt	bekannt-3
+372	194	FAMILY	gards	Haus;  Hauswesen;  Familie	 Familie	Familie-1
+373	1406	FAR	fairra	fern	fern	fern-1
+374	1279	FAT (OBESE)				
+375	323	FAT (ORGANIC SUBSTANCE)	smairþr*	Fett	Fett	Fett-1
+376	1217	FATHER	abba	Vater	Vater	Vater-1
+377	1217	FATHER	atta	Vater	Vater	Vater-2
+378	1217	FATHER	fadar	Vater	Vater	Vater-3
+379	134	FAULT	dulgis	Schuld	Schuld	Schuld-1
+380	134	FAULT	fairina	Schuld;  Grund;  Vorwurf	Schuld	Schuld-2
+381	1419	FEAR (BE AFRAID)	faurhtjan	sich fürchten	sich fürchten	sichfurchten-1
+382	1201	FEATHER				
+383	2037	FEBRUARY				
+384	739	FEED				
+385	2559	FEEL (TACTUALLY)				
+386	1690	FENCE	faþa	Zaun	Zaun	Zaun-1
+387	1534	FEVER	brinno	Fieber	Fieber	Fieber-1
+388	1534	FEVER	heito	Fieber	Fieber	Fieber-2
+389	1717	FIFTY				
+390	2006	FILL	fula	Füllen	Füllen	Fullen-1
+391	2006	FILL	fulljan	füllen	füllen	fullen-1
+392	719	FIND	bi-gitan	finden	finden	finden-1
+393	2157	FINE OR THIN				
+394	1303	FINGER	figgrs	Finger	Finger	Finger-1
+395	1258	FINGERNAIL				
+396	1896	FINGERNAIL OR TOENAIL				
+397	1766	FINISH				
+398	1915	FIR				
+399	221	FIRE	fon	Feuer	Feuer	Feuer-1
+400	221	FIRE	funins, funin	Feuer	Feuer	Feuer-2
+401	728	FIRST				
+402	227	FISH	fisks	Fisch	Fisch	Fisch-1
+403	2638	FISHING	fiskon	fischen	fischen	fischen-1
+404	493	FIVE	fimf	fünf	fünf	funf-1
+405	1633	FLAT	ibns	eben;  flach	 flach	flach-1
+406	956	FLEE				
+407	2939	FLOCK (OF ANIMALS)	hairda	Herde	Herde	Herde-1
+408	2939	FLOCK (OF ANIMALS)	[wreþus]	Herde	Herde	Herde-2
+409	2939	FLOCK (OF ANIMALS)	wriþus	Herde	Herde	Herde-3
+410	1632	FLOOR				
+411	2003	FLOW				
+412	239	FLOWER	bloma*	Blume	Blume	Blume-1
+413	1504	FLY (INSECT)				
+414	1441	FLY (MOVE THROUGH AIR)				
+415	1768	FOAM	ƕaþo	Schaum	Schaum	Schaum-1
+416	249	FOG				
+417	256	FOOD	fodeins	Nahrung	Nahrung	Nahrung-1
+418	256	FOOD	usfodeins	Nahrung	Nahrung	Nahrung-2
+419	256	FOOD	mats	Speise	Speise	Speise-1
 420	1301	FOOT	fotus	Fuß	Fuß	Fu-1
 421	318	FOOTPRINT	laists	Spur	Spur	Spur-1
+422	418	FOR A LONG TIME				
+423	123	FOREHEAD				
 424	109	FOREIGN	framaþeis*	fremd;  einer Sache	fremd	fremd-1
+425	420	FOREST				
 426	1523	FORGET	ufar-miton	vergessen	vergessen	vergessen-1
 427	1523	FORGET	ufar-munnon	vergessen	vergessen	vergessen-2
+428	1302	FORK				
+429	3004	FORMER				
+430	1716	FORTY				
+431	2912	FORWARD				
 432	1500	FOUR	fidwor	vier	vier	vier-1
 433	1312	FOX	fauho	Fuchs	Fuchs	Fuchs-1
+434	1431	FREEZE				
+435	243	FRESH				
+436	1692	FRIDAY				
 437	1325	FRIEND	frijonds	Freund	Freund	Freund-1
+438	2989	FRINGE				
+439	2927	FROM HERE				
 440	2034	FROST	friusa	Frost	Frost	Frost-1
-446	2940	GATE	daur	Tor	Tor	Tor-1
-447	2940	GATE	daurons	Tor;  Tür	Tor	Tor-2
-448	7	GATHER	huhjan	häufen;  sammeln	sammeln	sammeln-1
-449	7	GATHER	lisan	sammeln; lesen	sammeln	sammeln-2
-452	694	GET	niman	fangen; nehmen;  annehmen;  aufnehmen;  empfangen	empfangen	empfangen-1
-454	694	GET	ga-staldan	erwerben;  bekommen	bekommen	bekommen-1
-456	2982	GIFT	giba	Gabe;  Geschenk	Geschenk	Geschenk-1
+441	991	FRY				
+442	1429	FULL				
+443	580	FUR				
+444	2467	GAME				
+445	2948	GAP (DISTANCE)				
+446	2940	GATE	daur	 Tor	 Tor	Tor-1
+447	2940	GATE	daurons	 Tor;  Tür	 Tor	Tor-2
+448	7	GATHER	huhjan	häufen;  sammeln	 sammeln	sammeln-1
+449	7	GATHER	lisan	 sammeln; lesen	 sammeln	sammeln-2
+450	1954	GENTLE	qairrus	sanft;  freundlich gegen	sanft	sanft-1
+451	694	GET	andanem	das Empfangen	das Empfangen	dasEmpfangen-1
+452	694	GET	niman	 fangen; nehmen;  annehmen;  aufnehmen;  empfangen	 empfangen	empfangen-1
+453	694	GET	and-niman	annehmen;  aufnehmen;  empfangen	 empfangen	empfangen-2
+454	694	GET	ga-staldan	erwerben;  bekommen	 bekommen	bekommen-1
+455	1996	GET TIRED				
+456	2982	GIFT	giba	Gabe;  Geschenk	 Geschenk	Geschenk-1
 457	2982	GIFT	maiþms	Geschenk	Geschenk	Geschenk-2
 458	1646	GIRL	mawi	Mädchen	Mädchen	Madchen-1
 459	1646	GIRL	mawilo	Mädchen	Mädchen	Madchen-2
 460	1447	GIVE	giban	geben	geben	geben-1
+461	604	GLASS				
+462	1069	GLUE				
+463	695	GO				
 464	1369	GOLD	gulþ	Gold	Gold	Gold-1
 465	1035	GOOD	goþs	gut	gut	gut-1
-468	1035	GOOD	wáila	wohl;  gut	gut	gut-4
+466	1035	GOOD	sels	gut;  gütig	gut	gut-2
+467	1035	GOOD	þiuþeigs	gut;  gepriesen	gut	gut-3
+468	1035	GOOD	wáila	wohl;  gut	 gut	gut-4
+469	2410	GOOD-LOOKING				
+470	1187	GOOSE				
 471	605	GRAIN	kaurn	Getreide	Getreide	Getreide-1
 472	605	GRAIN	kaurno	Korn	Korn	Korn-1
+473	1383	GRANDFATHER				
 474	1496	GRANDMOTHER	awo	Großmutter	Großmutter	Gromutter-1
 475	606	GRASS	gras	Gras;  Kraut	Gras	Gras-1
+476	2819	GRASSLAND				
 477	1773	GRAVE	hlaiw	Grab	Grab	Grab-1
+478	1425	GREEN				
+479	153	GREY				
 480	1668	GRIEF	kara	Sorge	Sorge	Sorge-1
 481	1668	GRIEF	saurga	Sorge;  Kummer	Sorge	Sorge-2
+482	1668	GRIEF	saurga	Sorge;  Kummer	 Kummer	Kummer-1
+483	716	GROAN				
+484	2159	GROUND				
 485	479	GROW	alan	wachsen	wachsen	wachsen-1
+486	479	GROW	liudan	wachsen	wachsen	wachsen-2
 487	479	GROW	wahsjan	wachsen	wachsen	wachsen-3
-488	1940	GUARD	fastan	halten;  festhalten;  beobachten;  bewachen	bewachen	bewachen-1
+488	1940	GUARD	fastan	halten;  festhalten;  beobachten;  bewachen	 bewachen	bewachen-1
 489	1940	GUARD	wahtwom	Wache	Wache	Wache-1
+490	1782	GUEST				
+491	1566	GUN				
 492	1040	HAIR	tagl	Haar	Haar	Haar-1
-493	816	HALF	halba	Seite; Hälfte	Hälfte	Halfte-1
+493	816	HALF	halba	 Seite; Hälfte	Hälfte	Halfte-1
+494	2880	HALT (STOP)				
 495	1277	HAND	handus	Hand	Hand	Hand-1
+496	1254	HANDLE				
 497	2884	HANG	hāhan	hängen; hangen;  in der Schwebe lassen	hängen	hangen-1
+498	357	HANG UP				
+499	248	HAPPEN				
+500	2941	HAPPINESS				
 501	1884	HARD	hardus	hart;  streng	hart	hart-1
-502	2926	HARDLY	halisaiw	kaum je;  kaum	kaum	kaum-1
+502	2926	HARDLY	halisaiw	kaum je;  kaum	 kaum	kaum-1
+503	1190	HARE				
 504	342	HAY	hawi	Heu	Heu	Heu-1
 505	1211	HE	is M, si F, ita N	er;  der	er	er-1
-507	1364	HEALTHY	hails	heil;  gesund	gesund	gesund-1
-508	1364	HEALTHY	swinþs	stark;  gesund;  kräftig	gesund	gesund-2
+506	1256	HEAD				
+507	1364	HEALTHY	hails	heil;  gesund	 gesund	gesund-1
+508	1364	HEALTHY	swinþs	stark;  gesund;  kräftig	 gesund	gesund-2
+509	2984	HEAP				
 510	1408	HEAR	hausjan	hören	hören	horen-1
 511	1408	HEAR	hausjon	hören	hören	horen-2
 512	1223	HEART	hairto	Herz	Herz	Herz-1
-513	1223	HEART	hairþra	Herz; Eingeweide	Herz	Herz-2
+513	1223	HEART	hairþra	 Herz; Eingeweide	 Herz	Herz-2
+514	612	HEAT				
 515	1210	HEAVY	kaurjos	schwer;  lästig	schwer	schwer-1
 516	980	HEEL	fairzna	Ferse	Ferse	Ferse-1
 517	2985	HEIGHT	hauhei	Höhe	Höhe	Hohe-1
 518	2985	HEIGHT	hauhiþa	Höhe	Höhe	Hohe-2
+519	3467	HELP (ASSISTANCE)				
 520	2885	HERD (SOMETHING)	haldan	hüten;  weiden	hüten	huten-1
+521	2885	HERD (SOMETHING)	wait	 hüten; auf etw. sehn;  acht geben;  es bewachen;  etw. halten	 hüten	huten-2
+522	2885	HERD (SOMETHING)	witan	 hüten; wissen; auf etw. sehn;  acht geben;  es bewachen;  etw. halten	 hüten	huten-3
 523	136	HERE	her	hier;  her	hier	hier-1
 524	602	HIDE (CONCEAL)	filhan	verbergen	verbergen	verbergen-1
+525	2485	HIDE (ONESELF)				
 526	1265	HIGH	háuhs	hoch	hoch	hoch-1
 527	1265	HIGH	iupa	oben	oben	oben-1
 528	614	HILL	hlaine	Hügel	Hügel	Hugel-1
+529	554	HINDER				
 530	2925	HITHER (HERE TO)	Her	Her	Her	Her-1
-531	2925	HITHER (HERE TO)	her	hier;  her	her	her-1
+531	2925	HITHER (HERE TO)	her	hier;  her	 her	her-1
+532	2942	HOARFROST				
 533	1448	HOLD	fastan	halten;  festhalten;  beobachten;  bewachen	halten	halten-1
+534	1448	HOLD	fastubni	das Halten;  der Dienst	das Halten	dasHalten-1
 535	1667	HOLE	þairko	Loch;  Nadelöhr	Loch	Loch-1
+536	2406	HOME				
 537	942	HONEY	miliþ	Honig	Honig	Honig-1
-543	1252	HOUSE	hrot	Haus; Dach	Haus	Haus-2
+538	1071	HOOK				
+539	1393	HORN (ANATOMY)				
+540	615	HORSE				
+541	1286	HOT				
+542	1252	HOUSE	gards	Haus;  Hauswesen;  Familie	Haus	Haus-1
+543	1252	HOUSE	hrot	 Haus; Dach	 Haus	Haus-2
 544	1252	HOUSE	razn	Haus	Haus	Haus-3
 545	1239	HOW	ƕaiwa	wie	wie	wie-1
+546	1239	HOW	swaswe	 wie; sowie;  gleichwie	 wie	wie-2
 547	1239	HOW	swe	wie	wie	wie-3
-550	1634	HUNDRED	taihuntehund	Hundert	Hundert	Hundert-1
+548	822	HOW MANY				
+549	526	HOWL				
+550	1634	HUNDRED	taihuntehund	 Hundert	 Hundert	Hundert-1
 551	1864	HUNGER	gredus	Hunger	Hunger	Hunger-1
 552	1864	HUNGER	huhrus	Hunger;  Hungersnot	Hunger	Hunger-2
+553	1435	HUNT				
+554	754	HURRY				
 555	1200	HUSBAND	aba	Ehemann	Ehemann	Ehemann-1
 556	1209	I	ik	ich	ich	ich-1
 557	1209	I	ikei	der ich	der ich	derich-1
+558	617	ICE				
+559	1945	IDOL				
+560	1963	IMMEDIATELY	suns	 plötzlich; alsbald;  auf einmal	 auf einmal	aufeinmal-1
 561	1963	IMMEDIATELY	sunsaiw	sogleich	sogleich	sogleich-1
 562	2872	IMPROVE (SOMETHING)	ga-botjan	verbessern;  herstellen	verbessern	verbessern-1
 563	1883	IN FRONT OF	faura	vor	vor	vor-1
-564	1765	IN VAIN	sware	umsonst; ohne Grund;  vergebens	vergebens	vergebens-1
-565	1041	INCREASE	ga-aukan	sich vermehren;  zunehmen	zunehmen	zunehmen-1
-566	1041	INCREASE	bi-auknan	sich vermehren;  zunehmen	zunehmen	zunehmen-2
-568	1611	INVITE	ga-laþon	zusammenberufen;  einladen	einladen	einladen-1
+564	1765	IN VAIN	sware	 umsonst; ohne Grund;  vergebens	 vergebens	vergebens-1
+565	1041	INCREASE	ga-aukan	sich vermehren;  zunehmen	 zunehmen	zunehmen-1
+566	1041	INCREASE	bi-auknan	sich vermehren;  zunehmen	 zunehmen	zunehmen-2
+567	2916	INSTANTLY (IMMEDIATELY)				
+568	1611	INVITE	ga-laþon	zusammenberufen;  einladen	 einladen	einladen-1
 569	621	IRON	eisarn	Eisen	Eisen	Eisen-1
 570	3078	IRRIGATE	giutan	gießen	gießen	gieen-1
-577	2524	JOY	ansts	Dank; Freude;  Gnade;  Gunst	Freude	Freude-1
+571	622	ISLAND				
+572	2981	ITEM	stomin	Wesen;  Gegenstand;  Zuversicht;  Erwartung	 Gegenstand	Gegenstand-1
+573	2036	JANUARY				
+574	798	JAW				
+575	2899	JOG (SOMETHING)				
+576	1743	JOIN				
+577	2524	JOY	ansts	 Dank; Freude;  Gnade;  Gunst	Freude	Freude-1
+578	2850	JULY				
 579	1829	JUMP	laikan	hüpfen;  springen	hüpfen	hupfen-1
-580	1829	JUMP	laikan	hüpfen;  springen	springen	springen-1
-582	1477	KEEP	ga-fastan	bewahren; behalten	behalten	behalten-1
+580	1829	JUMP	laikan	hüpfen;  springen	 springen	springen-1
+581	2849	JUNE				
+582	1477	KEEP	ga-fastan	 bewahren; behalten	behalten	behalten-1
 583	854	KETTLE	katile	Kessel	Kessel	Kessel-1
 584	1135	KICK	trudan	treten	treten	treten-1
 585	1417	KILL	dauþjan	töten	töten	toten-1
+586	1417	KILL	af-dauþjan	töten	töten	toten-2
+587	1417	KILL	ga-dauþjan	 töten; Tod bringen	 töten	toten-3
 588	1417	KILL	us-qiman	umbringen;  den Tod geben	umbringen	umbringen-1
+589	1417	KILL	fra-qistjan	 umbringen; verderben	 umbringen	umbringen-2
+590	1417	KILL	us-qistjan	 umbringen; verderben	 umbringen	umbringen-3
+591	844	KIND (THING)				
 592	1508	KING	þiudans	König	König	Konig-1
+593	578	KISS				
 594	1371	KNEE	kniu*	Knie	Knie	Knie-1
-599	1410	KNOW (SOMETHING)	kann	kennen;  wissen	wissen	wissen-1
-600	1410	KNOW (SOMETHING)	kunnan	kennen;  wissen	wissen	wissen-2
+595	1352	KNIFE				
+596	2905	KNIT				
+597	2396	KNOCK				
+598	760	KNOT				
+599	1410	KNOW (SOMETHING)	kann	kennen;  wissen	 wissen	wissen-1
+600	1410	KNOW (SOMETHING)	kunnan	kennen;  wissen	 wissen	wissen-2
+601	1410	KNOW (SOMETHING)	witan	 hüten; wissen; auf etw. sehn;  acht geben;  es bewachen;  etw. halten	wissen	wissen-3
+602	1464	LADDER				
+603	2949	LAIR				
 604	624	LAKE	marisaiws*	See	See	See-1
 605	624	LAKE	saiws	See	See	See-2
 606	1307	LANGUAGE	razda	Sprache;  Sprechweise	Sprache	Sprache-1
 607	1529	LAST (FINAL)	aftuma	letzter	letzter	letzter-1
 608	1529	LAST (FINAL)	aftumists	letzter	letzter	letzter-2
 609	1355	LAUGH	hlahjan	lachen	lachen	lachen-1
+610	2958	LAUGHTER				
 611	2071	LAY (VERB)	lagjan	legen;  auflegen;  hinlegen	legen	legen-1
 612	1564	LAZY	fūls	faul	faul	faul-1
-613	1564	LAZY	lats	faul; lässig	faul	faul-2
-614	43	LEAD (GUIDE)	tiuhan	ziehn;  führen	führen	fuhren-1
-615	628	LEAF	laufs	Laub;  Blatt	Blatt	Blatt-1
+613	1564	LAZY	lats	 faul; lässig	 faul	faul-2
+614	43	LEAD (GUIDE)	tiuhan	ziehn;  führen	 führen	fuhren-1
+615	628	LEAF	laufs	Laub;  Blatt	 Blatt	Blatt-1
+616	504	LEARN				
+617	2959	LEASH				
+618	629	LEATHER				
 619	1752	LEAVE	af-leiþan	weggehn;  entweichen;  verreisen	weggehn	weggehn-1
+620	1752	LEAVE	us-leiþan	hinausgehn;  weggehn;  verreisen	 weggehn	weggehn-2
 621	1752	LEAVE	af-linnan	weggehn	weggehn	weggehn-3
+622	1752	LEAVE	bi-leiþan	verlassen;  zurücklassen	verlassen	verlassen-1
+623	244	LEFT				
+624	1297	LEG				
 625	2537	LENGTH	laggei	Länge	Länge	Lange-1
 626	1612	LETTER	aipistaule	Brief	Brief	Brief-1
+627	319	LICK				
+628	2319	LID (COVER, CAP)				
 629	2826	LIE (FALSEHOOD)	galiug	Lüge	Lüge	Luge-1
 630	2826	LIE (FALSEHOOD)	liugn	Lüge	Lüge	Luge-2
 631	1411	LIE (REST)	ligan	liegen	liegen	liegen-1
 632	210	LIFE	libains	Leben	Leben	Leben-1
 633	501	LIFT	hafjan	heben	heben	heben-1
+634	737	LIGHT (IGNITE)				
 635	630	LIGHT (RADIATION)	liuhaþ	Licht	Licht	Licht-1
-636	630	LIGHT (RADIATION)	lukarn	Licht; Leuchte	Licht	Licht-2
+636	630	LIGHT (RADIATION)	lukarn	 Licht; Leuchte	 Licht	Licht-2
+637	1117	LIKE				
+638	1048	LINE				
 639	478	LIP	wairilom	Lippe	Lippe	Lippe-1
+640	1608	LISTEN				
+641	1224	LIVER				
 642	1679	LOAD	kauriþa	Last	Last	Last-1
+643	1596	LOCK				
 644	1203	LONG	laggs	lang	lang	lang-1
 645	2960	LONGING (WISH)	gabaurjoþus	Lust	Lust	Lust-1
 646	2960	LONGING (WISH)	lustus	Lust;  Begierde	Lust	Lust-2
+647	1819	LOOK				
 648	1468	LOOK FOR	sokeins	das Suchen	das Suchen	dasSuchen-1
 649	1468	LOOK FOR	sokjan	suchen	suchen	suchen-1
+650	1392	LOUSE				
 651	923	LOVE	frijaþwa	Liebe	Liebe	Liebe-1
 652	923	LOVE	frijon	lieben	lieben	lieben-1
 653	721	LOW	dalaþa	unten	unten	unten-1
-654	721	LOW	dalaþro	unten; von unten	unten	unten-2
-656	734	MAKE	taujan	tun;  machen	machen	machen-1
+654	721	LOW	dalaþro	 unten; von unten	 unten	unten-2
+655	166	MAINLAND				
+656	734	MAKE	taujan	tun;  machen	 machen	machen-1
 657	734	MAKE	waurkjan	machen;  wirken	machen	machen-2
+658	2892	MAKE ANGRY (ANNOY)				
+659	1554	MAN	guma	Mann	Mann	Mann-1
 660	1554	MAN	wair	Mann	Mann	Mann-2
-661	1554	MAN	manna	manna; Mensch;  mann	mann	mann-1
+661	1554	MAN	manna	manna; Mensch;  mann	 mann	mann-1
+662	2846	MARCH				
+663	383	MASTER				
+664	2848	MAY (MONTH)				
+665	1526	MEAL				
+666	2950	MEANING	aha	Sinn;  Verstand	Sinn	Sinn-1
+667	2950	MEANING	fraþi	 Sinn; Verstand	 Sinn	Sinn-2
+668	2950	MEANING	gahugds	 Sinn; Gesinnung;  Gewissen	 Sinn	Sinn-3
 669	1506	MEASURE	mitan	messen	messen	messen-1
 670	634	MEAT	mammo	Fleisch	Fleisch	Fleisch-1
+671	1372	MEDICINE				
 672	1831	MEET	niutan	treffen;  erreichen;  einer Sache froh sein	treffen	treffen-1
-674	1018	MEMORY	gaminþi	Erinnerung; Gedächtnis	Gedächtnis	Gedachtnis-1
-675	1018	MEMORY	gamunds	Gedächtnis; Andenken	Gedächtnis	Gedachtnis-2
+673	2334	MELT				
+674	1018	MEMORY	gaminþi	 Erinnerung; Gedächtnis	Gedächtnis	Gedachtnis-1
+675	1018	MEMORY	gamunds	 Gedächtnis; Andenken	 Gedächtnis	Gedachtnis-2
+676	1976	MERRY				
+677	2961	MESSAGE				
+678	12	MIDDAY				
 679	1093	MIDDLE	miduma*	Mitte	Mitte	Mitte-1
 680	635	MILK	miluks*	Milch	Milch	Milch-1
-681	1562	MIND	aha	Sinn;  Verstand	Verstand	Verstand-1
-682	1562	MIND	fraþi	Sinn; Verstand	Verstand	Verstand-2
+681	1562	MIND	aha	Sinn;  Verstand	 Verstand	Verstand-1
+682	1562	MIND	fraþi	 Sinn; Verstand	Verstand	Verstand-2
+683	1562	MIND	frodei	 Verstand; Klugheit	 Verstand	Verstand-3
+684	1562	MIND	hugs*	Verstand; Landgut;  Feld	Verstand	Verstand-4
 685	1171	MIRROR	skuggwa	Spiegel	Spiegel	Spiegel-1
+686	3072	MISPLACE				
+687	1293	MISTAKE				
+688	1697	MONDAY				
 689	1559	MONEY	skatts	Geld;  Geldstück;  Mine	Geld	Geld-1
 690	1370	MONTH	menoþs	Monat	Monat	Monat-1
 691	1313	MOON	mena	Mond	Mond	Mond-1
+692	2962	MOORLAND				
 693	1339	MORNING	maurgins	Morgen	Morgen	Morgen-1
+694	1509	MOSQUITO				
 695	1216	MOTHER	aiþei	Mutter	Mutter	Mutter-1
 696	639	MOUNTAIN	fairguni	Berg	Berg	Berg-1
+697	1491	MOUSE				
+698	1165	MOUSTACHE				
 699	674	MOUTH	munþs	Mund	Mund	Mund-1
+700	2873	MOVE (AFFECT EMOTIONALLY)				
+701	2874	MOVE (ONESELF)				
+702	3651	MUSH (FOOD)				
+703	641	MUSHROOM				
+704	502	NAIL (TOOL)				
 705	590	NAKED	naqaþs	nackt	nackt	nackt-1
 706	1405	NAME	namo	Name	Name	Name-1
-707	1347	NAPE (OF NECK)	†balsagga	Hals;  Nacken	Nacken	Nacken-1
-708	1347	NAPE (OF NECK)	[halsagga]	Hals;  Nacken	Nacken	Nacken-2
+707	1347	NAPE (OF NECK)	†balsagga	Hals;  Nacken	 Nacken	Nacken-1
+708	1347	NAPE (OF NECK)	[halsagga]	Hals;  Nacken	 Nacken	Nacken-2
 709	1267	NARROW	aggwus	eng	eng	eng-1
+710	1838	NAVEL				
 711	1942	NEAR	neƕ	nahe	nahe	nahe-1
 712	1942	NEAR	neƕa	nahe	nahe	nahe-2
+713	1333	NECK	†balsagga	Hals;  Nacken	Hals	Hals-1
 714	1333	NECK	hals	Hals	Hals	Hals-2
 715	1333	NECK	[halsagga]	Hals;  Nacken	Hals	Hals-3
 716	1382	NEEDLE (FOR SEWING)	neþla	Nadel	Nadel	Nadel-1
+717	539	NEST				
 718	2963	NET	nati	Netz	Netz	Netz-1
+719	1656	NEVER				
 720	1231	NEW	niujis	neu	neu	neu-1
+721	2964	NEWS				
+722	1298	NEWSPAPER				
+723	2917	NEXT TO				
 724	1233	NIGHT	nahts	Nacht	Nacht	Nacht-1
 725	1483	NINE	niun	neun	neun	neun-1
 726	1724	NINETY	niuntehund	neunzig	neunzig	neunzig-1
 727	1182	NOISE	auhjodus	Lärm	Lärm	Larm-1
 728	2604	NOOSE	hlamma	Schlinge	Schlinge	Schlinge-1
 729	2604	NOOSE	wruggo	Schlinge	Schlinge	Schlinge-2
+730	1598	NORTH				
+731	1221	NOSE				
+732	1240	NOT	barbarus	Nicht	Nicht	Nicht-1
+733	1240	NOT	unþiuda	 Nicht; Unvolk	 Nicht	Nicht-2
 734	1240	NOT	nei	nicht	nicht	nicht-1
-736	1240	NOT	nih	nicht; und nicht;  auch nicht	nicht	nicht-3
+735	1240	NOT	ni	nicht	nicht	nicht-2
+736	1240	NOT	nih	 nicht; und nicht;  auch nicht	 nicht	nicht-3
+737	1240	NOT	niu	nicht	nicht	nicht-4
 738	2893	NOTICE (SOMETHING)	gaumjan	bemerken	bemerken	bemerken-1
 739	2854	NOVEMBER	Naubaimbair	November	November	November-1
-740	1376	NOW	nu	nun;  jetzt	jetzt	jetzt-1
+740	1376	NOW	nu	nun;  jetzt	 jetzt	jetzt-1
+741	3137	OAR				
+742	2853	OCTOBER				
 743	3704	ODOR (SMELL)	dauns	Geruch	Geruch	Geruch-1
 744	2336	OF THIS KIND (SUCH)	swa	so	so	so-1
-745	2336	OF THIS KIND (SUCH)	swah	so	so	so-2
+745	2336	OF THIS KIND (SUCH)	swah	so 	so 	so-2
+746	2336	OF THIS KIND (SUCH)	swau	so	so	so-3
 747	1852	OFTEN	ufta	oft	oft	oft-1
 748	1484	OIL (ORGANIC SUBSTANCE)	alew*	Öl	Öl	Ol-1
 749	1484	OIL (ORGANIC SUBSTANCE)	alewja	Öl	Öl	Ol-2
 750	1229	OLD	alþeis	alt	alt	alt-1
 751	1229	OLD	fairneis*	alt	alt	alt-2
+752	2112	OLD (AGED)				
 753	2914	ONCE (IN THE PAST)	simle	einst;  vordem	einst	einst-1
-757	1580	ONLY	ƕeh	jedenfalls;  nur	nur	nur-1
+754	1493	ONE				
+755	374	ONE TIME				
+756	2366	ONION				
+757	1580	ONLY	ƕeh	jedenfalls;  nur	 nur	nur-1
 758	1580	ONLY	þatainei	nur	nur	nur-2
-759	1156	OPEN	us-lukan	erschließen;  öffnen	öffnen	offnen-1
-761	1156	OPEN	†uslukns	erschließen;  öffnen	öffnen	offnen-3
+759	1156	OPEN	us-lukan	erschließen;  öffnen	 öffnen	offnen-1
+760	1156	OPEN	us-luknan	 öffnen; sich erschließen	 öffnen	offnen-2
+761	1156	OPEN	†uslukns	erschließen;  öffnen	 öffnen	offnen-3
+762	3235	OPEN (STATE)	andaugiba	freimütig;  offen	 offen	offen-1
 763	3235	OPEN (STATE)	andaugjo	offen	offen	offen-2
 764	3235	OPEN (STATE)	bairhtaba	offen	offen	offen-3
 765	1014	OR	aiþþau	oder	oder	oder-1
 766	197	OTHER	anþar	anderer;  zweiter	anderer	anderer-1
-768	684	OWN	haban	haben;  besitzen	besitzen	besitzen-1
+767	735	OWL				
+768	684	OWN	haban	haben;  besitzen	 besitzen	besitzen-1
+769	684	OWN	ana-haban	besitzen	besitzen	besitzen-2
 770	684	OWN	dis-niman	besitzen	besitzen	besitzen-3
 771	1783	PAIN	sáir	Schmerz	Schmerz	Schmerz-1
+772	647	PAINT (PIGMENTS)				
+773	2001	PAINTING				
+774	1183	PALM OF HAND				
 775	505	PARENTS	berusjos	Eltern	Eltern	Eltern-1
 776	505	PARENTS	birusjos	Eltern	Eltern	Eltern-2
 777	779	PART	dails	Teil	Teil	Teil-1
+778	1951	PASS				
 779	649	PASTURE	winja	Weide	Weide	Weide-1
-781	2252	PATH	staiga	Weg; Steig	Weg	Weg-2
+780	2252	PATH	gagg*	 Straße; Weg	Weg	Weg-1
+781	2252	PATH	staiga	 Weg; Steig	 Weg	Weg-2
 782	2252	PATH	wigs	Weg	Weg	Weg-3
-786	718	PAY	us-giban	erstatten;  bezahlen	bezahlen	bezahlen-1
+783	2457	PATH OR ROAD				
+784	2988	PATTERN				
+785	2965	PAW				
+786	718	PAY	us-giban	erstatten;  bezahlen	 bezahlen	bezahlen-1
+787	789	PEOPLE				
+788	2966	PERCH (FISH)	unmanariggwai	ungezähmt;  wild oder unfreundlich;  barsch	 barsch	barsch-1
+789	683	PERSON	andwairþi	 Angesicht; Gegenwart;  Person	 Person	Person-1
 790	683	PERSON	manna	manna; Mensch;  mann	Mensch	Mensch-1
 791	597	PHYSICIAN	leikeis, leikinassus, leikinon	Arzt	Arzt	Arzt-1
 792	597	PHYSICIAN	lekeis	Arzt	Arzt	Arzt-2
+793	2148	PICK				
 794	371	PICK UP	uf-haban	aufheben	aufheben	aufheben-1
+795	371	PICK UP	fra-qiþan	 aufheben; für ungültig erklären	 aufheben	aufheben-2
+796	371	PICK UP	ga-tairan	 zerstören;  aufheben; zerreißen	 aufheben	aufheben-3
 797	3303	PICTURE (PAINTING)	frisahts	Bild	Bild	Bild-1
 798	3303	PICTURE (PAINTING)	manleika	Bild	Bild	Bild-2
+799	594	PIECE				
 800	1337	PIG	swein	Schwein	Schwein	Schwein-1
+801	2967	PIKE (FISH)				
+802	1044	PILLOW				
+803	1740	PINE				
 804	2539	PIT (POTHOLE)	dals*	Grube;  Schlucht;  Tal	Grube	Grube-1
 805	2539	PIT (POTHOLE)	groba	Grube;  Höhle	Grube	Grube-2
-806	723	PLACE (POSITION)	staþs	Raum; Stätte;  Ort ;  Platz	Ort	Ort-1
+806	723	PLACE (POSITION)	staþs	 Raum; Stätte;  Ort ;  Platz	 Ort 	Ort-1
+807	1413	PLAY				
+808	372	POINTED				
 809	1674	POOR	arms*	arm;  beklagenswert	arm	arm-1
 810	1674	POOR	unleþs*	arm	arm	arm-2
-813	2951	POUCH	arka	hölzerner Kasten;  Arche;  Futteral;  Beutel	Beutel	Beutel-1
-815	2526	POWER	mahts	Vermögen; mahts; Macht;  Kraft	Macht	Macht-1
+811	281	POST				
+812	1462	POT				
+813	2951	POUCH	arka	hölzerner Kasten;  Arche;  Futteral;  Beutel	 Beutel	Beutel-1
+814	1487	POUR				
+815	2526	POWER	mahts	 Vermögen; mahts; Macht;  Kraft	Macht	Macht-1
 816	3001	POWERFUL	mahteigs	mächtig;  möglich	mächtig	machtig-1
-817	3001	POWERFUL	swinþs	stark;  gesund;  kräftig	kräftig	kraftig-1
+817	3001	POWERFUL	swinþs	stark;  gesund;  kräftig	 kräftig	kraftig-1
 818	3002	PRECIOUS	galaufs*	wertvoll	wertvoll	wertvoll-1
 819	3002	PRECIOUS	†galubaim	wertvoll	wertvoll	wertvoll-2
-821	1997	PRESERVE	bairgan	einen bergen;  bewahren	bewahren	bewahren-1
-823	1997	PRESERVE	ga-fastan	bewahren; behalten	bewahren	bewahren-3
+820	2909	PREPARE				
+821	1997	PRESERVE	bairgan	einen bergen;  bewahren	 bewahren	bewahren-1
+822	1997	PRESERVE	ga-bairgan	einen bergen;  bewahren	 bewahren	bewahren-2
+823	1997	PRESERVE	ga-fastan	 bewahren; behalten	 bewahren	bewahren-3
 824	1913	PRESS	kaurjan	drücken;  belästigen	drücken	drucken-1
 825	657	PRICE	andawairþi	Preis	Preis	Preis-1
+826	657	PRICE	hauheins	Preis;  Ehre	Preis	Preis-2
 827	657	PRICE	wairþ	Preis	Preis	Preis-3
+828	2886	PRODUCE	ga-botjan	verbessern;  herstellen	 herstellen	herstellen-1
 829	2886	PRODUCE	ga-hailjan	herstellen	herstellen	herstellen-2
 830	2886	PRODUCE	ga-leikinon	herstellen	herstellen	herstellen-3
+831	2886	PRODUCE	ga-nasjan	 herstellen; erretten	 herstellen	herstellen-4
+832	1675	PROMISE				
+833	2900	PROTECT				
+834	1455	PULL	faran	wandern;  ziehen	 ziehen	ziehen-1
+835	1455	PULL	talzjan	 ziehen; lehren;  unterrichten	 ziehen	ziehen-2
 836	1452	PUSH	stigqan	stoßen	stoßen	stoen-1
+837	158	PUT ON				
 838	658	RAIN (PRECIPITATION)	rign	Regen	Regen	Regen-1
 839	1253	RAIN (RAINING)	rignjan	regnen	regnen	regnen-1
-844	2968	REASON	fairina	Schuld;  Grund;  Vorwurf	Grund	Grund-1
+840	1733	RAINBOW				
+841	2134	RAISE (BRING UP)				
+842	1959	RAW				
+843	724	READ	lisan	 sammeln; lesen	lesen	lesen-1
+844	2968	REASON	fairina	Schuld;  Grund;  Vorwurf	 Grund	Grund-1
 845	2968	REASON	sauþa	Grund	Grund	Grund-2
 846	2870	RECOGNIZE (SOMEBODY)	finþan	erkennen;  erfahren	erkennen	erkennen-1
 847	2870	RECOGNIZE (SOMEBODY)	uf-kunnan	erkennen	erkennen	erkennen-2
@@ -438,223 +850,429 @@ ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	MEANING	SENSE	SENSE_ID
 849	156	RED	rauþs*	rot	rot	rot-1
 850	987	REMAIN	bilaif	bleiben	bleiben	bleiben-1
 851	987	REMAIN	bi-leiban*	bleiben	bleiben	bleiben-2
+852	987	REMAIN	saljan	opfern;  bleiben; herbergen	 bleiben	bleiben-3
+853	987	REMAIN	wisan	 bleiben; sein; sich freuen;  dasein;  existieren;  schwelgen;  schmausen; weilen	 bleiben	bleiben-4
+854	987	REMAIN	þairh-wisan	verbleiben;  verharren	 verharren	verharren-1
+855	707	REMEMBER				
+856	2243	REPAIR				
 857	2008	RESCUE	nasjan	retten	retten	retten-1
+858	168	REST				
+859	1723	RESULT IN				
 860	2969	RIBBON	bandi	Band;  Fessel	Band	Band-1
 861	2969	RIBBON	gabinda	Band	Band	Band-2
-865	712	RICH	reiki	Herrschaft; Reich;  Obrigkeit	Reich	Reich-1
+862	2969	RIBBON	gabindi	Band	Band	Band-3
+863	2969	RIBBON	gabundi	Band	Band	Band-4
+864	2969	RIBBON	gawiss	 Band ; Verbindung	 Band 	Band-5
+865	712	RICH	reiki	 Herrschaft; Reich;  Obrigkeit	Reich	Reich-1
 866	1019	RIGHT	taihswa	rechts; die Rechte	rechts	rechts-1
-873	666	RIVER	flodus	Strom;  Flut	Strom	Strom-1
-874	667	ROAD	fauradauri	Straße	Straße	Strae-1
-877	667	ROAD	plapja	Straße	Straße	Strae-4
-879	769	ROOF	hrot	Haus; Dach	Dach	Dach-1
-880	1511	ROOSTER	hana	Hahn	Hahn	Hahn-1
-881	670	ROOT	waurts	Wurzel	Wurzel	Wurzel-1
-885	1449	RUB	bnauan	reiben;  zerreiben	reiben	reiben-1
-887	1519	RUN	rinnan	rennen;  laufen	rennen	rennen-1
-888	1519	RUN	þragjan	laufen	laufen	laufen-2
-890	2990	SACK	sakkus	Sack	Sack	Sack-1
-891	699	SAD	gáurs	betrübt;  traurig	traurig	traurig-1
-892	1274	SALT	salt	Salz	Salz	Salz-1
-893	671	SAND	malma	Sand	Sand	Sand-1
-895	1458	SAY	qiþan	sagen	sagen	sagen-1
-897	1474	SEA	marei	Meer	Meer	Meer-1
-898	1384	SECOND	anþar	anderer;  zweiter	zweiter	zweiter-1
-900	714	SEED	atisk	Saat	Saat	Saat-1
-901	714	SEED	fraiw	Same	Same	Same-1
-903	855	SEIZE	fāhan	fangen;  greifen	greifen	greifen-1
-904	855	SEIZE	greipan	greifen	greifen	greifen-2
-915	1359	SEPARATE	skaidan	trennen; scheiden	trennen	trennen-2
-916	1359	SEPARATE	twis-standan	sich trennen;  Abschied nehmen von	sich trennen	sichtrennen-1
-919	1704	SEVEN	sibun	sieben	sieben	sieben-1
-920	1721	SEVENTY	sibuntehund	siebzig	siebzig	siebzig-1
-921	419	SEVERE	sleiþs*	schlimm;  gefährlich	schlimm	schlimm-1
-922	1457	SEW	siujan	nähen	nähen	nahen-1
-923	1388	SHADE	skadus	Schatten	Schatten	Schatten-1
-924	1909	SHAKE	wagjan	schütteln	schütteln	schutteln-1
-925	1909	SHAKE	wiþon	schütteln	schütteln	schutteln-2
-926	1396	SHARP	ƕassaba	streng; scharf	scharf	scharf-1
-928	1331	SHEEP	lamb	Lamm;  Schaf	Schaf	Schaf-1
-932	52	SHIVER	reiran	zittern	zittern	zittern-1
-933	52	SHIVER	reiro	das Zittern	das Zittern	dasZittern-1
-934	1381	SHOE	skohs	Schuh	Schuh	Schuh-1
-937	3464	SHORE OF LAKE	staþa	Ufer;  Gestade	Ufer	Ufer-1
-939	1482	SHOULDER	ams*	Schulter	Schulter	Schulter-1
-942	1039	SHOW	augjan	zeigen	zeigen	zeigen-1
-945	1847	SICK	siuks	schwach; krank	krank	krank-1
-946	1847	SICK	unhails	krank	krank	krank-2
-947	682	SIDE	fera	Seite;  Gegend	Seite	Seite-1
-948	682	SIDE	halba	Seite; Hälfte	Seite	Seite-2
-949	1720	SIGN	bandwa	Zeichen	Zeichen	Zeichen-1
-951	1720	SIGN	taikns	Zeichen;  Wunder	Zeichen	Zeichen-3
-953	3458	SILENCE	anaqal	Ruhe	Ruhe	Ruhe-1
-955	3458	SILENCE	rimis*	Ruhe	Ruhe	Ruhe-3
-956	759	SILVER	silubr	Silber	Silber	Silber-1
-957	2971	SIN	frawaurhts	sündig; Sünde	Sünde	Sunde-1
-958	1261	SING	siggwan	singen;  vorlesen;  rezitieren	singen	singen-1
-959	1088	SINK (DESCEND)	sigqan	sinken	sinken	sinken-1
-960	1088	SINK (DESCEND)	ga-siggqan	versinken;  untergehn	versinken	versinken-1
-961	1263	SISTER	swistar	Schwester	Schwester	Schwester-1
-962	1416	SIT	sitan	sitzen	sitzen	sitzen-1
-963	1649	SIT DOWN	ga-satjan	hinlegen; hinsetzen;  hinstellen	hinsetzen	hinsetzen-1
-964	1703	SIX	saihs	sechs	sechs	sechs-1
-966	2845	SIZE (OF OBJECT)	mikildūþs	Größe	Größe	Groe-1
-967	2845	SIZE (OF OBJECT)	mikilei	Größe	Größe	Groe-2
-971	1732	SKY	himins	Himmel	Himmel	Himmel-1
-972	2952	SLAB	mes	Tisch;  Schüssel;  Platte;  Kelter	Platte	Platte-1
-974	1585	SLEEP	slepan	schlafen	schlafen	schlafen-1
-975	2972	SLEEP (STATE)	sleps*	Schlaf	Schlaf	Schlaf-1
-978	3076	SLOPE	driuso	Abhang	Abhang	Abhang-1
-979	1246	SMALL	leitils	klein;  wenig	klein	klein-1
-983	1234	SMOOTH	slaihts	eben; schlicht;  glatt	glatt	glatt-1
-984	730	SNAKE	waurms	Wurm;  Schlange	Schlange	Schlange-1
-985	784	SNOW	snaiws	Schnee	Schnee	Schnee-1
-986	1856	SOFT	hnasqjaim*	weich;  weichlich	weich	weich-1
-987	1856	SOFT	qairrus	sanft;  freundlich gegen	sanft	sanft-1
-988	3003	SOLID	tulgus	fest;  beständig	fest	fest-1
-990	1620	SON	sunus	Sohn	Sohn	Sohn-1
-992	703	SOON	sprauto	schnell;  bald	bald	bald-1
-998	3006	SPACE (AVAILABLE)	staþs	Raum; Stätte;  Ort ;  Platz	Platz	Platz-1
-1001	1623	SPEAK	rodjan	reden; sprechen	sprechen	sprechen-1
-1002	1115	SPEECH	maþlein	Rede;  Redeweise	Rede	Rede-1
-1004	53	SPIRIT	ahma	Geist	Geist	Geist-1
-1006	92	SPOIL (SOMEBODY OR SOMETHING)	fralusts	Verderben	Verderben	Verderben-1
-1008	92	SPOIL (SOMEBODY OR SOMETHING)	qisteins	Verderben	Verderben	Verderben-3
-1021	570	STAND UP	ur-reisan	erstehn;  sich erheben	sich erheben	sicherheben-1
-1022	570	STAND UP	us-standan	sich erheben;  aufbrechen;  auferstehn	sich erheben	sicherheben-2
-1023	1430	STAR	stairno	Stern	Stern	Stern-1
-1025	713	STEAL	hlifan	stehlen	stehlen	stehlen-1
-1026	713	STEAL	stilan	stehlen	stehlen	stehlen-2
-1029	2919	STILL (CONTINUING)	nauh	noch	noch	noch-1
-1032	2919	STILL (CONTINUING)	þanaseiþs	weiter;  noch	noch	noch-4
-1036	819	STOMACH	qiþus	Magen;  Mutterschoß	Magen	Magen-1
-1037	857	STONE	stains	Stein	Stein	Stein-1
-1038	2060	STORY	insahts	Erzählung;  Aussage;  Zeugnis	Erzählung	Erzahlung-1
-1039	859	STOVE	auhns*	Ofen	Ofen	Ofen-1
-1040	2973	STRAP	skaudaraip	Riemen	Riemen	Riemen-1
-1042	202	STRENGTH	swinþei	Kraft; Stärke	Stärke	Starke-1
-1043	3308	STRIKE (SOMEONE)	bliggwan	schlagen	schlagen	schlagen-1
-1044	3308	STRIKE (SOMEONE)	slahan	schlagen	schlagen	schlagen-2
-1047	2993	STROKE (OF PEN)	striks	Strich	Strich	Strich-1
-1048	2993	STROKE (OF PEN)	writs	Strich	Strich	Strich-2
-1049	785	STRONG	abrs	stark;  heftig	stark	stark-1
-1050	785	STRONG	swinþs	stark;  gesund;  kräftig	stark	stark-2
-1053	2920	SUDDENLY	anaks	plötzlich	plötzlich	plotzlich-1
-1055	2920	SUDDENLY	unweniggo	plötzlich; unerwartet	plötzlich	plotzlich-3
-1056	1342	SUMMER	asans	Sommer	Sommer	Sommer-1
-1058	1343	SUN	sauïl	Sonne	Sonne	Sonne-1
-1059	1343	SUN	sunno	Sonne	Sonne	Sonne-2
-1073	1775	TABLE	biuþs*	Tisch	Tisch	Tisch-1
-1074	1775	TABLE	mes	Tisch;  Schüssel;  Platte;  Kelter	Tisch	Tisch-2
-1076	1749	TAKE	niman	fangen; nehmen;  annehmen;  aufnehmen;  empfangen	nehmen	nehmen-1
-1077	1749	TAKE	fra-niman	nehmen	nehmen	nehmen-2
-1078	2708	TALK	maþljan	reden	reden	reden-1
-1079	2708	TALK	rodjan	reden; sprechen	reden	reden-2
-1081	21	TASTE (SOMETHING)	kausjan	kosten;  kennen lernen	kosten	kosten-1
-1084	709	TEACH	laisjan	lehren	lehren	lehren-1
-1086	709	TEACH	talzjan	ziehen; lehren;  unterrichten	lehren	lehren-3
-1088	1038	TEACHER	laisareis	Lehrer	Lehrer	Lehrer-1
-1089	1038	TEACHER	talzjands	Lehrer	Lehrer	Lehrer-2
-1090	1651	TEAR (OF EYE)	tagr	Zähre;  Träne	Träne	Trane-1
-1094	1735	TEAR (SHRED)	dis-tairan	zerreißen	zerreißen	zerreien-4
-1097	1735	TEAR (SHRED)	tahjan	reißen;  zerren	reißen	reien-1
-1099	1711	TELL	us-spillon	verkünden;  erzählen	erzählen	erzahlen-1
-1100	1711	TELL	waila-spillon	verkünden;  erzählen	erzählen	erzahlen-2
+867	1374	RING				
+868	2875	RING (MAKE SOUND)				
+869	2904	RINSE				
+870	178	RIPE				
+871	179	RIPEN				
+872	568	RISE (MOVE UPWARDS)				
+873	666	RIVER	aƕa	Fluß;  Gewässer	Fluß	Flu-1
+874	666	RIVER	flodus	Strom;  Flut	Strom	Strom-1
+875	667	ROAD	fauradauri	Straße	Straße	Strae-1
+876	667	ROAD	gagg*	 Straße; Weg	 Straße	Strae-2
+877	667	ROAD	garuns	 Straße; Markt	 Straße	Strae-3
+878	667	ROAD	plapja	Straße	Straße	Strae-4
+879	2876	ROAR (OF SEA)				
+880	769	ROOF	hrot	 Haus; Dach	Dach	Dach-1
+881	1511	ROOSTER	hana	Hahn	Hahn	Hahn-1
+882	670	ROOT	waurts	Wurzel	Wurzel	Wurzel-1
+883	2907	ROT				
+884	1395	ROUND				
+885	1849	ROW				
+886	1449	RUB	bnauan	reiben;  zerreiben	reiben	reiben-1
+887	1846	RULE				
+888	1519	RUN	rinnan	rennen;  laufen	rennen	rennen-1
+889	1519	RUN	rinnan	rennen;  laufen	 laufen	laufen-1
+890	2877	RUSTLE (OF LEAVES)				
+891	2990	SACK	sakkus	Sack	Sack	Sack-1
+892	699	SAD	gáurs	betrübt;  traurig	 traurig	traurig-1
+893	1274	SALT	salt	Salz	Salz	Salz-1
+894	671	SAND	malma	Sand	Sand	Sand-1
+895	1700	SATURDAY				
+896	1458	SAY	qiþan	sagen	sagen	sagen-1
+897	1767	SCRAPE				
+898	1474	SEA	marei	Meer	Meer	Meer-1
+899	1384	SECOND	anþar	anderer;  zweiter	 zweiter	zweiter-1
+900	1409	SEE				
+901	714	SEED	atisk	Saat	Saat	Saat-1
+902	714	SEED	fraiw	Same	Same	Same-1
+903	1521	SEEM	skeinan	 leuchten; scheinen;  aufblitzen	scheinen	scheinen-1
+904	855	SEIZE	fāhan	fangen;  greifen	 greifen	greifen-1
+905	855	SEIZE	greipan	greifen	greifen	greifen-2
+906	855	SEIZE	ga-fahan	ergreifen;  erfassen ;  ertappen	ergreifen	ergreifen-1
+907	855	SEIZE	fair-greipan	ergreifen	ergreifen	ergreifen-2
+908	855	SEIZE	und-greipan	ergreifen	ergreifen	ergreifen-3
+909	855	SEIZE	dis-haban	ergreifen	ergreifen	ergreifen-4
+910	855	SEIZE	ga-haban	ergreifen	ergreifen	ergreifen-5
+911	855	SEIZE	ga-niutan	ergreifen;  erwischen	ergreifen	ergreifen-6
+912	855	SEIZE	dis-sitan	ergreifen	ergreifen	ergreifen-7
+913	1571	SELL				
+914	1127	SEND				
+915	1359	SEPARATE	[ga-ainan]	vereinzeln;  trennen	 trennen	trennen-1
+916	1359	SEPARATE	skaidan	 trennen; scheiden	 trennen	trennen-2
+917	1359	SEPARATE	twis-standan	sich trennen;  Abschied nehmen von	sich trennen	sichtrennen-1
+918	2852	SEPTEMBER				
+919	160	SET (HEAVENLY BODIES)				
+920	1704	SEVEN	sibun	sieben	sieben	sieben-1
+921	1721	SEVENTY	sibuntehund	siebzig	siebzig	siebzig-1
+922	419	SEVERE	sleiþs*	schlimm;  gefährlich	schlimm	schlimm-1
+923	1457	SEW	siujan	nähen	nähen	nahen-1
+924	1388	SHADE	skadus	Schatten	Schatten	Schatten-1
+925	1909	SHAKE	wagjan	schütteln	schütteln	schutteln-1
+926	1909	SHAKE	wiþon	schütteln	schütteln	schutteln-2
+927	1396	SHARP	ƕassaba	 streng; scharf	scharf	scharf-1
+928	251	SHARPEN (SOMETHING)				
+929	1331	SHEEP	lamb	Lamm;  Schaf	 Schaf	Schaf-1
+930	745	SHELF				
+931	708	SHINE				
+932	1622	SHIRT				
+933	52	SHIVER	reiran	zittern	zittern	zittern-1
+934	52	SHIVER	reiro	das Zittern	das Zittern	dasZittern-1
+935	1381	SHOE	skohs	Schuh	Schuh	Schuh-1
+936	1172	SHOOT				
+937	746	SHOP				
+938	3464	SHORE OF LAKE	staþa	Ufer;  Gestade	Ufer	Ufer-1
+939	1645	SHORT				
+940	1482	SHOULDER	ams*	Schulter	Schulter	Schulter-1
+941	715	SHOUT				
+942	1901	SHOVEL				
+943	1039	SHOW	augjan	zeigen	zeigen	zeigen-1
+944	1046	SHUT				
+945	1847	SICK	siukan	siechen;  krank sein	 krank sein	kranksein-1
+946	1847	SICK	siuks	 schwach; krank	krank	krank-1
+947	1847	SICK	unhails	krank	krank	krank-2
+948	682	SIDE	fera	Seite;  Gegend	Seite	Seite-1
+949	682	SIDE	halba	 Seite; Hälfte	 Seite	Seite-2
+950	1720	SIGN	bandwa	Zeichen	Zeichen	Zeichen-1
+951	1720	SIGN	bandwo	Zeichen	Zeichen	Zeichen-2
+952	1720	SIGN	taikns	Zeichen;  Wunder	Zeichen	Zeichen-3
+953	1720	SIGN	bandwjan	ein Zeichen;  einen Wink geben;  andeuten	ein Zeichen	einZeichen-1
+954	3458	SILENCE	anaqal	Ruhe	Ruhe	Ruhe-1
+955	3458	SILENCE	gaƕeilains	 Ruhe; Verweilen	 Ruhe	Ruhe-2
+956	3458	SILENCE	rimis*	Ruhe	Ruhe	Ruhe-3
+957	759	SILVER	silubr	Silber	Silber	Silber-1
+958	2971	SIN	frawaurhts	sündig; Sünde	Sünde	Sunde-1
+959	1261	SING	siggwan	singen;  vorlesen;  rezitieren	singen	singen-1
+960	1088	SINK (DESCEND)	sigqan	sinken	sinken	sinken-1
+961	1088	SINK (DESCEND)	ga-siggqan	versinken;  untergehn	versinken	versinken-1
+962	1263	SISTER	swistar	Schwester	Schwester	Schwester-1
+963	1416	SIT	sitan	sitzen	sitzen	sitzen-1
+964	1649	SIT DOWN	ga-satjan	 hinlegen; hinsetzen;  hinstellen	hinsetzen	hinsetzen-1
+965	1703	SIX	saihs	sechs	sechs	sechs-1
+966	1718	SIXTY				
+967	2845	SIZE (OF OBJECT)	mikildūþs	Größe	Größe	Groe-1
+968	2845	SIZE (OF OBJECT)	mikilei	Größe	Größe	Groe-2
+969	2991	SKI				
+970	763	SKIN				
+971	2373	SKIN (OF FRUIT)				
+972	1732	SKY	himins	Himmel	Himmel	Himmel-1
+973	2952	SLAB	mes	Tisch;  Schüssel;  Platte;  Kelter	 Platte	Platte-1
+974	16	SLED				
+975	1585	SLEEP	slepan	schlafen	schlafen	schlafen-1
+976	2972	SLEEP (STATE)	sleps*	Schlaf	Schlaf	Schlaf-1
+977	2953	SLEEVE				
+978	2954	SLICE				
+979	3076	SLOPE	driuso	Abhang	Abhang	Abhang-1
+980	1246	SMALL	leitils	klein;  wenig	klein	klein-1
+981	1586	SMELL (PERCEIVE)				
+982	2859	SMOKE (EMIT SMOKE)				
+983	778	SMOKE (EXHAUST)				
+984	1234	SMOOTH	slaihts	 eben; schlicht;  glatt	 glatt	glatt-1
+985	730	SNAKE	waurms	Wurm;  Schlange	 Schlange	Schlange-1
+986	784	SNOW	snaiws	Schnee	Schnee	Schnee-1
+987	1856	SOFT	hnasqjaim*	weich;  weichlich	weich	weich-1
+988	3003	SOLID	dulþs	Fest	Fest	Fest-1
+989	3003	SOLID	tulgus	fest;  beständig	fest	fest-1
+990	1544	SOMETIMES				
+991	1620	SON	sunus	Sohn	Sohn	Sohn-1
+992	1096	SONG				
+993	703	SOON	sprauto	schnell;  bald	 bald	bald-1
+994	2879	SOUND (OF INSTRUMENT OR VOICE)				
+995	1811	SOUND OR NOISE				
+996	1547	SOUP				
+997	1906	SOUR				
+998	1595	SOUTH				
+999	3006	SPACE (AVAILABLE)	staþs	 Raum; Stätte;  Ort ;  Platz	 Platz	Platz-1
+1000	1176	SPADE				
+1001	518	SPARK				
+1002	1623	SPEAK	rodjan	 reden; sprechen	sprechen	sprechen-1
+1003	1115	SPEECH	maþlein	Rede;  Redeweise	Rede	Rede-1
+1004	843	SPIDER				
+1005	53	SPIRIT	ahma	Geist	Geist	Geist-1
+1006	569	SPOIL (BECOME SPOILED)				
+1007	92	SPOIL (SOMEBODY OR SOMETHING)	fralusts	Verderben	Verderben	Verderben-1
+1008	92	SPOIL (SOMEBODY OR SOMETHING)	frawardeins*	Verderben	Verderben	Verderben-2
+1009	92	SPOIL (SOMEBODY OR SOMETHING)	qisteins	Verderben	Verderben	Verderben-3
+1010	92	SPOIL (SOMEBODY OR SOMETHING)	qistjan	verderben	verderben	verderben-1
+1011	92	SPOIL (SOMEBODY OR SOMETHING)	fra-qistjan	 umbringen; verderben	verderben	verderben-2
+1012	92	SPOIL (SOMEBODY OR SOMETHING)	us-qistjan	 umbringen; verderben	verderben	verderben-3
+1013	92	SPOIL (SOMEBODY OR SOMETHING)	riurjan	verderben	verderben	verderben-4
+1014	92	SPOIL (SOMEBODY OR SOMETHING)	fra-wairþan	verderben	verderben	verderben-5
+1015	92	SPOIL (SOMEBODY OR SOMETHING)	fra-wardjan	verderben	verderben	verderben-6
+1016	1378	SPOON				
+1017	38	SPREAD OUT				
+1018	849	SPRING (OF WATER)				
+1019	1537	SPRINGTIME				
+1020	1628	SQUIRREL				
+1021	1442	STAND				
+1022	570	STAND UP	ur-reisan	erstehn;  sich erheben	 sich erheben	sicherheben-1
+1023	570	STAND UP	us-standan	sich erheben;  aufbrechen;  auferstehn	sich erheben	sicherheben-2
+1024	1430	STAR	stairno	Stern	Stern	Stern-1
+1025	2955	STATE (POLITICS)				
+1026	713	STEAL	hlifan	stehlen	stehlen	stehlen-1
+1027	713	STEAL	stilan	stehlen	stehlen	stehlen-2
+1028	2065	STEP (VERB)				
+1029	1295	STICK				
+1030	2919	STILL (CONTINUING)	nauh	noch	noch	noch-1
+1031	2919	STILL (CONTINUING)	nauhþan	noch	noch	noch-2
+1032	2919	STILL (CONTINUING)	nauhþanuh	noch	noch	noch-3
+1033	2919	STILL (CONTINUING)	þanaseiþs	weiter;  noch	 noch	noch-4
+1034	571	STING				
+1035	1774	STINGY				
+1036	696	STIR				
+1037	819	STOMACH	qiþus	Magen;  Mutterschoß	Magen	Magen-1
+1038	857	STONE	stains	Stein	Stein	Stein-1
+1039	2060	STORY	insahts	Erzählung;  Aussage;  Zeugnis	Erzählung	Erzahlung-1
+1040	859	STOVE	auhns*	Ofen	Ofen	Ofen-1
+1041	2973	STRAP	skaudaraip	Riemen	Riemen	Riemen-1
+1042	2858	STREAM (FLOW CONTINUOUSLY)				
+1043	202	STRENGTH	swinþei	 Kraft; Stärke	Stärke	Starke-1
+1044	3308	STRIKE (SOMEONE)	bliggwan	schlagen	schlagen	schlagen-1
+1045	3308	STRIKE (SOMEONE)	slahan	schlagen	schlagen	schlagen-2
+1046	3309	STRIKE (SOMETHING)				
+1047	362	STRING				
+1048	2993	STROKE (OF PEN)	striks	Strich	Strich	Strich-1
+1049	2993	STROKE (OF PEN)	writs	Strich	Strich	Strich-2
+1050	785	STRONG	abrs	stark;  heftig	stark	stark-1
+1051	785	STRONG	swinþs	stark;  gesund;  kräftig	stark	stark-2
+1052	1518	STUPID				
+1053	1112	SUCCEED				
+1054	2920	SUDDENLY	anaks	plötzlich	plötzlich	plotzlich-1
+1055	2920	SUDDENLY	suns	 plötzlich; alsbald;  auf einmal	 plötzlich	plotzlich-2
+1056	2920	SUDDENLY	unweniggo	 plötzlich; unerwartet	 plötzlich	plotzlich-3
+1057	1342	SUMMER	asans	Sommer	Sommer	Sommer-1
+1058	1614	SUMMIT				
+1059	1343	SUN	sauïl	Sonne	Sonne	Sonne-1
+1060	1343	SUN	sunno	Sonne	Sonne	Sonne-2
+1061	1699	SUNDAY				
+1062	2994	SUPPORT (OF OBJECT)				
+1063	897	SWALLOW				
+1064	1145	SWAMP				
+1065	2837	SWAN				
+1066	2974	SWARM (OF BIRDS)				
+1067	573	SWAY				
+1068	230	SWEEP				
+1069	717	SWEET				
+1070	1439	SWIM				
+1071	3055	SWINDLE				
+1072	2871	SWING (MOVEMENT)				
+1073	2901	SWING (SOMETHING)				
+1074	1775	TABLE	biuþs*	Tisch	Tisch	Tisch-1
+1075	1775	TABLE	mes	Tisch;  Schüssel;  Platte;  Kelter	Tisch	Tisch-2
+1076	1220	TAIL				
+1077	1749	TAKE	niman	 fangen; nehmen;  annehmen;  aufnehmen;  empfangen	nehmen	nehmen-1
+1078	1749	TAKE	fra-niman	nehmen	nehmen	nehmen-2
+1079	2708	TALK	maþljan	reden	reden	reden-1
+1080	2708	TALK	rodjan	 reden; sprechen	 reden	reden-2
+1081	2190	TASTE				
+1082	21	TASTE (SOMETHING)	kausjan	kosten;  kennen lernen	kosten	kosten-1
+1083	1813	TASTY				
+1084	1373	TEA				
+1085	709	TEACH	laisjan	lehren	lehren	lehren-1
+1086	709	TEACH	ga-laisjan	lehren	lehren	lehren-2
+1087	709	TEACH	talzjan	 ziehen; lehren;  unterrichten	lehren	lehren-3
+1088	709	TEACH	talzjan	 ziehen; lehren;  unterrichten	 unterrichten	unterrichten-1
+1089	1038	TEACHER	laisareis	Lehrer	Lehrer	Lehrer-1
+1090	1038	TEACHER	talzjands	Lehrer	Lehrer	Lehrer-2
+1091	1651	TEAR (OF EYE)	tagr	Zähre;  Träne	 Träne	Trane-1
+1092	1735	TEAR (SHRED)	dis-hniupan	zerreißen	zerreißen	zerreien-1
+1093	1735	TEAR (SHRED)	dis-hnupnan	zerreißen	zerreißen	zerreien-2
+1094	1735	TEAR (SHRED)	dis-skritnan	zerreißen	zerreißen	zerreien-3
+1095	1735	TEAR (SHRED)	dis-tairan	zerreißen	zerreißen	zerreien-4
+1096	1735	TEAR (SHRED)	ga-tairan	 zerstören;  aufheben; zerreißen	zerreißen	zerreien-5
+1097	1735	TEAR (SHRED)	dis-taurnan	zerreißen	zerreißen	zerreien-6
+1098	1735	TEAR (SHRED)	af-taurnan	abreißen	abreißen	abreien-1
+1099	1711	TELL	us-spillon	verkünden;  erzählen	 erzählen	erzahlen-1
+1100	1711	TELL	waila-spillon	verkünden;  erzählen	 erzählen	erzahlen-2
 1101	1515	TEN	taihun	zehn	zehn	zehn-1
+1102	1137	TENDON				
 1103	78	THAT	jains	jener	jener	jener-1
-1105	2921	THEN	þan	darauf; dann	dann	dann-1
-1108	1937	THERE	jainar	an jenem Ort;  dort	dort	dort-1
+1104	2887	THAW (DEW)				
+1105	2921	THEN	þan	 darauf; dann	dann	dann-1
+1106	1937	THERE	ei	da	da	da-1
+1107	1937	THERE	þaruh	da	da	da-2
+1108	1937	THERE	jainar	an jenem Ort;  dort	 dort	dort-1
 1109	1937	THERE	þar	dort	dort	dort-2
+1110	817	THEY				
+1111	1244	THICK				
+1112	2249	THIN (OF SHAPE OF OBJECT)				
+1113	1400	THIN (SLIM)				
 1114	738	THING	waihts	Ding;  Sache;  Etwas	Ding	Ding-1
-1115	738	THING	waihts	Ding;  Sache;  Etwas	Sache	Sache-1
+1115	738	THING	waihts	Ding;  Sache;  Etwas	 Sache	Sache-1
 1116	1415	THINK (REFLECT)	fraþjan	denken	denken	denken-1
+1117	1415	THINK (REFLECT)	hugjan	 meinen; denken	denken	denken-2
+1118	1415	THINK (REFLECT)	miton	 denken; ermessen;  überlegen	 denken	denken-3
 1119	1415	THINK (REFLECT)	þagkjan	denken;  überlegen	denken	denken-4
 1120	1859	THIRD	þridja	der dritte	der dritte	derdritte-1
+1121	1715	THIRTY				
+1122	1214	THIS	hi-	dieser	dieser	dieser-1
+1123	1214	THIS	himma, hina	dieser	dieser	dieser-2
 1124	1214	THIS	hita	dieser	dieser	dieser-3
-1127	1214	THIS	þata	dieser; der	dieser	dieser-6
+1125	1214	THIS	sa	 dieser; der	 dieser	dieser-4
+1126	1214	THIS	so	 dieser; der	 dieser	dieser-5
+1127	1214	THIS	þata	 dieser; der	 dieser	dieser-6
 1128	2923	THITHER (THERE TO)	jaind	dorthin	dorthin	dorthin-1
 1129	2923	THITHER (THERE TO)	jaindre	dorthin	dorthin	dorthin-2
 1130	1215	THOU	du	du	du	du-1
 1131	1215	THOU	þu	du	du	du-2
+1132	1215	THOU	izwizei	der du	der du	derdu-1
+1133	1215	THOU	þuei	der du	der du	derdu-2
 1134	2975	THOUGHT	gamitons	Gedanke	Gedanke	Gedanke-1
-1135	2975	THOUGHT	mitons	Gedanke; Überlegung	Gedanke	Gedanke-2
+1135	2975	THOUGHT	mitons	 Gedanke; Überlegung	 Gedanke	Gedanke-2
+1136	2975	THOUGHT	muns	Gedanke;  Meinung	Gedanke	Gedanke-3
 1137	1843	THOUSAND	þūsundi	tausend	tausend	tausend-1
+1138	1161	THREAD				
 1139	492	THREE	þreis*	drei	drei	drei-1
+1140	1346	THROAT				
 1141	97	THROUGH	þairh	durch	durch	durch-1
 1142	1456	THROW	wairpan	werfen	werfen	werfen-1
 1143	1150	THUNDER	þeiƕo	Donner	Donner	Donner-1
+1144	2378	THUNDER (VERB)				
+1145	1693	THURSDAY				
 1146	1917	TIE	ga-bindan	binden	binden	binden-1
+1147	2891	TIE UP (TETHER)				
+1148	892	TIME	aiws	Zeit;  Ewigkeit	Zeit	Zeit-1
+1149	892	TIME	alds	 Zeit; Menschenalter	 Zeit	Zeit-2
+1150	892	TIME	ƕeila	 Zeit; Weile;  Stunde	 Zeit	Zeit-3
+1151	892	TIME	mel	Zeit;  Stunde	Zeit	Zeit-4
 1152	892	TIME	þeihs	Zeit	Zeit	Zeit-5
+1153	2888	TINKLE				
+1154	2992	TIP (OF OBJECT)				
+1155	1283	TODAY				
+1156	1389	TOE				
 1157	2482	TOGETHER	samana	zusammen;  zugleich	zusammen	zusammen-1
-1158	2482	TOGETHER	samaþ	zusammen; nach einem und demselben Ort hin	zusammen	zusammen-2
+1158	2482	TOGETHER	samaþ	 zusammen; nach einem und demselben Ort hin	 zusammen	zusammen-2
 1159	1329	TOMORROW	gistradagis	morgen	morgen	morgen-1
+1160	2995	TONE (MUSIC)				
 1161	1205	TONGUE	tuggo	Zunge	Zunge	Zunge-1
 1162	1380	TOOTH	tunþus	Zahn	Zahn	Zahn-1
 1163	1892	TOUCH	at-tekan	berühren	berühren	beruhren-1
-1165	1391	TOWN	baurgs	Turm;  Burg;  Stadt	Stadt	Stadt-1
+1164	1021	TOWEL				
+1165	1391	TOWN	baurgs	Turm;  Burg;  Stadt	 Stadt	Stadt-1
 1166	1391	TOWN	haims*	Stadt	Stadt	Stadt-2
 1167	2906	TRANSLATE	ufar-leiþan	übersetzen	übersetzen	ubersetzen-1
+1168	1075	TRAP (PITFALL)				
 1169	906	TREE	bagms	Baum	Baum	Baum-1
+1170	344	TREE TRUNK	fadrein	Abkunft;  Geschlecht;  Stamm	 Stamm	Stamm-1
+1171	344	TREE TRUNK	kuni	Geschlecht;  Stamm	 Stamm	Stamm-2
+1172	809	TROUSERS				
 1173	1657	TRUE	sunjeins	wahr;  wahrhaft	wahr	wahr-1
 1174	1638	TRUTH	sunja	Wahrheit	Wahrheit	Wahrheit-1
 1175	1812	TRY	fraisan	versuchen	versuchen	versuchen-1
 1176	1812	TRY	us-fraisan	versuchen	versuchen	versuchen-2
 1177	2956	TUBE	raus	Rohr	Rohr	Rohr-1
+1178	1695	TUESDAY				
 1179	2894	TUMBLE (FALL DOWN)	ga-driusan	hinfallen	hinfallen	hinfallen-1
 1180	1445	TURN (SOMETHING)	wandjan	wenden	wenden	wenden-1
 1181	1445	TURN (SOMETHING)	ga-wandjan	wenden	wenden	wenden-2
 1182	1707	TWELVE	twalif	zwölf	zwölf	zwolf-1
+1183	1710	TWENTY				
 1184	3222	TWIG	tains	Zweig	Zweig	Zweig-1
+1185	2889	TWINKLE				
+1186	1498	TWO				
+1187	1327	UNCLE				
+1188	1536	UNDERSTAND				
+1189	1755	UNDRESS				
 1190	1591	UP	iup	aufwärts	aufwärts	aufwarts-1
+1191	471	UPPER LEG (THIGH)				
+1192	2881	URGE (SOMEONE)				
+1193	1924	VEIN				
 1194	1311	VERY	abraba	sehr	sehr	sehr-1
 1195	930	VILLAGE	weihs	heilig; Dorf;  Weiler	Dorf	Dorf-1
 1196	2976	VIOLENCE	waldufni	Gewalt;  Macht über	Gewalt	Gewalt-1
-1198	1377	VISIT	ga-weison	besorgen; heimsuchen;  besuchen	besuchen	besuchen-1
+1197	1868	VISIBLE				
+1198	1377	VISIT	ga-weison	 besorgen; heimsuchen;  besuchen	 besuchen	besuchen-1
 1199	1363	VOICE	stibna	Stimme	Stimme	Stimme-1
-1200	1590	WAIT (FOR)	wenjan	warten;  hoffen auf	warten	warten-1
+1200	1590	WAIT (FOR)	wenjan	warten;  hoffen auf 	warten	warten-1
 1201	1602	WAKE UP	ga-waknan	erwachen	erwachen	erwachen-1
+1202	3174	WAKE UP (SOMEONE)				
 1203	1443	WALK	gaggan	gehen	gehen	gehen-1
-1204	1443	WALK	rinnan	rennen;  laufen	laufen	laufen-1
+1204	1443	WALK	þragjan	laufen	laufen	laufen-2
 1205	2979	WALK (MANNER)	sinþs*	Gang	Gang	Gang-1
-1207	1784	WANT	munan	meinen;  glauben;  dafür halten; etw. zu tun gedenken;  wollen	wollen	wollen-1
+1206	2890	WALK (TAKE A WALK)				
+1207	1784	WANT	munan	meinen;  glauben;  dafür halten; etw. zu tun gedenken;  wollen	 wollen	wollen-1
 1208	1784	WANT	wiljan	wollen	wollen	wollen-2
+1209	935	WAR				
+1210	2957	WARE				
+1211	1232	WARM				
+1212	1453	WASH				
+1213	3371	WASH (ONESELF)				
+1214	1650	WATCH				
 1215	948	WATER	wato	Wasser	Wasser	Wasser-1
+1216	978	WAVE				
 1217	1212	WE	weis	wir	wir	wir-1
 1218	1601	WEAK	lasiws	schwach	schwach	schwach-1
-1219	1601	WEAK	siuks	schwach; krank	schwach	schwach-2
+1219	1601	WEAK	siuks	 schwach; krank	 schwach	schwach-2
+1220	1601	WEAK	unmahteigs	 schwach; ohnmächtig	 schwach	schwach-3
 1221	2996	WEALTH	gabei	Reichtum	Reichtum	Reichtum-1
+1222	952	WEATHER				
+1223	1694	WEDNESDAY				
+1224	1469	WEEK				
+1225	2466	WEIGHT				
 1226	954	WELL	brunna	Brunnen	Brunnen	Brunnen-1
-1227	1817	WEST	saggqa	Untergang;  Westen	Westen	Westen-1
-1229	1236	WHAT	ƕe	wem;  mit wem;  womit	womit	womit-1
+1227	1817	WEST	saggqa	Untergang;  Westen	 Westen	Westen-1
+1228	1726	WET				
+1229	1236	WHAT	ƕe	wem;  mit wem;  womit	 womit	womit-1
 1230	1237	WHERE	ƕar	wo	wo	wo-1
 1231	1237	WHERE	þarei	wo	wo	wo-2
+1232	1025	WHISTLE				
 1233	1335	WHITE	ƕeits	weiß	weiß	wei-1
-1234	1335	WHITE	lais	weiß	weiß	wei-2
+1234	1335	WHITE	lais	 weiß	 weiß	wei-2
 1235	2928	WHITHER (WHERE TO)	ƕad	wohin	wohin	wohin-1
+1236	2928	WHITHER (WHERE TO)	ƕadre	wohin	wohin	wohin-2
+1237	2928	WHITHER (WHERE TO)	ƕaþ	wohin	wohin	wohin-3
 1238	2928	WHITHER (WHERE TO)	þadei	wohin	wohin	wohin-4
 1239	1235	WHO	ƕarjis	wer	wer	wer-1
 1240	1235	WHO	ƕas	wer?	wer?	wer-2
+1241	1235	WHO	ƕe	wem;  mit wem;  womit	 mit wem	mitwem-1
+1242	1270	WHY				
 1243	1243	WIDE	braiþs	breit	breit	breit-1
+1244	1199	WIFE				
+1245	818	WILLOW				
+1246	866	WIN				
 1247	960	WIND	winds	Wind	Wind	Wind-1
 1248	1375	WINDOW	augadauro	Fenster	Fenster	Fenster-1
-1251	1454	WIPE	af-swairban	auslöschen; abwischen	abwischen	abwischen-1
+1249	1257	WING				
+1250	1471	WINTER				
+1251	1454	WIPE	af-swairban	 auslöschen; abwischen	abwischen	abwischen-1
 1252	1454	WIPE	bi-swairban	abwischen;  abtrocknen mit	abwischen	abwischen-2
 1253	522	WOLF	wulfs	Wolf	Wolf	Wolf-1
-1254	962	WOMAN	qino	femina;  Weib	Weib	Weib-1
+1254	962	WOMAN	qino	femina;  Weib	 Weib	Weib-1
 1255	1803	WOOD	triu	Holz;  Prügel	Holz	Holz-1
 1256	964	WOOL	wulla	Wolle	Wolle	Wolle-1
 1257	1599	WORD	waurd	Wort	Wort	Wort-1
 1258	1086	WORK (ACTIVITY)	arbaidjan	arbeiten;  dulden	arbeiten	arbeiten-1
-1259	984	WORK (LABOUR)	arbaiþs	Drangsal; Arbeit	Arbeit	Arbeit-1
+1259	984	WORK (LABOUR)	arbaiþs	 Drangsal; Arbeit	Arbeit	Arbeit-1
 1260	2977	WORKER	waurstwa	Arbeiter	Arbeiter	Arbeiter-1
 1261	2977	WORKER	waurstwja	Arbeiter	Arbeiter	Arbeiter-2
 1262	965	WORLD	fairƕus	Welt	Welt	Welt-1
 1263	965	WORLD	manaseþs	Welt;  Menschheit	Welt	Welt-2
 1264	1219	WORM	maþa	Wurm	Wurm	Wurm-1
 1265	1219	WORM	waurms	Wurm;  Schlange	Wurm	Wurm-2
-1266	1109	WOUND	banja*	Schlag;  Wunde	Wunde	Wunde-1
+1266	1109	WOUND	banja*	Schlag;  Wunde	 Wunde	Wunde-1
+1267	1113	WRAP				
 1268	1672	WRITE	meljan	schreiben	schreiben	schreiben-1
 1269	1672	WRITE	ga-meljan	schreiben	schreiben	schreiben-2
 1270	1226	YEAR	ataþni*	Jahr	Jahr	Jahr-1
 1271	1226	YEAR	jer	Jahr	Jahr	Jahr-2
+1272	1226	YEAR	wintrus	Jahr	Jahr	Jahr-3
+1273	1424	YELLOW				
+1274	1174	YESTERDAY				
 1275	1213	YOU	jūs	ihr	ihr	ihr-1
+1276	1213	YOU	*seins	 ihr; sein	 ihr	ihr-2
 1277	1207	YOUNG	juggs	jung;  jugendlich	jung	jung-1
